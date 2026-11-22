@@ -1,0 +1,55 @@
+[0;93m2026-11-22 09:42:29.059382915 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive the Coldest Town on Earth
+  audio 489.2s (8.15 min)
+  WIKI File:Frost indicator in Yakutia.jpg (CC BY 4.0)
+  segment 1/39 [title] 23.6s
+  segment 2/39 [map] 11.2s
+  segment 3/39 [map] 11.7s
+  segment 4/39 [card] 15.4s
+  segment 5/39 [card] 14.2s
+  segment 6/39 [card] 8.1s
+  segment 7/39 [card] 11.7s
+  WIKI File:Sentinel-2B Lena Pillars 2016 perspective 1.png (CC0)
+  segment 8/39 [image] 16.2s
+  segment 9/39 [card] 13.2s
+  segment 10/39 [question] 6.6s
+  segment 11/39 [card] 13.9s
+  segment 12/39 [card] 14.0s
+  segment 13/39 [card] 12.4s
+  segment 14/39 [card] 11.6s
+  segment 15/39 [card] 11.0s
+  segment 16/39 [card] 17.2s
+  segment 17/39 [card] 12.3s
+  segment 18/39 [card] 13.0s
+  segment 19/39 [card] 8.6s
+  WIKI File:Permafrost-core hg.jpg (CC BY 3.0)
+  segment 20/39 [image] 17.1s
+  segment 21/39 [card] 16.6s
+  segment 22/39 [card] 10.0s
+  segment 23/39 [card] 9.1s
+  segment 24/39 [card] 15.7s
+  segment 25/39 [question] 3.8s
+  WIKI File:Якутские лошади.jpg (CC BY 3.0)
+  segment 26/39 [image] 13.3s
+  segment 27/39 [card] 11.4s
+  segment 28/39 [card] 12.5s
+  WIKI File:R504 Kolyma in autumn.jpg (CC BY 4.0)
+  segment 29/39 [image] 14.7s
+  segment 30/39 [card] 7.5s
+  WIKI File:Port of Yakutsk at night (35273195092).jpg (CC BY 2.0)
+  segment 31/39 [image] 14.8s
+  segment 32/39 [card] 11.9s
+  WIKI File:Thawing permafrost at Chersky in the Russian Arctic (Copernicus).jpg (Attribution)
+  segment 33/39 [image] 14.4s
+  WIKI File:Ленские столбы 2017-06 360.jpg (CC0)
+  segment 34/39 [image] 14.4s
+  segment 35/39 [card] 11.8s
+  segment 36/39 [card] 9.3s
+  WIKI File:Frost indicator in Yakutia.jpg (CC BY 4.0)
+  segment 37/39 [image] 15.3s
+  segment 38/39 [question] 6.2s
+  WIKI File:Ленские столбы 2017-06 360.jpg (CC0)
+  segment 39/39 [end] 13.5s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-oymyakon.mp4 (39.5 MB, 8.15 min)
+  WIKI File:Frost indicator in Yakutia.jpg (CC BY 4.0)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-oymyakon.jpg

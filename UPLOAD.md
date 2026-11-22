@@ -1354,7 +1354,45 @@ Por encima de los 8,000 metros en el Everest está la zona de la muerte, donde h
 ## 42. Sat Jan 23, 11:00 AM · Long video
 **Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-oymyakon.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-oymyakon.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-oymyakon.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-oymyakon.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)
+```
+**Description** (copy):
+```text
+In Oymyakon, Siberia, winter temperatures regularly fall below -50°C and once hit -67.7°C. Around 500 people live there anyway. Here's what that cold does to your body, your car and your home, and how people survive it.
+
+Sources: Roshydromet, BBC, National Geographic.
+#Oymyakon #Siberia #Cold #EarthDecoded
+
+Chapters:
+0:00 The coldest town
+1:36 Why so cold?
+2:12 What the cold does to you
+3:15 Daily life at -50°C
+5:18 Built for the cold
+5:55 The Road of Bones
+6:44 A changing Arctic
+7:34 Could you survive?
+```
+**Tags** (copy):
+```text
+oymyakon, coldest town on earth, coldest place, siberia, yakutsk, why you'd never survive, extreme cold, road of bones, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en Oymyakón, el pueblo más frío de la Tierra (-67°C)
+```
+```text
+En Oymyakón, Siberia, la temperatura en invierno baja seguido de -50°C y una vez llegó a -67.7°C. Aun así viven unas 500 personas. Esto es lo que ese frío le hace a tu cuerpo, tu auto y tu casa, y cómo sobrevive la gente.
+#Oymyakon #Siberia
+```
+</details>
 
 ## 43. Sat Jan 30, 11:00 AM · Long video
 **Why You'd Never Survive the Atacama, the Driest Desert on Earth**
