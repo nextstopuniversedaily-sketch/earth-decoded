@@ -1158,7 +1158,33 @@ Socotra, frente a la costa de Yemen, ha estado aislada por millones de años. Ce
 ## 36. Thu Dec 24, 12:00 PM · Short
 **The World's Biggest Pyramid Is in Mexico, Not Egypt 🇲🇽🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s032.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s032.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s032.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s032.es.srt)
+
+**Title** (copy):
+```text
+The World's Biggest Pyramid Is in Mexico, Not Egypt 🇲🇽🤯 #shorts
+```
+**Description** (copy):
+```text
+The Great Pyramid of Cholula in Puebla, Mexico, is the largest pyramid on Earth by volume, almost twice the Great Pyramid of Giza. It's so overgrown that the Spanish built a church on top thinking it was a hill.
+#Cholula #Mexico #Pyramid #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+cholula, great pyramid of cholula, biggest pyramid, mexico, puebla, pyramids, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+La pirámide más grande del mundo está en México, no en Egipto 🇲🇽🤯 #shorts
+```
+```text
+La Gran Pirámide de Cholula, en Puebla, México, es la pirámide más grande de la Tierra por volumen, casi el doble que la Gran Pirámide de Guiza. Está tan cubierta que los españoles construyeron una iglesia encima creyendo que era un cerro.
+#Cholula #Mexico #shorts
+```
+</details>
 
 ## 37. Fri Dec 25, 12:00 PM · Short
 **The Country That Sees the New Year First 🎆🌏 #shorts**
