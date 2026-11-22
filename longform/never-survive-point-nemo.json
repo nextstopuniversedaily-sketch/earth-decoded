@@ -30,7 +30,10 @@
   "query": "huge ocean waves storm",
   "white": "2,700 KM",
   "accent": "FROM LAND",
-  "badge": "NOBODY CAN REACH YOU"
+  "badge": "NOBODY CAN REACH YOU",
+  "files": [
+   "View from the bow of Fugro Discovery in the southern Indian Ocean (4).jpg"
+  ]
  },
  "segments": [
   {
@@ -42,7 +45,10 @@
     "commons": [
      "Pacific Ocean storm waves"
     ],
-    "query": "open ocean waves"
+    "query": "open ocean waves",
+    "files": [
+     "View from the bow of Fugro Discovery in the southern Indian Ocean (4).jpg"
+    ]
    }
   },
   {
@@ -205,7 +211,10 @@
     "wiki": [
      "Atmospheric entry"
     ],
-    "query": "spacecraft reentry fireball"
+    "query": "spacecraft reentry fireball",
+    "files": [
+     "Progress M-10M reentry plasma trail.jpg"
+    ]
    }
   },
   {
@@ -216,7 +225,10 @@
     "commons": [
      "ATV-1 Jules Verne reentry"
     ],
-    "query": "spacecraft reentry"
+    "query": "spacecraft reentry",
+    "files": [
+     "ISS-36 HTV-4 reentry.jpg"
+    ]
    }
   },
   {
@@ -228,7 +240,10 @@
     "wiki": [
      "Mir"
     ],
-    "query": "Mir space station"
+    "query": "Mir space station",
+    "files": [
+     "Mir on 12 June 1998edit1.jpg"
+    ]
    }
   },
   {
@@ -251,7 +266,10 @@
     "commons": [
      "life raft ocean"
     ],
-    "query": "life raft ocean"
+    "query": "life raft ocean",
+    "files": [
+     "Life raft.jpg"
+    ]
    }
   },
   {
@@ -296,7 +314,10 @@
     "commons": [
      "Southern Ocean waves"
     ],
-    "query": "Southern Ocean giant waves"
+    "query": "Southern Ocean giant waves",
+    "files": [
+     "View from the bow of the Fugro Discovery in the southern Indian Ocean (1).jpg"
+    ]
    }
   },
   {
@@ -308,7 +329,10 @@
     "commons": [
      "sailing yacht Southern Ocean race"
     ],
-    "query": "ocean racing yacht big waves"
+    "query": "ocean racing yacht big waves",
+    "files": [
+     "View from the bow of the Fugro Discovery in the southern Indian Ocean (2).jpg"
+    ]
    }
   },
   {
@@ -360,7 +384,10 @@
     "commons": [
      "clear blue open ocean water"
     ],
-    "query": "deep blue ocean water"
+    "query": "deep blue ocean water",
+    "files": [
+     "ISS034E016601 - Stratocumulus Clouds - Pacific Ocean.jpg"
+    ]
    }
   },
   {
@@ -371,7 +398,10 @@
     "wiki": [
      "Hydrothermal vent"
     ],
-    "query": "hydrothermal vent deep sea"
+    "query": "hydrothermal vent deep sea",
+    "files": [
+     "Active hydrothermal vent- El Gordo (OOI 234).jpg"
+    ]
    }
   },
   {
@@ -390,11 +420,10 @@
    "es": "Incluso aquí, los humanos han dejado huella. En 2018, navegantes de una regata alrededor del mundo tomaron muestras de agua cerca del Punto Nemo y encontraron pequeños pedazos de plástico. Ni siquiera el lugar más solitario de la Tierra está intacto.",
    "headline": "PLASTIC, EVEN HERE",
    "visual": {
-    "type": "image",
-    "commons": [
-     "microplastics sample"
-    ],
-    "query": "microplastic ocean"
+    "type": "card",
+    "big": "PLASTIC",
+    "label": "found near Point Nemo (2018)",
+    "sub": "even the loneliest place isn't untouched"
    }
   },
   {
@@ -417,7 +446,10 @@
     "commons": [
      "emergency position indicating radio beacon"
     ],
-    "query": "emergency beacon rescue"
+    "query": "emergency beacon rescue",
+    "files": [
+     "C-130 DROPPING LIFE RAFT DVIDS1078559.jpg"
+    ]
    }
   },
   {
@@ -451,7 +483,10 @@
     "commons": [
      "Pacific Ocean sunset open sea"
     ],
-    "query": "ocean horizon sunset"
+    "query": "ocean horizon sunset",
+    "files": [
+     "Low pressure center over the northeast Pacific Ocean (2268-409).jpg"
+    ]
    }
   },
   {
@@ -499,7 +534,10 @@
    "visual": {
     "type": "end",
     "big": "THANKS FOR WATCHING",
-    "query": "ocean sunset"
+    "query": "ocean sunset",
+    "files": [
+     "View from the bow of Fugro Discovery in the southern Indian Ocean (4).jpg"
+    ]
    }
   }
  ]

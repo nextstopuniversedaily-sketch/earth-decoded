@@ -30,7 +30,10 @@
   "query": "Dallol Ethiopia colorful",
   "white": "ACID POOLS",
   "accent": "& 50°C",
-  "badge": "HOTTEST PLACE PEOPLE LIVE"
+  "badge": "HOTTEST PLACE PEOPLE LIVE",
+  "files": [
+   "Dallol-2001.jpg"
+  ]
  },
  "segments": [
   {
@@ -42,7 +45,10 @@
     "wiki": [
      "Dallol (hydrothermal system)"
     ],
-    "query": "Dallol"
+    "query": "Dallol",
+    "files": [
+     "Dallol-2001.jpg"
+    ]
    }
   },
   {
@@ -122,7 +128,10 @@
     "commons": [
      "Danakil salt flats Lake Assale"
     ],
-    "query": "Danakil salt flat"
+    "query": "Danakil salt flat",
+    "files": [
+     "Earth from Space- The Danakil Depression ESA514744.jpg"
+    ]
    }
   },
   {
@@ -157,7 +166,10 @@
     "commons": [
      "Danakil Depression desert heat"
     ],
-    "query": "Danakil desert"
+    "query": "Danakil desert",
+    "files": [
+     "Sunset in Afar region, Ethiopia (16960289468).jpg"
+    ]
    }
   },
   {
@@ -169,7 +181,10 @@
     "commons": [
      "Danakil Depression night"
     ],
-    "query": "Danakil desert night"
+    "query": "Danakil desert night",
+    "files": [
+     "Afar Triangle's Lake Afrera.jpg"
+    ]
    }
   },
   {
@@ -202,7 +217,10 @@
     "wiki": [
      "Dallol (hydrothermal system)"
     ],
-    "query": "Dallol hydrothermal field"
+    "query": "Dallol hydrothermal field",
+    "files": [
+     "Dallol-2001.jpg"
+    ]
    }
   },
   {
@@ -224,7 +242,10 @@
     "commons": [
      "Dallol acid pool Ethiopia"
     ],
-    "query": "Dallol acid pool"
+    "query": "Dallol acid pool",
+    "files": [
+     "Ethiopia Dallol GuideStanding.JPG"
+    ]
    }
   },
   {
@@ -247,7 +268,10 @@
     "commons": [
      "Dallol ruins salt buildings"
     ],
-    "query": "Dallol ruins"
+    "query": "Dallol ruins",
+    "files": [
+     "Afar Depression (ASTER).jpg"
+    ]
    }
   },
   {
@@ -283,7 +307,10 @@
     "commons": [
      "Dallol sulfur Ethiopia"
     ],
-    "query": "Dallol sulfur"
+    "query": "Dallol sulfur",
+    "files": [
+     "ISS022-E-9086 - View of Ethiopia.jpg"
+    ]
    }
   },
   {
@@ -316,7 +343,10 @@
     "wiki": [
      "Erta Ale"
     ],
-    "query": "Erta Ale lava lake"
+    "query": "Erta Ale lava lake",
+    "files": [
+     "Erta-ale lac-de-lave 2001.jpg"
+    ]
    }
   },
   {
@@ -339,7 +369,10 @@
     "commons": [
      "Erta Ale crater rim"
     ],
-    "query": "Erta Ale crater"
+    "query": "Erta Ale crater",
+    "files": [
+     "Erta Ale (6900576021).jpg"
+    ]
    }
   },
   {
@@ -350,7 +383,10 @@
     "commons": [
      "Erta Ale lava"
     ],
-    "query": "Erta Ale volcano night"
+    "query": "Erta Ale volcano night",
+    "files": [
+     "Erta Ale 491.jpg"
+    ]
    }
   },
   {
@@ -359,11 +395,10 @@
    "es": "Y aun así, aquí vive y trabaja gente. El pueblo afar ha vivido en esta región durante siglos. Algunos trabajan como mineros de sal en las salinas cerca del lago Assale.",
    "headline": "THE AFAR PEOPLE",
    "visual": {
-    "type": "image",
-    "commons": [
-     "Afar salt miners Danakil"
-    ],
-    "query": "Danakil salt miners camels"
+    "type": "card",
+    "big": "THE AFAR PEOPLE",
+    "label": "have lived here for centuries",
+    "sub": "some work as salt miners"
    }
   },
   {
@@ -371,11 +406,10 @@
    "es": "Levantan la costra de sal con palos y hachas y la cortan a mano en bloques ordenados, con ese mismo calor brutal. Luego caravanas de camellos sacan los bloques de la depresión, una tradición de cientos de años.",
    "headline": "CAMEL CARAVANS",
    "visual": {
-    "type": "image",
-    "commons": [
-     "camel caravan salt Danakil"
-    ],
-    "query": "salt caravan camels Ethiopia"
+    "type": "card",
+    "big": "SALT BY HAND",
+    "label": "cut into blocks in the heat",
+    "sub": "carried out by camel caravans"
    }
   },
   {
@@ -408,7 +442,10 @@
     "wiki": [
      "Lucy (Australopithecus)"
     ],
-    "query": "Lucy fossil skeleton"
+    "query": "Lucy fossil skeleton",
+    "files": [
+     "Lucy (30826226995).jpg"
+    ]
    }
   },
   {
@@ -421,7 +458,10 @@
     "wiki": [
      "Danakil Depression"
     ],
-    "query": "Danakil Depression landscape"
+    "query": "Danakil Depression landscape",
+    "files": [
+     "Danakil Depression, Ethiopia (50082066913).png"
+    ]
    }
   },
   {
@@ -432,7 +472,10 @@
     "wiki": [
      "Dallol (hydrothermal system)"
     ],
-    "query": "Dallol colors"
+    "query": "Dallol colors",
+    "files": [
+     "Dallol-2001.jpg"
+    ]
    }
   },
   {
@@ -451,7 +494,10 @@
    "visual": {
     "type": "end",
     "big": "THANKS FOR WATCHING",
-    "query": "desert sunset"
+    "query": "desert sunset",
+    "files": [
+     "Sunset in Afar region, Ethiopia (16960289468).jpg"
+    ]
    }
   }
  ]

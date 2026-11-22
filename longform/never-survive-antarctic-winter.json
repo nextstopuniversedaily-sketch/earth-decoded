@@ -33,7 +33,10 @@
   "query": "Antarctica night",
   "white": "-89°C",
   "accent": "6 MONTHS DARK",
-  "badge": "NO WAY OUT"
+  "badge": "NO WAY OUT",
+  "files": [
+   "Amundsen-Scott marsstation ray h edit.jpg"
+  ]
  },
  "segments": [
   {
@@ -345,7 +348,10 @@
     "commons": [
      "South Pole greenhouse"
     ],
-    "query": "greenhouse lights"
+    "query": "greenhouse lights",
+    "files": [
+     "Scott's last expedition - Midwinter Day, 1912 - the officers .jpg"
+    ]
    }
   },
   {
@@ -357,7 +363,10 @@
     "wiki": [
      "IceCube Neutrino Observatory"
     ],
-    "query": "IceCube observatory"
+    "query": "IceCube observatory",
+    "files": [
+     "Amundsen-Scott marsstation ray h edit.jpg"
+    ]
    }
   },
   {
@@ -464,7 +473,10 @@
     "commons": [
      "Antarctica storm night"
     ],
-    "query": "Antarctica"
+    "query": "Antarctica",
+    "files": [
+     "2018Oct14-Basler-Pole-close-HR.jpg"
+    ]
    }
   },
   {
@@ -476,7 +488,10 @@
     "commons": [
      "Antarctica sunrise"
     ],
-    "query": "Antarctica sunrise"
+    "query": "Antarctica sunrise",
+    "files": [
+     "Released to Public South Pole Sunrise By Calee Allen (NASA NSF) (2906446244).jpg"
+    ]
    }
   },
   {

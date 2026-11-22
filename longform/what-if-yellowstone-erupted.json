@@ -30,7 +30,10 @@
   "query": "Yellowstone Grand Prismatic",
   "white": "IF THIS",
   "accent": "EXPLODES..",
-  "badge": "SUPERVOLCANO"
+  "badge": "SUPERVOLCANO",
+  "files": [
+   "Grand Prismatic Spring (121040).jpg"
+  ]
  },
  "segments": [
   {
@@ -42,7 +45,10 @@
     "wiki": [
      "Grand Prismatic Spring"
     ],
-    "query": "Yellowstone"
+    "query": "Yellowstone",
+    "files": [
+     "Grand Prismatic Spring (121040).jpg"
+    ]
    }
   },
   {
@@ -77,7 +83,10 @@
     "wiki": [
      "Old Faithful"
     ],
-    "query": "Old Faithful geyser"
+    "query": "Old Faithful geyser",
+    "files": [
+     "Old Faithful Geyser Yellowstone National Park.jpg"
+    ]
    }
   },
   {
@@ -99,7 +108,10 @@
     "wiki": [
      "Grand Prismatic Spring"
     ],
-    "query": "Grand Prismatic Spring aerial"
+    "query": "Grand Prismatic Spring aerial",
+    "files": [
+     "Grand Prismatic Spring 2013.jpg"
+    ]
    }
   },
   {
@@ -118,11 +130,21 @@
    "es": "El calor viene de un punto caliente, una columna de roca caliente que sube desde lo profundo de la Tierra, lo mismo que construyó Hawái. Al deslizarse la placa norteamericana encima, el punto caliente ha dejado un rastro de volcanes antiguos a través de Idaho.",
    "headline": "THE HOTSPOT",
    "visual": {
-    "type": "image",
-    "commons": [
-     "Yellowstone hotspot track Snake River Plain"
+    "type": "map",
+    "extent": [
+     -121,
+     -104,
+     40,
+     48
     ],
-    "query": "Snake River Plain"
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -110.6,
+     44.6
+    ],
+    "label": "Yellowstone hotspot"
    }
   },
   {
@@ -156,7 +178,10 @@
     "wiki": [
      "1980 eruption of Mount St. Helens"
     ],
-    "query": "Mount St Helens 1980 eruption"
+    "query": "Mount St Helens 1980 eruption",
+    "files": [
+     "MSH80 eruption mount st helens plume 05-18-80.jpg"
+    ]
    }
   },
   {
@@ -178,7 +203,10 @@
     "wiki": [
      "Lake Taupō"
     ],
-    "query": "Lake Taupo New Zealand"
+    "query": "Lake Taupo New Zealand",
+    "files": [
+     "Lake Taupo and Waikato River aerial view.jpg"
+    ]
    }
   },
   {
@@ -190,7 +218,10 @@
     "commons": [
      "Yellowstone Caldera from space"
     ],
-    "query": "Yellowstone from space"
+    "query": "Yellowstone from space",
+    "files": [
+     "Yellowstone Caldera map2.jpg"
+    ]
    }
   },
   {
@@ -213,7 +244,10 @@
     "commons": [
      "Yellowstone steam vents"
     ],
-    "query": "Yellowstone steam"
+    "query": "Yellowstone steam",
+    "files": [
+     "Heinrich Berann NPS Panorama of Yellowstone without labels.jpg"
+    ]
    }
   },
   {
@@ -225,7 +259,10 @@
     "commons": [
      "pyroclastic flow Mount St Helens"
     ],
-    "query": "volcanic eruption ash column"
+    "query": "volcanic eruption ash column",
+    "files": [
+     "MSH80 eruption mount st helens 05-18-80-dramatic-edit.jpg"
+    ]
    }
   },
   {
@@ -270,7 +307,10 @@
     "commons": [
      "volcanic ash microscope"
     ],
-    "query": "volcanic ash"
+    "query": "volcanic ash",
+    "files": [
+     "Mt st helens ash in Columbia Basin after 1980 eruption.jpg"
+    ]
    }
   },
   {
@@ -293,7 +333,10 @@
     "wiki": [
      "2010 eruptions of Eyjafjallajökull"
     ],
-    "query": "Eyjafjallajokull eruption"
+    "query": "Eyjafjallajokull eruption",
+    "files": [
+     "Eyjafjallajokull volcano plume 2010 04 17.jpg"
+    ]
    }
   },
   {
@@ -306,7 +349,10 @@
     "commons": [
      "volcanic aerosol sunset"
     ],
-    "query": "volcanic haze sky"
+    "query": "volcanic haze sky",
+    "files": [
+     "Eruption of Eyjafjallajökull Volcano, Iceland 2010-05-11 lrg.jpg"
+    ]
    }
   },
   {
@@ -350,7 +396,10 @@
     "commons": [
      "USGS Yellowstone monitoring station"
     ],
-    "query": "volcano monitoring"
+    "query": "volcano monitoring",
+    "files": [
+     "Subsurface survey helicopter flies over Biscuit Basin (31081878206).jpg"
+    ]
    }
   },
   {
@@ -406,7 +455,10 @@
     "commons": [
      "Biscuit Basin hydrothermal explosion"
     ],
-    "query": "Yellowstone hot spring"
+    "query": "Yellowstone hot spring",
+    "files": [
+     "Hydrothermal explosion at Biscuit Basin.jpg"
+    ]
    }
   },
   {
@@ -439,7 +491,10 @@
     "wiki": [
      "Grand Prismatic Spring"
     ],
-    "query": "Yellowstone boardwalk"
+    "query": "Yellowstone boardwalk",
+    "files": [
+     "People explore the boardwalks at Grand Prismatic Spring (54642491836).jpg"
+    ]
    }
   },
   {
@@ -452,7 +507,10 @@
     "wiki": [
      "Grand Canyon of the Yellowstone"
     ],
-    "query": "Yellowstone canyon"
+    "query": "Yellowstone canyon",
+    "files": [
+     "Grand Canyon of the Yellowstone River (Yellowstone, Wyoming, USA) 37 (47682272191).jpg"
+    ]
    }
   },
   {
@@ -463,7 +521,10 @@
     "commons": [
      "Morning Glory Pool"
     ],
-    "query": "Yellowstone hot spring colors"
+    "query": "Yellowstone hot spring colors",
+    "files": [
+     "Edge of the Grand Prismatic Spring (50585466861).jpg"
+    ]
    }
   },
   {
@@ -482,7 +543,10 @@
    "visual": {
     "type": "end",
     "big": "THANKS FOR WATCHING",
-    "query": "Yellowstone sunset"
+    "query": "Yellowstone sunset",
+    "files": [
+     "Grand Prismatic Spring (5 June 2013) 50 (14484787602).jpg"
+    ]
    }
   }
  ]
