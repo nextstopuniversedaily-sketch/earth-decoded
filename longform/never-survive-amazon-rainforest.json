@@ -1,0 +1,440 @@
+{
+ "slug": "never-survive-amazon-rainforest",
+ "publish": "2027-02-13 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive the Amazon Rainforest",
+ "screen_title": "Why You'd Never Survive the Amazon Rainforest",
+ "subtitle": "Lost in the jungle",
+ "yt_title": "Why You'd Never Survive Being Lost in the Amazon Rainforest",
+ "yt_title_es": "Por qué nunca sobrevivirías perdido en la selva del Amazonas",
+ "description": "The Amazon is the largest rainforest on Earth, home to around 390 billion trees and a tenth of all known species. Getting lost there is one of the hardest survival tests imaginable. Here's what you'd face, and the incredible true stories of people who made it out.\n\nSources: WWF, National Geographic, Smithsonian, news reports.\n#Amazon #Rainforest #Survival #EarthDecoded",
+ "description_es": "El Amazonas es la selva tropical más grande de la Tierra, con unos 390 mil millones de árboles y una décima parte de todas las especies conocidas. Perderse ahí es una de las pruebas de supervivencia más duras. Esto es lo que enfrentarías, y las increíbles historias reales de quienes lograron salir.\n#Amazonas #Selva",
+ "tags": [
+  "amazon rainforest",
+  "why you'd never survive",
+  "lost in the jungle",
+  "jungle survival",
+  "juliane koepcke",
+  "colombia children amazon",
+  "bullet ant",
+  "rainforest documentary",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Amazon rainforest treetops in Tena, Ecuador.jpg"
+  ],
+  "query": "Amazon rainforest",
+  "white": "LOST IN",
+  "accent": "THE AMAZON",
+  "badge": "390 BILLION TREES"
+ },
+ "segments": [
+  {
+   "chapter": "Lost in the green",
+   "text": "Imagine waking up alone in the Amazon. Trees taller than buildings block out the sky. The air is hot and wet. Every direction looks the same. Somewhere nearby, something is moving in the leaves. You have no map, no phone signal and no idea which way to go. Could you get out alive? Today, we'll find out, with the help of some incredible true stories.",
+   "es": "Imagina despertar solo en el Amazonas. Árboles más altos que edificios tapan el cielo. El aire es caliente y húmedo. Todas las direcciones se ven iguales. Cerca, algo se mueve entre las hojas. No tienes mapa, ni señal, ni idea de a dónde ir. ¿Podrías salir con vida? Hoy lo averiguaremos, con la ayuda de algunas historias reales increíbles.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Amazon rainforest treetops in Tena, Ecuador.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're getting lost in the biggest rainforest on Earth.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, nos perdemos en la selva tropical más grande de la Tierra.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -82,
+     -42,
+     -20,
+     10
+    ],
+    "highlight": [
+     "Brazil",
+     "Peru",
+     "Colombia",
+     "Bolivia",
+     "Ecuador",
+     "Venezuela"
+    ],
+    "marker": [
+     -62,
+     -4
+    ],
+    "label": "Amazon"
+   }
+  },
+  {
+   "chapter": "A world of trees",
+   "text": "The Amazon rainforest covers about five and a half million square kilometers across nine countries, with most of it in Brazil. It's the largest rainforest on the planet.",
+   "es": "La selva amazónica cubre unos cinco millones y medio de kilómetros cuadrados en nueve países, la mayor parte en Brasil. Es la selva tropical más grande del planeta.",
+   "headline": "THE BIGGEST RAINFOREST",
+   "visual": {
+    "type": "card",
+    "big": "5.5 MILLION KM²",
+    "label": "of rainforest",
+    "sub": "across nine countries"
+   }
+  },
+  {
+   "text": "Scientists estimate it has around three hundred ninety billion trees, from about sixteen thousand different species.",
+   "es": "Los científicos estiman que tiene unos trescientos noventa mil millones de árboles, de unas dieciséis mil especies diferentes.",
+   "headline": "390 BILLION TREES",
+   "visual": {
+    "type": "card",
+    "big": "390 BILLION",
+    "label": "trees",
+    "sub": "about 16,000 species"
+   }
+  },
+  {
+   "text": "About one in ten known species on Earth lives in the Amazon: jaguars, pink river dolphins, sloths, giant otters, thousands of birds and millions of insects.",
+   "es": "Cerca de una de cada diez especies conocidas de la Tierra vive en el Amazonas: jaguares, delfines rosados, perezosos, nutrias gigantes, miles de aves y millones de insectos.",
+   "headline": "1 IN 10 SPECIES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Harpy Eagle (Harpia harpyja).jpg"
+    ]
+   }
+  },
+  {
+   "text": "The forest has layers, like floors in a building. The emergent trees poke out on top, then the thick canopy, then the dark understory, and finally the forest floor. Most of the life is high up in the canopy, not where you'd be walking.",
+   "es": "La selva tiene capas, como los pisos de un edificio. Arriba sobresalen los árboles emergentes, luego el denso dosel, después el oscuro sotobosque y por último el suelo. La mayor parte de la vida está arriba, en el dosel, no donde tú caminarías.",
+   "headline": "A FOREST WITH FLOORS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Amazon rainforest treetops in Tena, Ecuador.jpg"
+    ]
+   }
+  },
+  {
+   "text": "It's often called the lungs of the planet. In reality, the forest uses most of the oxygen it makes. But it stores enormous amounts of carbon and helps create rain far beyond the forest itself.",
+   "es": "A menudo se le llama los pulmones del planeta. En realidad, el bosque usa la mayor parte del oxígeno que produce. Pero guarda enormes cantidades de carbono y ayuda a crear lluvia mucho más allá de la propia selva.",
+   "headline": "MORE THAN LUNGS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Afternoon Clouds over the Amazon Rainforest.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Quick question. Would you rather be lost in the jungle or in the desert? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Preferirías perderte en la selva o en el desierto? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Jungle or desert?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Problem one: lost",
+   "text": "So why would you struggle to survive? Problem one: getting lost. Under the canopy, only about two percent of the sunlight reaches the ground. You often can't see the sun, the horizon, or anything more than a few meters away.",
+   "es": "¿Por qué te costaría sobrevivir? Problema uno: perderte. Bajo el dosel, solo cerca del dos por ciento de la luz del sol llega al suelo. A menudo no ves el sol, el horizonte ni nada a más de unos metros.",
+   "headline": "EVERYTHING LOOKS THE SAME",
+   "visual": {
+    "type": "card",
+    "big": "2%",
+    "label": "of sunlight reaches the floor",
+    "sub": "you can't see where you're going"
+   }
+  },
+  {
+   "text": "People lost in the jungle often walk in circles without realizing it. A few hundred meters from a path can be enough to never find it again.",
+   "es": "Las personas perdidas en la selva a menudo caminan en círculos sin darse cuenta. Unos cientos de metros fuera de un sendero pueden bastar para no volver a encontrarlo.",
+   "headline": "WALKING IN CIRCLES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Amazon rainforest, Brazil - 2026.jpg",
+     "Tefe-Amazon-Rainforest (cropped).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Night falls fast near the equator, around six in the evening all year. Under the trees, the darkness is total, and the forest fills with the sounds of frogs, insects and animals you can't see.",
+   "es": "Cerca del ecuador la noche cae rápido, alrededor de las seis de la tarde todo el año. Bajo los árboles, la oscuridad es total, y la selva se llena de sonidos de ranas, insectos y animales que no puedes ver.",
+   "headline": "TOTAL DARKNESS",
+   "visual": {
+    "type": "card",
+    "big": "6 PM",
+    "label": "darkness, all year round",
+    "sub": "near the equator, nights are long"
+   }
+  },
+  {
+   "chapter": "Problem two: the climate",
+   "text": "Problem two: the heat and humidity. Temperatures stay around thirty degrees, and the air is so wet that your sweat can't evaporate well, so your body struggles to cool down. Clothes never dry. Cuts get infected fast.",
+   "es": "Problema dos: el calor y la humedad. La temperatura ronda los treinta grados, y el aire está tan húmedo que tu sudor no se evapora bien, así que tu cuerpo apenas se enfría. La ropa nunca se seca. Las heridas se infectan rápido.",
+   "headline": "HEAT AND HUMIDITY",
+   "visual": {
+    "type": "card",
+    "big": "100% HUMID",
+    "label": "sweat can't cool you",
+    "sub": "cuts get infected fast"
+   }
+  },
+  {
+   "text": "And it rains a lot, often two to three meters a year. Storms can flood rivers and trails within hours.",
+   "es": "Y llueve mucho, a menudo de dos a tres metros al año. Las tormentas pueden inundar ríos y senderos en horas.",
+   "visual": {
+    "type": "card",
+    "big": "2–3 METERS",
+    "label": "of rain a year",
+    "sub": "rivers can rise in hours"
+   }
+  },
+  {
+   "chapter": "Problem three: water and food",
+   "text": "Problem three: water. It sounds strange, because there's water everywhere. But river and puddle water can carry parasites and bacteria. Drinking it untreated can make you seriously ill.",
+   "es": "Problema tres: el agua. Suena raro, porque hay agua por todas partes. Pero el agua de ríos y charcos puede tener parásitos y bacterias. Beberla sin tratar puede enfermarte gravemente.",
+   "headline": "WATER EVERYWHERE",
+   "visual": {
+    "type": "card",
+    "big": "UNSAFE WATER",
+    "label": "everywhere around you",
+    "sub": "parasites and bacteria"
+   }
+  },
+  {
+   "text": "And food is hard to find. Many fruits and plants are toxic, and most animals are hidden high in the canopy, far out of reach.",
+   "es": "Y la comida es difícil de encontrar. Muchas frutas y plantas son tóxicas, y la mayoría de los animales se esconden en lo alto del dosel, fuera de tu alcance.",
+   "headline": "HIDDEN FOOD",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Brazil nut tree in the rainforest.jpg"
+    ]
+   }
+  },
+  {
+   "text": "At the same time, the rainforest is a pharmacy. Many medicines have roots in rainforest plants, like quinine, which came from the bark of the cinchona tree and was used to fight malaria for centuries.",
+   "es": "Al mismo tiempo, la selva es una farmacia. Muchos medicamentos tienen origen en plantas de la selva, como la quinina, que venía de la corteza del árbol de la quina y se usó contra la malaria por siglos.",
+   "visual": {
+    "type": "card",
+    "big": "QUININE",
+    "label": "from cinchona bark",
+    "sub": "a rainforest medicine against malaria"
+   }
+  },
+  {
+   "chapter": "Problem four: the wildlife",
+   "text": "Problem four: the small things. Mosquitoes can carry malaria, dengue and yellow fever. For most people lost in the jungle, insects and disease are far more dangerous than big animals.",
+   "es": "Problema cuatro: lo pequeño. Los mosquitos pueden transmitir malaria, dengue y fiebre amarilla. Para la mayoría de las personas perdidas en la selva, los insectos y las enfermedades son mucho más peligrosos que los animales grandes.",
+   "headline": "THE REAL KILLERS",
+   "visual": {
+    "type": "card",
+    "big": "MALARIA",
+    "label": "dengue, yellow fever",
+    "sub": "insects are the real danger"
+   }
+  },
+  {
+   "text": "Then there's the bullet ant, named because its sting is said to feel like being shot. It's often ranked as the most painful insect sting in the world, and the pain can last for hours.",
+   "es": "Luego está la hormiga bala, llamada así porque su picadura se siente como un balazo. Se le suele considerar la picadura de insecto más dolorosa del mundo, y el dolor puede durar horas.",
+   "headline": "THE BULLET ANT",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Paraponera clavata in La Selva.jpg",
+     "Paraponera clavata (14336838450).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Some poison frogs, with their bright colors, warn predators not to eat them. Their skin contains toxins, so it's best not to touch them.",
+   "es": "Algunas ranas venenosas, con sus colores brillantes, advierten a los depredadores que no se las coman. Su piel contiene toxinas, así que es mejor no tocarlas.",
+   "headline": "POISON FROGS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Poison Dart Frog (Dendrobates azureus).jpg"
+    ]
+   }
+  },
+  {
+   "text": "In the rivers live black caimans, piranhas and electric eels that can deliver shocks of several hundred volts. And the green anaconda, the heaviest snake in the world, can weigh around a hundred kilos.",
+   "es": "En los ríos viven caimanes negros, pirañas y anguilas eléctricas que pueden dar descargas de varios cientos de voltios. Y la anaconda verde, la serpiente más pesada del mundo, puede pesar alrededor de cien kilos.",
+   "headline": "IN THE RIVERS",
+   "visual": {
+    "type": "card",
+    "big": "100 KG",
+    "label": "green anaconda",
+    "sub": "the heaviest snake on Earth"
+   }
+  },
+  {
+   "text": "Jaguars live here too, but they almost always avoid people. Being attacked is far less likely than getting sick or lost.",
+   "es": "Aquí también viven jaguares, pero casi siempre evitan a las personas. Que te ataquen es mucho menos probable que enfermarte o perderte.",
+   "visual": {
+    "type": "card",
+    "big": "JAGUARS",
+    "label": "usually avoid humans",
+    "sub": "a rare danger, not a common one"
+   }
+  },
+  {
+   "text": "Which Amazon animal scares you most? Tell me in the comments.",
+   "es": "¿Qué animal del Amazonas te da más miedo? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which animal scares you most?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "True survival stories",
+   "text": "Now, the true stories. On Christmas Eve, 1971, a plane flying over the Peruvian Amazon was hit by lightning and broke apart in the air. Seventeen-year-old Juliane Koepcke fell about three kilometers, still strapped to her seat.",
+   "es": "Ahora, las historias reales. En Nochebuena de 1971, un avión que volaba sobre la Amazonía peruana fue alcanzado por un rayo y se rompió en el aire. Juliane Koepcke, de diecisiete años, cayó unos tres kilómetros, todavía atada a su asiento.",
+   "headline": "SHE FELL FROM THE SKY",
+   "visual": {
+    "type": "card",
+    "big": "1971",
+    "label": "LANSA Flight 508",
+    "sub": "Juliane Koepcke falls 3 km"
+   }
+  },
+  {
+   "text": "Incredibly, she survived with a broken collarbone and cuts. She was the only survivor. Her father, a biologist, had taught her one rule: if you're lost, find water and follow it downstream, because streams lead to rivers, and rivers lead to people.",
+   "es": "Increíblemente, sobrevivió con una clavícula rota y heridas. Fue la única sobreviviente. Su padre, biólogo, le había enseñado una regla: si te pierdes, busca agua y síguela río abajo, porque los arroyos llevan a ríos, y los ríos llevan a la gente.",
+   "headline": "THE RULE",
+   "visual": {
+    "type": "card",
+    "big": "FOLLOW THE WATER",
+    "label": "downstream",
+    "sub": "streams lead to rivers, rivers lead to people"
+   }
+  },
+  {
+   "text": "The Amazon River itself is the lifeline. It carries more water than any other river on Earth, and for most of the forest, rivers are the only roads.",
+   "es": "El río Amazonas es la línea de vida. Lleva más agua que cualquier otro río de la Tierra, y en la mayor parte de la selva, los ríos son los únicos caminos.",
+   "headline": "RIVERS ARE ROADS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Amazon-river-NASA.jpg",
+     "Rio Negro, Manaus, Brazil.jpg"
+    ]
+   }
+  },
+  {
+   "text": "For eleven days, she walked and waded downstream, injured and alone, until she found a shelter where local workers found her and took her to safety.",
+   "es": "Durante once días caminó y avanzó por el agua río abajo, herida y sola, hasta que encontró un refugio donde unos trabajadores locales la hallaron y la pusieron a salvo.",
+   "visual": {
+    "type": "card",
+    "big": "11 DAYS",
+    "label": "alone in the jungle",
+    "sub": "following the water to safety"
+   }
+  },
+  {
+   "text": "In 2023, it happened again. A small plane crashed in the Colombian Amazon. Four Indigenous children, aged thirteen, nine, four and one, survived the crash.",
+   "es": "En 2023 volvió a pasar. Una avioneta se estrelló en la Amazonía colombiana. Cuatro niños indígenas, de trece, nueve, cuatro y un año, sobrevivieron al accidente.",
+   "headline": "FORTY DAYS",
+   "visual": {
+    "type": "card",
+    "big": "2023",
+    "label": "plane crash in Colombia",
+    "sub": "four children survive"
+   }
+  },
+  {
+   "text": "They spent forty days in the jungle before rescuers and Indigenous volunteers found them. The oldest sister used what she had learned from her community about the forest: which fruits and seeds were safe to eat, and how to shelter.",
+   "es": "Pasaron cuarenta días en la selva antes de que los rescatistas y voluntarios indígenas los encontraran. La hermana mayor usó lo que había aprendido de su comunidad sobre el bosque: qué frutas y semillas se podían comer y cómo refugiarse.",
+   "visual": {
+    "type": "card",
+    "big": "40 DAYS",
+    "label": "survived by four children",
+    "sub": "thanks to knowledge of the forest"
+   }
+  },
+  {
+   "chapter": "The people of the forest",
+   "text": "Both stories show the same thing: in the Amazon, knowledge is survival. Indigenous peoples, hundreds of different groups, have lived in this forest for thousands of years. Some still live with no contact with the outside world at all.",
+   "es": "Ambas historias muestran lo mismo: en el Amazonas, el conocimiento es supervivencia. Los pueblos indígenas, cientos de grupos diferentes, han vivido en esta selva por miles de años. Algunos todavía viven sin ningún contacto con el mundo exterior.",
+   "headline": "KNOWLEDGE IS SURVIVAL",
+   "visual": {
+    "type": "card",
+    "big": "HUNDREDS",
+    "label": "of Indigenous peoples",
+    "sub": "some still uncontacted"
+   }
+  },
+  {
+   "text": "Survival experts add a few more rules. Sleep off the ground, in a hammock if you can, to avoid ants, snakes and floods. Keep your feet dry when possible. And make yourself visible: rescuers searching from the air look for clearings, riverbanks, smoke and bright colors.",
+   "es": "Los expertos en supervivencia agregan otras reglas. Duerme lejos del suelo, en una hamaca si puedes, para evitar hormigas, serpientes e inundaciones. Mantén los pies secos cuando sea posible. Y hazte visible: los rescatistas que buscan desde el aire buscan claros, orillas de ríos, humo y colores brillantes.",
+   "headline": "MORE RULES",
+   "visual": {
+    "type": "card",
+    "big": "BE VISIBLE",
+    "label": "riverbanks, clearings, smoke",
+    "sub": "help rescuers find you"
+   }
+  },
+  {
+   "chapter": "A forest in danger",
+   "text": "But the forest is under threat. Scientists estimate that around a fifth of the Amazon has been cleared since the 1970s, mostly for cattle ranching and farming.",
+   "es": "Pero la selva está amenazada. Los científicos estiman que cerca de una quinta parte del Amazonas ha sido talada desde los años setenta, sobre todo para ganadería y agricultura.",
+   "headline": "A SHRINKING FOREST",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Amazon Deforestation (6348745148).jpg",
+     "Deforestation in Mato Grosso, Brazil.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Some researchers warn that if too much is lost, parts of the rainforest could reach a tipping point and slowly turn into dry savanna.",
+   "es": "Algunos investigadores advierten que si se pierde demasiado, partes de la selva podrían llegar a un punto de no retorno y convertirse lentamente en sabana seca.",
+   "visual": {
+    "type": "card",
+    "big": "TIPPING POINT",
+    "label": "rainforest to savanna",
+    "sub": "a risk scientists warn about"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive being lost in the Amazon? Alone, without knowledge or supplies, the odds are low. But follow the water, stay calm, protect yourself from insects, and learn from the people who call this forest home, and you'd have a chance.",
+   "es": "Entonces, ¿podrías sobrevivir perdido en el Amazonas? Solo, sin conocimientos ni provisiones, las probabilidades son bajas. Pero sigue el agua, mantén la calma, protégete de los insectos y aprende de quienes llaman hogar a esta selva, y tendrías una oportunidad.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sunset at Amazon rainforest, Brazil - 2026-5.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who loves nature. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que ame la naturaleza. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Meeting of Waters (Manaus).jpg"
+    ]
+   }
+  }
+ ]
+}

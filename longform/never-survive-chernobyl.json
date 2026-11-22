@@ -1,0 +1,443 @@
+{
+ "slug": "never-survive-chernobyl",
+ "publish": "2027-02-20 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive Chernobyl",
+ "screen_title": "Why You'd Never Survive Chernobyl",
+ "subtitle": "Inside the exclusion zone",
+ "yt_title": "Why You'd Never Survive Inside Chernobyl's Reactor 4",
+ "yt_title_es": "Por qué nunca sobrevivirías dentro del reactor 4 de Chernóbil",
+ "description": "On April 26, 1986, Reactor 4 at the Chernobyl nuclear plant exploded, in the worst nuclear accident in history. What would radiation have done to you there in 1986, what's it like in the exclusion zone today, and why did wildlife come back?\n\nSources: IAEA, WHO, UNSCEAR, Chernobyl Exclusion Zone Agency.\n#Chernobyl #Pripyat #Nuclear #EarthDecoded",
+ "description_es": "El 26 de abril de 1986, el reactor 4 de la planta nuclear de Chernóbil explotó, en el peor accidente nuclear de la historia. ¿Qué te habría hecho la radiación ahí en 1986, cómo es hoy la zona de exclusión y por qué volvió la fauna?\n#Chernobil #Pripyat",
+ "tags": [
+  "chernobyl",
+  "pripyat",
+  "why you'd never survive",
+  "chernobyl disaster",
+  "exclusion zone",
+  "radiation",
+  "elephant's foot",
+  "new safe confinement",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Reactor bloc of the Chernobyl Nuclear Power Plant.JPG"
+  ],
+  "query": "Chernobyl",
+  "white": "REACTOR 4",
+  "accent": "1986",
+  "badge": "LETHAL IN MINUTES"
+ },
+ "segments": [
+  {
+   "chapter": "1:23 AM",
+   "text": "It's 1:23 in the morning on April twenty-sixth, 1986. A routine safety test is underway at a nuclear power plant in northern Ukraine, then part of the Soviet Union. Seconds later, Reactor 4 explodes. What follows is the worst nuclear accident in history. If you had been standing near that reactor, you would not have survived. Today we'll see why, and what Chernobyl is like now.",
+   "es": "Es la 1:23 de la mañana del veintiséis de abril de 1986. Se hace una prueba de seguridad de rutina en una planta nuclear del norte de Ucrania, entonces parte de la Unión Soviética. Segundos después, el reactor 4 explota. Lo que sigue es el peor accidente nuclear de la historia. Si hubieras estado cerca de ese reactor, no habrías sobrevivido. Hoy veremos por qué, y cómo es Chernóbil ahora.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Reactor bloc of the Chernobyl Nuclear Power Plant.JPG"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're entering the Chernobyl Exclusion Zone.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, entramos a la Zona de Exclusión de Chernóbil.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     22,
+     41,
+     44,
+     53
+    ],
+    "highlight": [
+     "Ukraine",
+     "Belarus"
+    ],
+    "marker": [
+     30.1,
+     51.39
+    ],
+    "label": "Chernobyl"
+   }
+  },
+  {
+   "text": "The Chernobyl Nuclear Power Plant sits about one hundred kilometers north of Kyiv, close to the border with Belarus. Next to it was Pripyat, a young city built for the plant's workers and their families, home to around forty-nine thousand people.",
+   "es": "La planta nuclear de Chernóbil está a unos cien kilómetros al norte de Kiev, cerca de la frontera con Bielorrusia. Junto a ella estaba Prípiat, una ciudad joven construida para los trabajadores y sus familias, hogar de unas cuarenta y nueve mil personas.",
+   "headline": "NORTHERN UKRAINE",
+   "visual": {
+    "type": "map",
+    "extent": [
+     22,
+     41,
+     44,
+     53
+    ],
+    "highlight": [
+     "Ukraine",
+     "Belarus"
+    ],
+    "marker": [
+     30.1,
+     51.39
+    ],
+    "label": "Chernobyl"
+   }
+  },
+  {
+   "chapter": "The explosion",
+   "text": "That night, operators were testing how the reactor would behave during a power failure. A combination of a flawed reactor design and broken safety rules made the power surge out of control.",
+   "es": "Esa noche, los operadores probaban cómo se comportaría el reactor durante un corte de energía. Una combinación de un diseño de reactor defectuoso y reglas de seguridad incumplidas hizo que la potencia se disparara sin control.",
+   "headline": "WHAT WENT WRONG",
+   "visual": {
+    "type": "card",
+    "big": "FLAWED DESIGN",
+    "label": "+ broken safety rules",
+    "sub": "the power surged out of control"
+   }
+  },
+  {
+   "text": "Steam explosions blew the reactor apart and threw the heavy concrete lid off. The graphite inside caught fire and burned for about ten days, sending radioactive material high into the sky.",
+   "es": "Las explosiones de vapor destrozaron el reactor y lanzaron su pesada tapa de concreto. El grafito del interior se incendió y ardió unos diez días, lanzando material radiactivo muy alto al cielo.",
+   "headline": "10 DAYS OF FIRE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chernobyl, fourth reactor bloc.JPG"
+    ]
+   }
+  },
+  {
+   "text": "Winds carried that radioactive cloud across Belarus, Russia, Ukraine and much of Europe. It was first detected abroad when alarms went off at a nuclear plant in Sweden, more than a thousand kilometers away.",
+   "es": "El viento llevó esa nube radiactiva por Bielorrusia, Rusia, Ucrania y gran parte de Europa. Se detectó primero en el extranjero cuando sonaron alarmas en una planta nuclear de Suecia, a más de mil kilómetros.",
+   "headline": "A CLOUD OVER EUROPE",
+   "visual": {
+    "type": "card",
+    "big": "SWEDEN",
+    "label": "detected it first abroad",
+    "sub": "over 1,000 km away"
+   }
+  },
+  {
+   "chapter": "What radiation does",
+   "text": "So what would radiation have done to you? Radiation is invisible. You can't see it, smell it or feel it. But at high doses, it destroys the cells in your body faster than they can repair themselves.",
+   "es": "¿Qué te habría hecho la radiación? La radiación es invisible. No puedes verla, olerla ni sentirla. Pero en dosis altas destruye las células de tu cuerpo más rápido de lo que pueden repararse.",
+   "headline": "AN INVISIBLE KILLER",
+   "visual": {
+    "type": "card",
+    "big": "INVISIBLE",
+    "label": "no smell, no feeling",
+    "sub": "but it destroys your cells"
+   }
+  },
+  {
+   "text": "Near the burning reactor that night, radiation levels were so high that a person could receive a deadly dose within minutes. Firefighters arrived without proper protection, many of them unaware of the danger.",
+   "es": "Cerca del reactor en llamas esa noche, la radiación era tan alta que una persona podía recibir una dosis mortal en minutos. Los bomberos llegaron sin protección adecuada, muchos sin saber del peligro.",
+   "headline": "LETHAL IN MINUTES",
+   "visual": {
+    "type": "card",
+    "big": "MINUTES",
+    "label": "to a deadly dose",
+    "sub": "near the burning reactor"
+   }
+  },
+  {
+   "text": "Acute radiation sickness starts with nausea and vomiting, then burns on the skin, hair loss, and damage to the bone marrow, so the body can no longer fight infection.",
+   "es": "La enfermedad aguda por radiación empieza con náuseas y vómito, luego quemaduras en la piel, caída del cabello y daño a la médula ósea, así que el cuerpo ya no puede combatir infecciones.",
+   "visual": {
+    "type": "card",
+    "big": "RADIATION SICKNESS",
+    "label": "nausea, burns, hair loss",
+    "sub": "the body can't fight infection"
+   }
+  },
+  {
+   "text": "Two workers died in the explosion. In the following months, twenty-eight more, mostly firefighters and plant workers, died of acute radiation sickness.",
+   "es": "Dos trabajadores murieron en la explosión. En los meses siguientes, otros veintiocho, en su mayoría bomberos y trabajadores de la planta, murieron por la enfermedad aguda por radiación.",
+   "headline": "THE FIRST VICTIMS",
+   "visual": {
+    "type": "card",
+    "big": "30",
+    "label": "people died within months",
+    "sub": "2 in the blast, 28 from radiation sickness"
+   }
+  },
+  {
+   "text": "The long-term toll is still debated. Thousands of children who drank contaminated milk later developed thyroid cancer, and health agencies estimate thousands more deaths over the years among the most exposed.",
+   "es": "El costo a largo plazo aún se debate. Miles de niños que bebieron leche contaminada desarrollaron después cáncer de tiroides, y las agencias de salud estiman miles de muertes más con los años entre los más expuestos.",
+   "visual": {
+    "type": "card",
+    "big": "THOUSANDS",
+    "label": "of thyroid cancer cases",
+    "sub": "the long-term toll is still debated"
+   }
+  },
+  {
+   "text": "Quick question. Would you ever visit Chernobyl? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Visitarías Chernóbil alguna vez? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Would you visit Chernobyl?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The ghost city",
+   "text": "Pripyat wasn't evacuated until the next afternoon, about thirty-six hours after the explosion. People were told to pack for three days. They never came back.",
+   "es": "Prípiat no fue evacuada hasta la tarde siguiente, unas treinta y seis horas después de la explosión. A la gente le dijeron que empacara para tres días. Nunca regresaron.",
+   "headline": "PACK FOR 3 DAYS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Pripyat (38338630751).jpg",
+     "Pripyat (38307778522).jpg"
+    ]
+   }
+  },
+  {
+   "text": "In total, more than three hundred thousand people were eventually moved from their homes in Ukraine and Belarus. Around the plant, a zone of about thirty kilometers was closed: the Chernobyl Exclusion Zone.",
+   "es": "En total, más de trescientas mil personas fueron trasladadas de sus casas en Ucrania y Bielorrusia. Alrededor de la planta se cerró una zona de unos treinta kilómetros: la Zona de Exclusión de Chernóbil.",
+   "headline": "THE EXCLUSION ZONE",
+   "visual": {
+    "type": "card",
+    "big": "300,000+",
+    "label": "people relocated",
+    "sub": "from Ukraine and Belarus"
+   }
+  },
+  {
+   "text": "Today, Pripyat is frozen in time. A Ferris wheel that was never officially used, empty schools, a swimming pool, apartment blocks slowly being swallowed by trees.",
+   "es": "Hoy, Prípiat está congelada en el tiempo. Una rueda de la fortuna que nunca se usó oficialmente, escuelas vacías, una alberca, edificios de departamentos que los árboles van tragando lentamente.",
+   "headline": "FROZEN IN TIME",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Azure Swimming Pool in Pripyat, Ukraine.jpg",
+     "Pripyat Autoscooter.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Near the plant, a patch of pine forest absorbed so much radiation that the trees died and turned a reddish brown. It's still called the Red Forest, and it remains one of the most contaminated places in the zone.",
+   "es": "Cerca de la planta, un bosque de pinos absorbió tanta radiación que los árboles murieron y se pusieron de un color café rojizo. Todavía se llama el Bosque Rojo, y sigue siendo uno de los lugares más contaminados de la zona.",
+   "headline": "THE RED FOREST",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Red Forest (38564687026).jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "The Elephant's Foot",
+   "text": "Deep in the basement of Reactor 4 lies one of the most famous objects of the disaster: the Elephant's Foot, a mass of melted nuclear fuel, concrete and metal that flowed down like lava and hardened.",
+   "es": "En lo profundo del sótano del reactor 4 está uno de los objetos más famosos del desastre: la Pata de Elefante, una masa de combustible nuclear fundido, concreto y metal que bajó como lava y se endureció.",
+   "headline": "THE ELEPHANT'S FOOT",
+   "visual": {
+    "type": "card",
+    "big": "ELEPHANT'S FOOT",
+    "label": "melted fuel, concrete and metal",
+    "sub": "in the reactor's basement"
+   }
+  },
+  {
+   "text": "When it was found in late 1986, it was so radioactive that standing next to it could give you a deadly dose in a matter of minutes. Workers photographed it using cameras on wheels and mirrors to stay safe.",
+   "es": "Cuando se encontró a finales de 1986, era tan radiactiva que estar a su lado podía darte una dosis mortal en cuestión de minutos. Los trabajadores la fotografiaron usando cámaras sobre ruedas y espejos para protegerse.",
+   "visual": {
+    "type": "card",
+    "big": "MINUTES",
+    "label": "next to it could kill you",
+    "sub": "when it was found in 1986"
+   }
+  },
+  {
+   "text": "It's much less radioactive today, but still extremely dangerous. And strangely, scientists found black fungi growing on the walls inside the reactor, seemingly thriving in the radiation.",
+   "es": "Hoy es mucho menos radiactiva, pero sigue siendo extremadamente peligrosa. Y curiosamente, los científicos encontraron hongos negros creciendo en las paredes dentro del reactor, que parecen prosperar con la radiación.",
+   "visual": {
+    "type": "card",
+    "big": "BLACK FUNGI",
+    "label": "growing inside the reactor",
+    "sub": "they seem to thrive on radiation"
+   }
+  },
+  {
+   "chapter": "Covering the reactor",
+   "text": "Within months of the accident, workers built a concrete shelter, called the sarcophagus, over the ruined reactor. But it was built in a hurry and began to crack.",
+   "es": "A los pocos meses del accidente, los trabajadores construyeron un refugio de concreto, llamado el sarcófago, sobre el reactor destruido. Pero se hizo con prisa y empezó a agrietarse.",
+   "headline": "THE SARCOPHAGUS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chernobyl- Before, During, and After.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Hundreds of thousands of people, known as liquidators, worked on the cleanup: soldiers, miners, engineers and firefighters. Some cleared radioactive debris from the reactor roof by hand, in shifts lasting only a minute or two.",
+   "es": "Cientos de miles de personas, conocidas como liquidadores, trabajaron en la limpieza: soldados, mineros, ingenieros y bomberos. Algunos retiraron a mano escombros radiactivos del techo del reactor, en turnos de solo uno o dos minutos.",
+   "headline": "THE LIQUIDATORS",
+   "visual": {
+    "type": "card",
+    "big": "LIQUIDATORS",
+    "label": "hundreds of thousands",
+    "sub": "cleaning up in shifts of minutes"
+   }
+  },
+  {
+   "text": "So in 2016, a giant steel arch called the New Safe Confinement was slid over it on rails. It's about one hundred eight meters tall, big enough to cover the Statue of Liberty, and designed to last a hundred years.",
+   "es": "Así que en 2016, un enorme arco de acero llamado Nuevo Confinamiento Seguro se deslizó sobre él sobre rieles. Mide unos ciento ocho metros de alto, suficiente para cubrir la Estatua de la Libertad, y está diseñado para durar cien años.",
+   "headline": "THE NEW SAFE CONFINEMENT",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New Safe Confinement Structure.jpg",
+     "Chernobyl second sarcophacus 2018 hnapel 14a.jpg"
+    ]
+   }
+  },
+  {
+   "text": "It's the largest movable land structure ever built. Inside, robotic cranes are meant to help take apart the old reactor safely.",
+   "es": "Es la estructura terrestre móvil más grande jamás construida. Dentro, grúas robóticas deben ayudar a desmantelar el viejo reactor de forma segura.",
+   "visual": {
+    "type": "card",
+    "big": "108 M TALL",
+    "label": "the largest movable land structure",
+    "sub": "built to last 100 years"
+   }
+  },
+  {
+   "text": "In recent years, the war in Ukraine reached Chernobyl too. Russian troops occupied the site for over a month in 2022. And in February 2025, a drone struck the roof of the New Safe Confinement. The IAEA reported that radiation levels outside stayed normal.",
+   "es": "En los últimos años, la guerra en Ucrania también llegó a Chernóbil. Tropas rusas ocuparon el sitio más de un mes en 2022. Y en febrero de 2025, un dron golpeó el techo del Nuevo Confinamiento Seguro. El OIEA informó que los niveles de radiación afuera se mantuvieron normales.",
+   "visual": {
+    "type": "card",
+    "big": "2022–2025",
+    "label": "the war reaches Chernobyl",
+    "sub": "radiation outside stayed normal, per the IAEA"
+   }
+  },
+  {
+   "chapter": "Nature takes over",
+   "text": "Now for the strangest part. With people gone, nature came back. Wolves, lynx, elk, boar, bears and bison roam the exclusion zone today, in some areas in greater numbers than before the accident.",
+   "es": "Ahora lo más extraño. Sin gente, la naturaleza regresó. Lobos, linces, alces, jabalíes, osos y bisontes recorren hoy la zona de exclusión, en algunas áreas en mayor número que antes del accidente.",
+   "headline": "NATURE RETURNS",
+   "visual": {
+    "type": "card",
+    "big": "WOLVES",
+    "label": "lynx, elk, bears, bison",
+    "sub": "wildlife returned without people"
+   }
+  },
+  {
+   "text": "Rare Przewalski's horses, released here in the late 1990s, now live wild among the abandoned villages.",
+   "es": "Raros caballos de Przewalski, liberados aquí a finales de los noventa, ahora viven libres entre los pueblos abandonados.",
+   "headline": "WILD HORSES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Przewalski’s horse in Chernobyl.jpg"
+    ]
+   }
+  },
+  {
+   "text": "And not everyone left. A small number of mostly elderly residents, called self-settlers, returned to their villages inside the zone after the accident, choosing to spend their lives at home despite the risks.",
+   "es": "Y no todos se fueron. Un pequeño número de residentes, la mayoría ancianos, llamados autoasentados, volvió a sus pueblos dentro de la zona tras el accidente, eligiendo pasar su vida en casa a pesar de los riesgos.",
+   "headline": "THEY CAME BACK",
+   "visual": {
+    "type": "card",
+    "big": "SELF-SETTLERS",
+    "label": "returned to their homes",
+    "sub": "choosing to live in the zone"
+   }
+  },
+  {
+   "text": "Scientists still debate how healthy these animals are. But the lesson seems clear: for wildlife, the absence of humans can matter even more than radiation.",
+   "es": "Los científicos aún debaten qué tan sanos están estos animales. Pero la lección parece clara: para la fauna, la ausencia de humanos puede importar incluso más que la radiación.",
+   "visual": {
+    "type": "card",
+    "big": "NO HUMANS",
+    "label": "matter more than radiation",
+    "sub": "for wildlife, it seems"
+   }
+  },
+  {
+   "text": "Would you visit Chernobyl if tours opened again? Tell me in the comments.",
+   "es": "¿Visitarías Chernóbil si volvieran a abrir los tours? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Would you take the tour?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Could you visit today?",
+   "text": "Before the war, Chernobyl became a tourist attraction. In 2019, more than one hundred thousand people visited. On a typical day tour, following the rules, visitors received a radiation dose similar to a long airplane flight.",
+   "es": "Antes de la guerra, Chernóbil se volvió una atracción turística. En 2019, más de cien mil personas la visitaron. En un tour típico de un día, siguiendo las reglas, los visitantes recibían una dosis de radiación parecida a la de un vuelo largo en avión.",
+   "headline": "CHERNOBYL TOURISM",
+   "visual": {
+    "type": "card",
+    "big": "100,000+",
+    "label": "visitors in 2019",
+    "sub": "a day tour ≈ a long flight's dose"
+   }
+  },
+  {
+   "text": "The danger today is in the hotspots: certain soils, metal and objects that still hold radiation. Picking things up, eating anything grown there, or entering the reactor itself is strictly forbidden.",
+   "es": "El peligro hoy está en los puntos calientes: ciertos suelos, metales y objetos que aún guardan radiación. Recoger cosas, comer algo cultivado ahí o entrar al reactor está estrictamente prohibido.",
+   "visual": {
+    "type": "card",
+    "big": "HOTSPOTS",
+    "label": "soil, metal, old objects",
+    "sub": "don't touch, don't eat, don't enter"
+   }
+  },
+  {
+   "text": "Some radioactive elements will be around for a very long time. Cesium-137 loses half its radioactivity in about thirty years. Plutonium-239 takes about twenty-four thousand years.",
+   "es": "Algunos elementos radiactivos estarán aquí muchísimo tiempo. El cesio-137 pierde la mitad de su radiactividad en unos treinta años. El plutonio-239 tarda unos veinticuatro mil años.",
+   "visual": {
+    "type": "card",
+    "big": "24,000 YEARS",
+    "label": "plutonium-239 half-life",
+    "sub": "the zone won't be safe for a long time"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive Chernobyl? Inside Reactor 4 in 1986, no one could. In the zone today, with a guide and strict rules, a short visit is possible. But living there for good, the zone is expected to stay off-limits for generations.",
+   "es": "Entonces, ¿podrías sobrevivir en Chernóbil? Dentro del reactor 4 en 1986, nadie podía. En la zona hoy, con guía y reglas estrictas, una visita corta es posible. Pero vivir ahí para siempre, se espera que la zona siga cerrada por generaciones.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of Chernobyl taken from Pripyat.JPG"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who loves history. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que ame la historia. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Pripyat River in Chernobyl 2019 G2.jpg"
+    ]
+   }
+  }
+ ]
+}

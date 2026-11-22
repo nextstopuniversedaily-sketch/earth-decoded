@@ -1,0 +1,468 @@
+{
+ "slug": "what-if-all-ice-melted",
+ "publish": "2027-02-27 11:00",
+ "kicker": "WHAT IF...",
+ "title": "What If All the Ice on Earth Melted?",
+ "screen_title": "What If All the Ice on Earth Melted?",
+ "subtitle": "A planet without ice",
+ "yt_title": "What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)",
+ "yt_title_es": "¿Qué pasaría si se derritiera todo el hielo de la Tierra? (70 metros más de mar)",
+ "description": "If every glacier and ice sheet on Earth melted, sea levels would rise by about 70 meters. Which cities would disappear, what would the map of the Americas look like, how long would it take, and what is really happening to the ice today?\n\nSources: USGS, NASA, IPCC AR6, NOAA.\n#SeaLevelRise #Climate #Ice #EarthDecoded",
+ "description_es": "Si se derritieran todos los glaciares y capas de hielo de la Tierra, el nivel del mar subiría unos 70 metros. ¿Qué ciudades desaparecerían, cómo se vería el mapa de América, cuánto tardaría y qué está pasando realmente con el hielo hoy?\n#NivelDelMar #Clima",
+ "tags": [
+  "what if all the ice melted",
+  "sea level rise",
+  "greenland ice sheet",
+  "antarctica",
+  "climate change",
+  "flooded cities",
+  "thwaites glacier",
+  "what if",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Thwaites Glacier.jpg"
+  ],
+  "query": "Antarctica ice",
+  "white": "+70 METERS",
+  "accent": "OF OCEAN",
+  "badge": "IF ALL THE ICE MELTS"
+ },
+ "segments": [
+  {
+   "chapter": "A world without ice",
+   "text": "Imagine waking up in a world with no ice. No glaciers in the mountains, no white cap on Antarctica, no frozen Greenland. Now look at the coast. Miami, New Orleans, Cancún, London, Shanghai: gone, underwater. What would the planet look like if all the ice on Earth melted? And how close are we really? Let's find out.",
+   "es": "Imagina despertar en un mundo sin hielo. Sin glaciares en las montañas, sin la capa blanca de la Antártida, sin Groenlandia congelada. Ahora mira la costa. Miami, Nueva Orleans, Cancún, Londres, Shanghái: desaparecidas, bajo el agua. ¿Cómo se vería el planeta si se derritiera todo el hielo de la Tierra? ¿Y qué tan cerca estamos realmente? Vamos a averiguarlo.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Thwaites Glacier.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're melting every glacier on the planet, at least in our imagination.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, derretimos todos los glaciares del planeta, al menos en nuestra imaginación.",
+   "subscribe": true,
+   "visual": {
+    "type": "image",
+    "files": [
+     "Greenland ice sheet USGS.jpg",
+     "Greenland Ice Sheet.jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "Where the ice is",
+   "text": "Most of the world's fresh water is frozen. Around two thirds of it is locked in ice, mostly in two giant ice sheets: Antarctica and Greenland.",
+   "es": "La mayor parte del agua dulce del mundo está congelada. Cerca de dos tercios están atrapados en hielo, sobre todo en dos enormes capas de hielo: la Antártida y Groenlandia.",
+   "headline": "FROZEN WATER",
+   "visual": {
+    "type": "card",
+    "big": "~2/3",
+    "label": "of Earth's fresh water is ice",
+    "sub": "mostly in Antarctica and Greenland"
+   }
+  },
+  {
+   "text": "The Antarctic ice sheet is enormous. In places it's more than four kilometers thick. If it all melted, it would raise sea levels by about fifty-eight meters.",
+   "es": "La capa de hielo de la Antártida es enorme. En algunos lugares mide más de cuatro kilómetros de grosor. Si se derritiera toda, el nivel del mar subiría unos cincuenta y ocho metros.",
+   "headline": "ANTARCTICA",
+   "visual": {
+    "type": "card",
+    "big": "58 M",
+    "label": "from Antarctica alone",
+    "sub": "if all its ice melted"
+   }
+  },
+  {
+   "text": "Most of that ice sits in East Antarctica, which is mostly on high ground and fairly stable. The bigger worry is West Antarctica, where much of the ice rests on rock below sea level, so warm ocean water can eat away at it from underneath.",
+   "es": "La mayor parte de ese hielo está en la Antártida Oriental, que está sobre todo en tierra alta y es bastante estable. La mayor preocupación es la Antártida Occidental, donde gran parte del hielo descansa sobre roca bajo el nivel del mar, así que el agua cálida del océano puede comérselo por debajo.",
+   "headline": "EAST VS WEST",
+   "visual": {
+    "type": "card",
+    "big": "WEST ANTARCTICA",
+    "label": "ice sitting below sea level",
+    "sub": "the most vulnerable part"
+   }
+  },
+  {
+   "text": "Greenland's ice would add about seven meters more. And all the mountain glaciers in the Alps, the Andes, the Himalayas and Alaska together would add less than half a meter.",
+   "es": "El hielo de Groenlandia sumaría unos siete metros más. Y todos los glaciares de montaña en los Alpes, los Andes, el Himalaya y Alaska juntos sumarían menos de medio metro.",
+   "headline": "GREENLAND",
+   "visual": {
+    "type": "card",
+    "big": "7 M",
+    "label": "from Greenland",
+    "sub": "plus under half a meter from mountain glaciers"
+   }
+  },
+  {
+   "text": "Add it up, and if every bit of land ice melted, the oceans would rise by roughly seventy meters. That's about the height of a twenty-story building.",
+   "es": "Si lo sumas, y si se derritiera cada pedazo de hielo terrestre, los océanos subirían unos setenta metros. Más o menos la altura de un edificio de veinte pisos.",
+   "headline": "70 METERS",
+   "visual": {
+    "type": "card",
+    "big": "~70 M",
+    "label": "total sea level rise",
+    "sub": "as tall as a 20-story building"
+   }
+  },
+  {
+   "text": "One important detail: melting sea ice, like the floating ice at the North Pole, doesn't raise sea levels, just like melting ice cubes don't overflow a glass. It's ice on land that matters.",
+   "es": "Un detalle importante: el hielo marino que se derrite, como el hielo flotante del Polo Norte, no sube el nivel del mar, igual que los cubos de hielo que se derriten no desbordan un vaso. Lo que importa es el hielo sobre tierra.",
+   "visual": {
+    "type": "card",
+    "big": "FLOATING ICE",
+    "label": "doesn't raise the sea",
+    "sub": "only land ice does"
+   }
+  },
+  {
+   "text": "Quick question. Do you live near the coast? How high above sea level is your home? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Vives cerca de la costa? ¿A qué altura sobre el mar está tu casa? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "How high above sea level do you live?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The new map",
+   "text": "So, seventy meters of extra ocean. Let's redraw the map, starting with North America. The entire state of Florida would vanish under the Atlantic, along with Miami, Tampa and Orlando.",
+   "es": "Entonces, setenta metros más de océano. Redibujemos el mapa, empezando por América del Norte. Todo el estado de Florida desaparecería bajo el Atlántico, con Miami, Tampa y Orlando.",
+   "headline": "GOODBYE FLORIDA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -100,
+     -70,
+     22,
+     40
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -81.5,
+     28
+    ],
+    "label": "Florida"
+   }
+  },
+  {
+   "text": "Along the Gulf of Mexico, Houston and New Orleans would be underwater. On the East Coast, New York, Washington and Boston would be mostly lost.",
+   "es": "En el golfo de México, Houston y Nueva Orleans estarían bajo el agua. En la costa este, Nueva York, Washington y Boston se perderían en su mayoría.",
+   "visual": {
+    "type": "card",
+    "big": "UNDERWATER",
+    "label": "Houston, New Orleans, New York",
+    "sub": "and most of the US East Coast"
+   }
+  },
+  {
+   "text": "In Mexico, much of the low, flat Yucatán Peninsula would be flooded, including Cancún and Mérida. Veracruz and other coastal cities would disappear. But Mexico City, more than two thousand two hundred meters up, would be perfectly safe.",
+   "es": "En México, gran parte de la península de Yucatán, baja y plana, se inundaría, incluidos Cancún y Mérida. Veracruz y otras ciudades costeras desaparecerían. Pero la Ciudad de México, a más de dos mil doscientos metros, estaría totalmente a salvo.",
+   "headline": "MEXICO",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -118,
+     -86,
+     14,
+     33
+    ],
+    "highlight": [
+     "Mexico"
+    ],
+    "marker": [
+     -89,
+     20.5
+    ],
+    "label": "Yucatán"
+   }
+  },
+  {
+   "text": "In South America, the Amazon basin is so low and flat that the Atlantic would push far inland, turning much of it into a huge inland sea. Buenos Aires and Montevideo would be gone.",
+   "es": "En Sudamérica, la cuenca del Amazonas es tan baja y plana que el Atlántico entraría muy tierra adentro, convirtiendo gran parte en un enorme mar interior. Buenos Aires y Montevideo desaparecerían.",
+   "headline": "AN AMAZON SEA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -82,
+     -34,
+     -40,
+     10
+    ],
+    "highlight": [
+     "Brazil"
+    ],
+    "marker": [
+     -60,
+     -3
+    ],
+    "label": "Amazon basin"
+   }
+  },
+  {
+   "text": "In Europe, London, Venice and Amsterdam would be underwater. The Netherlands and Denmark would almost completely disappear.",
+   "es": "En Europa, Londres, Venecia y Ámsterdam quedarían bajo el agua. Los Países Bajos y Dinamarca casi desaparecerían por completo.",
+   "headline": "EUROPE",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -12,
+     30,
+     35,
+     62
+    ],
+    "highlight": [
+     "Netherlands",
+     "Denmark",
+     "United Kingdom",
+     "Italy"
+    ]
+   }
+  },
+  {
+   "text": "In Asia, Bangladesh, home to more than one hundred seventy million people, would be almost entirely flooded, along with Shanghai, Bangkok and much of coastal China.",
+   "es": "En Asia, Bangladés, hogar de más de ciento setenta millones de personas, se inundaría casi por completo, junto con Shanghái, Bangkok y gran parte de la costa de China.",
+   "headline": "ASIA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     80,
+     125,
+     5,
+     35
+    ],
+    "highlight": [
+     "Bangladesh",
+     "China",
+     "Thailand"
+    ]
+   }
+  },
+  {
+   "text": "Australia would get a new inland sea, as the ocean poured into its low interior basins. And in Africa, the least affected continent, Alexandria and much of Egypt's Nile Delta would still be lost.",
+   "es": "Australia tendría un nuevo mar interior, al entrar el océano a sus cuencas bajas. Y en África, el continente menos afectado, Alejandría y gran parte del delta del Nilo en Egipto se perderían igual.",
+   "headline": "AUSTRALIA AND AFRICA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     110,
+     155,
+     -45,
+     -8
+    ],
+    "highlight": [
+     "Australia"
+    ]
+   }
+  },
+  {
+   "text": "Some countries wouldn't need seventy meters to vanish. Island nations like the Maldives, Kiribati and Tuvalu are mostly only a couple of meters above the sea. Even a small rise threatens their future.",
+   "es": "Algunos países no necesitarían setenta metros para desaparecer. Naciones insulares como Maldivas, Kiribati y Tuvalu están en su mayoría a solo un par de metros sobre el mar. Incluso una subida pequeña amenaza su futuro.",
+   "headline": "ISLAND NATIONS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "South Tarawa from the air.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Which city would you miss the most? Tell me in the comments.",
+   "es": "¿Qué ciudad extrañarías más? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which city would you miss?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "A different planet",
+   "text": "The ocean wouldn't be the only change. Ice reflects sunlight back to space. Without it, darker land and ocean would absorb more heat, warming the planet even more.",
+   "es": "El océano no sería el único cambio. El hielo refleja la luz del sol hacia el espacio. Sin él, la tierra y el océano, más oscuros, absorberían más calor, calentando aún más el planeta.",
+   "headline": "A HOTTER PLANET",
+   "visual": {
+    "type": "card",
+    "big": "LESS ICE",
+    "label": "means more heat absorbed",
+    "sub": "a warming feedback loop"
+   }
+  },
+  {
+   "text": "Billions of people in Asia and South America depend on mountain glaciers for river water in the dry season. Without them, rivers fed by the Himalayas and Andes could shrink dramatically.",
+   "es": "Miles de millones de personas en Asia y Sudamérica dependen de los glaciares de montaña para el agua de los ríos en temporada seca. Sin ellos, los ríos alimentados por el Himalaya y los Andes podrían reducirse drásticamente.",
+   "visual": {
+    "type": "card",
+    "big": "BILLIONS",
+    "label": "depend on glacier-fed rivers",
+    "sub": "in Asia and South America"
+   }
+  },
+  {
+   "text": "Has Earth ever had no ice? Yes. Around fifty million years ago, there were no big ice sheets at all. The planet was much warmer, and palm trees and crocodile relatives lived near the Arctic.",
+   "es": "¿La Tierra ha estado alguna vez sin hielo? Sí. Hace unos cincuenta millones de años no había grandes capas de hielo. El planeta era mucho más cálido, y palmeras y parientes de cocodrilos vivían cerca del Ártico.",
+   "headline": "IT HAPPENED BEFORE",
+   "visual": {
+    "type": "card",
+    "big": "50 MILLION YEARS",
+    "label": "ago, almost no ice",
+    "sub": "palm trees near the Arctic"
+   }
+  },
+  {
+   "text": "And something surprising would happen to the land. Ice is so heavy that it pushes the ground down. Without it, Greenland and Antarctica would slowly rise back up, by hundreds of meters, over thousands of years.",
+   "es": "Y le pasaría algo sorprendente a la tierra. El hielo es tan pesado que empuja el suelo hacia abajo. Sin él, Groenlandia y la Antártida se elevarían de nuevo lentamente, cientos de metros, durante miles de años.",
+   "visual": {
+    "type": "card",
+    "big": "RISING LAND",
+    "label": "without the weight of ice",
+    "sub": "hundreds of meters over millennia"
+   }
+  },
+  {
+   "text": "We'd also lose a library. Ice cores drilled from Antarctica hold tiny bubbles of air from as far back as eight hundred thousand years ago, a record of Earth's past climate.",
+   "es": "También perderíamos una biblioteca. Los núcleos de hielo extraídos de la Antártida guardan pequeñas burbujas de aire de hasta ochocientos mil años atrás, un registro del clima pasado de la Tierra.",
+   "headline": "A FROZEN LIBRARY",
+   "visual": {
+    "type": "card",
+    "big": "800,000 YEARS",
+    "label": "of climate history",
+    "sub": "trapped in Antarctic ice"
+   }
+  },
+  {
+   "chapter": "Is it really happening?",
+   "text": "Now the most important question. Is this actually going to happen? Not anytime soon. Melting all the ice on Earth would take thousands of years, even in the worst-case warming scenarios.",
+   "es": "Ahora la pregunta más importante. ¿Esto realmente va a pasar? No pronto. Derretir todo el hielo de la Tierra tomaría miles de años, incluso en los peores escenarios de calentamiento.",
+   "headline": "WILL IT HAPPEN?",
+   "visual": {
+    "type": "card",
+    "big": "THOUSANDS",
+    "label": "of years to melt it all",
+    "sub": "not in our lifetime"
+   }
+  },
+  {
+   "text": "But the ice is melting faster than before. Satellites show Greenland has been losing, on average, around two hundred seventy billion tons of ice a year in recent decades.",
+   "es": "Pero el hielo se está derritiendo más rápido que antes. Los satélites muestran que Groenlandia ha perdido, en promedio, unos doscientos setenta mil millones de toneladas de hielo al año en las últimas décadas.",
+   "headline": "MELTING FASTER",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jakobshavn Glacier, Greenland ESA504873.jpg",
+     "Early Melt on the Greenland Ice Sheet (33354485670).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Sea levels have already risen more than twenty centimeters since 1900, and the rate is speeding up. Today, the ocean rises by about four millimeters every year.",
+   "es": "El nivel del mar ya subió más de veinte centímetros desde 1900, y el ritmo se acelera. Hoy el océano sube unos cuatro milímetros cada año.",
+   "headline": "ALREADY RISING",
+   "visual": {
+    "type": "card",
+    "big": "+20 CM",
+    "label": "since 1900",
+    "sub": "now rising about 4 mm a year"
+   }
+  },
+  {
+   "text": "Mountain glaciers are shrinking fastest of all. In Mexico, glaciers on Iztaccíhuatl have almost vanished, and in 2024 scientists said Venezuela had become the first Andean country in modern times to lose all its glaciers.",
+   "es": "Los glaciares de montaña son los que más rápido se encogen. En México, los glaciares del Iztaccíhuatl casi desaparecieron, y en 2024 los científicos dijeron que Venezuela se había convertido en el primer país andino en tiempos modernos en perder todos sus glaciares.",
+   "headline": "VANISHING GLACIERS",
+   "visual": {
+    "type": "card",
+    "big": "VENEZUELA",
+    "label": "lost its last glacier",
+    "sub": "reported in 2024"
+   }
+  },
+  {
+   "text": "In Antarctica, scientists are closely watching Thwaites Glacier, nicknamed the Doomsday Glacier. It's about the size of Florida, and on its own it holds enough ice to raise sea levels by around sixty-five centimeters.",
+   "es": "En la Antártida, los científicos vigilan de cerca el glaciar Thwaites, apodado el Glaciar del Juicio Final. Es del tamaño de Florida, y por sí solo guarda hielo suficiente para subir el mar unos sesenta y cinco centímetros.",
+   "headline": "THE DOOMSDAY GLACIER",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Thwaites Glacier.jpg"
+    ]
+   }
+  },
+  {
+   "text": "The UN's climate scientists project that by 2100, seas could rise by roughly thirty centimeters to around one meter, depending largely on how much greenhouse gas we emit.",
+   "es": "Los científicos del clima de la ONU proyectan que para 2100 el mar podría subir de unos treinta centímetros a cerca de un metro, dependiendo sobre todo de cuántos gases de efecto invernadero emitamos.",
+   "headline": "BY 2100",
+   "visual": {
+    "type": "card",
+    "big": "30 CM – 1 M",
+    "label": "by 2100",
+    "sub": "depending on our emissions"
+   }
+  },
+  {
+   "text": "Even one meter would matter. Hundreds of millions of people live in low coastal areas, and higher seas make storm floods much worse.",
+   "es": "Incluso un metro importaría. Cientos de millones de personas viven en zonas costeras bajas, y un mar más alto empeora mucho las inundaciones por tormentas.",
+   "headline": "ONE METER MATTERS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Miami Beach massive garage flooding 2.jpg",
+     "Miami Beach threshold of flooding 1.jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "How we adapt",
+   "text": "People are adapting. The Netherlands, with about a quarter of its land below sea level, has defended itself with dikes and storm barriers for centuries. Venice raised its MOSE flood gates. And Indonesia is building a new capital, partly because Jakarta is sinking.",
+   "es": "La gente se está adaptando. Los Países Bajos, con cerca de una cuarta parte de su territorio bajo el nivel del mar, se han defendido con diques y barreras durante siglos. Venecia levantó sus compuertas MOSE. E Indonesia construye una nueva capital, en parte porque Yakarta se hunde.",
+   "headline": "ADAPTING",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Wave run-up on a Dutch dike with Haringman blocks.jpg",
+     "Netherlands dikes (ASTER).jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "So, what if?",
+   "text": "So, what if all the ice on Earth melted? The map would change completely, and the world's great coastal cities would be lost. It won't happen in our lifetime. But how much ice we keep is something our choices still affect.",
+   "es": "Entonces, ¿qué pasaría si se derritiera todo el hielo de la Tierra? El mapa cambiaría por completo y las grandes ciudades costeras se perderían. No pasará en nuestra vida. Pero cuánto hielo conservemos todavía depende de nuestras decisiones.",
+   "headline": "WHAT IF?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Greenland ice sheet USGS.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who lives by the beach. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que viva junto a la playa. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Thwaites Glacier ESA24672294.jpeg"
+    ]
+   }
+  }
+ ]
+}

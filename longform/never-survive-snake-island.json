@@ -1,0 +1,462 @@
+{
+ "slug": "never-survive-snake-island",
+ "publish": "2027-02-06 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive Snake Island",
+ "screen_title": "Why You'd Never Survive Snake Island",
+ "subtitle": "Ilha da Queimada Grande, Brazil",
+ "yt_title": "Why You'd Never Survive Snake Island (Brazil's Forbidden Island)",
+ "yt_title_es": "Por qué nunca sobrevivirías en la Isla de las Serpientes (la isla prohibida de Brasil)",
+ "description": "Off the coast of São Paulo lies Ilha da Queimada Grande, better known as Snake Island, home to thousands of golden lanceheads, one of the most venomous snakes in the Americas, found nowhere else on Earth. Here's the truth behind the legends, and why almost nobody is allowed to go.\n\nSources: Instituto Butantan, ICMBio, IUCN Red List.\n#SnakeIsland #Brazil #GoldenLancehead #EarthDecoded",
+ "description_es": "Frente a la costa de São Paulo está la Ilha da Queimada Grande, conocida como la Isla de las Serpientes, hogar de miles de cabezas de lanza doradas, una de las serpientes más venenosas de América, que no existe en ningún otro lugar. Esta es la verdad detrás de las leyendas, y por qué casi nadie puede ir.\n#IsladeSerpientes #Brasil",
+ "tags": [
+  "snake island",
+  "ilha da queimada grande",
+  "golden lancehead",
+  "why you'd never survive",
+  "brazil",
+  "venomous snakes",
+  "forbidden island",
+  "bothrops insularis",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Bothrops insularis Queimada Grande SP OAVM.jpg"
+  ],
+  "query": "golden lancehead",
+  "white": "THOUSANDS",
+  "accent": "OF VIPERS",
+  "badge": "VISITS FORBIDDEN"
+ },
+ "segments": [
+  {
+   "chapter": "The forbidden island",
+   "text": "Thirty-three kilometers off the coast of Brazil, there's a green island that looks like paradise. Forest, rocks, waves. But almost nobody is allowed to set foot on it. Because hidden in the trees are thousands of venomous snakes that live nowhere else on Earth. Welcome to Snake Island. Today, we'll separate the facts from the legends, and see why you'd never survive here.",
+   "es": "A treinta y tres kilómetros de la costa de Brasil hay una isla verde que parece un paraíso. Bosque, rocas, olas. Pero casi nadie tiene permiso de pisarla. Porque entre los árboles se esconden miles de serpientes venenosas que no viven en ningún otro lugar. Bienvenido a la Isla de las Serpientes. Hoy separaremos los hechos de las leyendas y veremos por qué nunca sobrevivirías aquí.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Bothrops insularis Queimada Grande SP OAVM.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're going to the island that Brazil won't let you visit.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, vamos a la isla que Brasil no te deja visitar.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -50,
+     -42,
+     -27,
+     -21
+    ],
+    "highlight": [
+     "Brazil"
+    ],
+    "marker": [
+     -46.68,
+     -24.49
+    ],
+    "label": "Snake Island"
+   }
+  },
+  {
+   "text": "Its real name is Ilha da Queimada Grande. It sits in the Atlantic Ocean, about thirty-three kilometers off the coast of São Paulo state.",
+   "es": "Su nombre real es Ilha da Queimada Grande. Está en el océano Atlántico, a unos treinta y tres kilómetros de la costa del estado de São Paulo.",
+   "headline": "OFF SÃO PAULO",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -50,
+     -42,
+     -27,
+     -21
+    ],
+    "highlight": [
+     "Brazil"
+    ],
+    "marker": [
+     -46.68,
+     -24.49
+    ],
+    "label": "Ilha da Queimada Grande"
+   }
+  },
+  {
+   "text": "It's small, only about forty-three hectares, less than half a square kilometer. You could walk across it in less than an hour, if it weren't for what lives there.",
+   "es": "Es pequeña, solo unas cuarenta y tres hectáreas, menos de medio kilómetro cuadrado. Podrías cruzarla caminando en menos de una hora, si no fuera por lo que vive ahí.",
+   "headline": "A TINY ISLAND",
+   "visual": {
+    "type": "card",
+    "big": "43 HECTARES",
+    "label": "the whole island",
+    "sub": "smaller than many city parks"
+   }
+  },
+  {
+   "text": "Its slopes are covered in humid Atlantic Forest, with steep rocky cliffs dropping into the sea. There's no beach and no dock. Boats have to approach the rocks carefully, and landing is dangerous even before you meet a snake.",
+   "es": "Sus laderas están cubiertas de húmeda mata atlántica, con acantilados rocosos que caen al mar. No hay playa ni muelle. Los barcos deben acercarse con cuidado a las rocas, y desembarcar es peligroso incluso antes de encontrarte una serpiente.",
+   "headline": "NO PLACE TO LAND",
+   "visual": {
+    "type": "card",
+    "big": "NO BEACH",
+    "label": "no dock, only rocks",
+    "sub": "even landing is dangerous"
+   }
+  },
+  {
+   "text": "Its name means big burned island. Long ago, people tried to burn the forest to clear land for farming, but the plan didn't last.",
+   "es": "Su nombre significa isla grande quemada. Hace mucho, la gente intentó quemar el bosque para despejar tierra para cultivar, pero el plan no prosperó.",
+   "visual": {
+    "type": "card",
+    "big": "BIG BURNED",
+    "label": "what Queimada Grande means",
+    "sub": "from old attempts to clear the forest"
+   }
+  },
+  {
+   "chapter": "Meet the golden lancehead",
+   "text": "The island belongs to its snakes: the golden lancehead, a pit viper found only here and nowhere else in the world.",
+   "es": "La isla pertenece a sus serpientes: la cabeza de lanza dorada, una víbora que solo vive aquí y en ningún otro lugar del mundo.",
+   "headline": "THE GOLDEN LANCEHEAD",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops insularis Queimada Grande SP OAVM.jpg",
+     "Bothrops insularis 210457562.jpg"
+    ]
+   }
+  },
+  {
+   "text": "It grows to around seventy centimeters to a meter long, with a pale, golden-brown body, which gives it its name.",
+   "es": "Mide alrededor de setenta centímetros a un metro, con un cuerpo pálido de color café dorado, que le da su nombre.",
+   "headline": "GOLDEN SCALES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops insularis Ilha Queimada Grande SP OAVM.jpg"
+    ]
+   }
+  },
+  {
+   "text": "So how did snakes end up alone on an island? About eleven thousand years ago, at the end of the last ice age, sea levels rose and cut this hill off from the mainland. The snakes living there were trapped.",
+   "es": "¿Cómo terminaron serpientes solas en una isla? Hace unos once mil años, al final de la última edad de hielo, el nivel del mar subió y separó esta colina del continente. Las serpientes que vivían ahí quedaron atrapadas.",
+   "headline": "TRAPPED BY THE SEA",
+   "visual": {
+    "type": "card",
+    "big": "11,000 YEARS",
+    "label": "since the sea cut it off",
+    "sub": "the snakes were trapped"
+   }
+  },
+  {
+   "text": "On the island, there were no rats, mice or frogs to eat on the ground. So the snakes moved up into the trees and started hunting the one thing that kept arriving: migrating birds.",
+   "es": "En la isla no había ratas, ratones ni ranas en el suelo. Así que las serpientes subieron a los árboles y empezaron a cazar lo único que seguía llegando: aves migratorias.",
+   "headline": "HUNTING BIRDS",
+   "visual": {
+    "type": "card",
+    "big": "BIRDS",
+    "label": "the only food on the island",
+    "sub": "so the snakes climbed the trees"
+   }
+  },
+  {
+   "text": "That makes life hard. Most of their food arrives only when birds stop on the island during their migrations. Between those seasons, many snakes go hungry for long periods.",
+   "es": "Eso hace la vida difícil. La mayor parte de su comida llega solo cuando las aves se detienen en la isla durante sus migraciones. Entre esas temporadas, muchas serpientes pasan hambre por largos periodos.",
+   "visual": {
+    "type": "card",
+    "big": "SEASONAL FOOD",
+    "label": "only when birds migrate",
+    "sub": "long hungry months in between"
+   }
+  },
+  {
+   "text": "Quick question. Are you more afraid of snakes or of spiders? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Te dan más miedo las serpientes o las arañas? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Snakes or spiders?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The venom",
+   "text": "Hunting birds is hard. If a snake bites a bird and it flies away, it's gone. So over thousands of years, the golden lancehead's venom became extremely fast-acting, able to kill a bird almost instantly.",
+   "es": "Cazar aves es difícil. Si una serpiente muerde un ave y esta se va volando, se pierde. Así que en miles de años, el veneno de la cabeza de lanza dorada se volvió extremadamente rápido, capaz de matar un ave casi al instante.",
+   "headline": "DEADLY VENOM",
+   "visual": {
+    "type": "card",
+    "big": "FAST VENOM",
+    "label": "built to stop birds instantly",
+    "sub": "evolved over thousands of years"
+   }
+  },
+  {
+   "text": "Scientists believe its venom is more potent than that of its mainland relative, the jararaca, which already causes many of the snakebites in Brazil.",
+   "es": "Los científicos creen que su veneno es más potente que el de su pariente del continente, la jararaca, que ya causa muchas de las mordeduras de serpiente en Brasil.",
+   "headline": "STRONGER THAN ITS COUSINS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops jararaca 321960271.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Venom from these vipers attacks the blood and tissue. A bite can cause intense pain, swelling, bleeding, kidney damage and tissue death. Without antivenom, it can be fatal.",
+   "es": "El veneno de estas víboras ataca la sangre y los tejidos. Una mordida puede causar dolor intenso, hinchazón, sangrado, daño en los riñones y muerte de tejido. Sin antiveneno, puede ser mortal.",
+   "headline": "WHAT A BITE DOES",
+   "visual": {
+    "type": "card",
+    "big": "BLOOD & TISSUE",
+    "label": "what the venom attacks",
+    "sub": "antivenom is the only real treatment"
+   }
+  },
+  {
+   "text": "Snakebites are a real problem in Brazil. The country records tens of thousands of snakebite cases every year, most of them from mainland lanceheads like the jararaca.",
+   "es": "Las mordeduras de serpiente son un problema real en Brasil. El país registra decenas de miles de casos cada año, la mayoría por víboras del continente como la jararaca.",
+   "headline": "A REAL DANGER",
+   "visual": {
+    "type": "card",
+    "big": "TENS OF THOUSANDS",
+    "label": "of snakebites a year in Brazil",
+    "sub": "mostly from mainland lanceheads"
+   }
+  },
+  {
+   "text": "Doctors say that after a bite, you should stay as calm and still as possible, remove rings and tight clothing, and get to a hospital fast. Don't cut the wound, don't try to suck out the venom and don't use a tight tourniquet.",
+   "es": "Los médicos dicen que tras una mordida debes quedarte lo más tranquilo y quieto posible, quitarte anillos y ropa apretada, y llegar rápido a un hospital. No cortes la herida, no intentes chupar el veneno y no uses un torniquete apretado.",
+   "headline": "WHAT TO DO",
+   "visual": {
+    "type": "card",
+    "big": "STAY STILL",
+    "label": "and get to a hospital fast",
+    "sub": "don't cut, don't suck, no tourniquet"
+   }
+  },
+  {
+   "text": "And here's the problem. On Snake Island, there's no hospital, no doctor and no road. The nearest antivenom is hours away by boat and car on the mainland.",
+   "es": "Y aquí está el problema. En la Isla de las Serpientes no hay hospital, ni médico, ni carretera. El antiveneno más cercano está a horas en barco y auto en el continente.",
+   "headline": "NO HELP NEARBY",
+   "visual": {
+    "type": "card",
+    "big": "HOURS AWAY",
+    "label": "from the nearest antivenom",
+    "sub": "by boat, then by road"
+   }
+  },
+  {
+   "text": "And the snakes are hard to see. They rest on branches and among leaves at about head and hand height, exactly where you'd reach while climbing through the forest.",
+   "es": "Y las serpientes son difíciles de ver. Descansan en ramas y entre hojas a la altura de la cabeza y las manos, justo donde pondrías la mano al subir por el bosque.",
+   "headline": "HIDDEN IN THE TREES",
+   "visual": {
+    "type": "card",
+    "big": "HEAD HEIGHT",
+    "label": "snakes rest in the branches",
+    "sub": "right where your hands go"
+   }
+  },
+  {
+   "text": "Researchers who visit wear thick boots and leg guards, move slowly, and watch every branch before they touch it. Even experts treat every step on the island with respect.",
+   "es": "Los investigadores que la visitan usan botas gruesas y protectores en las piernas, se mueven despacio y revisan cada rama antes de tocarla. Incluso los expertos tratan cada paso en la isla con respeto.",
+   "visual": {
+    "type": "card",
+    "big": "THICK BOOTS",
+    "label": "leg guards and slow steps",
+    "sub": "how scientists move on the island"
+   }
+  },
+  {
+   "chapter": "Legends vs facts",
+   "text": "Now, the legends. You may have heard there's one snake for every square meter. That's a myth. Early estimates were wildly exaggerated.",
+   "es": "Ahora, las leyendas. Quizá escuchaste que hay una serpiente por cada metro cuadrado. Es un mito. Las primeras estimaciones fueron muy exageradas.",
+   "headline": "MYTH BUSTED",
+   "visual": {
+    "type": "card",
+    "big": "MYTH",
+    "label": "one snake per square meter",
+    "sub": "not true"
+   }
+  },
+  {
+   "text": "Modern studies by Brazilian scientists estimate the population at a few thousand snakes, roughly two to four thousand, which is still an incredibly high number for such a small island.",
+   "es": "Estudios modernos de científicos brasileños estiman la población en unos pocos miles de serpientes, más o menos de dos a cuatro mil, que sigue siendo un número increíblemente alto para una isla tan pequeña.",
+   "headline": "THE REAL NUMBER",
+   "visual": {
+    "type": "card",
+    "big": "2,000–4,000",
+    "label": "golden lanceheads",
+    "sub": "on less than half a square kilometer"
+   }
+  },
+  {
+   "text": "There's also a famous legend that the island's last lighthouse keeper and his family were killed by snakes that came in through a window. It's a creepy story, but there's no solid evidence it ever happened.",
+   "es": "También hay una famosa leyenda de que el último guardián del faro y su familia murieron por serpientes que entraron por una ventana. Es una historia escalofriante, pero no hay pruebas sólidas de que haya pasado.",
+   "visual": {
+    "type": "card",
+    "big": "LEGEND",
+    "label": "the lighthouse keeper's family",
+    "sub": "a scary story with no proof"
+   }
+  },
+  {
+   "text": "What is true: the lighthouse was automated decades ago, so nobody needs to live there anymore.",
+   "es": "Lo que sí es cierto: el faro se automatizó hace décadas, así que ya nadie necesita vivir ahí.",
+   "visual": {
+    "type": "card",
+    "big": "AUTOMATED",
+    "label": "the island's lighthouse",
+    "sub": "no keeper lives there anymore"
+   }
+  },
+  {
+   "text": "Have you ever heard a scary legend about a place near you? Tell me in the comments.",
+   "es": "¿Has oído alguna leyenda aterradora sobre un lugar cerca de ti? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "A scary legend near you?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Why it's forbidden",
+   "text": "Today, Brazil's navy and environmental authorities forbid visits to the island. Only scientists and navy crews with special permission can land, and researchers usually go with a doctor.",
+   "es": "Hoy, la marina de Brasil y las autoridades ambientales prohíben las visitas a la isla. Solo científicos y personal de la marina con permiso especial pueden desembarcar, y los investigadores suelen ir con un médico.",
+   "headline": "NO VISITORS",
+   "visual": {
+    "type": "card",
+    "big": "FORBIDDEN",
+    "label": "visits are banned",
+    "sub": "only scientists with permits"
+   }
+  },
+  {
+   "text": "The ban isn't only to protect people. It's to protect the snakes. The golden lancehead is listed as critically endangered, because it lives on one tiny island and nowhere else.",
+   "es": "La prohibición no solo protege a las personas. Protege a las serpientes. La cabeza de lanza dorada está catalogada en peligro crítico, porque vive en una isla diminuta y en ningún otro lugar.",
+   "headline": "PROTECTING THE SNAKES",
+   "visual": {
+    "type": "card",
+    "big": "CRITICALLY ENDANGERED",
+    "label": "IUCN Red List",
+    "sub": "one island, one population"
+   }
+  },
+  {
+   "text": "One of the biggest threats is illegal collection. Wildlife smugglers have sneaked onto the island to catch snakes for collectors, who can pay thousands of dollars for a single one.",
+   "es": "Una de las mayores amenazas es la captura ilegal. Traficantes de fauna se han metido a la isla para atrapar serpientes para coleccionistas, que pueden pagar miles de dólares por una sola.",
+   "headline": "WILDLIFE SMUGGLING",
+   "visual": {
+    "type": "card",
+    "big": "SMUGGLERS",
+    "label": "steal snakes for collectors",
+    "sub": "a major threat to the species"
+   }
+  },
+  {
+   "text": "It's not the only island like this in Brazil. On Alcatrazes, another island off São Paulo, lives a different viper found nowhere else, the Alcatrazes lancehead.",
+   "es": "No es la única isla así en Brasil. En Alcatrazes, otra isla frente a São Paulo, vive otra víbora que no existe en ningún otro lugar, la cabeza de lanza de Alcatrazes.",
+   "headline": "ANOTHER SNAKE ISLAND",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops alcatraz OAVM2.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Fire, disease and the small size of the population also put them at risk. Because they've been isolated so long, the snakes have little genetic variety.",
+   "es": "El fuego, las enfermedades y lo pequeño de la población también los ponen en riesgo. Como llevan tanto tiempo aislados, tienen poca variedad genética.",
+   "visual": {
+    "type": "card",
+    "big": "LOW DIVERSITY",
+    "label": "after thousands of years alone",
+    "sub": "making them more fragile"
+   }
+  },
+  {
+   "chapter": "Deadly and precious",
+   "text": "And scientists want them protected for another reason: venom can save lives. Research on the venom of the mainland jararaca helped create captopril, one of the first modern blood pressure medicines, used by millions of people.",
+   "es": "Y los científicos quieren protegerlas por otra razón: el veneno puede salvar vidas. La investigación del veneno de la jararaca del continente ayudó a crear el captopril, uno de los primeros medicamentos modernos para la presión arterial, usado por millones de personas.",
+   "headline": "VENOM AS MEDICINE",
+   "visual": {
+    "type": "card",
+    "big": "CAPTOPRIL",
+    "label": "a blood pressure medicine",
+    "sub": "developed from viper venom research"
+   }
+  },
+  {
+   "text": "Brazil's Butantan Institute in São Paulo studies these snakes and produces antivenom that saves thousands of lives every year.",
+   "es": "El Instituto Butantan de São Paulo estudia estas serpientes y produce antiveneno que salva miles de vidas cada año.",
+   "headline": "BUTANTAN INSTITUTE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops insularis macho e femea Instituto Butantan SP OAVM.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Golden lancehead venom is being studied too, for its effects on blood clotting and the heart. A deadly snake could one day lead to new medicines.",
+   "es": "El veneno de la cabeza de lanza dorada también se estudia, por sus efectos en la coagulación y el corazón. Una serpiente mortal podría llevar algún día a nuevos medicamentos.",
+   "visual": {
+    "type": "card",
+    "big": "NEW MEDICINES",
+    "label": "may come from its venom",
+    "sub": "research is ongoing"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive Snake Island? If you landed there alone and got bitten, with hours between you and antivenom, your chances would be poor. That's exactly why nobody goes without permission, experience and a doctor.",
+   "es": "Entonces, ¿podrías sobrevivir en la Isla de las Serpientes? Si desembarcaras solo y te mordieran, con horas entre tú y el antiveneno, tus posibilidades serían malas. Por eso nadie va sin permiso, experiencia y un médico.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops insularis Queimada Grande SP OAVM.jpg",
+     "Bothrops insularis 210457562.jpg"
+    ]
+   }
+  },
+  {
+   "text": "But the island isn't a monster's lair. It's a tiny, fragile world, and the snakes need protection from us more than we need protection from them.",
+   "es": "Pero la isla no es la guarida de un monstruo. Es un mundo diminuto y frágil, y las serpientes necesitan más protección de nosotros que nosotros de ellas.",
+   "headline": "A FRAGILE WORLD",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bothrops insularis Queimada Grande SP OAVM 1995.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who is scared of snakes. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que les tenga miedo a las serpientes. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Bothrops insularis 210457562.jpg"
+    ]
+   }
+  }
+ ]
+}
