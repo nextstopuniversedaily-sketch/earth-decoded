@@ -44,7 +44,7 @@ def main():
             hits, lines = [], lines + [f"\n## {q}\n- error: {e}"]
             continue
         lines.append(f"\n## {q}  ({len(hits)})")
-        lines += [f"- {t} | {lic} | {w}x{h}" for t, lic, w, h in hits[:15]]
+        lines += [f"- {t} | {lic} | {w}x{h}" for t, lic, w, h in hits[:12]]
     open(os.path.join(ROOT, "probe", "results.md"), "w").write("\n".join(lines) + "\n")
 
 
