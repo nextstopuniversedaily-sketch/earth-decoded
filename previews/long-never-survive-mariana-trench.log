@@ -1,40 +1,38 @@
-[0;93m2026-11-22 00:42:42.219802228 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive the Bottom of the Mariana Trench
-  audio 468.1s (7.80 min)
+  audio 468.3s (7.80 min)
   WIKI File:Marianatrenchmap.png (CC BY 2.5)
-  segment 1/38 [title] 23.0s
-  segment 2/38 [map] 11.9s
+  segment 1/38 [title] 22.9s
+  segment 2/38 [map] 11.8s
   segment 3/38 [card] 11.1s
   NASA 'Himalaya Everest' -> sts068-259-009: Mt. Everest
   segment 4/38 [image] 14.8s
-  segment 5/38 [card] 10.1s
-  segment 6/38 [card] 9.0s
-  segment 7/38 [map] 10.6s
-  segment 8/38 [card] 15.0s
+  segment 5/38 [card] 10.2s
+  segment 6/38 [card] 8.9s
+  segment 7/38 [map] 10.5s
+  segment 8/38 [card] 14.9s
   WIKI File:HMS_challenger_William_Frederick_Mitchell.jpg (Public domain)
-  segment 9/38 [image] 21.7s
+  segment 9/38 [image] 21.8s
   segment 10/38 [card] 13.5s
-  WIKI File:Deep blue Red Sea reefs.jpg (Attribution)
-  segment 11/38 [image] 10.8s
-  segment 12/38 [card] 11.4s
-  segment 13/38 [card] 13.9s
-  segment 14/38 [question] 7.8s
+  WIKI File:Cyclothone-hires.jpg (Public domain)
+  segment 11/38 [image] 10.7s
+  segment 12/38 [card] 11.5s
+  segment 13/38 [card] 13.8s
+  segment 14/38 [question] 7.9s
   WIKI File:Unusual type of deep sea medusae.jpg (Public domain)
   segment 15/38 [image] 9.6s
   segment 16/38 [card] 8.8s
   WIKI File:Scuba diver SCTLD antibiotic paste.png (Public domain)
-  segment 17/38 [image] 13.9s
-  segment 18/38 [card] 15.0s
-  segment 19/38 [card] 13.9s
+  segment 17/38 [image] 14.0s
+  segment 18/38 [card] 15.1s
+  segment 19/38 [card] 13.8s
   segment 20/38 [card] 13.9s
-  segment 21/38 [card] 15.7s
+  segment 21/38 [card] 15.8s
   WIKI File:Lancetfish Alepisaurus ferox Okeanos 2017 (cropped).jpg (Public domain)
-  segment 22/38 [image] 9.0s
+  segment 22/38 [image] 9.1s
   WIKI File:Bathyscaphe_Trieste.jpg (Public domain)
-  segment 23/38 [image] 15.6s
+  segment 23/38 [image] 15.7s
   segment 24/38 [card] 11.9s
-  WIKI File:Rolex Deepsea Sea-Dweller 116660 Blue Dial 'James Cameron'.jpg (CC0)
-  segment 25/38 [image] 9.6s
+  segment 25/38 [card] 9.6s
   - skip File:Limiting Factor CAD Rendering Cutaway.jpg: license 'CC BY-SA 4.0'
   - skip File:Limiting Factor on the water surface.jpg: license 'CC BY-SA 4.0'
   - skip File:Limiting Factor at the Cumberland East Bay.jpg: license 'CC BY-SA 4.0'
@@ -44,29 +42,29 @@
   - skip File:Rendering of a cutaway of Limiting Factor.jpg: license 'CC BY-SA 4.0'
   - skip File:Limiting Factor floating on the water surface.jpg: license 'CC BY-SA 4.0'
   WIKI File:Photo of Dr. Dawn Wright with Snoopy at Challenger Deep 071222 in the submersible DSV Limiting Factor.jpg (CC0)
-  segment 26/38 [image] 14.3s
-  segment 27/38 [question] 8.2s
+  segment 26/38 [image] 14.2s
+  segment 27/38 [question] 8.3s
   WIKI File:Cidaroid sea urchin in Marianas deep waters.jpg (Public domain)
   segment 28/38 [image] 7.0s
   WIKI File:Gammarus_roeselii.jpg (CC BY 2.5)
-  segment 29/38 [image] 12.5s
+  segment 29/38 [image] 12.6s
   WIKI File:XenophyophoreNOAA.jpg (Public domain)
   segment 30/38 [image] 10.1s
   WIKI File:Festive_Snailfish.jpg (Public domain)
   segment 31/38 [image] 9.0s
   WIKI File:Whalefall_hires.jpg (Public domain)
-  segment 32/38 [image] 13.2s
+  segment 32/38 [image] 13.4s
   WIKI File:Beach_in_Sharm_el-Naga02.jpg (Public domain)
   segment 33/38 [image] 11.9s
   segment 34/38 [card] 9.3s
   WIKI File:Neocrinus decorus.jpg (Public domain)
-  segment 35/38 [image] 14.2s
+  segment 35/38 [image] 14.3s
   WIKI File:Physonect siphonophore Puerto Rico April 2015.png (Public domain)
-  segment 36/38 [image] 15.7s
+  segment 36/38 [image] 15.6s
   segment 37/38 [question] 7.5s
   - skip File:Sunset at Pacific Ocean Baler.jpg: license 'CC BY-SA 4.0'
   WIKI File:Curious distortion of the Sun light over the Pacific Ocean (sunset 3-cc).jpg (CC BY 4.0)
-  segment 38/38 [end] 13.6s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-mariana-trench.mp4 (37.8 MB, 7.80 min)
+  segment 38/38 [end] 13.7s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-mariana-trench.mp4 (36.6 MB, 7.80 min)
   WIKI File:Marianatrenchmap.png (CC BY 2.5)
 thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-mariana-trench.jpg
