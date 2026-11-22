@@ -190,7 +190,9 @@
    "visual": {
     "type": "end",
     "big": "SNAKE-FREE",
-    "query": "Ireland from space"
+    "commons": [
+     "Irish Countryside Unsplash"
+    ]
    }
   }
  ]
