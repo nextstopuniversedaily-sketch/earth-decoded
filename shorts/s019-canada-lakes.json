@@ -20,16 +20,20 @@
   "shorts"
  ],
  "thumbnail": {
-  "commons": [
-   "Canada lakes aerial"
-  ],
-  "query": "Canada lakes",
+  "map": {
+   "extent": [
+    -140,
+    -50,
+    40,
+    72
+   ],
+   "highlight": [
+    "Canada"
+   ]
+  },
   "white": "62% OF ALL",
   "accent": "LAKES",
-  "badge": "IN ONE COUNTRY",
-  "files": [
-   "Long Lake, aerial (25199062016).jpg"
-  ]
+  "badge": "IN ONE COUNTRY"
  },
  "segments": [
   {
@@ -206,7 +210,9 @@
    "visual": {
     "type": "end",
     "big": "LAKE OR OCEAN?",
-    "query": "Canada lake"
+    "commons": [
+     "Long Lake aerial 25225325185"
+    ]
    }
   }
  ]

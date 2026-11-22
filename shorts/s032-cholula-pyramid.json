@@ -122,11 +122,10 @@
    "text": "Today, you can walk through tunnels dug by archaeologists inside the pyramid, and on a clear day, see the Popocatépetl volcano smoking behind it.",
    "es": "Hoy puedes caminar por túneles excavados por arqueólogos dentro de la pirámide, y en un día despejado ver el volcán Popocatépetl humeando detrás.",
    "visual": {
-    "type": "image",
-    "wiki": [
-     "Popocatépetl"
-    ],
-    "query": "Popocatepetl"
+    "type": "card",
+    "big": "8 KM",
+    "label": "of tunnels dug by archaeologists",
+    "sub": "you can walk inside the pyramid"
    },
    "headline": "TUNNELS INSIDE"
   },
@@ -166,7 +165,9 @@
    "visual": {
     "type": "end",
     "big": "BEEN THERE?",
-    "query": "Cholula"
+    "commons": [
+     "Cholula church atop pyramid"
+    ]
    }
   }
  ]

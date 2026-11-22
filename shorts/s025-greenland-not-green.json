@@ -20,16 +20,20 @@
   "shorts"
  ],
  "thumbnail": {
-  "commons": [
-   "Greenland coast"
-  ],
-  "query": "Greenland ice",
+  "map": {
+   "extent": [
+    -75,
+    -10,
+    58,
+    84
+   ],
+   "highlight": [
+    "Greenland"
+   ]
+  },
   "white": "GREEN?",
   "accent": "REALLY?",
-  "badge": "80% ICE",
-  "files": [
-   "Greenland coast - panoramio.jpg"
-  ]
+  "badge": "80% ICE"
  },
  "segments": [
   {

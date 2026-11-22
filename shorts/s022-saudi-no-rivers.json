@@ -106,11 +106,10 @@
    "text": "In the 1980s and 90s, the country used that water to grow so much wheat that it exported it. From space, you could see thousands of green circles in the desert.",
    "es": "En los años ochenta y noventa, el país usó esa agua para cultivar tanto trigo que lo exportaba. Desde el espacio se veían miles de círculos verdes en el desierto.",
    "visual": {
-    "type": "image",
-    "commons": [
-     "Saudi Arabia center pivot irrigation from space"
-    ],
-    "query": "crop circles desert from space"
+    "type": "card",
+    "big": "GREEN CIRCLES",
+    "label": "wheat farms in the desert",
+    "sub": "visible from space"
    },
    "headline": "CIRCLES IN THE SAND"
   },
