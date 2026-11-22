@@ -1,0 +1,86 @@
+[0;93m2026-11-22 04:07:02.836240244 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive the Danakil Depression
+  audio 523.3s (8.72 min)
+  - skip File:ET_Afar_asv2018-01_img48_Dallol.jpg: license 'FAL'
+  ! no usable NASA image for 'Dallol'
+  segment 1/35 [title] 26.3s
+  segment 2/35 [map] 9.1s
+  segment 3/35 [card] 12.8s
+  segment 4/35 [map] 14.9s
+  segment 5/35 [card] 13.6s
+  ! no usable NASA image for 'Danakil salt flat'
+  segment 6/35 [image] 17.1s
+  segment 7/35 [card] 22.6s
+  segment 8/35 [card] 20.4s
+  - skip File:Danakil Desert 04.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 07.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 08.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 05.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 06.jpg: license 'CC BY-SA 4.0'
+  - skip File:Danakil Desert 03.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Danakil desert'
+  segment 9/35 [image] 12.6s
+  - skip File:Northeast Ethiopia ESA399449.jpg: license 'CC BY-SA 3.0 igo'
+  ! no usable NASA image for 'Danakil desert night'
+  segment 10/35 [image] 14.8s
+  segment 11/35 [card] 12.9s
+  segment 12/35 [question] 6.0s
+  - skip File:ET_Afar_asv2018-01_img48_Dallol.jpg: license 'FAL'
+  ! no usable NASA image for 'Dallol hydrothermal field'
+  segment 13/35 [image] 17.2s
+  segment 14/35 [card] 17.8s
+  ! no usable NASA image for 'Dallol acid pool'
+  segment 15/35 [image] 12.0s
+  segment 16/35 [card] 19.3s
+  ! no usable NASA image for 'Dallol ruins'
+  segment 17/35 [image] 18.7s
+  segment 18/35 [card] 18.0s
+  WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
+  segment 19/35 [image] 18.6s
+  - skip File:ET Afar asv2018-01 img36 Dallol.jpg: license 'FAL'
+  - skip File:ET Afar asv2018-01 img48 Dallol.jpg: license 'FAL'
+  - skip File:ET Afar asv2018-01 img37 Dallol.jpg: license 'FAL'
+  - skip File:Dallol, Danakil Depression.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dallol-Ethiopie (45).jpg: license 'CC BY-SA 3.0'
+  - skip File:Dallol-Ethiopie (46).jpg: license 'CC BY-SA 3.0'
+  - skip File:Ruins of Dallol, Ethiopia.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dallol fumarole solne - panoramio.jpg: license 'CC BY-SA 3.0'
+  - skip File:ET Afar asv2018-01 img59 Dallol.jpg: license 'FAL'
+  - skip File:Yellow Lake 2.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Dallol sulfur'
+  segment 20/35 [image] 13.0s
+  segment 21/35 [card] 14.2s
+  segment 22/35 [question] 6.9s
+  - skip File:Erta_Ale.jpg: license 'CC BY-SA 2.0'
+  ! no usable NASA image for 'Erta Ale lava lake'
+  segment 23/35 [image] 15.0s
+  segment 24/35 [card] 13.8s
+  - skip File:Erta Ale 2.jpg: license 'CC BY-SA 2.0'
+  ! no usable NASA image for 'Erta Ale crater'
+  segment 25/35 [image] 14.9s
+  WIKI File:Erta Ale 491.jpg (CC BY 3.0)
+  segment 26/35 [image] 14.3s
+  ! no usable NASA image for 'Danakil salt miners camels'
+  segment 27/35 [image] 10.6s
+  ! no usable NASA image for 'salt caravan camels Ethiopia'
+  segment 28/35 [image] 15.9s
+  segment 29/35 [card] 13.5s
+  segment 30/35 [card] 11.4s
+  - skip File:Reconstruction_of_the_fossil_skeleton_of_"Lucy"_the_Australopithecus_afarensis.jpg: looks like a chart/blank
+  NASA 'Lucy fossil skeleton' -> NHQ202110140015: Lucy Mission Prelaunch
+  segment 31/35 [image] 19.1s
+  - skip File:Map_Danakil.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Danakil Depression landscape'
+  segment 32/35 [image] 23.0s
+  - skip File:ET_Afar_asv2018-01_img48_Dallol.jpg: license 'FAL'
+  ! no usable NASA image for 'Dallol colors'
+  segment 33/35 [image] 13.6s
+  segment 34/35 [question] 6.2s
+  NASA 'desert sunset' -> GSFC_20171208_Archive_e001945: Desert Patterns
+  segment 35/35 [end] 13.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-danakil.mp4 (33.0 MB, 8.72 min)
+  - skip File:ET_Afar_asv2018-01_img48_Dallol.jpg: license 'FAL'
+  ! no usable NASA image for 'Dallol Ethiopia colorful'
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-danakil.jpg
