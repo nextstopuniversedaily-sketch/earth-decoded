@@ -1,0 +1,21 @@
+[0;93m2026-11-22 08:23:58.546035818 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 23: Mount Everest
+  audio 106.8s
+  WIKI File:Everest, Himalayas.jpg (CC BY 4.0)
+  segment 1/12 [title] 3.5s
+  segment 2/12 [card] 8.8s
+  segment 3/12 [map] 7.0s
+  segment 4/12 [card] 16.3s
+  segment 5/12 [map] 8.7s
+  segment 6/12 [card] 10.0s
+  WIKI File:Chimborazo Volcano (49638822642).jpg (CC BY 2.0)
+  segment 7/12 [image] 12.0s
+  segment 8/12 [card] 6.4s
+  WIKI File:Wonder_Lake_and_Denali.jpg (Public domain)
+  segment 9/12 [image] 13.0s
+  segment 10/12 [card] 6.9s
+  WIKI File:Mauna Kea Eastern Telescopes.jpg (CC BY 4.0)
+  segment 11/12 [image] 6.9s
+  NASA 'Mount Everest' -> PIA01301: Space Radar Image of Mount Everest
+  segment 12/12 [end] 7.3s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s023.mp4 (23.7 MB)

@@ -835,7 +835,33 @@ Arabia Saudita es el país más grande del mundo sin un río permanente. ¿De d�
 ## 26. Tue Dec 15, 12:00 PM · Short
 **Everest Is NOT the Tallest Mountain? 🏔️🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s023.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s023.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s023.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s023.es.srt)
+
+**Title** (copy):
+```text
+Everest Is NOT the Tallest Mountain? 🏔️🤯 #shorts
+```
+**Description** (copy):
+```text
+Everest is the highest mountain above sea level, but two other mountains can claim the title in different ways: Mauna Kea in Hawaii and Chimborazo in Ecuador.
+#Everest #MaunaKea #Chimborazo #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+mount everest, tallest mountain, mauna kea, chimborazo, everest not tallest, mountains, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿El Everest NO es la montaña más alta? 🏔️🤯 #shorts
+```
+```text
+El Everest es la montaña más alta sobre el nivel del mar, pero otras dos pueden reclamar el título de otra forma: el Mauna Kea en Hawái y el Chimborazo en Ecuador.
+#Everest #Chimborazo #shorts
+```
+</details>
 
 ## 27. Wed Dec 16, 12:00 PM · Short
 **Venice Is Built on a Forest Underwater 🇮🇹🤯 #shorts**
