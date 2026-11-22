@@ -1,0 +1,45 @@
+[0;93m2026-11-22 03:18:32.133052141 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 8: The Dead Sea
+  audio 111.2s
+  - skip File:Dead_Sea_beach_00.JPG: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea salt formation (Aerial view, 2007).jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea salt formation (Aerial view, 2007) 04.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea salt formation (Aerial view, 2007) 05.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea salt formation (Aerial view, 2007) 08.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Dead Sea Halite Terraces and Salt Crust Formations 03.jpg (CC BY 4.0)
+  segment 1/12 [title] 2.4s
+  segment 2/12 [map] 11.3s
+  segment 3/12 [card] 11.9s
+  segment 4/12 [card] 5.8s
+  - skip File:20100923_mer_morte13.JPG: license 'CC BY-SA 3.0'
+  NASA 'Jordan River' -> iss073e0425936: The Sea of Galilee and the Dead Sea are connected by the Jordan River
+  segment 5/12 [image] 11.4s
+  WIKI File:Dead-Sea---Salt-Evaporation-Ponds.jpg (Public domain)
+  segment 6/12 [image] 7.5s
+  - skip File:Dead_Sea_beach_00.JPG: license 'CC BY-SA 4.0'
+  - skip File:עץ על אי מלח באמצע ים המלח.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea salt formation (Aerial view, 2007).jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea beach 00.JPG: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea from Jordan.JPG: license 'CC BY-SA 3.0'
+  - skip File:Dead Sea by David Shankbone.jpg: license 'CC BY-SA 3.0'
+  - skip File:Dead Sea sinkholes.jpg: license 'CC BY-SA 4.0'
+  WIKI File:PikiWiki Israel 14532 Dead Sea sinkholes.jpg (Public domain)
+  segment 7/12 [image] 9.7s
+  - skip File:Leonardo-club-dead-sea-mud-treatments2.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea mud man by David Shankbone.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Stefan covered w- Dead Sea mud 1509 (509725163).jpg (CC BY 2.0)
+  segment 8/12 [image] 10.7s
+  WIKI File:Qumran.jpeg (Public domain)
+  segment 9/12 [image] 9.9s
+  segment 10/12 [card] 9.9s
+  - skip File:Royal Dead Sea Hotel in Ein Bokek.jpg: license 'CC BY-SA 4.0'
+  WIKI File:139740 ein bokek - dead sea beach hotels PikiWiki Israel.jpg (CC BY 2.5)
+  segment 11/12 [image] 8.5s
+  - skip File:Dead Sea, Jordan 02.jpg: license 'CC BY-SA 3.0'
+  - skip File:Dead Sea salt incrusted stones.jpg: license 'CC BY-SA 4.0'
+  - skip File:The Dead Sea near Ein Gedi 1.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dead Sea shore.jpg: license 'CC BY-SA 3.0'
+  - skip File:Dead Sea, Jordanian Shore.jpg: license 'CC BY-SA 4.0'
+  WIKI File:VIDEO - Authorised swimming zone on the Dead Sea shore (11737770084).jpg (CC BY 2.0)
+  segment 12/12 [end] 12.2s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s008.mp4 (30.1 MB)
