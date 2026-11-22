@@ -1,0 +1,35 @@
+[0;93m2026-11-22 03:43:20.320197551 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 16: Ireland
+  audio 113.2s
+  - skip File:Cliffs-Of-Moher-OBriens-From-South.JPG: license 'CC BY-SA 3.0'
+  ! no usable NASA image for 'Ireland green cliffs'
+  segment 1/12 [title] 2.6s
+  segment 2/12 [map] 8.1s
+  - skip File:Our_Lady's_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Saint Patrick stained glass'
+  segment 3/12 [image] 11.9s
+  WIKI File:Konrad Steffen Glacier Christiane Leister.jpg (CC0)
+  segment 4/12 [image] 11.7s
+  segment 5/12 [card] 10.1s
+  segment 6/12 [map] 15.0s
+  segment 7/12 [card] 8.0s
+  segment 8/12 [card] 10.4s
+  WIKI File:Lei Kamoe, mamo, 'i'iwi and 'o'o feathers, Bailey House Museum.jpg (CC0)
+  segment 9/12 [image] 12.8s
+  - skip File:Kilbennan_St._Benin's_Church_Window_St._Patrick_Detail_2010_09_16.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for "Saint Patrick's Day parade"
+  segment 10/12 [image] 8.3s
+  segment 11/12 [card] 9.3s
+  - skip File:Green Cheshire countryside - geograph.org.uk - 17749.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside near Ewhurst Green - geograph.org.uk - 2195091.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside near Godden Green - geograph.org.uk - 2933122.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside near Ewhurst Green - geograph.org.uk - 2195058.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside near Burton Green - geograph.org.uk - 2299095.jpg: license 'CC BY-SA 2.0'
+  - skip File:Loxbeare , Green Field and Countryside - geograph.org.uk - 1250266.jpg: license 'CC BY-SA 2.0'
+  - skip File:Open countryside near Lacey Green - geograph.org.uk - 7305096.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside between Bodiam and Ewhurst Green - geograph.org.uk - 2195043.jpg: license 'CC BY-SA 2.0'
+  - skip File:Countryside near Bells Yew Green - geograph.org.uk - 2039221.jpg: license 'CC BY-SA 2.0'
+  - skip File:Lush Green Countryside - geograph.org.uk - 8113318.jpg: license 'CC BY-SA 2.0'
+  ! no usable NASA image for 'Ireland countryside'
+  segment 12/12 [end] 4.8s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s016.mp4 (15.4 MB)
