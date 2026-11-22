@@ -1,0 +1,51 @@
+[0;93m2026-11-22 09:15:22.121321994 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive Chernobyl
+  audio 496.4s (8.27 min)
+  WIKI File:Reactor bloc of the Chernobyl Nuclear Power Plant.JPG (CC BY 3.0)
+  segment 1/35 [title] 27.9s
+  segment 2/35 [map] 11.4s
+  segment 3/35 [map] 17.7s
+  segment 4/35 [card] 13.8s
+  WIKI File:Chernobyl, fourth reactor bloc.JPG (CC BY 3.0)
+  segment 5/35 [image] 14.3s
+  segment 6/35 [card] 15.9s
+  segment 7/35 [card] 14.7s
+  segment 8/35 [card] 14.9s
+  segment 9/35 [card] 12.9s
+  segment 10/35 [card] 11.2s
+  segment 11/35 [card] 15.1s
+  segment 12/35 [question] 5.0s
+  WIKI File:Pripyat (38338630751).jpg (CC BY 2.0)
+  segment 13/35 [image] 12.0s
+  segment 14/35 [card] 15.1s
+  WIKI File:Azure Swimming Pool in Pripyat, Ukraine.jpg (CC BY 4.0)
+  segment 15/35 [image] 12.6s
+  WIKI File:Red Forest (38564687026).jpg (CC BY 2.0)
+  segment 16/35 [image] 15.9s
+  segment 17/35 [card] 15.1s
+  segment 18/35 [card] 15.7s
+  segment 19/35 [card] 14.5s
+  WIKI File:Chernobyl- Before, During, and After.jpg (CC BY 2.0)
+  segment 20/35 [image] 11.6s
+  segment 21/35 [card] 17.1s
+  WIKI File:New Safe Confinement Structure.jpg (CC BY 2.0)
+  segment 22/35 [image] 16.5s
+  segment 23/35 [card] 9.9s
+  segment 24/35 [card] 21.0s
+  segment 25/35 [card] 15.2s
+  WIKI File:Przewalski’s horse in Chernobyl.jpg (CC BY 4.0)
+  segment 26/35 [image] 9.8s
+  segment 27/35 [card] 15.1s
+  segment 28/35 [card] 11.7s
+  segment 29/35 [question] 4.9s
+  segment 30/35 [card] 17.3s
+  segment 31/35 [card] 14.9s
+  segment 32/35 [card] 17.3s
+  WIKI File:View of Chernobyl taken from Pripyat.JPG (Public domain)
+  segment 33/35 [image] 19.4s
+  segment 34/35 [question] 6.2s
+  WIKI File:Pripyat River in Chernobyl 2019 G2.jpg (Public domain)
+  segment 35/35 [end] 12.6s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-chernobyl.mp4 (43.8 MB, 8.27 min)
+  WIKI File:Reactor bloc of the Chernobyl Nuclear Power Plant.JPG (CC BY 3.0)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-chernobyl.jpg

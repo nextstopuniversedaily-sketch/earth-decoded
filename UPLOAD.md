@@ -1415,7 +1415,46 @@ El Amazonas es la selva tropical más grande de la Tierra, con unos 390 mil mill
 ## 46. Sat Feb 20, 11:00 AM · Long video
 **Why You'd Never Survive Inside Chernobyl's Reactor 4**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-chernobyl.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-chernobyl.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-chernobyl.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-chernobyl.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Inside Chernobyl's Reactor 4
+```
+**Description** (copy):
+```text
+On April 26, 1986, Reactor 4 at the Chernobyl nuclear plant exploded, in the worst nuclear accident in history. What would radiation have done to you there in 1986, what's it like in the exclusion zone today, and why did wildlife come back?
+
+Sources: IAEA, WHO, UNSCEAR, Chernobyl Exclusion Zone Agency.
+#Chernobyl #Pripyat #Nuclear #EarthDecoded
+
+Chapters:
+0:00 1:23 AM
+0:57 The explosion
+1:41 What radiation does
+2:54 The ghost city
+3:50 The Elephant's Foot
+4:35 Covering the reactor
+5:51 Nature takes over
+6:48 Could you visit today?
+7:38 Could you survive?
+```
+**Tags** (copy):
+```text
+chernobyl, pripyat, why you'd never survive, chernobyl disaster, exclusion zone, radiation, elephant's foot, new safe confinement, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías dentro del reactor 4 de Chernóbil
+```
+```text
+El 26 de abril de 1986, el reactor 4 de la planta nuclear de Chernóbil explotó, en el peor accidente nuclear de la historia. ¿Qué te habría hecho la radiación ahí en 1986, cómo es hoy la zona de exclusión y por qué volvió la fauna?
+#Chernobil #Pripyat
+```
+</details>
 
 ## 47. Sat Feb 27, 11:00 AM · Long video
 **What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)**
