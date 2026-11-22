@@ -1,0 +1,80 @@
+[0;93m2026-11-22 03:52:18.903833525 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive a Winter in Antarctica
+  audio 532.2s (8.87 min)
+  NASA 'Antarctica ice' -> GSFC_20171208_Archive_e000153: Balloons on Ice: Launch # 2 takes flight in Antarctica
+  segment 1/40 [title] 24.3s
+  WIKI File:Antarctica 6400px from Blue Marble.jpg (Public domain)
+  segment 2/40 [image] 11.6s
+  segment 3/40 [card] 22.8s
+  segment 4/40 [card] 10.7s
+  - skip File:Antarctic Peninsula.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Sejas 2018 Antarctica inversion.jpg: looks like a chart/blank
+  NASA 'Antarctica plateau' -> PIA11419: Byrd Glacier, Antarctica
+  segment 5/40 [image] 15.6s
+  - skip File:Orion from Antarctica in polar night.png: license 'CC BY-SA 4.0'
+  WIKI File:Australasia and Antarctica at night by VIIRS.jpg (Public domain)
+  segment 6/40 [image] 4.1s
+  WIKI File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg (Public domain)
+  segment 7/40 [image] 15.2s
+  segment 8/40 [card] 13.4s
+  segment 9/40 [question] 5.9s
+  ! no usable NASA image for 'Antarctica researcher cold'
+  segment 10/40 [image] 16.2s
+  segment 11/40 [card] 10.6s
+  WIKI File:Aptenodytes forsteri -Antarctica -blizzard-8b.jpg (CC BY 2.0)
+  segment 12/40 [image] 13.8s
+  segment 13/40 [card] 12.4s
+  WIKI File:LC-130 Hercules in Antarctica.jpg (Public domain)
+  segment 14/40 [image] 12.4s
+  segment 15/40 [card] 14.6s
+  segment 16/40 [card] 13.5s
+  WIKI File:Amundsen_in_fur_skins.jpg (Public domain)
+  segment 17/40 [image] 16.9s
+  segment 18/40 [card] 15.2s
+  WIKI File:Scottgroup.jpg (Public domain)
+  segment 19/40 [image] 14.1s
+  WIKI File:Endurance_under_full_sail_Frank_Hurley_State_Library_NSW_a090012h.jpg (Public domain)
+  segment 20/40 [image] 14.1s
+  segment 21/40 [card] 11.9s
+  segment 22/40 [card] 12.8s
+  WIKI File:Amundsen–Scott_South_Pole_Station_01.jpg (CC BY 4.0)
+  segment 23/40 [image] 11.5s
+  segment 24/40 [card] 16.5s
+  WIKI File:ConcordiaFromTower.jpg (Public domain)
+  segment 25/40 [image] 16.3s
+  segment 26/40 [question] 6.0s
+  - skip File:HCFC and HFC atmospheric trends.png: looks like a chart/blank
+  - skip File:Stud Farm, Burstwick - geograph.org.uk - 481327.jpg: license 'CC BY-SA 2.0'
+  WIKI File:Curtis's botanical magazine (Plate 3089) (8411499710).jpg (Public domain)
+  segment 27/40 [image] 15.0s
+  - skip File:IceCube_Neutrino_Observatory_in_2023_02.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'IceCube observatory'
+  segment 28/40 [image] 17.0s
+  NASA 'aurora australis Antarctica' -> iss065e214281: iss065e214281
+  segment 29/40 [image] 15.6s
+  segment 30/40 [card] 13.5s
+  WIKI File:Icecore_4.jpg (Public domain)
+  segment 31/40 [image] 11.2s
+  WIKI File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg (CC BY 2.0)
+  segment 32/40 [image] 14.8s
+  - skip File:Emperor penguin chicks at Sea World.png: license 'CC BY-SA 3.0'
+  - skip File:Emperor penguin chicks at Sea World (mask).png: license 'CC BY-SA 3.0'
+  - skip File:Emperor penguin chicks at Sea World (foreground).png: license 'CC BY-SA 3.0'
+  WIKI File:Emperor penguin chicks at Sea World · DF-ST-90-04598.JPG (Public domain)
+  segment 33/40 [image] 11.8s
+  - skip File:Mikkelsen_Harbour-2016-Trinity_Island_(D'Hainaut_Island)–Weddell_seal_(Leptonychotes_weddellii)_03.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Weddell seal'
+  segment 34/40 [image] 7.7s
+  segment 35/40 [card] 15.5s
+  segment 36/40 [card] 9.9s
+  WIKI File:Fish8918 (27968267916).jpg (Public domain)
+  segment 37/40 [image] 11.9s
+  - skip File:Sunrise in Antarctica (32349042227).jpg: license 'CC BY-SA 2.0'
+  WIKI File:Antarctic Sunrise In Deloncle Bay.jpg (CC BY 2.0)
+  segment 38/40 [image] 17.9s
+  segment 39/40 [question] 4.6s
+  NASA 'Antarctica iceberg' -> GSFC_20171208_Archive_e000021: Massive Iceberg Breaks Off from Antarctica
+  segment 40/40 [end] 13.5s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-antarctic-winter.mp4 (41.7 MB, 8.87 min)
+  NASA 'Antarctica night' -> PIA08518: CloudSat Image of a Polar Night Storm Near Antarctica
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-antarctic-winter.jpg
