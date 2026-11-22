@@ -1,0 +1,22 @@
+[0;93m2026-11-22 08:31:38.904913316 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 26: The Amazon
+  audio 106.0s
+  WIKI File:Meeting of Waters (Manaus).jpg (CC0)
+  segment 1/12 [title] 3.5s
+  segment 2/12 [map] 9.5s
+  segment 3/12 [card] 8.3s
+  segment 4/12 [card] 4.4s
+  WIKI File:The Meeting of the Waters, Manaus, Brazil.jpg (CC0)
+  segment 5/12 [image] 11.8s
+  segment 6/12 [card] 10.5s
+  WIKI File:Amazon River (MODIS 2025-07-20).jpg (Public domain)
+  segment 7/12 [image] 9.0s
+  WIKI File:Amazon boat in Rio Negro River Manaus AM) - panoramio.jpg (CC BY 3.0)
+  segment 8/12 [image] 8.9s
+  WIKI File:Cargo ferry transporting cars passing by the Meeting of the Waters, Manaus, Brazil 2.jpg (CC0)
+  segment 9/12 [image] 11.5s
+  segment 10/12 [card] 11.0s
+  segment 11/12 [card] 10.7s
+  NASA 'Amazon rainforest' -> PIA11420: Mato Grosso, Brazil
+  segment 12/12 [end] 6.7s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s026.mp4 (24.8 MB)

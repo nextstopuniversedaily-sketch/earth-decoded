@@ -928,7 +928,33 @@ Groenlandia es la isla más grande del mundo y cerca del 80% está bajo hielo de
 ## 29. Fri Dec 18, 12:00 PM · Short
 **Why There Are No Bridges Over the Amazon River 🌎🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s026.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s026.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s026.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s026.es.srt)
+
+**Title** (copy):
+```text
+Why There Are No Bridges Over the Amazon River 🌎🤯 #shorts
+```
+**Description** (copy):
+```text
+The Amazon is one of the longest rivers on Earth and carries more water than any other, yet not a single bridge crosses its main channel. Here's why.
+#Amazon #AmazonRiver #Brazil #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+amazon river, amazon bridges, brazil, rainforest, longest river, amazon facts, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué no hay puentes sobre el río Amazonas 🌎🤯 #shorts
+```
+```text
+El Amazonas es uno de los ríos más largos de la Tierra y lleva más agua que cualquier otro, pero ni un solo puente cruza su cauce principal. Te explico por qué.
+#Amazonas #Brasil #shorts
+```
+</details>
 
 ## 30. Sat Dec 19, 11:00 AM · Long video
 **What If Yellowstone's Supervolcano Erupted Tomorrow?**
