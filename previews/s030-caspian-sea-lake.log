@@ -1,0 +1,17 @@
+[0;93m2026-11-22 08:41:08.271723501 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 30: The Caspian Sea
+  audio 96.2s
+  segment 1/11 [title] 2.4s
+  segment 2/11 [map] 9.9s
+  segment 3/11 [card] 9.5s
+  segment 4/11 [card] 6.5s
+  segment 5/11 [card] 9.8s
+  WIKI File:Caspian Sea from orbit.jpg (Public domain)
+  segment 6/11 [image] 7.0s
+  segment 7/11 [card] 9.8s
+  segment 8/11 [card] 13.1s
+  segment 9/11 [card] 13.1s
+  segment 10/11 [card] 10.8s
+  NASA 'Caspian Sea' -> iss073e0819909: The Caspian Sea and the hypersaline Garabogazköl Basin
+  segment 11/11 [end] 4.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s030.mp4 (9.7 MB)

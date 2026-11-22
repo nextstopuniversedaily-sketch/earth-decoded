@@ -1096,7 +1096,33 @@ En el estrecho de Bering, dos islas pequeñas están a menos de 4 km: la Diómed
 ## 34. Tue Dec 22, 12:00 PM · Short
 **The Caspian Sea Is Actually a Lake?! 🌊🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s030.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s030.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s030.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s030.es.srt)
+
+**Title** (copy):
+```text
+The Caspian Sea Is Actually a Lake?! 🌊🤯 #shorts
+```
+**Description** (copy):
+```text
+The Caspian Sea is the largest lake on Earth, bigger than Japan, yet it's salty and called a sea. Whether it's a sea or a lake even mattered for oil, gas and borders.
+#CaspianSea #Lake #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+caspian sea, largest lake, sea or lake, caviar, geography facts, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿El mar Caspio en realidad es un lago? 🌊🤯 #shorts
+```
+```text
+El mar Caspio es el lago más grande de la Tierra, más grande que Japón, pero es salado y se llama mar. Si es mar o lago incluso importó para el petróleo, el gas y las fronteras.
+#MarCaspio #shorts
+```
+</details>
 
 ## 35. Wed Dec 23, 12:00 PM · Short
 **The Island That Looks Like Another Planet 🌳👽 #shorts**
