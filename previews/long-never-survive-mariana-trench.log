@@ -1,0 +1,89 @@
+[0;93m2026-11-22 00:22:03.902446485 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive the Bottom of the Mariana Trench
+  audio 468.3s (7.80 min)
+  WIKI File:Open and Closed Cell Clouds over the Pacific Ocean (MODIS 2023-12-16).jpg (Public domain)
+  segment 1/38 [title] 22.9s
+  segment 2/38 [map] 11.8s
+  segment 3/38 [card] 11.1s
+  - skip File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg: license 'CC BY-SA 3.0'
+  NASA 'Mount Everest' -> PIA01301: Space Radar Image of Mount Everest
+  segment 4/38 [image] 14.8s
+  segment 5/38 [card] 10.2s
+  - skip File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg: license 'CC BY-SA 3.0'
+  - skip File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006.jpg: license 'CC BY-SA 2.5'
+  - skip File:20110810 North Face of Everest Tibet China Panoramic.jpg: license 'CC BY-SA 3.0'
+  - skip File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006 edit 1.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mt Everest north face marked01.png: license 'CC BY-SA 3.0'
+  - skip File:Mount Everest North Face.jpg: license 'CC BY-SA 3.0'
+  - skip File:North-Face-Mount-Everest-Tibet-Autonomous-Region.jpg: license 'CC BY-SA 4.0'
+  - skip File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006 (3to4).jpg: license 'CC BY-SA 2.5'
+  - skip File:North face marked.png: license 'CC BY-SA 2.5'
+  - skip File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006 (square).jpg: license 'CC BY-SA 2.5'
+  - skip File:Mount Everest as seen from Drukair2 PLW edit Cropped.jpg: license 'CC BY-SA 2.0'
+  NASA 'Himalaya Everest' -> sts068-259-009: Mt. Everest
+  segment 6/38 [image] 8.9s
+  segment 7/38 [map] 10.5s
+  ! no usable NASA image for 'ocean floor relief'
+  segment 8/38 [image] 14.9s
+  WIKI File:HMS_challenger_William_Frederick_Mitchell.jpg (Public domain)
+  segment 9/38 [image] 21.8s
+  segment 10/38 [card] 13.5s
+  ! no usable NASA image for 'underwater sunlight'
+  segment 11/38 [image] 10.7s
+  segment 12/38 [card] 11.5s
+  - skip File:Schematic_representation_of_pelagic_and_benthic_zones.jpg: license 'CC BY-SA 4.0'
+  NASA 'deep sea darkness' -> PIA01737: Space Radar Image of Weddell Sea, Antarctica
+  segment 13/38 [image] 13.8s
+  segment 14/38 [question] 7.9s
+  - skip File:Deep blue Red Sea reefs.jpg: license 'Attribution'
+  - skip File:Ocean circulation and bathymetry in the North Atlantic Ocean.png: looks like a chart/blank
+  - skip File:DOC net production, transport and export in the ocean.png: license 'CC BY-SA 4.0'
+  - skip File:Water Boundaries (15660535605).jpg: license 'No restrictions'
+  WIKI File:Tehuano Wind Colors the Ocean (4145).jpg (Public domain)
+  segment 15/38 [image] 9.6s
+  segment 16/38 [card] 8.8s
+  NASA 'ocean diver' -> KSC-20180120-PH_SWW01_0002: Underway Recovery Test 6 (URT-6) - Day 4 Activities
+  segment 17/38 [image] 14.0s
+  segment 18/38 [card] 15.1s
+  segment 19/38 [card] 13.8s
+  segment 20/38 [card] 13.9s
+  ! no usable NASA image for 'bubbles underwater'
+  segment 21/38 [image] 15.8s
+  WIKI File:NOAA SeaBED AUV Popoki.png (Public domain)
+  segment 22/38 [image] 9.1s
+  - skip File:Bathyscaphe_Trieste.jpg: looks like a chart/blank
+  ! no usable NASA image for 'bathyscaphe Trieste'
+  segment 23/38 [image] 15.7s
+  segment 24/38 [card] 11.9s
+  NASA 'submersible' -> KSC-97PC1296: KSC-97PC1296
+  segment 25/38 [image] 9.6s
+  - skip File:DSV_Bakunawa_descending_underwater_(cropped).jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'deep submergence vehicle'
+  segment 26/38 [image] 14.2s
+  segment 27/38 [question] 8.3s
+  WIKI File:Cidaroid sea urchin in Marianas deep waters.jpg (Public domain)
+  segment 28/38 [image] 7.0s
+  WIKI File:Gammarus_roeselii.jpg (CC BY 2.5)
+  segment 29/38 [image] 12.6s
+  WIKI File:XenophyophoreNOAA.jpg (Public domain)
+  segment 30/38 [image] 10.1s
+  WIKI File:Festive_Snailfish.jpg (Public domain)
+  segment 31/38 [image] 9.0s
+  WIKI File:Whalefall_hires.jpg (Public domain)
+  segment 32/38 [image] 13.4s
+  WIKI File:Beach_in_Sharm_el-Naga02.jpg (Public domain)
+  segment 33/38 [image] 11.9s
+  segment 34/38 [card] 9.3s
+  - skip File:Deep blue Red Sea reefs.jpg: license 'Attribution'
+  - skip File:Ocean circulation and bathymetry in the North Atlantic Ocean.png: looks like a chart/blank
+  WIKI File:Punch Davy Jones's Locker.png (Public domain)
+  segment 35/38 [image] 14.3s
+  NASA 'deep sea' -> PIA12080: Melted Ice
+  segment 36/38 [image] 15.6s
+  segment 37/38 [question] 7.5s
+  - skip File:Sunset at Pacific Ocean Baler.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Curious distortion of the Sun light over the Pacific Ocean (sunset 3-cc).jpg (CC BY 4.0)
+  segment 38/38 [end] 13.7s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-mariana-trench.mp4 (50.2 MB, 7.80 min)
+  WIKI File:Marianatrenchmap.png (CC BY 2.5)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-mariana-trench.jpg
