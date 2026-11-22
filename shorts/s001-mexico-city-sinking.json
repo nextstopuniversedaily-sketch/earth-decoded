@@ -131,7 +131,12 @@
       "visual": {
         "type": "end",
         "big": "RUNNING DRY",
-        "query": "Mexico City at night astronaut photograph"
+        "commons": [
+          "Sobrevuelos CDMX",
+          "Ciudad de Mexico vista aerea",
+          "Mexico City skyline"
+        ],
+        "query": "Mexico City"
       }
     }
   ]
