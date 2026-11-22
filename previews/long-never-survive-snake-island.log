@@ -1,0 +1,52 @@
+[0;93m2026-11-22 10:09:28.855388654 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive Snake Island
+  audio 450.9s (7.51 min)
+  WIKI File:Bothrops insularis Queimada Grande SP OAVM.jpg (CC BY 4.0)
+  segment 1/37 [title] 25.9s
+  segment 2/37 [map] 12.0s
+  segment 3/37 [map] 10.8s
+  segment 4/37 [card] 11.2s
+  segment 5/37 [card] 16.2s
+  segment 6/37 [card] 9.9s
+  WIKI File:Bothrops insularis Queimada Grande SP OAVM.jpg (CC BY 4.0)
+  segment 7/37 [image] 8.4s
+  WIKI File:Bothrops insularis Ilha Queimada Grande SP OAVM.jpg (CC BY 4.0)
+  segment 8/37 [image] 8.3s
+  segment 9/37 [card] 14.6s
+  segment 10/37 [card] 13.2s
+  segment 11/37 [card] 12.9s
+  segment 12/37 [question] 6.1s
+  segment 13/37 [card] 15.8s
+  WIKI File:Bothrops jararaca 321960271.jpg (CC BY 4.0)
+  segment 14/37 [image] 11.0s
+  segment 15/37 [card] 13.0s
+  segment 16/37 [card] 12.6s
+  segment 17/37 [card] 16.1s
+  segment 18/37 [card] 12.1s
+  segment 19/37 [card] 10.7s
+  segment 20/37 [card] 12.5s
+  segment 21/37 [card] 9.9s
+  segment 22/37 [card] 13.7s
+  segment 23/37 [card] 14.1s
+  segment 24/37 [card] 7.2s
+  segment 25/37 [question] 5.4s
+  segment 26/37 [card] 14.0s
+  segment 27/37 [card] 13.0s
+  segment 28/37 [card] 12.1s
+  WIKI File:Bothrops alcatraz OAVM2.jpg (CC BY 4.0)
+  segment 29/37 [image] 13.0s
+  segment 30/37 [card] 11.7s
+  segment 31/37 [card] 17.0s
+  WIKI File:Bothrops insularis macho e femea Instituto Butantan SP OAVM.jpg (CC BY 4.0)
+  segment 32/37 [image] 9.9s
+  segment 33/37 [card] 10.7s
+  WIKI File:Bothrops insularis Queimada Grande SP OAVM.jpg (CC BY 4.0)
+  segment 34/37 [image] 16.2s
+  WIKI File:Bothrops insularis Queimada Grande SP OAVM 1995.jpg (CC BY 4.0)
+  segment 35/37 [image] 10.4s
+  segment 36/37 [question] 6.2s
+  WIKI File:Bothrops insularis 210457562.jpg (CC0)
+  segment 37/37 [end] 13.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-snake-island.mp4 (30.5 MB, 7.51 min)
+  WIKI File:Bothrops insularis Queimada Grande SP OAVM.jpg (CC BY 4.0)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-snake-island.jpg

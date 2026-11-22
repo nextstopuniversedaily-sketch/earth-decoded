@@ -1479,7 +1479,44 @@ El desierto de Atacama, en Chile, es el lugar no polar más seco de la Tierra. A
 ## 44. Sat Feb 6, 11:00 AM · Long video
 **Why You'd Never Survive Snake Island (Brazil's Forbidden Island)**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-snake-island.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-snake-island.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-snake-island.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-snake-island.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Snake Island (Brazil's Forbidden Island)
+```
+**Description** (copy):
+```text
+Off the coast of São Paulo lies Ilha da Queimada Grande, better known as Snake Island, home to thousands of golden lanceheads, one of the most venomous snakes in the Americas, found nowhere else on Earth. Here's the truth behind the legends, and why almost nobody is allowed to go.
+
+Sources: Instituto Butantan, ICMBio, IUCN Red List.
+#SnakeIsland #Brazil #GoldenLancehead #EarthDecoded
+
+Chapters:
+0:00 The forbidden island
+1:26 Meet the golden lancehead
+2:29 The venom
+4:13 Legends vs facts
+5:03 Why it's forbidden
+6:07 Deadly and precious
+6:45 Could you survive?
+```
+**Tags** (copy):
+```text
+snake island, ilha da queimada grande, golden lancehead, why you'd never survive, brazil, venomous snakes, forbidden island, bothrops insularis, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en la Isla de las Serpientes (la isla prohibida de Brasil)
+```
+```text
+Frente a la costa de São Paulo está la Ilha da Queimada Grande, conocida como la Isla de las Serpientes, hogar de miles de cabezas de lanza doradas, una de las serpientes más venenosas de América, que no existe en ningún otro lugar. Esta es la verdad detrás de las leyendas, y por qué casi nadie puede ir.
+#IsladeSerpientes #Brasil
+```
+</details>
 
 ## 45. Sat Feb 13, 11:00 AM · Long video
 **Why You'd Never Survive Being Lost in the Amazon Rainforest**
