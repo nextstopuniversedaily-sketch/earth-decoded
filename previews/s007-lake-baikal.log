@@ -1,0 +1,28 @@
+[0;93m2026-11-22 03:15:26.058156229 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 7: Lake Baikal
+  audio 118.9s
+  WIKI File:Baikal.A2001296.0420.250m-NASA.jpg (Public domain)
+  segment 1/12 [title] 4.8s
+  segment 2/12 [map] 8.8s
+  segment 3/12 [card] 14.5s
+  segment 4/12 [card] 8.0s
+  WIKI File:Olkhon Island, Capes, cliffs at sunset, Lake Baikal, Russia.jpg (CC BY 4.0)
+  segment 5/12 [image] 12.4s
+  WIKI File:Nerpa_(Pusa_sibirica)_(3635255975).jpg (CC BY 2.0)
+  segment 6/12 [image] 11.4s
+  - skip File:Snowstorm on lake Baikal.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Необычный байкальский лёд.jpg (CC BY 4.0)
+  segment 7/12 [image] 8.9s
+  segment 8/12 [card] 10.3s
+  - skip File:Косой_бык_-_panoramio.jpg: license 'CC BY-SA 3.0'
+  NASA 'Angara river' -> sts059-90-098: Earth observations taken during the STS-59 mission
+  segment 9/12 [image] 10.5s
+  WIKI File:Baikal,_Cape_Burhan,_Olkhon_Island,_Lake_Baikal,_Russia.jpg (CC BY 4.0)
+  segment 10/12 [image] 11.1s
+  segment 11/12 [card] 11.8s
+  - skip File:Lake Baikal in winter.jpg: license 'CC BY-SA 4.0'
+  - skip File:Baikal ice on sunset.jpg: license 'CC BY-SA 4.0'
+  - skip File:Panorama of lake Baikal.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Frozen Lake Baikal in the Middle of a Siberian Winter (CIRA 2024-01-29).png (Public domain)
+  segment 12/12 [end] 6.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s007.mp4 (39.6 MB)
