@@ -1065,7 +1065,33 @@ La Cerca de los Dingos de Australia mide unos 5,600 km a través del desierto, u
 ## 33. Mon Dec 21, 12:00 PM · Short
 **Russia and the USA Are Only 4 km Apart 🇺🇸🇷🇺🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s029.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s029.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s029.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s029.es.srt)
+
+**Title** (copy):
+```text
+Russia and the USA Are Only 4 km Apart 🇺🇸🇷🇺🤯 #shorts
+```
+**Description** (copy):
+```text
+In the Bering Strait, two small islands sit less than 4 km apart: Big Diomede belongs to Russia and Little Diomede to the United States. Between them runs the International Date Line, so one is almost a full day ahead.
+#Diomede #BeringStrait #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+diomede islands, russia usa distance, bering strait, international date line, tomorrow island, alaska, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Rusia y Estados Unidos están a solo 4 km 🇺🇸🇷🇺🤯 #shorts
+```
+```text
+En el estrecho de Bering, dos islas pequeñas están a menos de 4 km: la Diómedes Mayor es de Rusia y la Diómedes Menor de Estados Unidos. Entre ellas pasa la línea internacional de cambio de fecha, así que una va casi un día adelante.
+#Diomedes #shorts
+```
+</details>
 
 ## 34. Tue Dec 22, 12:00 PM · Short
 **The Caspian Sea Is Actually a Lake?! 🌊🤯 #shorts**

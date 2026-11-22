@@ -1,0 +1,19 @@
+[0;93m2026-11-22 08:39:00.694367155 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 29: The Diomede Islands
+  audio 93.7s
+  segment 1/12 [title] 5.0s
+  segment 2/12 [map] 7.7s
+  segment 3/12 [card] 8.3s
+  segment 4/12 [card] 5.4s
+  segment 5/12 [card] 11.8s
+  segment 6/12 [card] 4.4s
+  - skip File:Little Diomede Island 2018 Drone Photo.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Little Diomede Island village.jpeg (Public domain)
+  segment 7/12 [image] 13.9s
+  segment 8/12 [card] 7.4s
+  segment 9/12 [map] 10.8s
+  segment 10/12 [card] 6.5s
+  segment 11/12 [card] 6.1s
+  NASA 'Bering Strait' -> PIA02638: MISR Sights the Bering Strait
+  segment 12/12 [end] 6.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s029.mp4 (12.5 MB)
