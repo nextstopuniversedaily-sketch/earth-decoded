@@ -1189,7 +1189,33 @@ La Gran Pirámide de Cholula, en Puebla, México, es la pirámide más grande de
 ## 37. Fri Dec 25, 12:00 PM · Short
 **The Country That Sees the New Year First 🎆🌏 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s033.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s033.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s033.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s033.es.srt)
+
+**Title** (copy):
+```text
+The Country That Sees the New Year First 🎆🌏 #shorts
+```
+**Description** (copy):
+```text
+Kiribati, a Pacific nation of 33 atolls, is the first country to welcome every new year, and the only country in all four hemispheres. In 1995 it moved the International Date Line to make that happen.
+#Kiribati #NewYear #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+kiribati, first country new year, international date line, kiritimati, pacific islands, new year, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+El país que ve el Año Nuevo primero 🎆🌏 #shorts
+```
+```text
+Kiribati, una nación del Pacífico de 33 atolones, es el primer país en recibir cada año nuevo, y el único en los cuatro hemisferios. En 1995 movió la línea de cambio de fecha para lograrlo.
+#Kiribati #AñoNuevo #shorts
+```
+</details>
 
 ## 38. Sat Dec 26, 11:00 AM · Long video
 **Why You'd Never Survive Point Nemo, the Loneliest Place on Earth**

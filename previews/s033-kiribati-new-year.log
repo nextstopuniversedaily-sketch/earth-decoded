@@ -1,0 +1,18 @@
+[0;93m2026-11-22 08:47:45.583323746 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 33: Kiribati
+  audio 107.7s
+  WIKI File:South Tarawa from the air.jpg (CC BY 3.0)
+  segment 1/11 [title] 3.9s
+  segment 2/11 [map] 6.9s
+  segment 3/11 [card] 13.4s
+  segment 4/11 [card] 12.2s
+  segment 5/11 [card] 8.9s
+  segment 6/11 [card] 10.2s
+  segment 7/11 [card] 12.1s
+  WIKI File:Kiribati banner South Tarawa from the air.jpg (CC BY 3.0)
+  segment 8/11 [image] 9.3s
+  segment 9/11 [card] 10.8s
+  segment 10/11 [card] 13.0s
+  NASA 'Pacific ocean sunset' -> iss072e188529: The International Space Station soars into an orbital sunset above a c
+  segment 11/11 [end] 6.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s033.mp4 (10.0 MB)
