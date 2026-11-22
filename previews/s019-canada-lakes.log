@@ -1,30 +1,21 @@
-[0;93m2026-11-22 08:13:22.046194082 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 10:35:57.655902266 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 19: Canada's lakes
-  audio 119.4s
-  ! commons download failed File:Long Lake, aerial (25199062016).jpg [Errno 2] No such file or directory: '/tmp/ed-cache/wm_Long_Lake__aerial__25199062016_.jpg.jpg'
-  WIKI File:Siscoe Mine, Dubuisson Twp., Abitibi Co., P.Quebec, Canada, aerial view, 1935.jpg (Public domain)
+  audio 119.2s
   segment 1/14 [title] 2.5s
-  segment 2/14 [map] 8.9s
-  segment 3/14 [card] 14.2s
-  segment 4/14 [card] 8.6s
+  segment 2/14 [map] 9.0s
+  segment 3/14 [card] 14.1s
+  segment 4/14 [card] 8.5s
   WIKI File:Glacial striation 21149.JPG (CC BY 2.5)
   segment 5/14 [image] 7.8s
-  segment 6/14 [card] 7.7s
+  segment 6/14 [card] 7.8s
   segment 7/14 [map] 11.3s
-  segment 8/14 [map] 9.4s
-  segment 9/14 [card] 7.4s
-  - skip File:Kananaskis Lakes aerial view of Mount Sarrail.jpg: license 'CC BY-SA 2.5'
-  - skip File:Ice on Lake Erie.jpg: license 'CC BY-SA 2.5 ca'
-  - skip File:Aerial - Lake Simcoe, Ontario near Innisfil 01 (9659827810).jpg: license 'CC BY-SA 3.0'
-  - skip File:Dunsford, Ontario, Canada; Aerial view of Sturgeon Lake (I0015860).jpg: license 'OGL-ON'
-  - skip File:Dunsford, Ontario, Canada; Aerial view of Sturgeon Lake (I0015859).jpg: license 'OGL-ON'
-  - skip File:Aerial - Lake Simcoe, Ontario near Innisfil 01 - white balanced (9656624723).jpg: license 'CC BY-SA 3.0'
-  - skip File:Gravenhurst, Ontario, Canada; Aerial view (I0019277).jpg: license 'OGL-ON'
-  WIKI File:Lake Athabasca, Canada.jpg (Public domain)
+  segment 8/14 [map] 9.3s
+  segment 9/14 [card] 7.5s
+  WIKI File:Siscoe Mine, Dubuisson Twp., Abitibi Co., P.Quebec, Canada, aerial view, 1935.jpg (Public domain)
   segment 10/14 [image] 7.9s
-  segment 11/14 [card] 9.1s
+  segment 11/14 [card] 8.9s
   segment 12/14 [card] 11.0s
   segment 13/14 [map] 8.2s
-  NASA 'Canada lake' -> PIA23234: Lake St. Clair, US and Canada
+  WIKI File:Long Lake, aerial (25225325185).jpg (CC BY 2.0)
   segment 14/14 [end] 5.4s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s019.mp4 (17.1 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s019.mp4 (18.0 MB)

@@ -1,200 +1,200 @@
 1
-00:00:00,000 --> 00:00:02,155
+00:00:00,000 --> 00:00:02,197
 Why does Canada have so many lakes?
 
 2
-00:00:02,505 --> 00:00:05,001
+00:00:02,547 --> 00:00:05,056
 Fly over northern Canada and you'll see
 
 3
-00:00:05,001 --> 00:00:07,753
+00:00:05,056 --> 00:00:07,821
 something strange. The land looks like it's
 
 4
-00:00:07,753 --> 00:00:10,057
+00:00:07,821 --> 00:00:10,137
 full of holes, thousands of lakes in
 
 5
-00:00:10,057 --> 00:00:11,081
+00:00:10,137 --> 00:00:11,166
 every direction.
 
 6
-00:00:11,431 --> 00:00:14,036
+00:00:11,516 --> 00:00:14,110
 A global study in 2016 counted about
 
 7
-00:00:14,036 --> 00:00:16,714
+00:00:14,110 --> 00:00:16,775
 one point four million lakes on Earth
 
 8
-00:00:16,714 --> 00:00:20,333
+00:00:16,775 --> 00:00:20,377
 bigger than ten hectares. Around sixty-two percent
 
 9
-00:00:20,333 --> 00:00:22,794
+00:00:20,377 --> 00:00:22,827
 of them are in Canada. That's more
 
 10
-00:00:22,794 --> 00:00:25,255
+00:00:22,827 --> 00:00:25,276
 than every other country combined.
 
 11
-00:00:25,605 --> 00:00:28,061
+00:00:25,626 --> 00:00:28,063
 The reason is ice. During the last
 
 12
-00:00:28,061 --> 00:00:29,939
+00:00:28,063 --> 00:00:29,926
 ice age, a sheet of ice up
 
 13
-00:00:29,939 --> 00:00:33,117
+00:00:29,926 --> 00:00:33,080
 to three kilometers thick covered almost all
 
 14
-00:00:33,117 --> 00:00:33,839
+00:00:33,080 --> 00:00:33,797
 of Canada.
 
 15
-00:00:34,189 --> 00:00:36,543
+00:00:34,147 --> 00:00:36,500
 As that ice moved, it scraped the
 
 16
-00:00:36,543 --> 00:00:39,395
+00:00:36,500 --> 00:00:39,353
 land like a giant bulldozer, carving out
 
 17
-00:00:39,395 --> 00:00:41,677
+00:00:39,353 --> 00:00:41,635
 millions of hollows in the rock.
 
 18
-00:00:42,027 --> 00:00:44,617
+00:00:41,985 --> 00:00:44,597
 Then, around ten thousand years ago, the
 
 19
-00:00:44,617 --> 00:00:47,401
+00:00:44,597 --> 00:00:47,405
 ice melted. The water filled those hollows,
 
 20
-00:00:47,401 --> 00:00:49,409
+00:00:47,405 --> 00:00:49,430
 and lakes were born everywhere.
 
 21
-00:00:49,759 --> 00:00:52,162
+00:00:49,780 --> 00:00:52,179
 Much of Canada sits on the Canadian
 
 22
-00:00:52,162 --> 00:00:54,771
+00:00:52,179 --> 00:00:54,783
 Shield, some of the oldest and hardest
 
 23
-00:00:54,771 --> 00:00:57,381
+00:00:54,783 --> 00:00:57,387
 rock on the planet. Water can't easily
 
 24
-00:00:57,381 --> 00:00:59,372
+00:00:57,387 --> 00:00:59,375
 soak into it or wear it away,
 
 25
-00:00:59,372 --> 00:01:00,745
+00:00:59,375 --> 00:01:00,745
 so the lakes stayed.
 
 26
-00:01:01,095 --> 00:01:03,389
+00:01:01,095 --> 00:01:03,373
 Canada also shares four of the five
 
 27
-00:01:03,389 --> 00:01:06,339
+00:01:03,373 --> 00:01:06,302
 Great Lakes with the United States. Together,
 
 28
-00:01:06,339 --> 00:01:08,305
+00:01:06,302 --> 00:01:08,254
 they hold about a fifth of the
 
 29
-00:01:08,305 --> 00:01:10,141
+00:01:08,254 --> 00:01:10,077
 world's fresh surface water.
 
 30
-00:01:10,491 --> 00:01:13,478
+00:01:10,427 --> 00:01:13,432
 And the biggest lake entirely inside Canada,
 
 31
-00:01:13,478 --> 00:01:15,855
+00:01:13,432 --> 00:01:15,823
 Great Bear Lake, is bigger than the
 
 32
-00:01:15,855 --> 00:01:17,552
+00:01:15,823 --> 00:01:17,531
 whole country of Belgium.
 
 33
-00:01:17,902 --> 00:01:19,590
+00:01:17,881 --> 00:01:19,569
 So next time you look at a
 
 34
-00:01:19,590 --> 00:01:21,667
+00:01:19,569 --> 00:01:21,646
 map of Canada full of blue dots,
 
 35
-00:01:21,667 --> 00:01:24,719
+00:01:21,646 --> 00:01:24,697
 remember: you're looking at the fingerprints of
 
 36
-00:01:24,719 --> 00:01:25,433
+00:01:24,697 --> 00:01:25,411
 an ice age.
 
 37
-00:01:25,783 --> 00:01:28,535
+00:01:25,761 --> 00:01:28,459
 Many Canadian lakes have no official name
 
 38
-00:01:28,535 --> 00:01:30,749
+00:01:28,459 --> 00:01:30,631
 at all. There are simply too many
 
 39
-00:01:30,749 --> 00:01:32,897
+00:01:30,631 --> 00:01:32,737
 to name, so maps often show them
 
 40
-00:01:32,897 --> 00:01:34,508
+00:01:32,737 --> 00:01:34,316
 as nameless blue shapes.
 
 41
-00:01:34,858 --> 00:01:37,514
+00:01:34,666 --> 00:01:37,322
 Some provinces even use their lakes as
 
 42
-00:01:37,514 --> 00:01:40,589
+00:01:37,322 --> 00:01:40,397
 a slogan. Manitoba's old license plates said
 
 43
-00:01:40,589 --> 00:01:43,315
+00:01:40,397 --> 00:01:43,123
 land of one hundred thousand lakes, and
 
 44
-00:01:43,315 --> 00:01:45,482
+00:01:43,123 --> 00:01:45,290
 the real number is even higher.
 
 45
-00:01:45,832 --> 00:01:48,350
+00:01:45,640 --> 00:01:48,137
 The same ice also shaped the northern
 
 46
-00:01:48,350 --> 00:01:51,616
+00:01:48,137 --> 00:01:51,377
 United States. That's why Minnesota calls itself
 
 47
-00:01:51,616 --> 00:01:53,725
+00:01:51,377 --> 00:01:53,469
 the land of ten thousand lakes.
 
 48
-00:01:54,075 --> 00:01:56,003
+00:01:53,819 --> 00:01:55,747
 Would you rather live by a lake
 
 49
-00:01:56,003 --> 00:01:57,683
+00:01:55,747 --> 00:01:57,427
 or by the ocean? Tell me in
 
 50
-00:01:57,683 --> 00:01:58,491
+00:01:57,427 --> 00:01:58,235
 the comments.
 
