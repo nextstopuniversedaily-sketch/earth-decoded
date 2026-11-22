@@ -711,12 +711,90 @@ En el invierno antártico, el sol desaparece durante meses, la temperatura baja 
 ## 22. Sat Dec 19, 11:00 AM · Long video
 **What If Yellowstone's Supervolcano Erupted Tomorrow?**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-yellowstone-erupted.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-what-if-yellowstone-erupted.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-yellowstone-erupted.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-yellowstone-erupted.es.srt)
+
+**Title** (copy):
+```text
+What If Yellowstone's Supervolcano Erupted Tomorrow?
+```
+**Description** (copy):
+```text
+Under Yellowstone National Park sits one of the biggest volcanic systems on Earth. What would really happen if it had a super-eruption tomorrow, and how likely is that? We look at the science, the ash, the past eruptions and what the USGS actually says.
+
+Sources: US Geological Survey (Yellowstone Volcano Observatory), National Park Service.
+#Yellowstone #Supervolcano #Volcano #EarthDecoded
+
+Chapters:
+0:00 Tomorrow morning
+0:38 A park on a volcano
+2:00 Three giant eruptions
+3:43 The eruption
+4:22 The ash
+5:26 A colder world
+6:16 How likely is it?
+7:34 What's more likely
+8:34 So, should you worry?
+```
+**Tags** (copy):
+```text
+yellowstone supervolcano, what if yellowstone erupted, yellowstone eruption, supervolcano, yellowstone caldera, old faithful, grand prismatic spring, volcano documentary, usgs yellowstone, is yellowstone overdue, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Qué pasaría si el supervolcán de Yellowstone hiciera erupción mañana?
+```
+```text
+Bajo el Parque Nacional de Yellowstone hay uno de los sistemas volcánicos más grandes de la Tierra. ¿Qué pasaría realmente si tuviera una súper erupción mañana, y qué tan probable es? Revisamos la ciencia, la ceniza, las erupciones pasadas y lo que dice el Servicio Geológico de EE. UU.
+#Yellowstone #Supervolcan
+```
+</details>
 
 ## 23. Sat Dec 26, 11:00 AM · Long video
 **Why You'd Never Survive Point Nemo, the Loneliest Place on Earth**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-point-nemo.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-point-nemo.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-point-nemo.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-point-nemo.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Point Nemo, the Loneliest Place on Earth
+```
+**Description** (copy):
+```text
+Point Nemo is the spot in the ocean farthest from any land, about 2,700 km from the nearest island. The closest humans are often astronauts on the International Space Station. Here's what it's like out there, why spacecraft are crashed there on purpose, and why you'd never survive being stranded at Point Nemo.
+
+Sources: NOAA, NASA, US Geological Survey.
+#PointNemo #Ocean #Geography #EarthDecoded
+
+Chapters:
+0:00 Alone
+0:35 Finding nowhere
+2:12 The nearest humans
+3:01 A graveyard for spacecraft
+3:58 Day one: the water
+4:46 The storms
+5:25 An ocean desert
+6:58 Waiting for rescue
+7:59 The loneliest place
+```
+**Tags** (copy):
+```text
+point nemo, loneliest place on earth, oceanic pole of inaccessibility, spacecraft cemetery, pacific ocean, farthest point from land, why you'd never survive, ocean documentary, geography documentary, iss, ocean facts, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en el Punto Nemo, el lugar más solitario de la Tierra
+```
+```text
+El Punto Nemo es el lugar del océano más alejado de cualquier tierra, a unos 2,700 km de la isla más cercana. Los humanos más cercanos suelen ser los astronautas de la Estación Espacial Internacional. Así es estar allí, por qué estrellan naves espaciales a propósito y por qué nunca sobrevivirías varado en el Punto Nemo.
+#PuntoNemo #Oceano
+```
+</details>
 
 ## 24. Sat Jan 2, 11:00 AM · Long video
 **Why You'd Never Survive the Danakil Depression (Hottest Place People Live)**
