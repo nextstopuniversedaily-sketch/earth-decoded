@@ -1,0 +1,21 @@
+[0;93m2026-11-22 08:43:06.227683642 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 31: Socotra
+  audio 97.6s
+  WIKI File:Dragon blood tree forest, Socotra, Yemen.jpg (CC BY 2.0)
+  segment 1/12 [title] 3.5s
+  segment 2/12 [map] 9.4s
+  segment 3/12 [card] 9.8s
+  segment 4/12 [card] 5.9s
+  WIKI File:Dragonblood tree in Socotra 2.jpg (CC BY 4.0)
+  segment 5/12 [image] 12.4s
+  segment 6/12 [card] 7.7s
+  - skip File:Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'desert rose tree'
+  segment 7/12 [image] 8.2s
+  segment 8/12 [card] 12.6s
+  segment 9/12 [card] 7.5s
+  segment 10/12 [card] 10.6s
+  segment 11/12 [card] 4.3s
+  ! no usable NASA image for 'Socotra'
+  segment 12/12 [end] 5.7s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s031.mp4 (27.3 MB)

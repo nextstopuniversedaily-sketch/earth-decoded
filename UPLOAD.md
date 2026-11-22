@@ -1127,7 +1127,33 @@ El mar Caspio es el lago más grande de la Tierra, más grande que Japón, pero 
 ## 35. Wed Dec 23, 12:00 PM · Short
 **The Island That Looks Like Another Planet 🌳👽 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s031.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s031.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s031.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s031.es.srt)
+
+**Title** (copy):
+```text
+The Island That Looks Like Another Planet 🌳👽 #shorts
+```
+**Description** (copy):
+```text
+Socotra, off the coast of Yemen, has been cut off for millions of years. About a third of its plants grow nowhere else on Earth, including the umbrella-shaped dragon's blood tree.
+#Socotra #DragonsBloodTree #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+socotra, dragon blood tree, alien island, yemen, endemic plants, unesco, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+La isla que parece de otro planeta 🌳👽 #shorts
+```
+```text
+Socotra, frente a la costa de Yemen, ha estado aislada por millones de años. Cerca de un tercio de sus plantas no crecen en ningún otro lugar de la Tierra, incluido el árbol de sangre de dragón.
+#Socotra #shorts
+```
+</details>
 
 ## 36. Thu Dec 24, 12:00 PM · Short
 **The World's Biggest Pyramid Is in Mexico, Not Egypt 🇲🇽🤯 #shorts**
