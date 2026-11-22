@@ -1,0 +1,25 @@
+[0;93m2026-11-22 03:37:10.582904288 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 14: Yucatán
+  audio 127.3s
+  WIKI File:Cenote_2.jpg (CC BY 2.0)
+  segment 1/12 [title] 7.1s
+  segment 2/12 [map] 9.5s
+  WIKI File:Sediment off the Yucatan Peninsula.jpg (Public domain)
+  segment 3/12 [image] 7.1s
+  WIKI File:Rio Secreto Quintana Roo visit 20 June 2024 - 09.jpg (CC BY 2.0)
+  segment 4/12 [image] 12.0s
+  WIKI File:Cenote Ik Kil, Yucatan, Dec 2011 - 05.jpg (CC BY 2.0)
+  segment 5/12 [image] 14.5s
+  segment 6/12 [card] 12.3s
+  WIKI File:Yucatan_chix_crater.jpg (Public domain)
+  segment 7/12 [image] 12.7s
+  segment 8/12 [card] 11.0s
+  ! no usable NASA image for 'cave diving cenote'
+  segment 9/12 [image] 11.1s
+  - skip File:Cenote_Xtoloc_en_Chichén_Itzá.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Chichen Itza'
+  segment 10/12 [image] 10.9s
+  segment 11/12 [card] 11.8s
+  WIKI File:Cenote Suytun 2009 06.jpg (CC BY 2.0)
+  segment 12/12 [end] 7.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s014.mp4 (28.8 MB)
