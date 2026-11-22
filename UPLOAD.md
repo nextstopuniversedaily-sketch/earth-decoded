@@ -897,7 +897,33 @@ Venecia se sostiene sobre millones de pilotes de madera clavados en el lodo de u
 ## 28. Thu Dec 17, 12:00 PM · Short
 **Why Greenland Is Covered in Ice (and Iceland Is Green) 🧊 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s025.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s025.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s025.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s025.es.srt)
+
+**Title** (copy):
+```text
+Why Greenland Is Covered in Ice (and Iceland Is Green) 🧊 #shorts
+```
+**Description** (copy):
+```text
+Greenland is the world's largest island and about 80% of it is under ice up to 3 km thick. So why is it called Greenland? A Viking marketing trick, according to the sagas.
+#Greenland #Iceland #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+greenland, greenland ice sheet, why is greenland called greenland, iceland, vikings, erik the red, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué Groenlandia está cubierta de hielo (e Islandia es verde) 🧊 #shorts
+```
+```text
+Groenlandia es la isla más grande del mundo y cerca del 80% está bajo hielo de hasta 3 km de grosor. ¿Por qué se llama Tierra Verde? Un truco de marketing vikingo, según las sagas.
+#Groenlandia #shorts
+```
+</details>
 
 ## 29. Fri Dec 18, 12:00 PM · Short
 **Why There Are No Bridges Over the Amazon River 🌎🤯 #shorts**
