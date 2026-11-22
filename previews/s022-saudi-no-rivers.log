@@ -1,19 +1,18 @@
-[0;93m2026-11-22 08:21:23.715191457 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 10:38:54.140608380 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 22: Saudi Arabia
-  audio 108.7s
+  audio 108.8s
   WIKI File:Sands of al-Dahna, eastern Saudi Arabia (4) (50620707316).jpg (CC BY 2.0)
   segment 1/11 [title] 3.1s
   segment 2/11 [map] 8.6s
   WIKI File:Ar Rub’ al Khali Sand Sea, Arabian Peninsula.JPG (Public domain)
-  segment 3/11 [image] 11.4s
+  segment 3/11 [image] 11.3s
   segment 4/11 [card] 8.6s
-  segment 5/11 [card] 13.7s
-  segment 6/11 [card] 12.2s
-  WIKI File:Fires in center-pivot irrigation agriculture in the Al-Jawf Province, Saudi-Arabia - 7 August 2023 (53104386895).jpg (CC BY 2.0)
-  segment 7/11 [image] 12.0s
+  segment 5/11 [card] 13.6s
+  segment 6/11 [card] 12.4s
+  segment 7/11 [card] 11.8s
   segment 8/11 [card] 7.5s
-  segment 9/11 [map] 12.9s
-  segment 10/11 [card] 10.4s
+  segment 9/11 [map] 13.0s
+  segment 10/11 [card] 10.5s
   NASA 'Arabian desert' -> PIA11084: Rub al Khali, Arabia
   segment 11/11 [end] 8.3s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s022.mp4 (20.5 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s022.mp4 (18.4 MB)

@@ -1,164 +1,164 @@
 1
-00:00:00,000 --> 00:00:02,731
+00:00:00,000 --> 00:00:02,795
 Este enorme país no tiene ningún río.
 
 2
-00:00:03,081 --> 00:00:05,856
+00:00:03,145 --> 00:00:05,928
 Arabia Saudita mide más de dos millones
 
 3
-00:00:05,856 --> 00:00:09,059
+00:00:05,928 --> 00:00:09,139
 de kilómetros cuadrados, más que México. Pero
 
 4
-00:00:09,059 --> 00:00:11,337
+00:00:09,139 --> 00:00:11,422
 no tiene un solo río permanente.
 
 5
-00:00:11,687 --> 00:00:13,888
+00:00:11,772 --> 00:00:13,965
 Es el país más grande del mundo
 
 6
-00:00:13,888 --> 00:00:16,445
+00:00:13,965 --> 00:00:16,512
 sin uno. La mayor parte es desierto,
 
 7
-00:00:16,445 --> 00:00:18,789
+00:00:16,512 --> 00:00:18,846
 incluido el Rub al Jali, o Cuarto
 
 8
-00:00:18,789 --> 00:00:21,771
+00:00:18,846 --> 00:00:21,818
 Vacío, el mayor desierto de arena continua
 
 9
-00:00:21,771 --> 00:00:22,695
+00:00:21,818 --> 00:00:22,737
 de la Tierra.
 
 10
-00:00:23,045 --> 00:00:26,038
+00:00:23,087 --> 00:00:26,097
 Sí tiene uadis, cauces secos que pueden
 
 11
-00:00:26,038 --> 00:00:29,185
+00:00:26,097 --> 00:00:29,260
 llenarse de golpe tras una tormenta rara,
 
 12
-00:00:29,185 --> 00:00:31,258
+00:00:29,260 --> 00:00:31,343
 y secarse de nuevo en días.
 
 13
-00:00:31,608 --> 00:00:33,682
+00:00:31,693 --> 00:00:33,764
 ¿De dónde sale el agua para más
 
 14
-00:00:33,682 --> 00:00:36,692
+00:00:33,764 --> 00:00:36,769
 de treinta millones de personas? Primero, del
 
 15
-00:00:36,692 --> 00:00:38,899
+00:00:36,769 --> 00:00:38,973
 mar. Arabia Saudita es uno de los
 
 16
-00:00:38,899 --> 00:00:42,311
+00:00:38,973 --> 00:00:42,379
 mayores productores del mundo de agua desalinizada,
 
 17
-00:00:42,311 --> 00:00:44,920
+00:00:42,379 --> 00:00:44,984
 agua de mar convertida en agua potable.
 
 18
-00:00:45,270 --> 00:00:48,786
+00:00:45,334 --> 00:00:48,894
 Segundo, agua antigua escondida bajo tierra. Parte
 
 19
-00:00:48,786 --> 00:00:51,246
+00:00:48,894 --> 00:00:51,386
 de ella cayó como lluvia hace miles
 
 20
-00:00:51,246 --> 00:00:53,848
+00:00:51,386 --> 00:00:54,020
 de años, cuando Arabia era más verde.
 
 21
-00:00:53,848 --> 00:00:55,957
+00:00:54,020 --> 00:00:56,156
 Se llama agua fósil, y una vez
 
 22
-00:00:55,957 --> 00:00:57,153
+00:00:56,156 --> 00:00:57,366
 usada, no vuelve.
 
 23
-00:00:57,503 --> 00:00:59,940
+00:00:57,716 --> 00:01:00,113
 En los años ochenta y noventa, el
 
 24
-00:00:59,940 --> 00:01:02,673
+00:01:00,113 --> 00:01:02,801
 país usó esa agua para cultivar tanto
 
 25
-00:01:02,673 --> 00:01:05,627
+00:01:02,801 --> 00:01:05,707
 trigo que lo exportaba. Desde el espacio
 
 26
-00:01:05,627 --> 00:01:08,286
+00:01:05,707 --> 00:01:08,322
 se veían miles de círculos verdes en
 
 27
-00:01:08,286 --> 00:01:09,172
+00:01:08,322 --> 00:01:09,193
 el desierto.
 
 28
-00:01:09,522 --> 00:01:12,194
+00:01:09,543 --> 00:01:12,223
 Pero los acuíferos se vaciaban rápido, así
 
 29
-00:01:12,194 --> 00:01:14,612
+00:01:12,223 --> 00:01:14,648
 que el gobierno terminó su programa de
 
 30
-00:01:14,612 --> 00:01:16,647
+00:01:14,648 --> 00:01:16,690
 trigo en 2016 para ahorrar agua.
 
 31
-00:01:16,997 --> 00:01:19,756
+00:01:17,040 --> 00:01:19,817
 Arabia Saudita no es la única. Otros
 
 32
-00:01:19,756 --> 00:01:23,816
+00:01:19,817 --> 00:01:23,905
 países tampoco tienen ríos permanentes, incluidos sus
 
 33
-00:01:23,816 --> 00:01:27,034
+00:01:23,905 --> 00:01:27,145
 vecinos de la península arábiga y pequeñas
 
 34
-00:01:27,034 --> 00:01:29,563
+00:01:27,145 --> 00:01:29,691
 naciones insulares como Maldivas.
 
 35
-00:01:29,913 --> 00:01:33,342
+00:01:30,041 --> 00:01:33,485
 Enormes tuberías llevan agua desalinizada cientos de
 
 36
-00:01:33,342 --> 00:01:36,640
+00:01:33,485 --> 00:01:36,796
 kilómetros tierra adentro, hasta Riad, una capital
 
 37
-00:01:36,640 --> 00:01:38,618
+00:01:36,796 --> 00:01:38,783
 en el desierto de más de siete
 
 38
-00:01:38,618 --> 00:01:40,003
+00:01:38,783 --> 00:01:40,174
 millones de personas.
 
 39
-00:01:40,353 --> 00:01:43,036
+00:01:40,524 --> 00:01:43,191
 Todo un país moderno funcionando sin un
 
 40
-00:01:43,036 --> 00:01:45,925
+00:01:43,191 --> 00:01:46,063
 solo río. ¿Tu ciudad sobreviviría sin uno?
 
 41
-00:01:45,925 --> 00:01:47,713
+00:01:46,063 --> 00:01:47,841
 Dímelo en los comentarios.
 

@@ -1,172 +1,172 @@
 1
-00:00:00,000 --> 00:00:02,443
+00:00:00,000 --> 00:00:02,500
 This huge country has no rivers at
 
 2
-00:00:02,443 --> 00:00:02,731
+00:00:02,500 --> 00:00:02,795
 all.
 
 3
-00:00:03,081 --> 00:00:05,810
+00:00:03,145 --> 00:00:05,882
 Saudi Arabia covers more than two million
 
 4
-00:00:05,810 --> 00:00:08,807
+00:00:05,882 --> 00:00:08,885
 square kilometers, bigger than Mexico. But it
 
 5
-00:00:08,807 --> 00:00:11,337
+00:00:08,885 --> 00:00:11,422
 doesn't have a single permanent river.
 
 6
-00:00:11,687 --> 00:00:14,232
+00:00:11,772 --> 00:00:14,308
 It's the largest country in the world
 
 7
-00:00:14,232 --> 00:00:16,571
+00:00:14,308 --> 00:00:16,638
 without one. Most of it is desert,
 
 8
-00:00:16,571 --> 00:00:19,117
+00:00:16,638 --> 00:00:19,174
 including the Rub' al Khali, or Empty
 
 9
-00:00:19,117 --> 00:00:22,282
+00:00:19,174 --> 00:00:22,326
 Quarter, the biggest continuous sand desert on
 
 10
-00:00:22,282 --> 00:00:22,695
+00:00:22,326 --> 00:00:22,737
 Earth.
 
 11
-00:00:23,045 --> 00:00:25,759
+00:00:23,087 --> 00:00:25,815
 It does have wadis, dry riverbeds that
 
 12
-00:00:25,759 --> 00:00:28,330
+00:00:25,815 --> 00:00:28,400
 can suddenly fill with water after a
 
 13
-00:00:28,330 --> 00:00:30,901
+00:00:28,400 --> 00:00:30,984
 rare storm, then dry up again within
 
 14
-00:00:30,901 --> 00:00:31,258
+00:00:30,984 --> 00:00:31,343
 days.
 
 15
-00:00:31,608 --> 00:00:33,872
+00:00:31,693 --> 00:00:33,954
 So where does the water come from
 
 16
-00:00:33,872 --> 00:00:36,823
+00:00:33,954 --> 00:00:36,900
 for more than thirty million people? First,
 
 17
-00:00:36,823 --> 00:00:38,950
+00:00:36,900 --> 00:00:39,024
 the sea. Saudi Arabia is one of
 
 18
-00:00:38,950 --> 00:00:42,450
+00:00:39,024 --> 00:00:42,518
 the world's biggest producers of desalinated water,
 
 19
-00:00:42,450 --> 00:00:44,920
+00:00:42,518 --> 00:00:44,984
 seawater turned into drinking water.
 
 20
-00:00:45,270 --> 00:00:48,541
+00:00:45,334 --> 00:00:48,646
 Second, ancient water hidden underground. Some of
 
 21
-00:00:48,541 --> 00:00:50,811
+00:00:48,646 --> 00:00:50,944
 it fell as rain thousands of years
 
 22
-00:00:50,811 --> 00:00:53,548
+00:00:50,944 --> 00:00:53,716
 ago, when Arabia was greener. It's called
 
 23
-00:00:53,548 --> 00:00:55,951
+00:00:53,716 --> 00:00:56,149
 fossil water, and once it's used, it
 
 24
-00:00:55,951 --> 00:00:57,153
+00:00:56,149 --> 00:00:57,366
 doesn't come back.
 
 25
-00:00:57,503 --> 00:00:59,971
+00:00:57,716 --> 00:01:00,144
 In the 1980s and 90s, the country
 
 26
-00:00:59,971 --> 00:01:02,290
+00:01:00,144 --> 00:01:02,425
 used that water to grow so much
 
 27
-00:01:02,290 --> 00:01:05,133
+00:01:02,425 --> 00:01:05,220
 wheat that it exported it. From space,
 
 28
-00:01:05,133 --> 00:01:08,125
+00:01:05,220 --> 00:01:08,163
 you could see thousands of green circles
 
 29
-00:01:08,125 --> 00:01:09,172
+00:01:08,163 --> 00:01:09,193
 in the desert.
 
 30
-00:01:09,522 --> 00:01:12,329
+00:01:09,543 --> 00:01:12,359
 But the aquifers were draining fast, so
 
 31
-00:01:12,329 --> 00:01:15,280
+00:01:12,359 --> 00:01:15,318
 the government ended its wheat program by
 
 32
-00:01:15,280 --> 00:01:16,647
+00:01:15,318 --> 00:01:16,690
 2016 to save water.
 
 33
-00:01:16,997 --> 00:01:20,577
+00:01:17,040 --> 00:01:20,644
 Saudi Arabia isn't alone. Several other countries
 
 34
-00:01:20,577 --> 00:01:23,791
+00:01:20,644 --> 00:01:23,880
 also have no permanent rivers, including its
 
 35
-00:01:23,791 --> 00:01:27,152
+00:01:23,880 --> 00:01:27,264
 neighbors in the Arabian Peninsula, plus small
 
 36
-00:01:27,152 --> 00:01:29,563
+00:01:27,264 --> 00:01:29,691
 island nations like the Maldives.
 
 37
-00:01:29,913 --> 00:01:33,537
+00:01:30,041 --> 00:01:33,680
 Giant pipelines carry desalinated water hundreds of
 
 38
-00:01:33,537 --> 00:01:36,450
+00:01:33,680 --> 00:01:36,606
 kilometers inland, all the way to Riyadh,
 
 39
-00:01:36,450 --> 00:01:38,937
+00:01:36,606 --> 00:01:39,104
 a desert capital of more than seven
 
 40
-00:01:38,937 --> 00:01:40,003
+00:01:39,104 --> 00:01:40,174
 million people.
 
 41
-00:01:40,353 --> 00:01:42,977
+00:01:40,524 --> 00:01:43,133
 A whole modern country, running without a
 
 42
-00:01:42,977 --> 00:01:45,857
+00:01:43,133 --> 00:01:45,996
 single river. Could your city survive without
 
 43
-00:01:45,857 --> 00:01:47,713
+00:01:45,996 --> 00:01:47,841
 one? Tell me in the comments.
 
