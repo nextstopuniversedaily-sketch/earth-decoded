@@ -1307,7 +1307,46 @@ La depresión de Danakil, en Etiopía, es uno de los lugares más extremos de la
 ## 40. Sat Jan 9, 11:00 AM · Long video
 **Why You'd Never Survive the Sahara Desert**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-sahara.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-sahara.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-sahara.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-sahara.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive the Sahara Desert
+```
+**Description** (copy):
+```text
+The Sahara is the largest hot desert on Earth, about the size of the United States. Burning days, freezing nights, sandstorms and almost no water. Here's what it would really take to survive, and the incredible animals and people who do.
+
+Sources: NASA Earth Observatory, NOAA, National Geographic.
+#Sahara #Desert #Survival #EarthDecoded
+
+Chapters:
+0:00 Into the Sahara
+0:33 How big is it?
+1:37 Day: the furnace
+2:56 Night: the freezer
+3:21 Sandstorms
+4:09 A true survival story
+5:13 Life in the desert
+6:39 The eye of the Sahara
+7:48 Could you survive?
+```
+**Tags** (copy):
+```text
+sahara desert, why you'd never survive, desert survival, sahara facts, sandstorm, tuareg, fennec fox, largest desert, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en el desierto del Sahara
+```
+```text
+El Sahara es el desierto cálido más grande de la Tierra, del tamaño de Estados Unidos. Días ardientes, noches heladas, tormentas de arena y casi nada de agua. Esto es lo que realmente haría falta para sobrevivir, y los increíbles animales y personas que lo logran.
+#Sahara #Desierto
+```
+</details>
 
 ## 41. Sat Jan 16, 11:00 AM · Long video
 **Why You'd Never Survive Mount Everest's Death Zone**
