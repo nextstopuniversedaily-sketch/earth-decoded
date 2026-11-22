@@ -430,7 +430,51 @@ La frontera entre Estados Unidos y Canadá es la más larga del mundo, y en los 
 ## 14. Sat Dec 5, 11:00 AM · Long video
 **Why You'd Never Survive a Summer Day in Death Valley**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-death-valley.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-death-valley.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-death-valley.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-death-valley.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive a Summer Day in Death Valley
+```
+**Description** (copy):
+```text
+Death Valley holds the world record for the hottest air temperature ever measured: 134°F (56.7°C). The ground can reach 201°F. What would actually happen to you if you got stranded there on a summer day? We go hour by hour through the heat, the dehydration and the strange beauty of the lowest, hottest and driest place in North America.
+
+Sources: US National Park Service, NOAA National Centers for Environmental Information.
+#DeathValley #California #Desert #EarthDecoded
+
+Chapters:
+0:00 Stranded
+0:38 The hottest place on Earth
+1:23 Why is it so hot?
+2:27 Hour one
+2:53 Hour three
+3:34 The golden rule
+4:12 How it got its name
+4:50 People of the valley
+5:19 Life finds a way
+5:56 Mysteries
+6:42 A lost lake
+7:22 Getting hotter
+7:48 The craziest race
+8:26 So, could you survive?
+```
+**Tags** (copy):
+```text
+death valley, hottest place on earth, death valley heat, badwater basin, 134 degrees, why you'd never survive, what if you were stranded in death valley, extreme heat, mojave desert, national park, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías un día de verano en el Valle de la Muerte
+```
+```text
+El Valle de la Muerte tiene el récord mundial de la temperatura del aire más alta jamás medida: 56.7 °C. El suelo puede llegar a 94 °C. ¿Qué te pasaría si quedaras varado ahí un día de verano? Recorremos hora por hora el calor, la deshidratación y la extraña belleza del lugar más bajo, caliente y seco de Norteamérica.
+#ValleDeLaMuerte #Desierto
+```
+</details>
 
 ## 15. Sat Dec 5, 12:00 PM · Short
 **Why Hawaii Is Moving Toward Japan 🇺🇸🇯🇵🤯 #shorts**
@@ -621,7 +665,48 @@ Liechtenstein y Uzbekistán son los únicos dos países doblemente sin litoral d
 ## 21. Sat Dec 12, 11:00 AM · Long video
 **Why You'd Never Survive a Winter in Antarctica**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-antarctic-winter.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-antarctic-winter.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-antarctic-winter.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-antarctic-winter.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive a Winter in Antarctica
+```
+**Description** (copy):
+```text
+In the Antarctic winter, the Sun disappears for months, temperatures drop below -80°C and no plane can reach you. What would actually happen to you there? We go step by step through the cold, the darkness and the people who choose to live through it every year.
+
+Sources: British Antarctic Survey, NASA, US Antarctic Program, NOAA.
+#Antarctica #SouthPole #Extreme #EarthDecoded
+
+Chapters:
+0:00 Left behind
+0:35 The coldest place on Earth
+1:29 The long night
+2:03 Stepping outside
+2:56 Trapped
+3:37 The race to the Pole
+4:49 Who lives there?
+5:52 Life without the Sun
+7:04 The toughest survivors
+7:38 A frozen planet's secrets
+8:04 So, could you survive?
+```
+**Tags** (copy):
+```text
+antarctica winter, coldest place on earth, south pole station, vostok station, why you'd never survive, living in antarctica, polar night, concordia station, extreme cold, antarctica documentary, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías un invierno en la Antártida
+```
+```text
+En el invierno antártico, el sol desaparece durante meses, la temperatura baja de -80 °C y ningún avión puede llegar a ti. ¿Qué te pasaría ahí? Recorremos el frío, la oscuridad y la gente que decide vivirlo cada año.
+#Antartida #PoloSur
+```
+</details>
 
 ## 22. Sat Dec 19, 11:00 AM · Long video
 **What If Yellowstone's Supervolcano Erupted Tomorrow?**
@@ -636,5 +721,43 @@ _Still rendering — check back in a few minutes._
 ## 24. Sat Jan 2, 11:00 AM · Long video
 **Why You'd Never Survive the Danakil Depression (Hottest Place People Live)**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-danakil.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-danakil.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-danakil.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-danakil.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive the Danakil Depression (Hottest Place People Live)
+```
+**Description** (copy):
+```text
+The Danakil Depression in Ethiopia is one of the most extreme places on Earth: acid pools, toxic gas, a lava lake and the highest average temperature of any inhabited place. Here's what it's really like, who lives and works there, and why you'd never survive a day there on your own.
+
+Sources: US Geological Survey, Smithsonian Global Volcanism Program, Nature Ecology & Evolution (2019).
+#Danakil #Dallol #Ethiopia #EarthDecoded
+
+Chapters:
+0:00 Another planet
+0:35 Below the sea
+1:56 The heat
+3:03 Pools of acid
+5:04 Poison air
+5:38 The lava lake
+6:36 The salt miners
+7:47 Could you survive?
+```
+**Tags** (copy):
+```text
+danakil depression, dallol, hottest place on earth, ethiopia, erta ale, lava lake, acid pools, afar, why you'd never survive, extreme places, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en la depresión de Danakil (el lugar habitado más caliente)
+```
+```text
+La depresión de Danakil, en Etiopía, es uno de los lugares más extremos de la Tierra: lagunas de ácido, gases tóxicos, un lago de lava y la temperatura media más alta de cualquier lugar habitado. Así es en realidad, quién vive y trabaja allí y por qué nunca sobrevivirías un día solo.
+#Danakil #Etiopia
+```
+</details>
 
