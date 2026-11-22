@@ -1,0 +1,26 @@
+[0;93m2026-11-22 03:40:27.689078010 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 15: Lesotho
+  audio 118.5s
+  segment 1/12 [title] 4.4s
+  segment 2/12 [map] 9.5s
+  segment 3/12 [card] 15.2s
+  WIKI File:685_Thaba_Bosiu.jpg (CC0)
+  segment 4/12 [image] 16.7s
+  segment 5/12 [card] 8.7s
+  segment 6/12 [card] 12.9s
+  - skip File:Lesotho snow - panoramio.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Snow in Lesotho (MODIS 2018-08-14).jpg (Public domain)
+  segment 7/12 [image] 6.9s
+  - skip File:Maseru_City_CBD.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Maseru'
+  segment 8/12 [image] 8.2s
+  - skip File:Katse_Dam.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Katse Dam Lesotho'
+  segment 9/12 [image] 11.6s
+  - skip File:Basotho blanket lesotho.jpg: license 'CC BY-SA 3.0'
+  ! no usable NASA image for 'Lesotho horseman'
+  segment 10/12 [image] 9.2s
+  segment 11/12 [card] 9.2s
+  WIKI File:Maletsunyanefalls.JPG (Public domain)
+  segment 12/12 [end] 6.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s015.mp4 (22.9 MB)
