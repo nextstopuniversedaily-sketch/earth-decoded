@@ -1,568 +1,596 @@
 1
-00:00:00,000 --> 00:00:04,206
+00:00:00,000 --> 00:00:04,244
 Imagina un lugar tan seco que algunas estaciones meteorológicas
 
 2
-00:00:04,206 --> 00:00:07,477
+00:00:04,244 --> 00:00:07,546
 han pasado años sin registrar una gota de lluvia.
 
 3
-00:00:07,477 --> 00:00:10,681
+00:00:07,546 --> 00:00:10,779
 Donde el suelo parece de Marte y los científicos
 
 4
-00:00:10,681 --> 00:00:14,353
+00:00:10,779 --> 00:00:14,485
 vienen a probar robots hechos para otros planetas. Este
 
 5
-00:00:14,353 --> 00:00:17,357
+00:00:14,485 --> 00:00:17,517
 es el desierto de Atacama, en Chile, el lugar
 
 6
-00:00:17,357 --> 00:00:20,094
+00:00:17,517 --> 00:00:20,279
 más seco de la Tierra fuera de los polos.
 
 7
-00:00:20,094 --> 00:00:23,232
+00:00:20,279 --> 00:00:23,445
 Y hoy veremos por qué nunca sobrevivirías aquí.
 
 8
-00:00:23,782 --> 00:00:27,878
+00:00:23,995 --> 00:00:28,120
 Bienvenido a Earth Decoded. Si te encantan los lugares
 
 9
-00:00:27,878 --> 00:00:32,202
+00:00:28,120 --> 00:00:32,473
 más extremos del planeta, suscríbete. Hoy, vamos al lugar
 
 10
-00:00:32,202 --> 00:00:35,387
+00:00:32,473 --> 00:00:35,681
 más seco de la Tierra que no está cubierto
 
 11
-00:00:35,387 --> 00:00:36,070
+00:00:35,681 --> 00:00:36,369
 de hielo.
 
 12
-00:00:36,620 --> 00:00:40,185
+00:00:36,919 --> 00:00:40,437
 El Atacama se extiende unos mil kilómetros por la
 
 13
-00:00:40,185 --> 00:00:43,532
+00:00:40,437 --> 00:00:43,740
 costa del Pacífico en el norte de Chile, entre
 
 14
-00:00:43,532 --> 00:00:46,369
+00:00:43,740 --> 00:00:46,540
 el océano y la cordillera de los Andes.
 
 15
-00:00:46,919 --> 00:00:50,721
+00:00:47,090 --> 00:00:50,884
 Algunas partes reciben en promedio menos de un milímetro
 
 16
-00:00:50,721 --> 00:00:53,436
+00:00:50,884 --> 00:00:53,594
 de lluvia al año. La ciudad de Arica, en
 
 17
-00:00:53,436 --> 00:00:56,626
+00:00:53,594 --> 00:00:56,778
 su borde norte, es uno de los lugares habitados
 
 18
-00:00:56,626 --> 00:00:58,119
+00:00:56,778 --> 00:00:58,269
 más secos del planeta.
 
 19
-00:00:58,669 --> 00:01:01,774
+00:00:58,819 --> 00:01:01,910
 ¿Por qué tan seco? Está atrapado. De un lado,
 
 20
-00:01:01,774 --> 00:01:05,361
+00:01:01,910 --> 00:01:05,481
 los Andes bloquean las nubes de lluvia del Amazonas.
 
 21
-00:01:05,361 --> 00:01:08,672
+00:01:05,481 --> 00:01:08,778
 Del otro, una corriente oceánica fría junto a la
 
 22
-00:01:08,672 --> 00:01:11,707
+00:01:08,778 --> 00:01:11,800
 costa enfría el aire, así que no puede subir
 
 23
-00:01:11,707 --> 00:01:13,432
+00:01:11,800 --> 00:01:13,517
 y formar nubes de lluvia.
 
 24
-00:01:13,982 --> 00:01:17,199
+00:01:14,067 --> 00:01:17,284
 Esa agua fría es la corriente de Humboldt, que
 
 25
-00:01:17,199 --> 00:01:20,906
+00:01:17,284 --> 00:01:20,991
 sube desde la Antártida. Hace la costa neblinosa pero
 
 26
-00:01:20,906 --> 00:01:22,025
+00:01:20,991 --> 00:01:22,110
 casi sin lluvia.
 
 27
-00:01:22,575 --> 00:01:25,912
+00:01:22,660 --> 00:01:25,989
 El resultado es un paisaje casi sin plantas. En
 
 28
-00:01:25,912 --> 00:01:29,319
+00:01:25,989 --> 00:01:29,389
 las zonas más secas, incluso a las bacterias les
 
 29
-00:01:29,319 --> 00:01:31,449
+00:01:29,389 --> 00:01:31,513
 cuesta sobrevivir en el suelo.
 
 30
-00:01:31,999 --> 00:01:34,986
+00:01:32,063 --> 00:01:35,042
 Aquí hay un giro extraño. Cuando cayó una lluvia
 
 31
-00:01:34,986 --> 00:01:37,350
+00:01:35,042 --> 00:01:37,400
 fuerte y rara en la parte más seca del
 
 32
-00:01:37,350 --> 00:01:41,022
+00:01:37,400 --> 00:01:41,061
 Atacama, los científicos descubrieron que mató a la mayoría
 
 33
-00:01:41,022 --> 00:01:44,568
+00:01:41,061 --> 00:01:44,598
 de los microbios nativos del suelo. Estaban tan adaptados
 
 34
-00:01:44,568 --> 00:01:47,679
+00:01:44,598 --> 00:01:47,701
 a la sequía que demasiada agua les resultó mortal.
 
 35
-00:01:48,229 --> 00:01:51,232
+00:01:48,251 --> 00:01:51,266
 Una pregunta rápida. ¿Podrías vivir en un lugar donde
 
 36
-00:01:51,232 --> 00:01:53,499
+00:01:51,266 --> 00:01:53,541
 nunca llueve? Dímelo en los comentarios.
 
 37
-00:01:54,049 --> 00:01:57,208
+00:01:54,091 --> 00:01:57,265
 ¿Qué te mataría primero? La sed. Sin ríos, sin
 
 38
-00:01:57,208 --> 00:02:00,643
+00:01:57,265 --> 00:02:00,715
 lluvia y casi sin plantas, simplemente no hay agua
 
 39
-00:02:00,643 --> 00:02:03,734
+00:02:00,715 --> 00:02:03,819
 que encontrar en la mayor parte del desierto.
 
 40
-00:02:04,284 --> 00:02:07,274
+00:02:04,369 --> 00:02:07,406
 Luego el sol. Gran parte del Atacama está a
 
 41
-00:02:07,274 --> 00:02:10,543
+00:02:07,406 --> 00:02:10,725
 gran altura, por encima de dos mil metros, bajo
 
 42
-00:02:10,543 --> 00:02:14,020
+00:02:10,725 --> 00:02:14,255
 algunos de los cielos más despejados del mundo. La
 
 43
-00:02:14,020 --> 00:02:17,983
+00:02:14,255 --> 00:02:18,280
 radiación ultravioleta aquí es de las más fuertes medidas
 
 44
-00:02:17,983 --> 00:02:21,460
+00:02:18,280 --> 00:02:21,811
 en el planeta, y puede quemar la piel desprotegida
 
 45
-00:02:21,460 --> 00:02:22,225
+00:02:21,811 --> 00:02:22,588
 muy rápido.
 
 46
-00:02:22,775 --> 00:02:26,160
+00:02:23,138 --> 00:02:26,582
 Luego el frío. Los días pueden ser cálidos, pero
 
 47
-00:02:26,160 --> 00:02:28,911
+00:02:26,582 --> 00:02:29,381
 de noche, sin nubes y con aire seco, el
 
 48
-00:02:28,911 --> 00:02:31,309
+00:02:29,381 --> 00:02:31,821
 desierto alto puede bajar de cero.
 
 49
-00:02:31,859 --> 00:02:34,837
-Y la altura. En el altiplano, el aire tiene
+00:02:32,371 --> 00:02:36,067
+Y el viento. Por las tardes, vientos fuertes barren
 
 50
-00:02:34,837 --> 00:02:39,617
-mucho menos oxígeno. Los trabajadores de algunos observatorios llevan
+00:02:36,067 --> 00:02:39,474
+el desierto alto, llevando polvo y arena que te
 
 51
-00:02:39,617 --> 00:02:43,566
-tanques de oxígeno y deben pasar revisiones médicas antes
+00:02:39,474 --> 00:02:42,156
+pican la cara y los ojos, y hacen aún
 
 52
-00:02:43,566 --> 00:02:44,189
-de subir.
+00:02:42,156 --> 00:02:45,128
+más difícil conservar el agua del cuerpo.
 
 53
-00:02:44,739 --> 00:02:48,576
-Y está vacío. Entre pueblos, puedes manejar horas sin
+00:02:45,678 --> 00:02:49,916
+Sin sombra, agua ni protección, una persona perdida en
 
 54
-00:02:48,576 --> 00:02:51,326
-ver otro auto, un árbol o una casa. Si
+00:02:49,916 --> 00:02:53,761
+pleno Atacama podría estar en grave peligro en un
 
 55
-00:02:51,326 --> 00:02:56,104
-te descompusieras fuera de las carreteras principales, quizá nadie
+00:02:53,761 --> 00:02:54,467
+solo día.
 
 56
-00:02:56,104 --> 00:02:57,262
-pasaría en días.
+00:02:55,017 --> 00:02:58,006
+Y la altura. En el altiplano, el aire tiene
 
 57
-00:02:57,812 --> 00:03:00,496
-El Atacama se parece tanto a Marte que la
+00:02:58,006 --> 00:03:02,803
+mucho menos oxígeno. Los trabajadores de algunos observatorios llevan
 
 58
-00:03:00,496 --> 00:03:04,032
-NASA y otras agencias espaciales prueban aquí robots e
+00:03:02,803 --> 00:03:06,765
+tanques de oxígeno y deben pasar revisiones médicas antes
 
 59
-00:03:04,032 --> 00:03:08,353
-instrumentos para detectar vida. Si un instrumento puede encontrar
+00:03:06,765 --> 00:03:07,391
+de subir.
 
 60
-00:03:08,353 --> 00:03:11,234
-vida en el suelo más seco del Atacama, quizá
+00:03:07,941 --> 00:03:11,751
+Y está vacío. Entre pueblos, puedes manejar horas sin
 
 61
-00:03:11,234 --> 00:03:13,001
-pueda encontrarla en Marte.
+00:03:11,751 --> 00:03:14,483
+ver otro auto, un árbol o una casa. Si
 
 62
-00:03:13,551 --> 00:03:16,139
-Lugares como el Valle de la Luna, cerca de
+00:03:14,483 --> 00:03:19,228
+te descompusieras fuera de las carreteras principales, quizá nadie
 
 63
-00:03:16,139 --> 00:03:19,343
-San Pedro de Atacama, se ven tan extraterrestres que
+00:03:19,228 --> 00:03:20,378
+pasaría en días.
 
 64
-00:03:19,343 --> 00:03:21,807
-se han usado para imaginar otros mundos.
+00:03:20,928 --> 00:03:23,650
+El Atacama se parece tanto a Marte que la
 
 65
-00:03:22,357 --> 00:03:25,711
-El desierto también es un gran lugar para encontrar
+00:03:23,650 --> 00:03:27,235
+NASA y otras agencias espaciales prueban aquí robots e
 
 66
-00:03:25,711 --> 00:03:29,393
-meteoritos. Las rocas espaciales que caen aquí apenas se
+00:03:27,235 --> 00:03:31,617
+instrumentos para detectar vida. Si un instrumento puede encontrar
 
 67
-00:03:29,393 --> 00:03:32,943
-oxidan o desgastan, y resaltan sobre el suelo desnudo,
+00:03:31,617 --> 00:03:34,538
+vida en el suelo más seco del Atacama, quizá
 
 68
-00:03:32,943 --> 00:03:35,968
-así que los científicos han recolectado miles.
+00:03:34,538 --> 00:03:36,331
+pueda encontrarla en Marte.
 
 69
-00:03:36,518 --> 00:03:38,833
-En lo alto de los Andes, a más de
+00:03:36,881 --> 00:03:39,475
+Lugares como el Valle de la Luna, cerca de
 
 70
-00:03:38,833 --> 00:03:42,831
-cuatro mil metros, los géiseres del Tatio lanzan columnas
+00:03:39,475 --> 00:03:42,687
+San Pedro de Atacama, se ven tan extraterrestres que
 
 71
-00:03:42,831 --> 00:03:45,707
-de vapor al aire helado de la mañana, uno
+00:03:42,687 --> 00:03:45,158
+se han usado para imaginar otros mundos.
 
 72
-00:03:45,707 --> 00:03:48,934
-de los campos de géiseres más altos del mundo.
+00:03:45,708 --> 00:03:49,088
+El desierto también es un gran lugar para encontrar
 
 73
-00:03:49,484 --> 00:03:52,772
-Esos mismos cielos secos y despejados hacen del Atacama
+00:03:49,088 --> 00:03:52,799
+meteoritos. Las rocas espaciales que caen aquí apenas se
 
 74
-00:03:52,772 --> 00:03:55,283
-el mejor lugar de la Tierra para mirar las
+00:03:52,799 --> 00:03:56,377
+oxidan o desgastan, y resaltan sobre el suelo desnudo,
 
 75
-00:03:55,283 --> 00:03:58,631
-estrellas. Por eso aquí están algunos de los telescopios
+00:03:56,377 --> 00:03:59,425
+así que los científicos han recolectado miles.
 
 76
-00:03:58,631 --> 00:04:00,065
-más poderosos del mundo.
+00:03:59,975 --> 00:04:02,286
+En lo alto de los Andes, a más de
 
 77
-00:04:00,615 --> 00:04:04,520
-ALMA, un enorme conjunto de sesenta y seis antenas
+00:04:02,286 --> 00:04:06,278
+cuatro mil metros, los géiseres del Tatio lanzan columnas
 
 78
-00:04:04,520 --> 00:04:07,723
-de radio, está a unos cinco mil metros en
+00:04:06,278 --> 00:04:09,149
+de vapor al aire helado de la mañana, uno
 
 79
-00:04:07,723 --> 00:04:11,393
-la meseta de Chajnantor. Estudia el gas y polvo
+00:04:09,149 --> 00:04:12,370
+de los campos de géiseres más altos del mundo.
 
 80
-00:04:11,393 --> 00:04:14,439
-fríos donde nacen estrellas y planetas.
+00:04:12,920 --> 00:04:16,195
+Esos mismos cielos secos y despejados hacen del Atacama
 
 81
-00:04:14,989 --> 00:04:18,724
-Cerca, en el cerro Paranal, el Very Large Telescope
+00:04:16,195 --> 00:04:18,695
+el mejor lugar de la Tierra para mirar las
 
 82
-00:04:18,724 --> 00:04:22,312
-ha ayudado a estudiar el agujero negro gigante en
+00:04:18,695 --> 00:04:22,030
+estrellas. Por eso aquí están algunos de los telescopios
 
 83
-00:04:22,312 --> 00:04:25,681
-el centro de nuestra galaxia. Y en una montaña
+00:04:22,030 --> 00:04:23,459
+más poderosos del mundo.
 
 84
-00:04:25,681 --> 00:04:29,782
-vecina se construye el Extremely Large Telescope, con un
+00:04:24,009 --> 00:04:27,926
+ALMA, un enorme conjunto de sesenta y seis antenas
 
 85
-00:04:29,782 --> 00:04:32,931
-espejo principal de treinta y nueve metros.
+00:04:27,926 --> 00:04:31,138
+de radio, está a unos cinco mil metros en
 
 86
-00:04:33,481 --> 00:04:36,942
-Algunas estimaciones dicen que para la década de 2030,
+00:04:31,138 --> 00:04:34,820
+la meseta de Chajnantor. Estudia el gas y polvo
 
 87
-00:04:36,942 --> 00:04:40,211
-Chile podría tener cerca del cuarenta por ciento de
+00:04:34,820 --> 00:04:37,875
+fríos donde nacen estrellas y planetas.
 
 88
-00:04:40,211 --> 00:04:44,249
-la capacidad mundial de observación astronómica de gran tamaño.
+00:04:38,425 --> 00:04:42,178
+Cerca, en el cerro Paranal, el Very Large Telescope
 
 89
-00:04:44,249 --> 00:04:47,390
-El desierto se ha vuelto una ventana al universo.
+00:04:42,178 --> 00:04:45,783
+ha ayudado a estudiar el agujero negro gigante en
 
 90
-00:04:47,940 --> 00:04:51,210
-¿Preferirías visitar el Atacama por las estrellas o por
+00:04:45,783 --> 00:04:49,168
+el centro de nuestra galaxia. Y en una montaña
 
 91
-00:04:51,210 --> 00:04:53,529
-el desierto? Dímelo en los comentarios.
+00:04:49,168 --> 00:04:53,288
+vecina se construye el Extremely Large Telescope, con un
 
 92
-00:04:54,079 --> 00:04:56,753
-Y aun así, la vida encuentra la forma. En
+00:04:53,288 --> 00:04:56,452
+espejo principal de treinta y nueve metros.
 
 93
-00:04:56,753 --> 00:05:00,341
-la costa, la gente usa atrapanieblas, grandes redes que
+00:04:57,002 --> 00:05:00,469
+Algunas estimaciones dicen que para la década de 2030,
 
 94
-00:05:00,341 --> 00:05:04,515
-capturan las gotitas de la neblina matutina, llamada camanchaca,
+00:05:00,469 --> 00:05:03,743
+Chile podría tener cerca del cuarenta por ciento de
 
 95
-00:05:04,515 --> 00:05:06,602
-y las recogen como agua potable.
+00:05:03,743 --> 00:05:07,787
+la capacidad mundial de observación astronómica de gran tamaño.
 
 96
-00:05:07,152 --> 00:05:10,990
-A veces llegan lluvias raras, a menudo ligadas a
+00:05:07,787 --> 00:05:10,933
+El desierto se ha vuelto una ventana al universo.
 
 97
-00:05:10,990 --> 00:05:14,668
-años de El Niño. Cuando eso pasa, semillas que
+00:05:11,483 --> 00:05:14,753
+¿Preferirías visitar el Atacama por las estrellas o por
 
 98
-00:05:14,668 --> 00:05:18,425
-esperaron años en el suelo florecen y cubren el
+00:05:14,753 --> 00:05:17,072
+el desierto? Dímelo en los comentarios.
 
 99
-00:05:18,425 --> 00:05:23,143
-desierto de flores rosas, moradas y amarillas. Los chilenos
+00:05:17,622 --> 00:05:20,278
+Y aun así, la vida encuentra la forma. En
 
 100
-00:05:23,143 --> 00:05:25,541
-lo llaman el desierto florido.
+00:05:20,278 --> 00:05:23,841
+la costa, la gente usa atrapanieblas, grandes redes que
 
 101
-00:05:26,091 --> 00:05:29,288
-En los lagos salados del altiplano, los flamencos se
+00:05:23,841 --> 00:05:27,986
+capturan las gotitas de la neblina matutina, llamada camanchaca,
 
 102
-00:05:29,288 --> 00:05:32,362
-alimentan de pequeñas algas y camarones en el agua
+00:05:27,986 --> 00:05:30,059
+y las recogen como agua potable.
 
 103
-00:05:32,362 --> 00:05:35,435
-salada, de un rosa brillante contra la sal blanca.
+00:05:30,609 --> 00:05:34,460
+A veces llegan lluvias raras, a menudo ligadas a
 
 104
-00:05:35,985 --> 00:05:39,388
-Y las vicuñas salvajes, parientes de las llamas con
+00:05:34,460 --> 00:05:38,151
+años de El Niño. Cuando eso pasa, semillas que
 
 105
-00:05:39,388 --> 00:05:42,324
-una de las lanas más finas del mundo, pastan
+00:05:38,151 --> 00:05:41,922
+esperaron años en el suelo florecen y cubren el
 
 106
-00:05:42,324 --> 00:05:44,860
-en el escaso pasto de los altos Andes.
+00:05:41,922 --> 00:05:46,656
+desierto de flores rosas, moradas y amarillas. Los chilenos
 
 107
-00:05:45,410 --> 00:05:49,205
-Pero la lluvia también puede ser peligrosa. En marzo
+00:05:46,656 --> 00:05:49,063
+lo llaman el desierto florido.
 
 108
-00:05:49,205 --> 00:05:54,167
-de 2015, tormentas inusuales causaron inundaciones y aludes mortales
+00:05:49,613 --> 00:05:52,802
+En los lagos salados del altiplano, los flamencos se
 
 109
-00:05:54,167 --> 00:05:57,451
-en pueblos de la región de Atacama, porque el
+00:05:52,802 --> 00:05:55,869
+alimentan de pequeñas algas y camarones en el agua
 
 110
-00:05:57,451 --> 00:06:00,151
-suelo seco no podía absorber el agua.
+00:05:55,869 --> 00:05:58,935
+salada, de un rosa brillante contra la sal blanca.
 
 111
-00:06:00,701 --> 00:06:03,812
-La gente ha vivido aquí por miles de años.
+00:05:59,485 --> 00:06:02,888
+Y las vicuñas salvajes, parientes de las llamas con
 
 112
-00:06:03,812 --> 00:06:07,663
-La cultura chinchorro, en la costa, momificaba a sus
+00:06:02,888 --> 00:06:05,824
+una de las lanas más finas del mundo, pastan
 
 113
-00:06:07,663 --> 00:06:11,069
-muertos hace unos siete mil años, unos dos mil
+00:06:05,824 --> 00:06:08,360
+en el escaso pasto de los altos Andes.
 
 114
-00:06:11,069 --> 00:06:14,550
-años antes que los egipcios. Sus momias hoy son
+00:06:08,910 --> 00:06:12,721
+Pero la lluvia también puede ser peligrosa. En marzo
 
 115
-00:06:14,550 --> 00:06:17,512
-Patrimonio de la Humanidad de la UNESCO.
+00:06:12,721 --> 00:06:17,705
+de 2015, tormentas inusuales causaron inundaciones y aludes mortales
 
 116
-00:06:18,062 --> 00:06:21,530
-El desierto también es rico en minerales. Chile es
+00:06:17,705 --> 00:06:21,003
+en pueblos de la región de Atacama, porque el
 
 117
-00:06:21,530 --> 00:06:25,276
-el mayor productor de cobre del mundo, y Chuquicamata,
+00:06:21,003 --> 00:06:23,715
+suelo seco no podía absorber el agua.
 
 118
-00:06:25,276 --> 00:06:27,773
-en el Atacama, es una de las minas a
+00:06:24,265 --> 00:06:27,380
+La gente ha vivido aquí por miles de años.
 
 119
-00:06:27,773 --> 00:06:30,478
-cielo abierto más grandes de la Tierra.
+00:06:27,380 --> 00:06:31,235
+La cultura chinchorro, en la costa, momificaba a sus
 
 120
-00:06:31,028 --> 00:06:34,161
-El Salar de Atacama, una enorme planicie de sal,
+00:06:31,235 --> 00:06:34,646
+muertos hace unos siete mil años, unos dos mil
 
 121
-00:06:34,161 --> 00:06:37,489
-guarda algunas de las mayores reservas de litio del
+00:06:34,646 --> 00:06:38,131
+años antes que los egipcios. Sus momias hoy son
 
 122
-00:06:37,489 --> 00:06:40,817
-mundo, el metal dentro de las baterías de teléfonos
+00:06:38,131 --> 00:06:41,097
+Patrimonio de la Humanidad de la UNESCO.
 
 123
-00:06:40,817 --> 00:06:42,057
-y autos eléctricos.
+00:06:41,647 --> 00:06:45,104
+El desierto también es rico en minerales. Chile es
 
 124
-00:06:42,607 --> 00:06:45,311
-No todo lo que hay en el desierto es
+00:06:45,104 --> 00:06:48,836
+el mayor productor de cobre del mundo, y Chuquicamata,
 
 125
-00:06:45,311 --> 00:06:50,342
-natural. En los últimos años, reportajes mostraron enormes montañas
+00:06:48,836 --> 00:06:51,325
+en el Atacama, es una de las minas a
 
 126
-00:06:50,342 --> 00:06:53,871
-de ropa usada desechada en el Atacama, cerca de
+00:06:51,325 --> 00:06:54,021
+cielo abierto más grandes de la Tierra.
 
 127
-00:06:53,871 --> 00:06:57,851
-la ciudad de Alto Hospicio, un recordatorio de cuánta
+00:06:54,571 --> 00:06:57,727
+El Salar de Atacama, una enorme planicie de sal,
 
 128
-00:06:57,851 --> 00:06:59,653
-basura produce el mundo.
+00:06:57,727 --> 00:07:01,082
+guarda algunas de las mayores reservas de litio del
 
 129
-00:07:00,203 --> 00:07:03,008
-Y hace más de un siglo, el salitre del
+00:07:01,082 --> 00:07:04,436
+mundo, el metal dentro de las baterías de teléfonos
 
 130
-00:07:03,008 --> 00:07:07,437
-desierto, usado para fertilizantes y explosivos, la hizo una
+00:07:04,436 --> 00:07:05,685
+y autos eléctricos.
 
 131
-00:07:07,437 --> 00:07:11,275
-de las regiones más ricas del mundo, dejando pueblos
+00:07:06,235 --> 00:07:08,922
+No todo lo que hay en el desierto es
 
 132
-00:07:11,275 --> 00:07:13,195
-fantasma como Humberstone.
+00:07:08,922 --> 00:07:13,921
+natural. En los últimos años, reportajes mostraron enormes montañas
 
 133
-00:07:13,745 --> 00:07:17,784
-Entonces, ¿podrías sobrevivir en el Atacama? Solo, sin agua,
+00:07:13,921 --> 00:07:17,428
+de ropa usada desechada en el Atacama, cerca de
 
 134
-00:07:17,784 --> 00:07:20,612
-bajo ese sol, casi seguro que no. Pero con
+00:07:17,428 --> 00:07:21,383
+la ciudad de Alto Hospicio, un recordatorio de cuánta
 
 135
-00:07:20,612 --> 00:07:25,257
-atrapanieblas, minas, telescopios y tradiciones antiguas, la gente ha
+00:07:21,383 --> 00:07:23,174
+basura produce el mundo.
 
 136
-00:07:25,257 --> 00:07:28,421
-encontrado formas de vivir en el lugar más seco
+00:07:23,724 --> 00:07:26,529
+Y hace más de un siglo, el salitre del
 
 137
-00:07:28,421 --> 00:07:29,297
-de la Tierra.
+00:07:26,529 --> 00:07:30,958
+desierto, usado para fertilizantes y explosivos, la hizo una
 
 138
-00:07:29,847 --> 00:07:34,321
-Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en
+00:07:30,958 --> 00:07:34,797
+de las regiones más ricas del mundo, dejando pueblos
 
 139
-00:07:34,321 --> 00:07:35,457
-los comentarios.
+00:07:34,797 --> 00:07:36,716
+fantasma como Humberstone.
 
 140
-00:07:36,007 --> 00:07:39,522
-Gracias por ver Earth Decoded. Si te gustó, dale
+00:07:37,266 --> 00:07:41,272
+Entonces, ¿podrías sobrevivir en el Atacama? Solo, sin agua,
 
 141
-00:07:39,522 --> 00:07:43,184
-me gusta, suscríbete y compártelo con un amigo que
+00:07:41,272 --> 00:07:44,077
+bajo ese sol, casi seguro que no. Pero con
 
 142
-00:07:43,184 --> 00:07:46,333
+00:07:44,077 --> 00:07:48,684
+atrapanieblas, minas, telescopios y tradiciones antiguas, la gente ha
+
+143
+00:07:48,684 --> 00:07:51,822
+encontrado formas de vivir en el lugar más seco
+
+144
+00:07:51,822 --> 00:07:52,690
+de la Tierra.
+
+145
+00:07:53,240 --> 00:07:57,612
+Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en
+
+146
+00:07:57,612 --> 00:07:58,723
+los comentarios.
+
+147
+00:07:59,273 --> 00:08:02,853
+Gracias por ver Earth Decoded. Si te gustó, dale
+
+148
+00:08:02,853 --> 00:08:06,583
+me gusta, suscríbete y compártelo con un amigo que
+
+149
+00:08:06,583 --> 00:08:09,790
 ame las estrellas. Nos vemos en el próximo.
 

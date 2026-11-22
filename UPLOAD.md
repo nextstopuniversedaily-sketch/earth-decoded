@@ -1455,11 +1455,11 @@ Chapters:
 0:00 The driest place
 0:58 Why it never rains
 1:54 What would kill you
-2:57 Mars on Earth
-3:49 Window to the universe
-4:54 Life finds a way
-6:00 Treasures of the desert
-7:13 Could you survive?
+3:20 Mars on Earth
+4:12 Window to the universe
+5:17 Life finds a way
+6:24 Treasures of the desert
+7:37 Could you survive?
 ```
 **Tags** (copy):
 ```text

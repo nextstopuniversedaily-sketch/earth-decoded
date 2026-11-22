@@ -1,568 +1,596 @@
 1
-00:00:00,000 --> 00:00:03,513
+00:00:00,000 --> 00:00:03,546
 Imagine a place so dry that some weather stations
 
 2
-00:00:03,513 --> 00:00:07,099
+00:00:03,546 --> 00:00:07,164
 have gone years without recording a single drop of
 
 3
-00:00:07,099 --> 00:00:10,827
+00:00:07,164 --> 00:00:10,927
 rain. Where the soil looks like Mars, and scientists
 
 4
-00:00:10,827 --> 00:00:14,341
+00:00:10,927 --> 00:00:14,472
 come to test robots meant for other planets. This
 
 5
-00:00:14,341 --> 00:00:17,783
+00:00:14,472 --> 00:00:17,946
 is the Atacama Desert in Chile, the driest place
 
 6
-00:00:17,783 --> 00:00:21,153
+00:00:17,946 --> 00:00:21,347
 on Earth outside the poles. And today we'll see
 
 7
-00:00:21,153 --> 00:00:23,232
+00:00:21,347 --> 00:00:23,445
 why you'd never survive here.
 
 8
-00:00:23,782 --> 00:00:27,250
+00:00:23,995 --> 00:00:27,487
 Welcome to Earth Decoded. If you love the most
 
 9
-00:00:27,250 --> 00:00:31,547
+00:00:27,487 --> 00:00:31,814
 extreme places on our planet, tap subscribe. Today, we're
 
 10
-00:00:31,547 --> 00:00:34,939
+00:00:31,814 --> 00:00:35,230
 going to the driest place on Earth that isn't
 
 11
-00:00:34,939 --> 00:00:36,070
+00:00:35,230 --> 00:00:36,369
 covered in ice.
 
 12
-00:00:36,620 --> 00:00:41,025
+00:00:36,919 --> 00:00:41,266
 The Atacama stretches about one thousand kilometers along the
 
 13
-00:00:41,025 --> 00:00:44,925
+00:00:41,266 --> 00:00:45,115
 Pacific coast of northern Chile, between the ocean and
 
 14
-00:00:44,925 --> 00:00:46,369
+00:00:45,115 --> 00:00:46,540
 the Andes mountains.
 
 15
-00:00:46,919 --> 00:00:50,272
+00:00:47,090 --> 00:00:50,436
 Some parts get less than one millimeter of rain
 
 16
-00:00:50,272 --> 00:00:53,126
+00:00:50,436 --> 00:00:53,285
 a year on average. The city of Arica, at
 
 17
-00:00:53,126 --> 00:00:56,621
+00:00:53,285 --> 00:00:56,773
 its northern edge, is one of the driest inhabited
 
 18
-00:00:56,621 --> 00:00:58,119
+00:00:56,773 --> 00:00:58,269
 places on the planet.
 
 19
-00:00:58,669 --> 00:01:02,039
+00:00:58,819 --> 00:01:02,174
 Why so dry? It's trapped. On one side, the
 
 20
-00:01:02,039 --> 00:01:05,810
+00:01:02,174 --> 00:01:05,928
 Andes block rain clouds from the Amazon. On the
 
 21
-00:01:05,810 --> 00:01:09,741
+00:01:05,928 --> 00:01:09,843
 other, a cold ocean current along the coast cools
 
 22
-00:01:09,741 --> 00:01:12,870
+00:01:09,843 --> 00:01:12,958
 the air, so it can't rise and form rain
 
 23
-00:01:12,870 --> 00:01:13,432
+00:01:12,958 --> 00:01:13,517
 clouds.
 
 24
-00:01:13,982 --> 00:01:17,644
+00:01:14,067 --> 00:01:17,730
 That cold water is the Humboldt Current, flowing up
 
 25
-00:01:17,644 --> 00:01:21,378
+00:01:17,730 --> 00:01:21,464
 from Antarctica. It makes the coast foggy but almost
 
 26
-00:01:21,378 --> 00:01:22,025
+00:01:21,464 --> 00:01:22,110
 rainless.
 
 27
-00:01:22,575 --> 00:01:26,022
+00:01:22,660 --> 00:01:26,099
 The result is a landscape with almost no plants
 
 28
-00:01:26,022 --> 00:01:29,762
+00:01:26,099 --> 00:01:29,830
 at all. In the driest areas, even bacteria struggle
 
 29
-00:01:29,762 --> 00:01:31,449
+00:01:29,830 --> 00:01:31,513
 to survive in the soil.
 
 30
-00:01:31,999 --> 00:01:35,476
+00:01:32,063 --> 00:01:35,530
 Here's a strange twist. When rare heavy rain fell
 
 31
-00:01:35,476 --> 00:01:39,094
+00:01:35,530 --> 00:01:39,139
 on the driest part of the Atacama, scientists found
 
 32
-00:01:39,094 --> 00:01:42,571
+00:01:39,139 --> 00:01:42,606
 it actually killed most of the native microbes in
 
 33
-00:01:42,571 --> 00:01:45,835
+00:01:42,606 --> 00:01:45,861
 the soil. They were so adapted to dryness that
 
 34
-00:01:45,835 --> 00:01:47,679
+00:01:45,861 --> 00:01:47,701
 too much water was deadly.
 
 35
-00:01:48,229 --> 00:01:51,599
+00:01:48,251 --> 00:01:51,634
 Quick question. Could you live somewhere where it never
 
 36
-00:01:51,599 --> 00:01:53,499
+00:01:51,634 --> 00:01:53,541
 rains? Tell me in the comments.
 
 37
-00:01:54,049 --> 00:01:57,253
+00:01:54,091 --> 00:01:57,310
 So what would kill you first? Thirst. With no
 
 38
-00:01:57,253 --> 00:02:00,529
+00:01:57,310 --> 00:02:00,601
 rivers, no rain and almost no plants, there is
 
 39
-00:02:00,529 --> 00:02:03,235
+00:02:00,601 --> 00:02:03,319
 simply no water to find in most of the
 
 40
-00:02:03,235 --> 00:02:03,734
+00:02:03,319 --> 00:02:03,819
 desert.
 
 41
-00:02:04,284 --> 00:02:07,407
+00:02:04,369 --> 00:02:07,541
 Then the sun. Much of the Atacama sits high
 
 42
-00:02:07,407 --> 00:02:10,894
+00:02:07,541 --> 00:02:11,081
 up, above two thousand meters, under some of the
 
 43
-00:02:10,894 --> 00:02:15,107
+00:02:11,081 --> 00:02:15,360
 clearest skies on Earth. The ultraviolet radiation here is
 
 44
-00:02:15,107 --> 00:02:19,175
+00:02:15,360 --> 00:02:19,490
 among the strongest measured anywhere on the planet, and
 
 45
-00:02:19,175 --> 00:02:22,225
+00:02:19,490 --> 00:02:22,588
 it can burn unprotected skin very quickly.
 
 46
-00:02:22,775 --> 00:02:25,720
+00:02:23,138 --> 00:02:26,135
 Then the cold. Days can be warm, but at
 
 47
-00:02:25,720 --> 00:02:28,968
+00:02:26,135 --> 00:02:29,439
 night, with no clouds and dry air, the high
 
 48
-00:02:28,968 --> 00:02:31,309
+00:02:29,439 --> 00:02:31,821
 desert can drop below freezing.
 
 49
-00:02:31,859 --> 00:02:35,296
-And the altitude. On the high plateau, the air
+00:02:32,371 --> 00:02:36,047
+And the wind. In the afternoons, strong winds sweep
 
 50
-00:02:35,296 --> 00:02:39,481
-has much less oxygen. Workers at some observatories here
+00:02:36,047 --> 00:02:39,722
+across the high desert, carrying dust and sand that
 
 51
-00:02:39,481 --> 00:02:43,517
-carry oxygen tanks and must pass medical checks before
+00:02:39,722 --> 00:02:42,750
+sting your face and eyes, and make it even
 
 52
-00:02:43,517 --> 00:02:44,189
-going up.
+00:02:42,750 --> 00:02:45,128
+harder to keep your body's water.
 
 53
-00:02:44,739 --> 00:02:48,405
-And it's empty. Between towns, you can drive for
+00:02:45,678 --> 00:02:49,694
+Without shade, water and protection, a person lost in
 
 54
-00:02:48,405 --> 00:02:51,841
-hours without seeing another car, a tree or a
+00:02:49,694 --> 00:02:53,482
+the open Atacama could be in serious danger within
 
 55
-00:02:51,841 --> 00:02:55,200
-house. If you broke down off the main roads,
+00:02:53,482 --> 00:02:54,467
+a single day.
 
 56
-00:02:55,200 --> 00:02:57,262
-nobody might pass for days.
+00:02:55,017 --> 00:02:58,467
+And the altitude. On the high plateau, the air
 
 57
-00:02:57,812 --> 00:03:01,002
-The Atacama is so much like Mars that NASA
+00:02:58,467 --> 00:03:02,666
+has much less oxygen. Workers at some observatories here
 
 58
-00:03:01,002 --> 00:03:05,635
-and other space agencies test rovers and life-detection tools
+00:03:02,666 --> 00:03:06,716
+carry oxygen tanks and must pass medical checks before
 
 59
-00:03:05,635 --> 00:03:08,900
-here. If an instrument can find life in the
+00:03:06,716 --> 00:03:07,391
+going up.
 
 60
-00:03:08,900 --> 00:03:12,166
-driest Atacama soil, it may be able to find
+00:03:07,941 --> 00:03:11,581
+And it's empty. Between towns, you can drive for
 
 61
-00:03:12,166 --> 00:03:13,001
-it on Mars.
+00:03:11,581 --> 00:03:14,994
+hours without seeing another car, a tree or a
 
 62
-00:03:13,551 --> 00:03:16,529
-Places like the Valley of the Moon, near San
+00:03:14,994 --> 00:03:18,330
+house. If you broke down off the main roads,
 
 63
-00:03:16,529 --> 00:03:19,845
-Pedro de Atacama, look so alien that they've been
+00:03:18,330 --> 00:03:20,378
+nobody might pass for days.
 
 64
-00:03:19,845 --> 00:03:21,807
-used to imagine other worlds.
+00:03:20,928 --> 00:03:24,163
+The Atacama is so much like Mars that NASA
 
 65
-00:03:22,357 --> 00:03:25,300
-The desert is also a great place to find
+00:03:24,163 --> 00:03:28,860
+and other space agencies test rovers and life-detection tools
 
 66
-00:03:25,300 --> 00:03:29,199
-meteorites. Space rocks that fall here barely rust or
+00:03:28,860 --> 00:03:32,172
+here. If an instrument can find life in the
 
 67
-00:03:29,199 --> 00:03:32,510
-erode, and they stand out on the bare ground,
+00:03:32,172 --> 00:03:35,484
+driest Atacama soil, it may be able to find
 
 68
-00:03:32,510 --> 00:03:35,968
-so scientists have collected thousands of them.
+00:03:35,484 --> 00:03:36,331
+it on Mars.
 
 69
-00:03:36,518 --> 00:03:39,785
-High in the Andes, at more than four thousand
+00:03:36,881 --> 00:03:39,866
+Places like the Valley of the Moon, near San
 
 70
-00:03:39,785 --> 00:03:43,416
-meters, the El Tatio geysers puff columns of steam
+00:03:39,866 --> 00:03:43,190
+Pedro de Atacama, look so alien that they've been
 
 71
-00:03:43,416 --> 00:03:46,974
-into the freezing morning air, one of the highest
+00:03:43,190 --> 00:03:45,158
+used to imagine other worlds.
 
 72
-00:03:46,974 --> 00:03:48,934
-geyser fields in the world.
+00:03:45,708 --> 00:03:48,674
+The desert is also a great place to find
 
 73
-00:03:49,484 --> 00:03:52,707
-The same dry, clear skies make the Atacama the
+00:03:48,674 --> 00:03:52,604
+meteorites. Space rocks that fall here barely rust or
 
 74
-00:03:52,707 --> 00:03:55,581
-best place on Earth to look at the stars.
+00:03:52,604 --> 00:03:55,940
+erode, and they stand out on the bare ground,
 
 75
-00:03:55,581 --> 00:03:59,435
-That's why some of the world's most powerful telescopes
+00:03:55,940 --> 00:03:59,425
+so scientists have collected thousands of them.
 
 76
-00:03:59,435 --> 00:04:00,065
-are here.
+00:03:59,975 --> 00:04:03,237
+High in the Andes, at more than four thousand
 
 77
-00:04:00,615 --> 00:04:04,925
-ALMA, a giant array of sixty-six radio antennas, sits
+00:04:03,237 --> 00:04:06,861
+meters, the El Tatio geysers puff columns of steam
 
 78
-00:04:04,925 --> 00:04:09,479
-at about five thousand meters on the Chajnantor plateau.
+00:04:06,861 --> 00:04:10,413
+into the freezing morning air, one of the highest
 
 79
-00:04:09,479 --> 00:04:13,057
-It studies cold gas and dust where stars and
+00:04:10,413 --> 00:04:12,370
+geyser fields in the world.
 
 80
-00:04:13,057 --> 00:04:14,439
-planets are born.
+00:04:12,920 --> 00:04:16,130
+The same dry, clear skies make the Atacama the
 
 81
-00:04:14,989 --> 00:04:18,944
-Nearby, on Cerro Paranal, the Very Large Telescope has
+00:04:16,130 --> 00:04:18,992
+best place on Earth to look at the stars.
 
 82
-00:04:18,944 --> 00:04:22,678
-helped scientists study the giant black hole at the
+00:04:18,992 --> 00:04:22,831
+That's why some of the world's most powerful telescopes
 
 83
-00:04:22,678 --> 00:04:26,486
-center of our galaxy. And on a neighboring mountain,
+00:04:22,831 --> 00:04:23,459
+are here.
 
 84
-00:04:26,486 --> 00:04:30,294
-the Extremely Large Telescope is being built, with a
+00:04:24,009 --> 00:04:28,332
+ALMA, a giant array of sixty-six radio antennas, sits
 
 85
-00:04:30,294 --> 00:04:32,931
-main mirror thirty-nine meters wide.
+00:04:28,332 --> 00:04:32,900
+at about five thousand meters on the Chajnantor plateau.
 
 86
-00:04:33,481 --> 00:04:37,267
-Some estimates say that by the 2030s, Chile could
+00:04:32,900 --> 00:04:36,489
+It studies cold gas and dust where stars and
 
 87
-00:04:37,267 --> 00:04:41,363
-host around forty percent of the world's capacity for
+00:04:36,489 --> 00:04:37,875
+planets are born.
 
 88
-00:04:41,363 --> 00:04:46,154
-large astronomical observation. The desert has become a window
+00:04:38,425 --> 00:04:42,399
+Nearby, on Cerro Paranal, the Very Large Telescope has
 
 89
-00:04:46,154 --> 00:04:47,390
-to the universe.
+00:04:42,399 --> 00:04:46,151
+helped scientists study the giant black hole at the
 
 90
-00:04:47,940 --> 00:04:50,888
-Would you rather visit the Atacama for the stars
+00:04:46,151 --> 00:04:49,977
+center of our galaxy. And on a neighboring mountain,
 
 91
-00:04:50,888 --> 00:04:53,529
-or for the desert? Tell me in the comments.
+00:04:49,977 --> 00:04:53,803
+the Extremely Large Telescope is being built, with a
 
 92
-00:04:54,079 --> 00:04:57,247
-And yet, life finds a way. Along the coast,
+00:04:53,803 --> 00:04:56,452
+main mirror thirty-nine meters wide.
 
 93
-00:04:57,247 --> 00:05:01,077
-people use fog catchers, big nets that trap droplets
+00:04:57,002 --> 00:05:00,794
+Some estimates say that by the 2030s, Chile could
 
 94
-00:05:01,077 --> 00:05:05,276
-from the morning fog, called camanchaca, and collect them
+00:05:00,794 --> 00:05:04,896
+host around forty percent of the world's capacity for
 
 95
-00:05:05,276 --> 00:05:06,602
-as drinking water.
+00:05:04,896 --> 00:05:09,694
+large astronomical observation. The desert has become a window
 
 96
-00:05:07,152 --> 00:05:11,098
-Sometimes, rare rains arrive, often linked to El Niño
+00:05:09,694 --> 00:05:10,933
+to the universe.
 
 97
-00:05:11,098 --> 00:05:14,448
-years. When they do, seeds that waited in the
+00:05:11,483 --> 00:05:14,431
+Would you rather visit the Atacama for the stars
 
 98
-00:05:14,448 --> 00:05:18,469
-ground for years burst into bloom, covering the desert
+00:05:14,431 --> 00:05:17,072
+or for the desert? Tell me in the comments.
 
 99
-00:05:18,469 --> 00:05:22,340
-in pink, purple and yellow flowers. Chileans call it
+00:05:17,622 --> 00:05:20,768
+And yet, life finds a way. Along the coast,
 
 100
-00:05:22,340 --> 00:05:25,541
-the desierto florido, the flowering desert.
+00:05:20,768 --> 00:05:24,572
+people use fog catchers, big nets that trap droplets
 
 101
-00:05:26,091 --> 00:05:29,489
-On the salt lakes of the high plateau, flamingos
+00:05:24,572 --> 00:05:28,742
+from the morning fog, called camanchaca, and collect them
 
 102
-00:05:29,489 --> 00:05:32,462
-feed on tiny algae and shrimp in the salty
+00:05:28,742 --> 00:05:30,059
+as drinking water.
 
 103
-00:05:32,462 --> 00:05:35,435
-water, bright pink against the white salt.
+00:05:30,609 --> 00:05:34,569
+Sometimes, rare rains arrive, often linked to El Niño
 
 104
-00:05:35,985 --> 00:05:39,593
-And wild vicuñas, relatives of llamas with some of
+00:05:34,569 --> 00:05:37,931
+years. When they do, seeds that waited in the
 
 105
-00:05:39,593 --> 00:05:42,623
-the finest wool in the world, graze on the
+00:05:37,931 --> 00:05:41,965
+ground for years burst into bloom, covering the desert
 
 106
-00:05:42,623 --> 00:05:44,860
-sparse grass of the high Andes.
+00:05:41,965 --> 00:05:45,850
+in pink, purple and yellow flowers. Chileans call it
 
 107
-00:05:45,410 --> 00:05:49,285
-But rain can also be dangerous. In March 2015,
+00:05:45,850 --> 00:05:49,063
+the desierto florido, the flowering desert.
 
 108
-00:05:49,285 --> 00:05:54,171
-unusual storms caused deadly floods and mudslides in towns
+00:05:49,613 --> 00:05:53,003
+On the salt lakes of the high plateau, flamingos
 
 109
-00:05:54,171 --> 00:05:58,719
-of the Atacama region, because the dry ground couldn't
+00:05:53,003 --> 00:05:55,969
+feed on tiny algae and shrimp in the salty
 
 110
-00:05:58,719 --> 00:06:00,151
-absorb the water.
+00:05:55,969 --> 00:05:58,935
+water, bright pink against the white salt.
 
 111
-00:06:00,701 --> 00:06:04,263
-People have lived here for thousands of years. The
+00:05:59,485 --> 00:06:03,093
+And wild vicuñas, relatives of llamas with some of
 
 112
-00:06:04,263 --> 00:06:08,822
-Chinchorro culture, along the coast, mummified their dead around
+00:06:03,093 --> 00:06:06,123
+the finest wool in the world, graze on the
 
 113
-00:06:08,822 --> 00:06:12,882
-seven thousand years ago, about two thousand years before
+00:06:06,123 --> 00:06:08,360
+sparse grass of the high Andes.
 
 114
-00:06:12,882 --> 00:06:16,515
-the Egyptians. Their mummies are now a UNESCO World
+00:06:08,910 --> 00:06:12,802
+But rain can also be dangerous. In March 2015,
 
 115
-00:06:16,515 --> 00:06:17,512
-Heritage Site.
+00:06:12,802 --> 00:06:17,709
+unusual storms caused deadly floods and mudslides in towns
 
 116
-00:06:18,062 --> 00:06:21,490
-The desert is also rich in minerals. Chile is
+00:06:17,709 --> 00:06:22,277
+of the Atacama region, because the dry ground couldn't
 
 117
-00:06:21,490 --> 00:06:26,060
-the world's largest producer of copper, and Chuquicamata, in
+00:06:22,277 --> 00:06:23,715
+absorb the water.
 
 118
-00:06:26,060 --> 00:06:29,792
-the Atacama, is one of the biggest open-pit mines
+00:06:24,265 --> 00:06:27,831
+People have lived here for thousands of years. The
 
 119
-00:06:29,792 --> 00:06:30,478
-on Earth.
+00:06:27,831 --> 00:06:32,396
+Chinchorro culture, along the coast, mummified their dead around
 
 120
-00:06:31,028 --> 00:06:34,499
-The Salar de Atacama, a huge salt flat, holds
+00:06:32,396 --> 00:06:36,461
+seven thousand years ago, about two thousand years before
 
 121
-00:06:34,499 --> 00:06:38,509
-some of the world's largest reserves of lithium, the
+00:06:36,461 --> 00:06:40,099
+the Egyptians. Their mummies are now a UNESCO World
 
 122
-00:06:38,509 --> 00:06:42,057
-metal inside phone and electric car batteries.
+00:06:40,099 --> 00:06:41,097
+Heritage Site.
 
 123
-00:06:42,607 --> 00:06:46,343
-Not everything left in the desert is natural. In
+00:06:41,647 --> 00:06:45,063
+The desert is also rich in minerals. Chile is
 
 124
-00:06:46,343 --> 00:06:51,247
-recent years, reports showed huge piles of unwanted second-hand
+00:06:45,063 --> 00:06:49,618
+the world's largest producer of copper, and Chuquicamata, in
 
 125
-00:06:51,247 --> 00:06:54,827
-clothes dumped in the Atacama near the city of
+00:06:49,618 --> 00:06:53,337
+the Atacama, is one of the biggest open-pit mines
 
 126
-00:06:54,827 --> 00:06:58,485
-Alto Hospicio, a reminder of how much waste the
+00:06:53,337 --> 00:06:54,021
+on Earth.
 
 127
-00:06:58,485 --> 00:06:59,653
-world produces.
+00:06:54,571 --> 00:06:58,068
+The Salar de Atacama, a huge salt flat, holds
 
 128
-00:07:00,203 --> 00:07:04,085
-And over a century ago, the desert's saltpeter, used
+00:06:58,068 --> 00:07:02,110
+some of the world's largest reserves of lithium, the
 
 129
-00:07:04,085 --> 00:07:07,744
-for fertilizer and explosives, made it one of the
+00:07:02,110 --> 00:07:05,685
+metal inside phone and electric car batteries.
 
 130
-00:07:07,744 --> 00:07:11,925
-richest regions in the world, leaving behind ghost towns
+00:07:06,235 --> 00:07:09,948
+Not everything left in the desert is natural. In
 
 131
-00:07:11,925 --> 00:07:13,195
-like Humberstone.
+00:07:09,948 --> 00:07:14,821
+recent years, reports showed huge piles of unwanted second-hand
 
 132
-00:07:13,745 --> 00:07:17,339
-So, could you survive the Atacama? Alone, with no
+00:07:14,821 --> 00:07:18,379
+clothes dumped in the Atacama near the city of
 
 133
-00:07:17,339 --> 00:07:21,227
-water, under that sun, almost certainly not. But with
+00:07:18,379 --> 00:07:22,014
+Alto Hospicio, a reminder of how much waste the
 
 134
-00:07:21,227 --> 00:07:25,849
-fog nets, mines, telescopes and ancient traditions, people have
+00:07:22,014 --> 00:07:23,174
+world produces.
 
 135
-00:07:25,849 --> 00:07:28,857
-found ways to live in the driest place on
+00:07:23,724 --> 00:07:27,607
+And over a century ago, the desert's saltpeter, used
 
 136
-00:07:28,857 --> 00:07:29,297
-Earth.
+00:07:27,607 --> 00:07:31,265
+for fertilizer and explosives, made it one of the
 
 137
-00:07:29,847 --> 00:07:33,815
-Last question. Which extreme place should we explore next?
+00:07:31,265 --> 00:07:35,447
+richest regions in the world, leaving behind ghost towns
 
 138
-00:07:33,815 --> 00:07:35,457
-Tell me in the comments.
+00:07:35,447 --> 00:07:36,716
+like Humberstone.
 
 139
-00:07:36,007 --> 00:07:39,743
-Thanks for watching Earth Decoded. If you enjoyed this,
+00:07:37,266 --> 00:07:40,831
+So, could you survive the Atacama? Alone, with no
 
 140
-00:07:39,743 --> 00:07:42,868
-like the video, subscribe, and share it with a
+00:07:40,831 --> 00:07:44,687
+water, under that sun, almost certainly not. But with
 
 141
-00:07:42,868 --> 00:07:45,721
-friend who loves the stars. See you in the
+00:07:44,687 --> 00:07:49,271
+fog nets, mines, telescopes and ancient traditions, people have
 
 142
-00:07:45,721 --> 00:07:46,333
+00:07:49,271 --> 00:07:52,253
+found ways to live in the driest place on
+
+143
+00:07:52,253 --> 00:07:52,690
+Earth.
+
+144
+00:07:53,240 --> 00:07:57,118
+Last question. Which extreme place should we explore next?
+
+145
+00:07:57,118 --> 00:07:58,723
+Tell me in the comments.
+
+146
+00:07:59,273 --> 00:08:03,078
+Thanks for watching Earth Decoded. If you enjoyed this,
+
+147
+00:08:03,078 --> 00:08:06,261
+like the video, subscribe, and share it with a
+
+148
+00:08:06,261 --> 00:08:09,167
+friend who loves the stars. See you in the
+
+149
+00:08:09,167 --> 00:08:09,790
 next one.
 
