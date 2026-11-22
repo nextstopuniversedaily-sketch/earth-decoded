@@ -1,0 +1,502 @@
+{
+ "slug": "never-survive-antarctic-winter",
+ "publish": "2026-12-12 11:00",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Winter in Antarctica",
+ "screen_title": "Why You'd Never Survive an Antarctic Winter",
+ "subtitle": "Six months of darkness at -80°C",
+ "yt_title": "Why You'd Never Survive a Winter in Antarctica",
+ "yt_title_es": "Por qué nunca sobrevivirías un invierno en la Antártida",
+ "description": "In the Antarctic winter, the Sun disappears for months, temperatures drop below -80°C and no plane can reach you. What would actually happen to you there? We go step by step through the cold, the darkness and the people who choose to live through it every year.\n\nSources: British Antarctic Survey, NASA, US Antarctic Program, NOAA.\n#Antarctica #SouthPole #Extreme #EarthDecoded",
+ "description_es": "En el invierno antártico, el sol desaparece durante meses, la temperatura baja de -80 °C y ningún avión puede llegar a ti. ¿Qué te pasaría ahí? Recorremos el frío, la oscuridad y la gente que decide vivirlo cada año.\n#Antartida #PoloSur",
+ "tags": [
+  "antarctica winter",
+  "coldest place on earth",
+  "south pole station",
+  "vostok station",
+  "why you'd never survive",
+  "living in antarctica",
+  "polar night",
+  "concordia station",
+  "extreme cold",
+  "antarctica documentary",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Antarctica"
+  ],
+  "commons": [
+   "Antarctic ice sheet aurora australis"
+  ],
+  "query": "Antarctica night",
+  "white": "-89°C",
+  "accent": "6 MONTHS DARK",
+  "badge": "NO WAY OUT"
+ },
+ "segments": [
+  {
+   "chapter": "Left behind",
+   "text": "Imagine the last plane of the season takes off, and you're not on it. For the next six months, no one can come to get you. The Sun is about to disappear, and the temperature outside will drop lower than anywhere else on Earth. This is winter in Antarctica. How long would you last? Stay to the end to find out who actually survives it, every single year.",
+   "es": "Imagina que despega el último avión de la temporada, y tú no vas en él. Durante los próximos seis meses, nadie podrá venir por ti. El sol está por desaparecer, y la temperatura bajará más que en cualquier otro lugar de la Tierra. Esto es el invierno en la Antártida. ¿Cuánto durarías? Quédate hasta el final para saber quién sobrevive, cada año.",
+   "visual": {
+    "type": "title",
+    "wiki": [
+     "Antarctica"
+    ],
+    "query": "Antarctica ice"
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're spending a winter at the bottom of the world.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy pasamos un invierno en el fondo del mundo.",
+   "subscribe": true,
+   "visual": {
+    "type": "image",
+    "query": "Antarctica from space",
+    "commons": [
+     "Antarctica Blue Marble"
+    ]
+   }
+  },
+  {
+   "chapter": "The coldest place on Earth",
+   "text": "Antarctica is the coldest, driest and windiest continent. In 1983, at Russia's Vostok Station, deep in the interior, the air reached minus eighty nine point two degrees Celsius. That's minus one hundred twenty eight degrees Fahrenheit, the coldest temperature ever recorded by a weather station.",
+   "es": "La Antártida es el continente más frío, seco y ventoso. En 1983, en la estación rusa Vostok, en el interior, el aire llegó a ochenta y nueve punto dos grados bajo cero. La temperatura más baja jamás registrada por una estación meteorológica.",
+   "visual": {
+    "type": "card",
+    "big": "-89.2°C",
+    "label": "coldest temperature ever recorded",
+    "sub": "Vostok Station, July 1983 (-128.6°F)"
+   }
+  },
+  {
+   "text": "Satellites have measured even colder spots on the high ice plateau, close to minus one hundred degrees Celsius at the surface during clear winter nights.",
+   "es": "Los satélites han medido lugares todavía más fríos en la alta meseta de hielo, cerca de cien grados bajo cero en la superficie, durante noches despejadas de invierno.",
+   "visual": {
+    "type": "card",
+    "big": "~ -98°C",
+    "label": "measured from space",
+    "sub": "on the East Antarctic plateau"
+   }
+  },
+  {
+   "text": "Why so cold? Antarctica is a giant dome of ice, more than two kilometers thick on average. Up high, the air is thin and dry. And the bright white snow reflects most of the sunlight back into space.",
+   "es": "¿Por qué tanto frío? La Antártida es una cúpula gigante de hielo, de más de dos kilómetros de grosor en promedio. Allá arriba, el aire es delgado y seco. Y la nieve blanca refleja casi toda la luz del sol de vuelta al espacio.",
+   "headline": "A DOME OF ICE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "East Antarctic Ice Sheet plateau"
+    ],
+    "query": "Antarctica plateau"
+   }
+  },
+  {
+   "text": "And in winter, there's no sunlight to reflect at all.",
+   "es": "Y en invierno, no hay luz solar que reflejar.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Antarctica polar night"
+    ],
+    "query": "Antarctica night"
+   }
+  },
+  {
+   "chapter": "The long night",
+   "text": "At the South Pole, the Sun sets around March and doesn't rise again until around September. That's about six months of night. For weeks, there isn't even twilight, just stars, the Moon, and the shimmering southern lights.",
+   "es": "En el Polo Sur, el sol se oculta alrededor de marzo y no vuelve a salir hasta cerca de septiembre. Son unos seis meses de noche. Durante semanas, ni siquiera hay crepúsculo, solo estrellas, la luna y las brillantes auroras australes.",
+   "headline": "6 MONTHS OF NIGHT",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Aurora"
+    ],
+    "commons": [
+     "Aurora australis South Pole"
+    ],
+    "query": "aurora australis"
+   }
+  },
+  {
+   "text": "Living in darkness messes with your body clock. People have trouble sleeping, feel tired and moody, and lose track of the days. Doctors even have a name for it: winter-over syndrome.",
+   "es": "Vivir en la oscuridad altera tu reloj biológico. La gente duerme mal, se siente cansada y de mal humor, y pierde la noción de los días. Los médicos incluso tienen un nombre para eso: síndrome de invernada.",
+   "headline": "WINTER-OVER SYNDROME",
+   "visual": {
+    "type": "card",
+    "big": "NO SUNRISE",
+    "label": "for months",
+    "sub": "your body clock stops working"
+   }
+  },
+  {
+   "question": true,
+   "text": "Quick question. Could you handle months without seeing the Sun? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Aguantarías meses sin ver el sol? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Could YOU live months without the Sun?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Stepping outside",
+   "text": "So what happens if you step outside without the right gear? At minus seventy degrees, exposed skin can freeze in less than a minute. Your eyelashes freeze, and the moisture in your breath turns to ice crystals around your face.",
+   "es": "¿Qué pasa si sales sin el equipo adecuado? A setenta grados bajo cero, la piel expuesta puede congelarse en menos de un minuto. Las pestañas se congelan, y la humedad de tu aliento se convierte en cristales de hielo alrededor de tu cara.",
+   "headline": "SKIN FREEZES IN SECONDS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "frozen beard Antarctica researcher"
+    ],
+    "query": "Antarctica researcher cold"
+   }
+  },
+  {
+   "text": "Breathing that air hurts. It's so cold and dry that it can sting your throat and lungs. People cover their mouths with scarves to warm each breath.",
+   "es": "Respirar ese aire duele. Es tan frío y seco que puede arder en la garganta y los pulmones. La gente se cubre la boca con bufandas para calentar cada respiración.",
+   "visual": {
+    "type": "card",
+    "big": "< 1 MINUTE",
+    "label": "for exposed skin to freeze",
+    "sub": "at about -70°C with wind"
+   }
+  },
+  {
+   "text": "Then comes hypothermia. Your body shivers hard to make heat. As your core temperature drops, you get clumsy and confused. Without shelter, it doesn't take long for things to become deadly.",
+   "es": "Luego llega la hipotermia. Tu cuerpo tiembla con fuerza para generar calor. Al bajar tu temperatura interna, te vuelves torpe y confundido. Sin refugio, no tarda mucho en volverse mortal.",
+   "headline": "HYPOTHERMIA",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Antarctica blizzard"
+    ],
+    "query": "blizzard snow"
+   }
+  },
+  {
+   "text": "The wind makes everything worse. Near the coast, katabatic winds pour down off the ice dome. In some places, they can blow at more than two hundred kilometers an hour.",
+   "es": "El viento lo empeora todo. Cerca de la costa, los vientos catabáticos bajan desde la cúpula de hielo. En algunos lugares pueden soplar a más de doscientos kilómetros por hora.",
+   "headline": "KATABATIC WINDS",
+   "visual": {
+    "type": "card",
+    "big": "200+ km/h",
+    "label": "katabatic winds",
+    "sub": "cold air pouring down off the ice"
+   }
+  },
+  {
+   "chapter": "Trapped",
+   "text": "In winter, almost no plane can land. It's too cold for normal fuel and hydraulics, and too dark to see. If someone gets sick, they usually have to wait for spring.",
+   "es": "En invierno, casi ningún avión puede aterrizar. Hace demasiado frío para el combustible y los sistemas hidráulicos normales, y está demasiado oscuro para ver. Si alguien se enferma, normalmente tiene que esperar a la primavera.",
+   "headline": "NO FLIGHTS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "LC-130 Hercules Antarctica"
+    ],
+    "query": "Antarctica airplane"
+   }
+  },
+  {
+   "text": "There have been rare emergency flights. In 1999, a doctor at the South Pole had to treat her own cancer, with supplies dropped by a plane, before she could be flown out months later.",
+   "es": "Ha habido raros vuelos de emergencia. En 1999, una doctora en el Polo Sur tuvo que tratarse su propio cáncer, con suministros lanzados desde un avión, antes de poder ser evacuada meses después.",
+   "headline": "A DOCTOR ALONE",
+   "visual": {
+    "type": "card",
+    "big": "1999",
+    "label": "a doctor treated her own cancer",
+    "sub": "at the South Pole, waiting for rescue"
+   }
+  },
+  {
+   "text": "In 1961, at a Soviet station, the only doctor got appendicitis. With no way out, he removed his own appendix, using a mirror, while two colleagues helped him.",
+   "es": "En 1961, en una estación soviética, el único médico tuvo apendicitis. Sin forma de salir, se extirpó su propio apéndice usando un espejo, mientras dos compañeros lo ayudaban.",
+   "headline": "SELF-SURGERY, 1961",
+   "visual": {
+    "type": "card",
+    "big": "1961",
+    "label": "a doctor removed his own appendix",
+    "sub": "Novolazarevskaya Station"
+   }
+  },
+  {
+   "chapter": "The race to the Pole",
+   "text": "People have paid a terrible price to learn these lessons. In 1911, two teams raced to be the first to reach the South Pole: a Norwegian team led by Roald Amundsen, and a British team led by Robert Falcon Scott.",
+   "es": "La gente ha pagado un precio terrible para aprender estas lecciones. En 1911, dos equipos compitieron por ser los primeros en llegar al Polo Sur: un equipo noruego dirigido por Roald Amundsen, y uno británico dirigido por Robert Falcon Scott.",
+   "headline": "1911: THE RACE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Roald Amundsen"
+    ],
+    "query": "Amundsen South Pole"
+   }
+  },
+  {
+   "text": "Amundsen used sled dogs and skis, and reached the Pole on December fourteenth, 1911. Scott's team arrived about five weeks later, only to find the Norwegian flag already there.",
+   "es": "Amundsen usó perros de trineo y esquís, y llegó al Polo el catorce de diciembre de 1911. El equipo de Scott llegó unas cinco semanas después, solo para encontrar la bandera noruega ya ahí.",
+   "visual": {
+    "type": "card",
+    "big": "DEC 14, 1911",
+    "label": "Amundsen reaches the South Pole",
+    "sub": "Scott arrives about 5 weeks later"
+   }
+  },
+  {
+   "text": "On the way back, Scott and his four companions were caught by brutal cold and blizzards. None of them survived. Their tent was found months later, just about eleven miles from a supply depot.",
+   "es": "En el regreso, Scott y sus cuatro compañeros fueron atrapados por un frío brutal y tormentas de nieve. Ninguno sobrevivió. Su tienda fue encontrada meses después, a unos dieciocho kilómetros de un depósito de suministros.",
+   "headline": "11 MILES FROM SAFETY",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Terra Nova Expedition"
+    ],
+    "query": "Scott expedition Antarctica"
+   }
+  },
+  {
+   "text": "A few years later, Ernest Shackleton's ship Endurance was crushed by sea ice. His men survived for almost two years on the ice and on a remote island, and every single one of them made it home.",
+   "es": "Unos años después, el barco Endurance de Ernest Shackleton fue aplastado por el hielo marino. Sus hombres sobrevivieron casi dos años en el hielo y en una isla remota, y todos y cada uno regresaron a casa.",
+   "headline": "ENDURANCE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Endurance (1912 ship)"
+    ],
+    "query": "Endurance ship ice"
+   }
+  },
+  {
+   "text": "In 2022, the wreck of Endurance was finally found, three thousand meters deep in the Weddell Sea, remarkably well preserved by the icy water.",
+   "es": "En 2022, por fin se encontraron los restos del Endurance, a tres mil metros de profundidad en el mar de Weddell, sorprendentemente bien conservados por el agua helada.",
+   "visual": {
+    "type": "card",
+    "big": "2022",
+    "label": "Endurance found",
+    "sub": "3,000 m deep in the Weddell Sea"
+   }
+  },
+  {
+   "chapter": "Who lives there?",
+   "text": "And yet, every winter, around a thousand people stay in Antarctica on purpose. Scientists, engineers, cooks and doctors live at research stations across the continent.",
+   "es": "Y aun así, cada invierno, cerca de mil personas se quedan en la Antártida a propósito. Científicos, ingenieros, cocineros y médicos viven en estaciones de investigación por todo el continente.",
+   "visual": {
+    "type": "card",
+    "big": "~1,000",
+    "label": "people stay all winter",
+    "sub": "across dozens of research stations"
+   }
+  },
+  {
+   "text": "At the Amundsen Scott South Pole Station, a few dozen people spend the winter in a raised building that looks like a spaceship, sitting right at the bottom of the planet.",
+   "es": "En la estación Amundsen Scott del Polo Sur, unas decenas de personas pasan el invierno en un edificio elevado que parece una nave espacial, justo en el fondo del planeta.",
+   "headline": "SOUTH POLE STATION",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Amundsen–Scott South Pole Station"
+    ],
+    "query": "South Pole station"
+   }
+  },
+  {
+   "text": "There's a famous tradition there called the three hundred club. When it hits minus one hundred degrees Fahrenheit, people sit in a sauna heated to two hundred degrees, then run outside to the pole marker, a swing of three hundred degrees.",
+   "es": "Ahí hay una tradición famosa llamada el club de los trescientos. Cuando hace setenta y tres grados bajo cero, la gente se mete a un sauna a noventa y tres grados, y luego corre afuera hasta el marcador del polo, un cambio de unos ciento sesenta y cinco grados Celsius.",
+   "headline": "THE 300 CLUB",
+   "visual": {
+    "type": "card",
+    "big": "300°F",
+    "label": "from sauna to -100°F outside",
+    "sub": "the South Pole's 300 Club"
+   }
+  },
+  {
+   "text": "In the middle of the ice plateau, the French Italian Concordia Station is so isolated that the European Space Agency uses it to study how astronauts might cope on a mission to Mars. They call it White Mars.",
+   "es": "En medio de la meseta de hielo, la estación franco-italiana Concordia está tan aislada que la Agencia Espacial Europea la usa para estudiar cómo reaccionarían los astronautas en una misión a Marte. La llaman Marte Blanco.",
+   "headline": "WHITE MARS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Concordia Station"
+    ],
+    "query": "Concordia station Antarctica"
+   }
+  },
+  {
+   "question": true,
+   "text": "Would you volunteer for a winter at White Mars? Yes or no in the comments.",
+   "es": "¿Te ofrecerías para un invierno en Marte Blanco? Sí o no, en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Would you spend a winter at White Mars?",
+    "sub": "Yes or no in the comments"
+   }
+  },
+  {
+   "chapter": "Life without the Sun",
+   "text": "How do they get through it? Stations grow fresh vegetables in greenhouses under lamps. People celebrate Midwinter Day in June with a big feast, and stations even send each other greetings across the continent.",
+   "es": "¿Cómo lo soportan? Las estaciones cultivan verduras frescas en invernaderos con lámparas. La gente celebra el Día de Mitad del Invierno en junio con un gran banquete, y las estaciones incluso se envían saludos entre sí por todo el continente.",
+   "headline": "MIDWINTER DAY",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "South Pole greenhouse"
+    ],
+    "query": "greenhouse lights"
+   }
+  },
+  {
+   "text": "They keep busy with science. In the clean, dry winter air, telescopes at the South Pole study the oldest light in the universe, and a huge detector buried in the ice, IceCube, hunts for tiny particles called neutrinos.",
+   "es": "Se mantienen ocupados con la ciencia. En el aire limpio y seco del invierno, telescopios en el Polo Sur estudian la luz más antigua del universo, y un enorme detector enterrado en el hielo, IceCube, busca pequeñas partículas llamadas neutrinos.",
+   "headline": "ICECUBE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "IceCube Neutrino Observatory"
+    ],
+    "query": "IceCube observatory"
+   }
+  },
+  {
+   "text": "And there's a reward for those who stay. During the long polar night, the sky over Antarctica is often lit up by the aurora australis, the southern lights, glowing green and red curtains that ripple across the stars.",
+   "es": "Y hay una recompensa para quienes se quedan. Durante la larga noche polar, el cielo de la Antártida a menudo se ilumina con la aurora austral, cortinas brillantes verdes y rojas que ondulan entre las estrellas.",
+   "headline": "SOUTHERN LIGHTS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Aurora"
+    ],
+    "query": "aurora australis Antarctica"
+   }
+  },
+  {
+   "text": "Winter crews like to play with the cold, too. Throw a cup of boiling water into the air at minus sixty, and it instantly turns into a cloud of ice crystals that drifts away like snow.",
+   "es": "Los equipos de invierno también juegan con el frío. Lanza una taza de agua hirviendo al aire a sesenta bajo cero, y al instante se convierte en una nube de cristales de hielo que se va flotando como nieve.",
+   "headline": "INSTANT SNOW",
+   "visual": {
+    "type": "card",
+    "big": "-60°C",
+    "label": "boiling water turns to snow mid-air",
+    "sub": "a favorite winter experiment"
+   }
+  },
+  {
+   "text": "Scientists also drill deep ice cores. Bubbles of ancient air trapped in the ice tell us what Earth's climate was like hundreds of thousands of years ago.",
+   "es": "Los científicos también perforan núcleos de hielo profundos. Las burbujas de aire antiguo atrapadas en el hielo nos dicen cómo era el clima de la Tierra hace cientos de miles de años.",
+   "headline": "ANCIENT AIR",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Ice core"
+    ],
+    "query": "ice core"
+   }
+  },
+  {
+   "chapter": "The toughest survivors",
+   "text": "Humans need heated buildings to survive. But one animal does it out in the open: the emperor penguin. In the middle of winter, males stand on the ice for about two months, balancing an egg on their feet.",
+   "es": "Los humanos necesitan edificios con calefacción para sobrevivir. Pero un animal lo hace a la intemperie: el pingüino emperador. En pleno invierno, los machos se paran sobre el hielo durante unos dos meses, sosteniendo un huevo sobre sus patas.",
+   "headline": "EMPEROR PENGUINS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Emperor penguin"
+    ],
+    "query": "emperor penguins"
+   }
+  },
+  {
+   "text": "They don't eat the whole time. To survive the wind and cold, thousands huddle together, slowly rotating, so every penguin gets a turn in the warm center.",
+   "es": "No comen en todo ese tiempo. Para sobrevivir al viento y al frío, miles se apiñan, girando lentamente, para que cada pingüino tenga su turno en el centro cálido.",
+   "headline": "THE HUDDLE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Emperor penguin huddle"
+    ],
+    "query": "penguin colony"
+   }
+  },
+  {
+   "text": "Weddell seals survive under the sea ice, using their teeth to keep breathing holes open all winter long.",
+   "es": "Las focas de Weddell sobreviven bajo el hielo marino, usando los dientes para mantener abiertos sus agujeros de respiración todo el invierno.",
+   "headline": "WEDDELL SEALS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Weddell seal"
+    ],
+    "query": "Weddell seal"
+   }
+  },
+  {
+   "chapter": "A frozen planet's secrets",
+   "text": "Under all that ice, Antarctica hides surprises. There are hundreds of lakes of liquid water buried kilometers beneath the surface. The biggest, Lake Vostok, has been sealed off from the air for millions of years.",
+   "es": "Bajo todo ese hielo, la Antártida esconde sorpresas. Hay cientos de lagos de agua líquida enterrados kilómetros bajo la superficie. El más grande, el lago Vostok, ha estado aislado del aire durante millones de años.",
+   "headline": "LAKE VOSTOK",
+   "visual": {
+    "type": "card",
+    "big": "400+",
+    "label": "lakes hidden under the ice",
+    "sub": "Lake Vostok is the biggest"
+   }
+  },
+  {
+   "text": "And the ice holds almost seventy percent of the world's fresh water. If it all melted, sea levels would rise by about fifty eight meters.",
+   "es": "Y el hielo guarda casi el setenta por ciento del agua dulce del mundo. Si se derritiera todo, el nivel del mar subiría unos cincuenta y ocho metros.",
+   "visual": {
+    "type": "card",
+    "big": "58 m",
+    "label": "sea level rise if it all melted",
+    "sub": "~70% of Earth's fresh water"
+   }
+  },
+  {
+   "chapter": "So, could you survive?",
+   "text": "So, could you survive a winter in Antarctica? On your own, out in the open, almost certainly not. The cold, the wind and the dark would get you within hours.",
+   "es": "Entonces, ¿podrías sobrevivir un invierno en la Antártida? Solo y a la intemperie, casi seguro que no. El frío, el viento y la oscuridad acabarían contigo en horas.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Antarctica storm night"
+    ],
+    "query": "Antarctica"
+   }
+  },
+  {
+   "text": "But inside a station, with a team, warm food and a reason to be there, people do it every single year, and many say it's the most amazing experience of their lives. Then, in late winter, the first sunrise in months turns the whole sky gold.",
+   "es": "Pero dentro de una estación, con un equipo, comida caliente y una razón para estar ahí, la gente lo hace cada año, y muchos dicen que es la experiencia más increíble de su vida. Y al final del invierno, el primer amanecer en meses pinta todo el cielo de dorado.",
+   "headline": "THE FIRST SUNRISE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Antarctica sunrise"
+    ],
+    "query": "Antarctica sunrise"
+   }
+  },
+  {
+   "question": true,
+   "text": "Last question. Where should we go next? Tell me in the comments.",
+   "es": "Última pregunta. ¿A dónde vamos ahora? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Where should we go next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with someone who always says they're cold. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con alguien que siempre dice que tiene frío. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "query": "Antarctica iceberg"
+   }
+  }
+ ]
+}

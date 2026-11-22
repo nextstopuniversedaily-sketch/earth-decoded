@@ -1,0 +1,506 @@
+{
+ "slug": "never-survive-point-nemo",
+ "publish": "2026-12-26 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive Point Nemo",
+ "screen_title": "Why You'd Never Survive Point Nemo",
+ "subtitle": "The loneliest place on Earth",
+ "yt_title": "Why You'd Never Survive Point Nemo, the Loneliest Place on Earth",
+ "yt_title_es": "Por qué nunca sobrevivirías en el Punto Nemo, el lugar más solitario de la Tierra",
+ "description": "Point Nemo is the spot in the ocean farthest from any land, about 2,700 km from the nearest island. The closest humans are often astronauts on the International Space Station. Here's what it's like out there, why spacecraft are crashed there on purpose, and why you'd never survive being stranded at Point Nemo.\n\nSources: NOAA, NASA, US Geological Survey.\n#PointNemo #Ocean #Geography #EarthDecoded",
+ "description_es": "El Punto Nemo es el lugar del océano más alejado de cualquier tierra, a unos 2,700 km de la isla más cercana. Los humanos más cercanos suelen ser los astronautas de la Estación Espacial Internacional. Así es estar allí, por qué estrellan naves espaciales a propósito y por qué nunca sobrevivirías varado en el Punto Nemo.\n#PuntoNemo #Oceano",
+ "tags": [
+  "point nemo",
+  "loneliest place on earth",
+  "oceanic pole of inaccessibility",
+  "spacecraft cemetery",
+  "pacific ocean",
+  "farthest point from land",
+  "why you'd never survive",
+  "ocean documentary",
+  "geography documentary",
+  "iss",
+  "ocean facts",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Pacific Ocean storm waves"
+  ],
+  "query": "huge ocean waves storm",
+  "white": "2,700 KM",
+  "accent": "FROM LAND",
+  "badge": "NOBODY CAN REACH YOU"
+ },
+ "segments": [
+  {
+   "chapter": "Alone",
+   "text": "Imagine you're floating in the middle of the ocean. You look in every direction and see nothing but water. The nearest land is two thousand seven hundred kilometers away. The nearest people aren't on a ship or an island. They're in space, flying over your head. This is Point Nemo, the loneliest place on Earth. And by the end of this video, you'll see why you'd never survive here.",
+   "es": "Imagina que flotas en medio del océano. Miras en todas direcciones y solo ves agua. La tierra más cercana está a dos mil setecientos kilómetros. Las personas más cercanas no están en un barco ni en una isla. Están en el espacio, volando sobre tu cabeza. Este es el Punto Nemo, el lugar más solitario de la Tierra. Y al final de este video, verás por qué nunca sobrevivirías aquí.",
+   "visual": {
+    "type": "title",
+    "commons": [
+     "Pacific Ocean storm waves"
+    ],
+    "query": "open ocean waves"
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're going to the middle of nowhere.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy vamos a la mitad de la nada.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -175,
+     -65,
+     -70,
+     5
+    ],
+    "highlight": [
+     "Chile",
+     "New Zealand"
+    ],
+    "marker": [
+     -123.39,
+     -48.88
+    ],
+    "label": "Point Nemo"
+   }
+  },
+  {
+   "chapter": "Finding nowhere",
+   "text": "Point Nemo is in the South Pacific Ocean. Officially, it's called the oceanic pole of inaccessibility: the point in the ocean that is farthest from any land.",
+   "es": "El Punto Nemo está en el océano Pacífico Sur. Oficialmente se llama polo oceánico de inaccesibilidad: el punto del océano más alejado de cualquier tierra.",
+   "headline": "THE OCEANIC POLE",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -175,
+     -65,
+     -70,
+     5
+    ],
+    "marker": [
+     -123.39,
+     -48.88
+    ],
+    "label": "Point Nemo"
+   }
+  },
+  {
+   "text": "Nobody discovered it by sailing there. In 1992, a survey engineer named Hrvoje Lukatela found it using a computer, by calculating the point farthest from every coastline on the planet.",
+   "es": "Nadie lo descubrió navegando. En 1992, un ingeniero topógrafo llamado Hrvoje Lukatela lo encontró con una computadora, calculando el punto más alejado de todas las costas del planeta.",
+   "visual": {
+    "type": "card",
+    "big": "1992",
+    "label": "found by a computer, not a ship",
+    "sub": "calculated by engineer Hrvoje Lukatela"
+   }
+  },
+  {
+   "text": "It's named after Captain Nemo, the submarine captain from Jules Verne's novel Twenty Thousand Leagues Under the Sea. In Latin, nemo means no one. A perfect name for a place where there is no one.",
+   "es": "Lleva el nombre del capitán Nemo, el capitán del submarino de la novela de Julio Verne Veinte mil leguas de viaje submarino. En latín, nemo significa nadie. Un nombre perfecto para un lugar donde no hay nadie.",
+   "headline": "NEMO MEANS NO ONE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Twenty Thousand Leagues Under the Seas"
+    ],
+    "query": "Nautilus Jules Verne illustration"
+   }
+  },
+  {
+   "text": "There's an even creepier coincidence. In 1928, the horror writer H. P. Lovecraft placed his fictional sunken city of R'lyeh, home of the monster Cthulhu, in the South Pacific. The coordinates he gave are only a few hundred kilometers from the real Point Nemo, more than sixty years before anyone calculated it.",
+   "es": "Hay una coincidencia aún más inquietante. En 1928, el escritor de terror H. P. Lovecraft situó su ciudad hundida ficticia de R'lyeh, hogar del monstruo Cthulhu, en el Pacífico Sur. Las coordenadas que dio están a solo unos cientos de kilómetros del verdadero Punto Nemo, más de sesenta años antes de que alguien lo calculara.",
+   "headline": "A STRANGE COINCIDENCE",
+   "visual": {
+    "type": "card",
+    "big": "1928",
+    "label": "a horror story set almost exactly here",
+    "sub": "64 years before Point Nemo was found"
+   }
+  },
+  {
+   "text": "The three closest pieces of land are all about two thousand six hundred eighty-eight kilometers away. Ducie Island, part of the Pitcairn Islands to the north. Motu Nui, a tiny islet off Easter Island to the northeast. And Maher Island, off the coast of Antarctica to the south.",
+   "es": "Los tres pedazos de tierra más cercanos están todos a unos dos mil seiscientos ochenta y ocho kilómetros. La isla Ducie, parte de las islas Pitcairn al norte. Motu Nui, un islote frente a la Isla de Pascua al noreste. Y la isla Maher, frente a la costa de la Antártida al sur.",
+   "headline": "2,688 KM TO LAND",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -150,
+     -95,
+     -78,
+     -20
+    ],
+    "marker": [
+     -123.39,
+     -48.88
+    ],
+    "label": "Point Nemo"
+   }
+  },
+  {
+   "text": "To give you an idea, that's a bit farther than from Mexico City to Los Angeles. And none of those islands even have a permanent town.",
+   "es": "Para que te des una idea, es un poco más que la distancia de la Ciudad de México a Los Ángeles. Y ninguna de esas islas tiene siquiera un pueblo permanente.",
+   "visual": {
+    "type": "card",
+    "big": "2,688 KM",
+    "label": "to the nearest land",
+    "sub": "and those islands are uninhabited or nearly so"
+   }
+  },
+  {
+   "chapter": "The nearest humans",
+   "text": "Here's the strangest part. The International Space Station orbits about four hundred kilometers above Earth. When it passes over the South Pacific, the astronauts on board are often the closest humans to Point Nemo by far.",
+   "es": "Aquí viene lo más extraño. La Estación Espacial Internacional orbita a unos cuatrocientos kilómetros sobre la Tierra. Cuando pasa sobre el Pacífico Sur, los astronautas a bordo suelen ser, por mucho, los humanos más cercanos al Punto Nemo.",
+   "headline": "THE CLOSEST HUMANS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "International Space Station"
+    ],
+    "query": "International Space Station orbit"
+   }
+  },
+  {
+   "text": "Think about that. If you were stranded here, the people nearest to you would be living in space, moving at almost twenty-eight thousand kilometers per hour.",
+   "es": "Piénsalo. Si estuvieras varado aquí, las personas más cercanas estarían viviendo en el espacio, moviéndose a casi veintiocho mil kilómetros por hora.",
+   "visual": {
+    "type": "card",
+    "big": "400 KM",
+    "label": "up: astronauts on the ISS",
+    "sub": "often closer than anyone on Earth"
+   }
+  },
+  {
+   "text": "And at night, the darkness is total. There are no city lights for thousands of kilometers. On a clear night, the sky would be filled with more stars than most people ever see. Beautiful, and terrifying at the same time.",
+   "es": "Y de noche, la oscuridad es total. No hay luces de ciudades en miles de kilómetros. En una noche despejada, el cielo se llenaría de más estrellas de las que la mayoría ve jamás. Hermoso y aterrador al mismo tiempo.",
+   "headline": "TOTAL DARKNESS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Milky Way over ocean"
+    ],
+    "query": "Milky Way night sky ocean"
+   }
+  },
+  {
+   "question": true,
+   "text": "Quick question. Could you handle being this alone, even for one day? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Podrías soportar estar así de solo, aunque fuera un día? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Could you be THIS alone?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "A graveyard for spacecraft",
+   "text": "Because nobody lives anywhere near it, Point Nemo has a very unusual job. It's where space agencies send old spacecraft to die.",
+   "es": "Como nadie vive cerca, el Punto Nemo tiene un trabajo muy inusual. Es donde las agencias espaciales mandan a morir a las naves viejas.",
+   "headline": "SPACECRAFT CEMETERY",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Atmospheric entry"
+    ],
+    "query": "spacecraft reentry fireball"
+   }
+  },
+  {
+   "text": "When a big satellite or space station reaches the end of its life, controllers fire its engines to slow it down. It falls back into the atmosphere, mostly burns up, and the surviving pieces splash down in the empty ocean around Point Nemo.",
+   "es": "Cuando un satélite grande o una estación espacial llega al final de su vida, los controladores encienden sus motores para frenarla. Cae de vuelta a la atmósfera, se quema en su mayor parte, y los pedazos que sobreviven caen al océano vacío alrededor del Punto Nemo.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "ATV-1 Jules Verne reentry"
+    ],
+    "query": "spacecraft reentry"
+   }
+  },
+  {
+   "text": "The biggest one so far was the Russian space station Mir. In 2001, about one hundred twenty tons of it came down in this part of the ocean. Hundreds of other spacecraft, mostly cargo ships, rest on the sea floor here.",
+   "es": "El más grande hasta ahora fue la estación espacial rusa Mir. En 2001, unas ciento veinte toneladas cayeron en esta parte del océano. Cientos de otras naves, en su mayoría de carga, descansan aquí en el fondo del mar.",
+   "headline": "MIR, 2001",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mir"
+    ],
+    "query": "Mir space station"
+   }
+  },
+  {
+   "text": "And the International Space Station itself is planned to end up here too. Around 2030, it's scheduled to be steered down into this same remote patch of ocean.",
+   "es": "Y la propia Estación Espacial Internacional también terminará aquí. Alrededor de 2030, está previsto guiarla hacia esta misma zona remota del océano.",
+   "visual": {
+    "type": "card",
+    "big": "~2030",
+    "label": "the ISS is planned to come down here",
+    "sub": "the biggest spacecraft ever retired"
+   }
+  },
+  {
+   "chapter": "Day one: the water",
+   "text": "So let's say your ship sinks and you're left at Point Nemo with a life jacket. What happens? The first problem is the water itself.",
+   "es": "Digamos que tu barco se hunde y quedas en el Punto Nemo con un chaleco salvavidas. ¿Qué pasa? El primer problema es el agua.",
+   "headline": "STRANDED",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "life raft ocean"
+    ],
+    "query": "life raft ocean"
+   }
+  },
+  {
+   "text": "Point Nemo sits far south, near the latitudes sailors call the Roaring Forties and Furious Fifties. The water is cold, usually well under fifteen degrees Celsius.",
+   "es": "El Punto Nemo está muy al sur, cerca de las latitudes que los marineros llaman los Cuarenta Rugientes y los Cincuenta Furiosos. El agua es fría, normalmente muy por debajo de quince grados Celsius.",
+   "headline": "COLD WATER",
+   "visual": {
+    "type": "card",
+    "big": "< 15°C",
+    "label": "typical water temperature",
+    "sub": "cold enough to cause hypothermia"
+   }
+  },
+  {
+   "text": "Cold water pulls heat from your body about twenty-five times faster than cold air. In water this cold, hypothermia can make you lose control of your arms and legs within an hour or two, and become deadly after a few hours.",
+   "es": "El agua fría le quita calor al cuerpo unas veinticinco veces más rápido que el aire frío. En agua así de fría, la hipotermia puede hacerte perder el control de brazos y piernas en una o dos horas, y volverse mortal tras unas horas.",
+   "headline": "HYPOTHERMIA",
+   "visual": {
+    "type": "card",
+    "big": "25×",
+    "label": "faster heat loss in water than in air",
+    "sub": "the cold works fast"
+   }
+  },
+  {
+   "text": "And the ocean here is about four kilometers deep. There's nothing to stand on, nothing to hold, just water all the way down.",
+   "es": "Y el océano aquí tiene unos cuatro kilómetros de profundidad. No hay nada donde pararse, nada a qué agarrarse, solo agua hasta el fondo.",
+   "visual": {
+    "type": "card",
+    "big": "4 KM",
+    "label": "of water below you",
+    "sub": "about ten Empire State Buildings stacked"
+   }
+  },
+  {
+   "chapter": "The storms",
+   "text": "The second problem is the weather. Strong westerly winds blow around the Southern Ocean almost without interruption, because there are hardly any continents to slow them down. They whip up huge waves, often several meters high, sometimes far bigger.",
+   "es": "El segundo problema es el clima. Fuertes vientos del oeste soplan alrededor del océano Austral casi sin interrupción, porque casi no hay continentes que los frenen. Levantan olas enormes, a menudo de varios metros, a veces mucho más grandes.",
+   "headline": "ENDLESS WIND",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Southern Ocean waves"
+    ],
+    "query": "Southern Ocean giant waves"
+   }
+  },
+  {
+   "text": "Sailors in round-the-world yacht races pass not far from Point Nemo. Many describe it as one of the scariest parts of the whole trip, because if something goes wrong, rescue could take days.",
+   "es": "Los navegantes de regatas alrededor del mundo pasan no muy lejos del Punto Nemo. Muchos lo describen como una de las partes más aterradoras del viaje, porque si algo sale mal, el rescate podría tardar días.",
+   "headline": "SAILORS FEAR IT",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "sailing yacht Southern Ocean race"
+    ],
+    "query": "ocean racing yacht big waves"
+   }
+  },
+  {
+   "question": true,
+   "text": "What would you want with you if you were stranded at Point Nemo? One item only. Tell me in the comments.",
+   "es": "¿Qué te gustaría tener contigo si quedaras varado en el Punto Nemo? Solo un objeto. Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "ONE item to survive?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "An ocean desert",
+   "text": "The third problem is food and water. You can't drink seawater, it makes dehydration worse. And unlike many oceans, this one has very little to catch.",
+   "es": "El tercer problema es la comida y el agua. No puedes beber agua de mar, empeora la deshidratación. Y a diferencia de muchos océanos, este tiene muy poco que pescar.",
+   "headline": "NO FRESH WATER",
+   "visual": {
+    "type": "card",
+    "big": "0",
+    "label": "drinkable water around you",
+    "sub": "seawater makes dehydration worse"
+   }
+  },
+  {
+   "text": "Point Nemo sits inside the South Pacific Gyre, a giant, slowly spinning loop of ocean current. The water in the middle receives very few nutrients, so tiny plankton struggle to grow. Without plankton, there are few fish.",
+   "es": "El Punto Nemo está dentro del Giro del Pacífico Sur, un enorme circuito de corrientes que gira lentamente. El agua del centro recibe muy pocos nutrientes, así que el plancton apenas crece. Sin plancton, hay pocos peces.",
+   "headline": "THE SOUTH PACIFIC GYRE",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -175,
+     -65,
+     -70,
+     5
+    ],
+    "marker": [
+     -123.39,
+     -48.88
+    ],
+    "label": "Point Nemo"
+   }
+  },
+  {
+   "text": "Scientists call areas like this ocean deserts. The water around the gyre is some of the clearest and emptiest on Earth. Beautiful, but terrible for anyone trying to survive.",
+   "es": "Los científicos llaman a zonas así desiertos oceánicos. El agua del giro es de las más claras y vacías de la Tierra. Hermosa, pero terrible para quien intenta sobrevivir.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "clear blue open ocean water"
+    ],
+    "query": "deep blue ocean water"
+   }
+  },
+  {
+   "text": "Deep on the sea floor, there is some life: strange crabs and microbes near volcanic vents, living off chemicals instead of sunlight. But that's kilometers below you.",
+   "es": "En lo profundo del fondo marino hay algo de vida: cangrejos extraños y microbios junto a fuentes volcánicas, viviendo de químicos en lugar de luz solar. Pero eso está kilómetros debajo de ti.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Hydrothermal vent"
+    ],
+    "query": "hydrothermal vent deep sea"
+   }
+  },
+  {
+   "text": "In 1997, underwater microphones run by the US government picked up an incredibly loud, low sound in the remote South Pacific. People nicknamed it the Bloop, and some guessed it was a giant sea creature. Scientists later concluded it was most likely an icequake, a huge iceberg cracking near Antarctica.",
+   "es": "En 1997, micrófonos submarinos del gobierno de Estados Unidos captaron un sonido grave e increíblemente fuerte en el remoto Pacífico Sur. La gente lo llamó el Bloop, y algunos pensaron que era una criatura marina gigante. Los científicos concluyeron después que probablemente fue un sismo de hielo, un enorme iceberg agrietándose cerca de la Antártida.",
+   "headline": "THE BLOOP",
+   "visual": {
+    "type": "card",
+    "big": "THE BLOOP",
+    "label": "a mysterious sound recorded in 1997",
+    "sub": "most likely Antarctic ice cracking"
+   }
+  },
+  {
+   "text": "Even here, humans have left a mark. In 2018, sailors in a round-the-world race collected water samples near Point Nemo and found tiny pieces of plastic. Not even the loneliest place on Earth is untouched.",
+   "es": "Incluso aquí, los humanos han dejado huella. En 2018, navegantes de una regata alrededor del mundo tomaron muestras de agua cerca del Punto Nemo y encontraron pequeños pedazos de plástico. Ni siquiera el lugar más solitario de la Tierra está intacto.",
+   "headline": "PLASTIC, EVEN HERE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "microplastics sample"
+    ],
+    "query": "microplastic ocean"
+   }
+  },
+  {
+   "chapter": "Waiting for rescue",
+   "text": "And the biggest problem of all: nobody is coming quickly. Point Nemo is far from the main shipping lanes. A rescue ship might need many days just to get here.",
+   "es": "Y el mayor problema de todos: nadie viene rápido. El Punto Nemo está lejos de las principales rutas marítimas. Un barco de rescate podría necesitar muchos días solo para llegar.",
+   "headline": "NOBODY IS COMING",
+   "visual": {
+    "type": "card",
+    "big": "DAYS",
+    "label": "for a rescue ship to arrive",
+    "sub": "far from every shipping lane"
+   }
+  },
+  {
+   "text": "Even most planes can't fly there and back without refueling. Your best hope would be an emergency beacon, a strong life raft, and a lot of luck.",
+   "es": "Incluso la mayoría de los aviones no pueden ir y volver sin repostar. Tu mejor esperanza sería una baliza de emergencia, una balsa resistente y mucha suerte.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "emergency position indicating radio beacon"
+    ],
+    "query": "emergency beacon rescue"
+   }
+  },
+  {
+   "text": "In water alone, without a raft, you'd likely last hours. With a raft, shelter and supplies, you might last days. But at Point Nemo, help is almost always farther away than that.",
+   "es": "Solo en el agua, sin balsa, probablemente durarías horas. Con balsa, refugio y provisiones, quizá días. Pero en el Punto Nemo, la ayuda casi siempre está más lejos que eso.",
+   "visual": {
+    "type": "card",
+    "big": "HOURS",
+    "label": "in the water without a raft",
+    "sub": "help is days away"
+   }
+  },
+  {
+   "text": "People have survived long ordeals at sea, but only with luck and skill. In 1982, sailor Steven Callahan drifted for seventy-six days in a small life raft across the Atlantic. He caught fish with a spear gun and made drinking water with a small solar still. And the Atlantic has far more ships and islands than the waters around Point Nemo.",
+   "es": "Algunas personas han sobrevivido largas pruebas en el mar, pero solo con suerte y habilidad. En 1982, el navegante Steven Callahan pasó setenta y seis días a la deriva en una pequeña balsa en el Atlántico. Pescaba con un arpón y hacía agua potable con un pequeño destilador solar. Y el Atlántico tiene muchos más barcos e islas que las aguas del Punto Nemo.",
+   "headline": "76 DAYS ADRIFT",
+   "visual": {
+    "type": "card",
+    "big": "76 DAYS",
+    "label": "adrift in a life raft (1982)",
+    "sub": "Steven Callahan, Atlantic Ocean"
+   }
+  },
+  {
+   "chapter": "The loneliest place",
+   "text": "So that's Point Nemo. A spot no one has ever lived, found by a computer, used as a graveyard for spacecraft, where the nearest people are often astronauts flying overhead.",
+   "es": "Ese es el Punto Nemo. Un lugar donde nadie ha vivido nunca, encontrado por una computadora, usado como cementerio de naves espaciales, donde las personas más cercanas suelen ser astronautas que vuelan arriba.",
+   "headline": "THE LONELIEST PLACE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Pacific Ocean sunset open sea"
+    ],
+    "query": "ocean horizon sunset"
+   }
+  },
+  {
+   "text": "It's a reminder of how huge our oceans are. They cover about seventy-one percent of the planet, and we've explored only a small part of them.",
+   "es": "Es un recordatorio de lo enormes que son nuestros océanos. Cubren cerca del setenta y uno por ciento del planeta, y solo hemos explorado una pequeña parte.",
+   "visual": {
+    "type": "card",
+    "big": "71%",
+    "label": "of Earth is covered by ocean",
+    "sub": "most of it still unexplored"
+   }
+  },
+  {
+   "text": "The Pacific alone is bigger than all of the land on Earth put together. You could fit every continent inside it and still have room left over.",
+   "es": "Solo el Pacífico es más grande que toda la tierra del planeta junta. Cabrían todos los continentes dentro y aún sobraría espacio.",
+   "headline": "BIGGER THAN ALL LAND",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -180,
+     -60,
+     -60,
+     60
+    ],
+    "marker": [
+     -123.39,
+     -48.88
+    ],
+    "label": "Point Nemo"
+   }
+  },
+  {
+   "question": true,
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who loves the ocean. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que ame el océano. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "query": "ocean sunset"
+   }
+  }
+ ]
+}

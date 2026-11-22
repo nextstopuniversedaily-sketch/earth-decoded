@@ -1,0 +1,194 @@
+{
+  "number": 6,
+  "publish": "2026-11-28 12:00",
+  "kicker": "ONE THIN LINE",
+  "title": "Egypt",
+  "subtitle": "Why almost everyone lives on a thin strip",
+  "yt_title": "Why 95% of Egypt Lives on This Thin Line 🇪🇬🤯 The Nile #shorts",
+  "yt_title_es": "¿Por qué el 95% de Egipto vive en esta línea delgada? 🇪🇬🤯 #shorts",
+  "description": "Egypt is bigger than Texas, but almost all of its 100+ million people live on a thin green strip along the Nile. Here's why.\n#Egypt #Nile #Geography #EarthDecoded #shorts",
+  "description_es": "Egipto es más grande que Texas, pero casi todos sus más de 100 millones de habitantes viven en una franja verde junto al Nilo. Por esto.\n#Egipto #Nilo #shorts",
+  "tags": [
+    "egypt population nile",
+    "why egyptians live near the nile",
+    "nile river",
+    "egypt from space",
+    "nile delta",
+    "aswan dam",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Nile"
+    ],
+    "query": "Nile river from space at night",
+    "white": "95% LIVE",
+    "accent": "ON THIS LINE",
+    "badge": "THE REST IS DESERT"
+  },
+  "segments": [
+    {
+      "text": "Why does almost everyone in Egypt live on one thin green line?",
+      "es": "¿Por qué casi todo Egipto vive en una sola línea verde y delgada?",
+      "visual": {
+        "type": "title",
+        "query": "Nile river from space"
+      }
+    },
+    {
+      "text": "Egypt is a big country, more than one million square kilometers. That's bigger than Texas and California combined.",
+      "es": "Egipto es un país grande, más de un millón de kilómetros cuadrados. Más grande que Texas y California juntos.",
+      "headline": "1 MILLION KM²",
+      "visual": {
+        "type": "map",
+        "extent": [
+          20,
+          40,
+          18,
+          34
+        ],
+        "highlight": [
+          "Egypt"
+        ],
+        "marker": [
+          31.24,
+          30.04
+        ],
+        "label": "Cairo"
+      }
+    },
+    {
+      "text": "But look at it from space at night. Almost all the lights follow one thin line, plus a triangle at the top. That line is the Nile River.",
+      "es": "Pero mírala desde el espacio de noche. Casi todas las luces siguen una sola línea delgada, más un triángulo arriba. Esa línea es el río Nilo.",
+      "headline": "THE NILE AT NIGHT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Nile River and delta from orbit during the evening"
+        ],
+        "query": "Nile delta night astronaut"
+      }
+    },
+    {
+      "text": "About ninety five percent of Egyptians live on roughly five percent of the land, along the Nile valley and its delta.",
+      "es": "Alrededor del noventa y cinco por ciento de los egipcios vive en cerca del cinco por ciento del territorio, junto al valle y el delta del Nilo.",
+      "visual": {
+        "type": "card",
+        "big": "95%",
+        "label": "of people on ~5% of the land",
+        "sub": "the Nile valley and delta"
+      }
+    },
+    {
+      "text": "The reason is simple: water. Egypt almost never gets rain. Away from the river, it's the Sahara Desert. Without the Nile, Egypt would be empty sand.",
+      "es": "La razón es simple: el agua. En Egipto casi nunca llueve. Lejos del río está el desierto del Sahara. Sin el Nilo, Egipto sería pura arena.",
+      "headline": "NO RAIN",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Western Desert (Egypt)"
+        ],
+        "commons": [
+          "Egypt desert dunes"
+        ],
+        "query": "Egypt desert"
+      }
+    },
+    {
+      "text": "For thousands of years, the Nile flooded every summer and left rich black mud on its banks. Farmers grew wheat in it, and that's how ancient Egypt and the pyramids became possible.",
+      "es": "Durante miles de años, el Nilo se desbordaba cada verano y dejaba lodo negro y fértil en sus orillas. Ahí se cultivaba trigo, y así fueron posibles el antiguo Egipto y las pirámides.",
+      "headline": "THE GIFT OF THE NILE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Giza pyramid complex"
+        ],
+        "query": "pyramids of Giza"
+      }
+    },
+    {
+      "text": "Today the Aswan High Dam controls the floods. And Cairo, on the Nile, has grown into one of the biggest cities in Africa.",
+      "es": "Hoy, la presa de Asuán controla las inundaciones. Y El Cairo, junto al Nilo, se convirtió en una de las ciudades más grandes de África.",
+      "headline": "CAIRO",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Cairo"
+        ],
+        "commons": [
+          "Cairo skyline Nile"
+        ],
+        "query": "Cairo"
+      }
+    },
+    {
+      "text": "The Nile is one of the longest rivers in the world, flowing about sixty six hundred kilometers north from the heart of Africa to the Mediterranean Sea.",
+      "es": "El Nilo es uno de los ríos más largos del mundo, y fluye unos seis mil seiscientos kilómetros hacia el norte, desde el corazón de África hasta el mar Mediterráneo.",
+      "visual": {
+        "type": "card",
+        "big": "6,650 km",
+        "label": "the Nile's length",
+        "sub": "one of the longest rivers on Earth"
+      }
+    },
+    {
+      "text": "Unusually, it flows north. That's why Upper Egypt is in the south and Lower Egypt is in the north. Upper means upstream.",
+      "es": "Algo raro: fluye hacia el norte. Por eso el Alto Egipto está en el sur y el Bajo Egipto en el norte. Alto significa río arriba.",
+      "headline": "IT FLOWS NORTH",
+      "visual": {
+        "type": "map",
+        "extent": [
+          22,
+          40,
+          4,
+          33
+        ],
+        "highlight": [
+          "Egypt",
+          "Sudan"
+        ],
+        "marker": [
+          31.2,
+          30.1
+        ],
+        "label": "Nile Delta"
+      }
+    },
+    {
+      "text": "Today Egypt has more than one hundred million people, and almost all of them depend on the river for drinking water, farming and electricity.",
+      "es": "Hoy Egipto tiene más de cien millones de habitantes, y casi todos dependen del río para el agua potable, la agricultura y la electricidad.",
+      "visual": {
+        "type": "card",
+        "big": "100+ MILLION",
+        "label": "people depending on one river",
+        "sub": "for water, food and power"
+      }
+    },
+    {
+      "text": "That's why a new giant dam far upstream in Ethiopia has worried Egypt so much. Control the Nile, and you control Egypt's lifeline.",
+      "es": "Por eso una nueva presa gigante río arriba, en Etiopía, ha preocupado tanto a Egipto. Quien controla el Nilo, controla la vida de Egipto.",
+      "headline": "A RIVER WORTH FIGHTING FOR",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Blue Nile"
+        ],
+        "query": "Blue Nile Ethiopia"
+      }
+    },
+    {
+      "text": "So when you look at Egypt, don't look at its borders. Look at the river. That's the real country. Would you live in the desert or by the river? Tell me in the comments.",
+      "es": "Así que cuando veas Egipto, no mires sus fronteras. Mira el río. Ese es el verdadero país. ¿Vivirías en el desierto o junto al río? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "THE REAL EGYPT",
+        "wiki": [
+          "Aswan"
+        ],
+        "query": "Nile felucca"
+      }
+    }
+  ]
+}

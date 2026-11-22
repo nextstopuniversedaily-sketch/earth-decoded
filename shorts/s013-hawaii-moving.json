@@ -1,0 +1,189 @@
+{
+  "number": 13,
+  "publish": "2026-12-05 12:00",
+  "kicker": "MOVING ISLANDS",
+  "title": "Hawaii",
+  "subtitle": "Why is it moving toward Japan?",
+  "yt_title": "Why Hawaii Is Moving Toward Japan 🇺🇸🇯🇵🤯 #shorts",
+  "yt_title_es": "¿Por qué Hawái se mueve hacia Japón? 🇺🇸🇯🇵🤯 #shorts",
+  "description": "Hawaii is moving northwest a few inches every year, toward Japan. And the islands were built by a hotspot that never moves. Here's how the Hawaiian islands were made, one by one.\n#Hawaii #Volcano #Geography #EarthDecoded #shorts",
+  "description_es": "Hawái se mueve hacia el noroeste unos centímetros cada año, en dirección a Japón. Y sus islas las creó un punto caliente que nunca se mueve.\n#Hawai #Volcanes #shorts",
+  "tags": [
+    "hawaii moving to japan",
+    "hawaii hotspot",
+    "pacific plate",
+    "how hawaii was formed",
+    "kilauea",
+    "loihi seamount",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Kīlauea"
+    ],
+    "commons": [
+      "Kilauea lava ocean entry"
+    ],
+    "query": "Kilauea lava",
+    "white": "HAWAII IS",
+    "accent": "MOVING",
+    "badge": "→ TOWARD JAPAN"
+  },
+  "segments": [
+    {
+      "text": "Did you know Hawaii is slowly moving toward Japan?",
+      "es": "¿Sabías que Hawái se está moviendo lentamente hacia Japón?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Kīlauea"
+        ],
+        "query": "Hawaii volcano lava"
+      }
+    },
+    {
+      "text": "The Hawaiian islands sit in the middle of the Pacific Ocean, about four thousand kilometers from California. But they don't stay still.",
+      "es": "Las islas de Hawái están en medio del océano Pacífico, a unos cuatro mil kilómetros de California. Pero no se quedan quietas.",
+      "headline": "MIDDLE OF THE PACIFIC",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -180,
+          -115,
+          5,
+          45
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "marker": [
+          -155.5,
+          19.6
+        ],
+        "label": "Hawaii"
+      }
+    },
+    {
+      "text": "They sit on the Pacific Plate, a giant slab of Earth's crust that is sliding northwest, toward Japan, at about seven to ten centimeters a year. About twice as fast as your fingernails grow.",
+      "es": "Están sobre la placa del Pacífico, un enorme bloque de la corteza terrestre que se desliza hacia el noroeste, hacia Japón, a unos siete a diez centímetros por año. Más o menos el doble de rápido de lo que crecen tus uñas.",
+      "visual": {
+        "type": "card",
+        "big": "7–10 cm",
+        "label": "toward Japan every year",
+        "sub": "about twice as fast as your fingernails grow"
+      }
+    },
+    {
+      "text": "Don't worry, Hawaii won't hit Japan anytime soon. At that speed, it would take tens of millions of years.",
+      "es": "No te preocupes, Hawái no chocará con Japón pronto. A esa velocidad, tardaría decenas de millones de años.",
+      "headline": "NO RUSH",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Na Pali Coast State Wilderness Park"
+        ],
+        "query": "Kauai coast"
+      }
+    },
+    {
+      "text": "Here's the amazing part. Under Hawaii there's a hotspot, a plume of hot rock rising from deep inside the Earth. The hotspot stays in place while the plate slides over it, like paper moving over a candle.",
+      "es": "Lo increíble es esto. Bajo Hawái hay un punto caliente, una columna de roca caliente que sube desde muy dentro de la Tierra. El punto caliente se queda en su lugar mientras la placa se desliza encima, como papel pasando sobre una vela.",
+      "headline": "THE HOTSPOT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Kilauea eruption USGS"
+        ],
+        "query": "Kilauea eruption"
+      }
+    },
+    {
+      "text": "Each time the plate moves on, the hotspot builds a new volcano. That's why the islands form a chain, and why they get older the farther northwest you go. Kauai is about five million years old, while the Big Island is still growing.",
+      "es": "Cada vez que la placa avanza, el punto caliente construye un nuevo volcán. Por eso las islas forman una cadena, y son más viejas mientras más al noroeste vas. Kauai tiene unos cinco millones de años, mientras la Isla Grande sigue creciendo.",
+      "headline": "OLDEST TO YOUNGEST",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Hawaiian islands from space NASA"
+        ],
+        "query": "Hawaiian islands from space"
+      }
+    },
+    {
+      "text": "And a brand new island is already on the way. Kamaʻehuakanaloa, an undersea volcano southeast of the Big Island, is slowly growing toward the surface, but it will take many thousands of years to get there.",
+      "es": "Y ya viene una isla nueva. Kamaʻehuakanaloa, un volcán submarino al sureste de la Isla Grande, crece poco a poco hacia la superficie, pero le faltan muchos miles de años para llegar.",
+      "headline": "A NEW ISLAND COMING",
+      "visual": {
+        "type": "card",
+        "big": "NEXT ISLAND",
+        "label": "growing under the sea right now",
+        "sub": "Kamaʻehuakanaloa (formerly Lōʻihi)"
+      }
+    },
+    {
+      "text": "The Big Island's Mauna Kea is actually the tallest mountain on Earth from base to peak. Measured from the ocean floor, it's over ten thousand meters tall, taller than Everest.",
+      "es": "El Mauna Kea, en la Isla Grande, es en realidad la montaña más alta de la Tierra desde la base hasta la cima. Medida desde el fondo del océano, supera los diez mil metros, más que el Everest.",
+      "visual": {
+        "type": "card",
+        "big": "10,000+ m",
+        "label": "Mauna Kea, base to peak",
+        "sub": "taller than Everest from the sea floor"
+      }
+    },
+    {
+      "text": "And Kīlauea is one of the most active volcanoes on Earth. Its lava has added hundreds of acres of brand new land to the island in recent decades.",
+      "es": "Y el Kīlauea es uno de los volcanes más activos del mundo. Su lava ha añadido cientos de hectáreas de tierra completamente nueva a la isla en las últimas décadas.",
+      "headline": "NEW LAND",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Kilauea lava flow ocean"
+        ],
+        "query": "lava ocean Hawaii"
+      }
+    },
+    {
+      "text": "Northwest of the main islands, the chain keeps going as tiny atolls and underwater mountains, older and older, until the Emperor Seamounts near Russia, more than seventy million years old.",
+      "es": "Al noroeste de las islas principales, la cadena continúa con pequeños atolones y montañas submarinas, cada vez más antiguas, hasta los montes submarinos Emperador cerca de Rusia, de más de setenta millones de años.",
+      "headline": "A 6,000 KM CHAIN",
+      "visual": {
+        "type": "map",
+        "extent": [
+          150,
+          210,
+          15,
+          55
+        ],
+        "highlight": [],
+        "marker": [
+          -155.5,
+          19.6
+        ],
+        "label": "Hawaii (youngest)"
+      }
+    },
+    {
+      "text": "The old islands slowly sink and wear away as they move off the hotspot. Someday, millions of years from now, even the Big Island will be a small atoll.",
+      "es": "Las islas viejas se hunden y se desgastan lentamente al alejarse del punto caliente. Algún día, dentro de millones de años, incluso la Isla Grande será un pequeño atolón.",
+      "headline": "ISLANDS DIE TOO",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Midway Atoll"
+        ],
+        "query": "Pacific atoll aerial"
+      }
+    },
+    {
+      "text": "Which Hawaiian island would you visit first? Tell me in the comments.",
+      "es": "¿Qué isla de Hawái visitarías primero? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "WHICH ISLAND?",
+        "query": "Hawaii beach volcano"
+      }
+    }
+  ]
+}

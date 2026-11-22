@@ -1,0 +1,192 @@
+{
+  "number": 8,
+  "publish": "2026-11-30 12:00",
+  "kicker": "DISAPPEARING SEA",
+  "title": "The Dead Sea",
+  "subtitle": "Why is it dying?",
+  "yt_title": "Why the Dead Sea Is Actually Dying 🇮🇱🇯🇴🤯 #shorts",
+  "yt_title_es": "¿Por qué el Mar Muerto realmente se está muriendo? 🤯 #shorts",
+  "description": "The Dead Sea is the lowest place on land, so salty you float like a cork, and it's dropping about a meter every year. Here's why.\n#DeadSea #Jordan #Geography #EarthDecoded #shorts",
+  "description_es": "El Mar Muerto es el punto más bajo en tierra firme, tan salado que flotas como corcho, y baja cerca de un metro cada año. Por esto.\n#MarMuerto #Geografia #shorts",
+  "tags": [
+    "dead sea",
+    "why is the dead sea dying",
+    "lowest place on earth",
+    "dead sea sinkholes",
+    "jordan river",
+    "salt lake",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Dead Sea"
+    ],
+    "commons": [
+      "Dead Sea salt formations"
+    ],
+    "query": "Dead Sea",
+    "white": "THE DEAD SEA",
+    "accent": "IS DYING",
+    "arrow_down": true,
+    "arrow_at": [
+      0.82,
+      0.58
+    ],
+    "badge": "-1 METER A YEAR"
+  },
+  "segments": [
+    {
+      "text": "Why is the Dead Sea really dying?",
+      "es": "¿Por qué el Mar Muerto realmente se está muriendo?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Dead Sea"
+        ],
+        "query": "Dead Sea"
+      }
+    },
+    {
+      "text": "The Dead Sea sits between Israel, the West Bank and Jordan. Its shore is the lowest place on land on Earth, more than four hundred thirty meters below sea level.",
+      "es": "El Mar Muerto está entre Israel, Cisjordania y Jordania. Su orilla es el punto más bajo en tierra firme del planeta, a más de cuatrocientos treinta metros bajo el nivel del mar.",
+      "headline": "LOWEST LAND ON EARTH",
+      "visual": {
+        "type": "map",
+        "extent": [
+          30,
+          40,
+          27,
+          36
+        ],
+        "highlight": [
+          "Israel",
+          "Jordan"
+        ],
+        "marker": [
+          35.5,
+          31.5
+        ],
+        "label": "Dead Sea"
+      }
+    },
+    {
+      "text": "It's also one of the saltiest bodies of water in the world, around ten times saltier than the ocean. That's why fish can't live in it, and why people float on top like corks.",
+      "es": "También es uno de los cuerpos de agua más salados del mundo, unas diez veces más salado que el océano. Por eso no viven peces en él, y la gente flota como corcho.",
+      "visual": {
+        "type": "card",
+        "big": "10x",
+        "label": "saltier than the ocean",
+        "sub": "nothing but microbes can live in it"
+      }
+    },
+    {
+      "text": "But the Dead Sea is shrinking. Its level drops about one meter every single year.",
+      "es": "Pero el Mar Muerto se está encogiendo. Su nivel baja cerca de un metro cada año.",
+      "visual": {
+        "type": "card",
+        "big": "-1 METER",
+        "label": "every year",
+        "sub": "the water keeps dropping"
+      }
+    },
+    {
+      "text": "The main reason: its only big source of water, the Jordan River, barely reaches it anymore. Most of the river's water is now used upstream for farms and cities.",
+      "es": "La razón principal: su única gran fuente de agua, el río Jordán, ya casi no llega. La mayor parte de su agua ahora se usa río arriba para cultivos y ciudades.",
+      "headline": "THE RIVER IS GONE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Jordan River"
+        ],
+        "query": "Jordan River"
+      }
+    },
+    {
+      "text": "At the southern end, water is also pumped into shallow pools where it evaporates to make potash and other minerals.",
+      "es": "En el extremo sur, también se bombea agua a estanques poco profundos donde se evapora para producir potasa y otros minerales.",
+      "headline": "EVAPORATION PONDS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Dead Sea evaporation ponds from space"
+        ],
+        "query": "Dead Sea from space"
+      }
+    },
+    {
+      "text": "As the water retreats, the ground along the shore collapses into thousands of sinkholes, swallowing roads, palm trees and even buildings.",
+      "es": "Al retirarse el agua, el suelo de la orilla se hunde en miles de socavones, que se tragan carreteras, palmeras e incluso edificios.",
+      "headline": "THOUSANDS OF SINKHOLES",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Dead Sea sinkholes"
+        ],
+        "commons": [
+          "Dead Sea sinkhole"
+        ],
+        "query": "Dead Sea shore"
+      }
+    },
+    {
+      "text": "The Dead Sea has been famous for thousands of years. Legend says Cleopatra valued its minerals, and today people still cover themselves in its black mud.",
+      "es": "El Mar Muerto es famoso desde hace miles de años. La leyenda dice que Cleopatra valoraba sus minerales, y hoy la gente todavía se cubre con su lodo negro.",
+      "headline": "FAMOUS MUD",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Dead Sea mud"
+        ],
+        "query": "Dead Sea beach"
+      }
+    },
+    {
+      "text": "Near its shores, the famous Dead Sea Scrolls were discovered in caves in the nineteen forties, some of the oldest known copies of biblical texts.",
+      "es": "Cerca de sus orillas, en cuevas, se descubrieron en los años cuarenta los famosos Manuscritos del Mar Muerto, algunas de las copias más antiguas conocidas de textos bíblicos.",
+      "headline": "THE DEAD SEA SCROLLS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Qumran Caves"
+        ],
+        "query": "Qumran"
+      }
+    },
+    {
+      "text": "Since the nineteen sixties, the Dead Sea has lost about a third of its surface area. Its southern part has almost completely separated from the north.",
+      "es": "Desde los años sesenta, el Mar Muerto ha perdido cerca de un tercio de su superficie. Su parte sur casi se separó por completo de la norte.",
+      "visual": {
+        "type": "card",
+        "big": "1/3",
+        "label": "of its surface already lost",
+        "sub": "since the 1960s"
+      }
+    },
+    {
+      "text": "Hotels that were built right on the beach now stand far from the water, and visitors walk longer and longer to reach the shore.",
+      "es": "Hoteles que se construyeron justo en la playa ahora están lejos del agua, y los visitantes caminan cada vez más para llegar a la orilla.",
+      "headline": "THE BEACH IS WALKING AWAY",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Ein Bokek Dead Sea hotels"
+        ],
+        "query": "Dead Sea hotels"
+      }
+    },
+    {
+      "text": "There have been plans to bring water from the Red Sea to refill it, but so far, the Dead Sea keeps sinking. Have you ever floated in salty water like this? Tell me in the comments.",
+      "es": "Ha habido planes para traer agua del mar Rojo y rellenarlo, pero por ahora el Mar Muerto sigue bajando. ¿Alguna vez flotaste en agua así de salada? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "SAVE IT?",
+        "commons": [
+          "Dead Sea salt shore"
+        ],
+        "query": "Dead Sea salt"
+      }
+    }
+  ]
+}

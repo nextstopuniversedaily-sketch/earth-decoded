@@ -1,0 +1,192 @@
+{
+  "number": 15,
+  "publish": "2026-12-07 12:00",
+  "kicker": "COUNTRY INSIDE A COUNTRY",
+  "title": "Lesotho",
+  "subtitle": "The country trapped inside South Africa",
+  "yt_title": "The Country Completely Surrounded by Another Country 🇱🇸🇿🇦🤯 #shorts",
+  "yt_title_es": "El país completamente rodeado por otro país 🇱🇸🇿🇦🤯 #shorts",
+  "description": "Lesotho is a whole country completely surrounded by South Africa, and its lowest point is higher than any other country's lowest point. Meet the Kingdom in the Sky.\n#Lesotho #SouthAfrica #Geography #EarthDecoded #shorts",
+  "description_es": "Lesoto es un país entero rodeado por Sudáfrica, y su punto más bajo es más alto que el de cualquier otro país. El Reino del Cielo.\n#Lesoto #Geografia #shorts",
+  "tags": [
+    "lesotho",
+    "country inside a country",
+    "enclave countries",
+    "kingdom in the sky",
+    "south africa",
+    "highest low point",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "map": {
+      "extent": [
+        15,
+        35,
+        -36,
+        -21
+      ],
+      "highlight": [
+        "Lesotho"
+      ],
+      "marker": [
+        28.25,
+        -29.6
+      ],
+      "label": "Lesotho"
+    },
+    "white": "A COUNTRY",
+    "accent": "INSIDE A COUNTRY",
+    "badge": "FULLY SURROUNDED"
+  },
+  "segments": [
+    {
+      "text": "How can a whole country be completely surrounded by another country?",
+      "es": "¿Cómo puede un país entero estar completamente rodeado por otro país?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Lesotho"
+        ],
+        "query": "Lesotho mountains"
+      }
+    },
+    {
+      "text": "This is Lesotho. It's an independent kingdom with its own king, flag and government, and it sits completely inside South Africa.",
+      "es": "Este es Lesoto. Es un reino independiente con su propio rey, bandera y gobierno, y está completamente dentro de Sudáfrica.",
+      "headline": "LESOTHO",
+      "visual": {
+        "type": "map",
+        "extent": [
+          15,
+          35,
+          -36,
+          -21
+        ],
+        "highlight": [
+          "Lesotho"
+        ],
+        "marker": [
+          27.48,
+          -29.31
+        ],
+        "label": "Maseru"
+      }
+    },
+    {
+      "text": "Only three countries in the world are fully surrounded by just one other country: Vatican City and San Marino, both inside Italy, and Lesotho. Lesotho is by far the biggest, about the size of Maryland.",
+      "es": "Solo tres países en el mundo están totalmente rodeados por un único país: el Vaticano y San Marino, ambos dentro de Italia, y Lesoto. Lesoto es por mucho el más grande, del tamaño de Maryland.",
+      "visual": {
+        "type": "card",
+        "big": "3",
+        "label": "countries fully inside another",
+        "sub": "Vatican City, San Marino and Lesotho"
+      }
+    },
+    {
+      "text": "How did it happen? In the eighteen hundreds, King Moshoeshoe the First united his people in these mountains and defended them from invaders. He asked Britain for protection, so Lesotho became a British territory instead of being swallowed by its neighbors.",
+      "es": "¿Cómo pasó? En el siglo diecinueve, el rey Moshoeshoe Primero unió a su pueblo en estas montañas y lo defendió de los invasores. Pidió protección a Gran Bretaña, así que Lesoto se volvió un territorio británico en lugar de ser absorbido por sus vecinos.",
+      "headline": "A MOUNTAIN FORTRESS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Thaba Bosiu"
+        ],
+        "query": "Lesotho mountains"
+      }
+    },
+    {
+      "text": "In 1966 it became fully independent, but it stayed an island of mountains inside South Africa.",
+      "es": "En 1966 se volvió totalmente independiente, pero siguió siendo una isla de montañas dentro de Sudáfrica.",
+      "visual": {
+        "type": "card",
+        "big": "1966",
+        "label": "independence",
+        "sub": "still surrounded on every side"
+      }
+    },
+    {
+      "text": "And those mountains are high. Lesotho's lowest point is fourteen hundred meters above sea level, the highest low point of any country in the world. That's why it's called the Kingdom in the Sky.",
+      "es": "Y esas montañas son altas. El punto más bajo de Lesoto está a mil cuatrocientos metros sobre el nivel del mar, el punto bajo más alto de cualquier país del mundo. Por eso lo llaman el Reino del Cielo.",
+      "headline": "KINGDOM IN THE SKY",
+      "visual": {
+        "type": "card",
+        "big": "1,400 m",
+        "label": "Lesotho's LOWEST point",
+        "sub": "the highest low point of any country"
+      }
+    },
+    {
+      "text": "In winter it even snows there, and Lesotho has a ski resort, one of the very few in Africa.",
+      "es": "En invierno incluso nieva, y Lesoto tiene una estación de esquí, una de las muy pocas de África.",
+      "headline": "SNOW IN AFRICA",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Lesotho snow mountains",
+          "Sani Pass"
+        ],
+        "query": "Lesotho snow"
+      }
+    },
+    {
+      "text": "Its capital, Maseru, sits right on the border. Cross a small bridge over the Caledon River, and you're in South Africa.",
+      "es": "Su capital, Maseru, está justo en la frontera. Cruzas un pequeño puente sobre el río Caledon, y ya estás en Sudáfrica.",
+      "headline": "MASERU",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Maseru"
+        ],
+        "query": "Maseru"
+      }
+    },
+    {
+      "text": "Lesotho has something South Africa badly needs: water. Its mountains feed huge dams, and a giant tunnel project sends water to the Johannesburg region.",
+      "es": "Lesoto tiene algo que Sudáfrica necesita mucho: agua. Sus montañas alimentan grandes presas, y un enorme proyecto de túneles envía agua a la región de Johannesburgo.",
+      "headline": "WATER FOR SOUTH AFRICA",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Katse Dam"
+        ],
+        "query": "Katse Dam Lesotho"
+      }
+    },
+    {
+      "text": "In many villages, people still travel on horseback across the mountains, wrapped in colorful wool blankets that are part of the national dress.",
+      "es": "En muchos pueblos, la gente todavía viaja a caballo por las montañas, envuelta en coloridas mantas de lana que forman parte de la vestimenta nacional.",
+      "headline": "BLANKETS AND HORSES",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Basotho horseman blanket"
+        ],
+        "query": "Lesotho horseman"
+      }
+    },
+    {
+      "text": "The Maletsunyane Falls drop about one hundred ninety meters in a single plunge, one of the highest single-drop waterfalls in Africa.",
+      "es": "Las cataratas Maletsunyane caen unos ciento noventa metros de un solo salto, una de las cascadas de caída única más altas de África.",
+      "visual": {
+        "type": "card",
+        "big": "~190 m",
+        "label": "Maletsunyane Falls",
+        "sub": "one single drop"
+      }
+    },
+    {
+      "text": "Would you visit a country you can only reach through another country? Tell me in the comments.",
+      "es": "¿Visitarías un país al que solo puedes llegar pasando por otro? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "KINGDOM IN THE SKY",
+        "wiki": [
+          "Maletsunyane Falls"
+        ],
+        "query": "Lesotho waterfall"
+      }
+    }
+  ]
+}

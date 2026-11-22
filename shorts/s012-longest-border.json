@@ -1,0 +1,209 @@
+{
+  "number": 12,
+  "publish": "2026-12-04 12:00",
+  "kicker": "LONGEST BORDER",
+  "title": "USA & Canada",
+  "subtitle": "The world's longest border",
+  "yt_title": "The World's Longest Border Has a 20-Foot Cut Through the Forest 🇺🇸🇨🇦🤯 #shorts",
+  "yt_title_es": "La frontera más larga del mundo tiene un corte de 6 metros en el bosque 🇺🇸🇨🇦🤯 #shorts",
+  "description": "The US–Canada border is the longest international border in the world, and in the forests it's marked by a strip cleared 20 feet wide. Here's how it works.\n#USA #Canada #Borders #Geography #EarthDecoded #shorts",
+  "description_es": "La frontera entre Estados Unidos y Canadá es la más larga del mundo, y en los bosques está marcada por una franja despejada de 6 metros de ancho.\n#Fronteras #shorts",
+  "tags": [
+    "us canada border",
+    "longest border in the world",
+    "border vista",
+    "international boundary commission",
+    "49th parallel",
+    "canada usa",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "map": {
+      "extent": [
+        -140,
+        -55,
+        38,
+        62
+      ],
+      "highlight": [
+        "United States of America"
+      ],
+      "line": [
+        [
+          -123.3,
+          49.0
+        ],
+        [
+          -95.2,
+          49.0
+        ]
+      ],
+      "line_label": "8,891 km"
+    },
+    "white": "WORLD'S LONGEST",
+    "accent": "BORDER",
+    "badge": "8,891 KM"
+  },
+  "segments": [
+    {
+      "text": "Why is there a twenty foot wide cut running through the forests between the US and Canada?",
+      "es": "¿Por qué hay un corte de seis metros de ancho atravesando los bosques entre Estados Unidos y Canadá?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Canada–United States border"
+        ],
+        "query": "Canada United States border"
+      }
+    },
+    {
+      "text": "The border between the United States and Canada is the longest international border in the world, about eight thousand nine hundred kilometers, including the border with Alaska.",
+      "es": "La frontera entre Estados Unidos y Canadá es la frontera internacional más larga del mundo, de unos ocho mil novecientos kilómetros, incluyendo la de Alaska.",
+      "headline": "THE LONGEST BORDER",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -170,
+          -50,
+          38,
+          72
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "line": [
+          [
+            -123.3,
+            49.0
+          ],
+          [
+            -95.2,
+            49.0
+          ]
+        ],
+        "line_label": "49th parallel"
+      }
+    },
+    {
+      "text": "For huge stretches, it's just a straight line on the map, following the forty ninth parallel from the Pacific to Minnesota.",
+      "es": "En tramos enormes, es solo una línea recta en el mapa, siguiendo el paralelo 49 desde el Pacífico hasta Minnesota.",
+      "visual": {
+        "type": "card",
+        "big": "8,891 km",
+        "label": "longest border on Earth",
+        "sub": "about 5,525 miles"
+      }
+    },
+    {
+      "text": "But how do you mark a straight line through mountains and forests? You cut it. Workers clear a strip of trees about twenty feet wide, called the border vista, so the line can be seen.",
+      "es": "Pero ¿cómo marcas una línea recta entre montañas y bosques? La cortas. Se despeja una franja de árboles de unos seis metros de ancho, llamada vista fronteriza, para que la línea se vea.",
+      "headline": "THE BORDER VISTA",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "US Canada border vista forest clearing"
+        ],
+        "query": "forest clearing border"
+      }
+    },
+    {
+      "text": "There are also more than eight thousand monuments and markers along the line. A joint team from both countries, the International Boundary Commission, keeps them in place and keeps the vista clear.",
+      "es": "También hay más de ocho mil monumentos y marcadores a lo largo de la línea. Un equipo conjunto de ambos países, la Comisión Internacional de Límites, los mantiene en su lugar y conserva despejada la franja.",
+      "visual": {
+        "type": "card",
+        "big": "8,000+",
+        "label": "border monuments and markers",
+        "sub": "kept up by both countries together"
+      }
+    },
+    {
+      "text": "And it gets weird. In some towns, the border runs right through buildings. In Derby Line, Vermont, and Stanstead, Quebec, a library has the border painted across its floor.",
+      "es": "Y se pone raro. En algunos pueblos, la frontera atraviesa edificios. En Derby Line, Vermont, y Stanstead, Quebec, una biblioteca tiene la frontera pintada en el piso.",
+      "headline": "A LIBRARY IN 2 COUNTRIES",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Haskell Free Library and Opera House"
+        ],
+        "query": "Haskell Free Library"
+      }
+    },
+    {
+      "text": "Most of the border isn't the straight line at all. In the east it follows rivers and lakes, including four of the five Great Lakes and the Saint Lawrence River.",
+      "es": "La mayor parte de la frontera no es la línea recta. En el este sigue ríos y lagos, incluidos cuatro de los cinco Grandes Lagos y el río San Lorenzo.",
+      "headline": "RIVERS AND LAKES",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -95,
+          -65,
+          38,
+          52
+        ],
+        "highlight": [
+          "Canada"
+        ],
+        "marker": [
+          -79.07,
+          43.08
+        ],
+        "label": "Niagara Falls"
+      }
+    },
+    {
+      "text": "It even splits Niagara Falls. The Horseshoe Falls is mostly on the Canadian side, while the American Falls belong to the United States.",
+      "es": "Incluso divide las cataratas del Niágara. La cascada de la Herradura está casi toda del lado canadiense, mientras que las cataratas Americanas pertenecen a Estados Unidos.",
+      "headline": "NIAGARA FALLS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Niagara Falls"
+        ],
+        "query": "Niagara Falls"
+      }
+    },
+    {
+      "text": "And there are strange spots, like the Northwest Angle in Minnesota, a piece of the US you can only reach by land through Canada, because of a mapping mistake in an old treaty.",
+      "es": "Y hay lugares raros, como el Northwest Angle en Minnesota, un pedazo de Estados Unidos al que solo se llega por tierra pasando por Canadá, por un error de mapas en un tratado antiguo.",
+      "headline": "THE NORTHWEST ANGLE",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -100,
+          -88,
+          44,
+          52
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "marker": [
+          -95.1,
+          49.35
+        ],
+        "label": "Northwest Angle"
+      }
+    },
+    {
+      "text": "About four hundred thousand people cross this border every day, making it one of the busiest and most peaceful borders on Earth.",
+      "es": "Alrededor de cuatrocientas mil personas cruzan esta frontera cada día, lo que la hace una de las fronteras más transitadas y pacíficas del mundo.",
+      "visual": {
+        "type": "card",
+        "big": "400,000",
+        "label": "people cross every day",
+        "sub": "one of the world's busiest borders"
+      }
+    },
+    {
+      "text": "Would you like to read a book in one country while sitting in another? Tell me in the comments.",
+      "es": "¿Te gustaría leer un libro en un país mientras estás sentado en otro? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "TWO COUNTRIES, ONE ROOM",
+        "query": "Canada forest mountains"
+      }
+    }
+  ]
+}

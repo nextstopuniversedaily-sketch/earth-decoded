@@ -1,0 +1,170 @@
+{
+  "number": 10,
+  "publish": "2026-12-02 12:00",
+  "kicker": "NO MAN'S LAND",
+  "title": "Antarctica",
+  "subtitle": "Why does no country own it?",
+  "yt_title": "Why No Country Owns Antarctica 🇦🇶🤯 #shorts",
+  "yt_title_es": "¿Por qué ningún país es dueño de la Antártida? 🇦🇶🤯 #shorts",
+  "description": "Antarctica is bigger than the US and Mexico combined, and seven countries claim pieces of it. So why does nobody actually own it? Meet the 1959 treaty that froze every claim.\n#Antarctica #AntarcticTreaty #Geography #EarthDecoded #shorts",
+  "description_es": "La Antártida es más grande que Estados Unidos y México juntos, y siete países reclaman partes de ella. ¿Por qué nadie es su dueño? El tratado de 1959 que congeló todos los reclamos.\n#Antartida #shorts",
+  "tags": [
+    "antarctica",
+    "who owns antarctica",
+    "antarctic treaty",
+    "antarctica claims",
+    "south pole",
+    "antarctica facts",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Antarctica"
+    ],
+    "commons": [
+      "Antarctica iceberg"
+    ],
+    "query": "Antarctica",
+    "white": "NOBODY",
+    "accent": "OWNS THIS",
+    "badge": "7 COUNTRIES CLAIM IT"
+  },
+  "segments": [
+    {
+      "text": "Why does no country own Antarctica?",
+      "es": "¿Por qué ningún país es dueño de la Antártida?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Antarctica"
+        ],
+        "query": "Antarctica"
+      }
+    },
+    {
+      "text": "Antarctica is huge, about fourteen million square kilometers. That's bigger than the United States and Mexico combined, and almost all of it is covered in ice.",
+      "es": "La Antártida es enorme, unos catorce millones de kilómetros cuadrados. Más grande que Estados Unidos y México juntos, y casi toda está cubierta de hielo.",
+      "visual": {
+        "type": "card",
+        "big": "14 MILLION km²",
+        "label": "bigger than the US and Mexico combined",
+        "sub": "about 98% covered in ice"
+      }
+    },
+    {
+      "text": "Seven countries claim pieces of it: Argentina, Australia, Chile, France, New Zealand, Norway and the United Kingdom. Some of those claims even overlap, like slices of a pie fighting for the same space.",
+      "es": "Siete países reclaman partes de ella: Argentina, Australia, Chile, Francia, Nueva Zelanda, Noruega y el Reino Unido. Algunos reclamos incluso se enciman, como rebanadas de pastel peleando por el mismo espacio.",
+      "headline": "7 CLAIMS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Territorial claims in Antarctica"
+        ],
+        "query": "Antarctica map"
+      }
+    },
+    {
+      "text": "But in 1959, during the Cold War, twelve countries signed the Antarctic Treaty. Even the United States and the Soviet Union agreed.",
+      "es": "Pero en 1959, en plena Guerra Fría, doce países firmaron el Tratado Antártico. Incluso Estados Unidos y la Unión Soviética estuvieron de acuerdo.",
+      "visual": {
+        "type": "card",
+        "big": "1959",
+        "label": "the Antarctic Treaty",
+        "sub": "signed by 12 countries in the Cold War"
+      }
+    },
+    {
+      "text": "The treaty froze every claim. No new claims, no military bases, no weapons tests, and no nuclear waste. The whole continent is reserved for peace and science.",
+      "es": "El tratado congeló todos los reclamos. Nada de nuevos reclamos, bases militares, pruebas de armas ni residuos nucleares. Todo el continente está reservado para la paz y la ciencia.",
+      "headline": "PEACE AND SCIENCE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Amundsen–Scott South Pole Station"
+        ],
+        "query": "South Pole station"
+      }
+    },
+    {
+      "text": "Today, fifty eight countries have joined the treaty. Scientists from all over the world live at research stations there, studying ice, climate and space.",
+      "es": "Hoy, cincuenta y ocho países forman parte del tratado. Científicos de todo el mundo viven en estaciones de investigación, estudiando el hielo, el clima y el espacio.",
+      "visual": {
+        "type": "card",
+        "big": "58",
+        "label": "countries in the treaty",
+        "sub": "as of 2026"
+      }
+    },
+    {
+      "text": "There's even a part of Antarctica that no country has ever claimed, Marie Byrd Land. It's one of the largest unclaimed areas on Earth.",
+      "es": "Hay incluso una parte de la Antártida que ningún país ha reclamado jamás, la Tierra de Marie Byrd. Es una de las zonas sin reclamar más grandes del planeta.",
+      "headline": "UNCLAIMED LAND",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "West Antarctica ice sheet NASA"
+        ],
+        "query": "Antarctica ice"
+      }
+    },
+    {
+      "text": "Antarctica is the coldest, windiest and driest continent. The lowest temperature ever measured by a weather station was minus eighty nine point two degrees Celsius, at Russia's Vostok Station in 1983.",
+      "es": "La Antártida es el continente más frío, ventoso y seco. La temperatura más baja jamás medida por una estación meteorológica fue de ochenta y nueve punto dos grados bajo cero, en la estación rusa Vostok en 1983.",
+      "visual": {
+        "type": "card",
+        "big": "-89.2°C",
+        "label": "coldest temperature ever recorded",
+        "sub": "Vostok Station, 1983"
+      }
+    },
+    {
+      "text": "No one was born there and stays. Antarctica has no permanent population, just a few thousand scientists and staff in summer, and around a thousand in winter.",
+      "es": "Nadie vive ahí de forma permanente. La Antártida no tiene población fija, solo unos miles de científicos y personal en verano, y alrededor de mil en invierno.",
+      "headline": "NO PERMANENT RESIDENTS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "McMurdo Station Antarctica"
+        ],
+        "query": "Antarctica research station"
+      }
+    },
+    {
+      "text": "Under all that ice are huge mineral and possibly oil reserves. But a protocol added in 1991 bans mining in Antarctica, at least for now.",
+      "es": "Bajo todo ese hielo hay enormes reservas de minerales y quizá de petróleo. Pero un protocolo añadido en 1991 prohíbe la minería en la Antártida, al menos por ahora.",
+      "headline": "MINING BANNED",
+      "visual": {
+        "type": "card",
+        "big": "NO MINING",
+        "label": "banned by the 1991 Protocol",
+        "sub": "the continent stays protected"
+      }
+    },
+    {
+      "text": "Tourism is growing, though. Every summer, tens of thousands of visitors arrive by ship to see penguins, whales and giant icebergs.",
+      "es": "Aun así, el turismo está creciendo. Cada verano llegan decenas de miles de visitantes en barco para ver pingüinos, ballenas e icebergs gigantes.",
+      "headline": "TOURISTS ARE COMING",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Antarctica cruise ship iceberg"
+        ],
+        "query": "Antarctica iceberg"
+      }
+    },
+    {
+      "text": "Would you spend a winter at a research station in Antarctica? Tell me in the comments.",
+      "es": "¿Pasarías un invierno en una estación de investigación en la Antártida? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "WOULD YOU GO?",
+        "commons": [
+          "Emperor penguins Antarctica"
+        ],
+        "query": "Antarctica penguins"
+      }
+    }
+  ]
+}

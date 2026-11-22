@@ -1,0 +1,188 @@
+{
+  "number": 16,
+  "publish": "2026-12-08 12:00",
+  "kicker": "MYTH BUSTED",
+  "title": "Ireland",
+  "subtitle": "Why are there no snakes?",
+  "yt_title": "Why Ireland Has No Snakes 🇮🇪🤯 It Wasn't St. Patrick #shorts",
+  "yt_title_es": "¿Por qué Irlanda no tiene serpientes? 🇮🇪🤯 No fue San Patricio #shorts",
+  "description": "Legend says Saint Patrick drove the snakes out of Ireland. The real reason is ice, sea level and very bad timing. Here's why Ireland has no native snakes.\n#Ireland #StPatrick #Geography #EarthDecoded #shorts",
+  "description_es": "La leyenda dice que San Patricio expulsó a las serpientes de Irlanda. La verdadera razón es el hielo, el nivel del mar y muy mala suerte. Por eso Irlanda no tiene serpientes nativas.\n#Irlanda #shorts",
+  "tags": [
+    "why ireland has no snakes",
+    "st patrick snakes",
+    "ireland ice age",
+    "ireland facts",
+    "snakes",
+    "island geography",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Cliffs of Moher"
+    ],
+    "query": "Ireland green cliffs",
+    "white": "ZERO SNAKES",
+    "accent": "IN IRELAND?!",
+    "badge": "IT WASN'T ST. PATRICK"
+  },
+  "segments": [
+    {
+      "text": "Why are there no snakes in Ireland?",
+      "es": "¿Por qué no hay serpientes en Irlanda?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Cliffs of Moher"
+        ],
+        "query": "Ireland cliffs"
+      }
+    },
+    {
+      "text": "Ireland has green hills, rain, sheep and plenty of places a snake could live. Yet it has no native snakes at all.",
+      "es": "Irlanda tiene colinas verdes, lluvia, ovejas y muchos lugares donde podría vivir una serpiente. Pero no tiene ni una sola serpiente nativa.",
+      "headline": "NOT ONE NATIVE SNAKE",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -12,
+          4,
+          49,
+          60
+        ],
+        "highlight": [
+          "Ireland"
+        ],
+        "marker": [
+          -6.26,
+          53.35
+        ],
+        "label": "Dublin"
+      }
+    },
+    {
+      "text": "The famous legend says Saint Patrick, in the fifth century, chased all the snakes into the sea. It's a great story. But scientists say there were never any snakes for him to chase.",
+      "es": "La famosa leyenda dice que San Patricio, en el siglo quinto, echó a todas las serpientes al mar. Es una gran historia. Pero los científicos dicen que nunca hubo serpientes que echar.",
+      "headline": "THE LEGEND",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Saint Patrick"
+        ],
+        "query": "Saint Patrick stained glass"
+      }
+    },
+    {
+      "text": "The real reason is the Ice Age. During the last glacial period, Ireland was buried under thick ice. It was far too cold for cold-blooded reptiles like snakes.",
+      "es": "La verdadera razón es la Edad de Hielo. Durante el último periodo glacial, Irlanda estaba cubierta por hielo grueso. Demasiado frío para reptiles de sangre fría como las serpientes.",
+      "headline": "BURIED IN ICE",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "glacier ice sheet"
+        ],
+        "query": "glacier ice"
+      }
+    },
+    {
+      "text": "When the ice melted, about ten thousand years ago, animals started moving back north from Europe. But the melting ice also raised the sea.",
+      "es": "Cuando el hielo se derritió, hace unos diez mil años, los animales empezaron a regresar al norte desde Europa. Pero el hielo derretido también hizo subir el mar.",
+      "visual": {
+        "type": "card",
+        "big": "~10,000",
+        "label": "years ago, the ice melted",
+        "sub": "and the sea started rising"
+      }
+    },
+    {
+      "text": "The water flooded the land bridge between Ireland and Britain before snakes could slither across. Britain kept its connection to Europe a little longer, which is why it has three native snake species, and Ireland has none.",
+      "es": "El agua inundó el puente de tierra entre Irlanda y Gran Bretaña antes de que las serpientes pudieran cruzar. Gran Bretaña siguió conectada a Europa un poco más, por eso tiene tres especies de serpientes nativas, e Irlanda ninguna.",
+      "headline": "TOO LATE TO CROSS",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -12,
+          10,
+          48,
+          60
+        ],
+        "highlight": [
+          "United Kingdom"
+        ],
+        "marker": [
+          -5.5,
+          54
+        ],
+        "label": "Irish Sea"
+      }
+    },
+    {
+      "text": "Ireland isn't alone. New Zealand, Iceland, Greenland and Antarctica also have no native land snakes.",
+      "es": "Irlanda no es la única. Nueva Zelanda, Islandia, Groenlandia y la Antártida tampoco tienen serpientes terrestres nativas.",
+      "visual": {
+        "type": "card",
+        "big": "0 SNAKES",
+        "label": "also in New Zealand and Iceland",
+        "sub": "plus Greenland and Antarctica"
+      }
+    },
+    {
+      "text": "Ireland is missing other animals too. It has only one native lizard and one native frog, and no moles or weasels, all for the same reason.",
+      "es": "A Irlanda le faltan otros animales también. Tiene una sola lagartija nativa y una sola rana nativa, y no tiene topos ni comadrejas, todo por la misma razón.",
+      "visual": {
+        "type": "card",
+        "big": "1 LIZARD",
+        "label": "and 1 native frog",
+        "sub": "the ice and sea kept others out"
+      }
+    },
+    {
+      "text": "There's a similar mystery in Hawaii, which also has no native land snakes. There, snakes are treated as a serious threat, because one escaped species could wipe out native birds.",
+      "es": "Hay un misterio parecido en Hawái, que tampoco tiene serpientes terrestres nativas. Ahí las serpientes se consideran una amenaza seria, porque una especie que escape podría acabar con las aves nativas.",
+      "headline": "HAWAII TOO",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Hawaii native bird iiwi"
+        ],
+        "query": "Hawaii forest"
+      }
+    },
+    {
+      "text": "Saint Patrick is still Ireland's patron saint, and every March seventeenth, the whole world turns green to celebrate him.",
+      "es": "San Patricio sigue siendo el santo patrono de Irlanda, y cada diecisiete de marzo, todo el mundo se pinta de verde para celebrarlo.",
+      "headline": "MARCH 17",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Saint Patrick's Day"
+        ],
+        "query": "Saint Patrick's Day parade"
+      }
+    },
+    {
+      "text": "Historians think the snake story may be a symbol: the snakes stood for the old pagan beliefs that Patrick drove out when he spread Christianity.",
+      "es": "Los historiadores creen que la historia de las serpientes puede ser un símbolo: las serpientes representaban las antiguas creencias paganas que Patricio expulsó al difundir el cristianismo.",
+      "visual": {
+        "type": "card",
+        "big": "A SYMBOL",
+        "label": "snakes = old pagan beliefs",
+        "sub": "not real snakes"
+      }
+    },
+    {
+      "text": "Would you move to a country with no snakes? Tell me in the comments.",
+      "es": "¿Te mudarías a un país sin serpientes? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "SNAKE-FREE",
+        "commons": [
+          "Ireland green countryside"
+        ],
+        "query": "Ireland countryside"
+      }
+    }
+  ]
+}

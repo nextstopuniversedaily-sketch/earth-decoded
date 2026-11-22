@@ -1,0 +1,182 @@
+{
+  "number": 7,
+  "publish": "2026-11-29 12:00",
+  "kicker": "RECORD LAKE",
+  "title": "Lake Baikal",
+  "subtitle": "The lake that holds a fifth of Earth's fresh water",
+  "yt_title": "This Lake Holds 20% of Earth's Fresh Surface Water 🇷🇺🤯 Lake Baikal #shorts",
+  "yt_title_es": "Este lago tiene el 20% del agua dulce superficial de la Tierra 🇷🇺🤯 #shorts",
+  "description": "Lake Baikal in Siberia is the deepest and oldest lake on Earth, and it holds about one fifth of all the unfrozen fresh surface water on the planet.\n#LakeBaikal #Siberia #Geography #EarthDecoded #shorts",
+  "description_es": "El lago Baikal, en Siberia, es el lago más profundo y antiguo de la Tierra, y guarda cerca de una quinta parte del agua dulce superficial no congelada del planeta.\n#Baikal #Geografia #shorts",
+  "tags": [
+    "lake baikal",
+    "deepest lake in the world",
+    "oldest lake in the world",
+    "baikal seal",
+    "siberia",
+    "fresh water",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Lake Baikal"
+    ],
+    "commons": [
+      "Baikal ice"
+    ],
+    "query": "Lake Baikal",
+    "white": "1 LAKE",
+    "accent": "20% OF EARTH'S",
+    "badge": "FRESH SURFACE WATER"
+  },
+  "segments": [
+    {
+      "text": "How can one lake hold about a fifth of all the fresh surface water on Earth?",
+      "es": "¿Cómo puede un solo lago guardar casi una quinta parte de toda el agua dulce superficial de la Tierra?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Lake Baikal"
+        ],
+        "query": "Lake Baikal"
+      }
+    },
+    {
+      "text": "This is Lake Baikal, in Siberia, Russia. From above it looks like a long blue crescent, about six hundred kilometers long.",
+      "es": "Este es el lago Baikal, en Siberia, Rusia. Desde arriba parece una larga media luna azul, de unos seiscientos kilómetros de largo.",
+      "headline": "LAKE BAIKAL",
+      "visual": {
+        "type": "map",
+        "extent": [
+          95,
+          120,
+          45,
+          60
+        ],
+        "highlight": [
+          "Russia"
+        ],
+        "marker": [
+          108,
+          53.5
+        ],
+        "label": "Lake Baikal"
+      }
+    },
+    {
+      "text": "It's not the biggest lake by area. But it is by far the deepest, more than sixteen hundred meters at its deepest point. You could stack three Empire State Buildings on top of each other and still not reach the surface.",
+      "es": "No es el lago más grande en superficie. Pero sí, por mucho, el más profundo: más de mil seiscientos metros en su punto más hondo. Podrías apilar tres Empire State uno sobre otro y aún no llegarías a la superficie.",
+      "visual": {
+        "type": "card",
+        "big": "1,642 m",
+        "label": "deepest lake on Earth",
+        "sub": "more than a mile deep"
+      }
+    },
+    {
+      "text": "All that depth means an enormous amount of water. More than all five of North America's Great Lakes combined.",
+      "es": "Toda esa profundidad significa una cantidad enorme de agua. Más que los cinco Grandes Lagos de Norteamérica juntos.",
+      "visual": {
+        "type": "card",
+        "big": "> 5 GREAT LAKES",
+        "label": "more water than all of them combined",
+        "sub": "about 20% of Earth's unfrozen fresh surface water"
+      }
+    },
+    {
+      "text": "Baikal is also the oldest lake in the world, around twenty five million years old. It sits in a crack where the Earth's crust is slowly pulling apart, so it keeps getting wider and deeper.",
+      "es": "Baikal también es el lago más antiguo del mundo, de unos veinticinco millones de años. Está en una grieta donde la corteza terrestre se separa poco a poco, así que sigue haciéndose más ancho y profundo.",
+      "headline": "25 MILLION YEARS OLD",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Lake Baikal cliffs Olkhon"
+        ],
+        "query": "Lake Baikal"
+      }
+    },
+    {
+      "text": "Being so old and isolated, it has animals found nowhere else, like the Baikal seal, one of the only seals in the world that lives entirely in fresh water.",
+      "es": "Al ser tan antiguo y aislado, tiene animales que no existen en ningún otro lugar, como la foca del Baikal, una de las pocas focas del mundo que vive solo en agua dulce.",
+      "headline": "A FRESHWATER SEAL",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Baikal seal"
+        ],
+        "query": "Baikal seal"
+      }
+    },
+    {
+      "text": "In winter, the surface freezes so clear and thick that cars drive across it, and you can see cracks running deep into the blue ice.",
+      "es": "En invierno, la superficie se congela tan clara y gruesa que los coches la cruzan, y puedes ver grietas que bajan profundo en el hielo azul.",
+      "headline": "CRYSTAL ICE",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Baikal ice blue cracks"
+        ],
+        "query": "frozen lake ice"
+      }
+    },
+    {
+      "text": "The water is incredibly clear. In some places you can see up to forty meters down, thanks to tiny shrimp-like creatures that filter and clean the lake.",
+      "es": "El agua es increíblemente clara. En algunos lugares puedes ver hasta cuarenta metros de profundidad, gracias a pequeñas criaturas parecidas a camarones que filtran y limpian el lago.",
+      "visual": {
+        "type": "card",
+        "big": "40 m",
+        "label": "of visibility in places",
+        "sub": "tiny crustaceans keep the water clean"
+      }
+    },
+    {
+      "text": "More than three hundred rivers flow into Baikal, but only one flows out, the Angara River. It would take hundreds of years to replace all of its water.",
+      "es": "Más de trescientos ríos desembocan en el Baikal, pero solo uno sale de él, el río Angará. Se necesitarían cientos de años para renovar toda su agua.",
+      "headline": "300+ RIVERS IN, 1 OUT",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Angara"
+        ],
+        "query": "Angara river"
+      }
+    },
+    {
+      "text": "Around Baikal live the Buryat people, who consider the lake sacred. Olkhon Island, in the middle of the lake, is one of the most spiritual places in Siberia.",
+      "es": "Alrededor del Baikal vive el pueblo buriato, que considera sagrado el lago. La isla Oljón, en medio del lago, es uno de los lugares más espirituales de Siberia.",
+      "headline": "A SACRED LAKE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Olkhon Island"
+        ],
+        "query": "Olkhon Island"
+      }
+    },
+    {
+      "text": "And because the rift underneath keeps pulling apart, scientists think Baikal may one day become a brand new ocean, splitting Asia in two. But that would take millions of years.",
+      "es": "Y como la grieta de abajo se sigue separando, los científicos creen que el Baikal algún día podría convertirse en un océano nuevo, partiendo Asia en dos. Pero tardaría millones de años.",
+      "headline": "A FUTURE OCEAN?",
+      "visual": {
+        "type": "card",
+        "big": "FUTURE OCEAN?",
+        "label": "the rift keeps opening",
+        "sub": "a few millimeters every year"
+      }
+    },
+    {
+      "text": "Would you dare to drive across a frozen lake more than a mile deep? Tell me in the comments.",
+      "es": "¿Te atreverías a cruzar en coche un lago congelado de más de un kilómetro y medio de profundidad? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "WOULD YOU DRIVE ON IT?",
+        "commons": [
+          "Baikal winter"
+        ],
+        "query": "Siberia winter lake"
+      }
+    }
+  ]
+}

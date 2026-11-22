@@ -1,0 +1,171 @@
+{
+  "number": 17,
+  "publish": "2026-12-09 12:00",
+  "kicker": "MAP TRICK",
+  "title": "Panama Canal",
+  "subtitle": "Ships go EAST to reach the Pacific?",
+  "yt_title": "Why Ships Go EAST to Reach the Pacific in the Panama Canal 🇵🇦🤯 #shorts",
+  "yt_title_es": "¿Por qué los barcos van al ESTE para llegar al Pacífico en el Canal de Panamá? 🇵🇦🤯 #shorts",
+  "description": "In the Panama Canal, a ship going from the Atlantic to the Pacific actually ends up farther east. Here's why, plus how the canal lifts giant ships over a mountain of land.\n#PanamaCanal #Panama #Geography #EarthDecoded #shorts",
+  "description_es": "En el Canal de Panamá, un barco que va del Atlántico al Pacífico termina más al este. Por esto, y cómo el canal sube barcos gigantes sobre tierra.\n#CanalDePanama #shorts",
+  "tags": [
+    "panama canal",
+    "panama canal east west",
+    "how panama canal works",
+    "panama canal locks",
+    "gatun lake",
+    "atlantic to pacific",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Panama Canal"
+    ],
+    "commons": [
+      "Panama Canal locks ship"
+    ],
+    "query": "Panama Canal",
+    "white": "GO EAST",
+    "accent": "TO REACH THE PACIFIC?!",
+    "badge": "PANAMA CANAL"
+  },
+  "segments": [
+    {
+      "text": "In the Panama Canal, why do ships go east to reach the Pacific Ocean?",
+      "es": "En el Canal de Panamá, ¿por qué los barcos van al este para llegar al océano Pacífico?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Panama Canal"
+        ],
+        "query": "Panama Canal"
+      }
+    },
+    {
+      "text": "You'd think the Atlantic is east and the Pacific is west, so going from one to the other means heading west. But in Panama, the map plays a trick.",
+      "es": "Uno pensaría que el Atlántico está al este y el Pacífico al oeste, así que pasar de uno al otro significa ir al oeste. Pero en Panamá, el mapa hace trampa.",
+      "headline": "THE TRICK",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -86,
+          -74,
+          4,
+          13
+        ],
+        "highlight": [
+          "Panama"
+        ],
+        "marker": [
+          -79.9,
+          9.1
+        ],
+        "label": "Panama Canal"
+      }
+    },
+    {
+      "text": "Panama is shaped like a sideways S, lying almost east to west. So the canal doesn't cut east to west. It runs from northwest to southeast.",
+      "es": "Panamá tiene forma de S acostada, casi de este a oeste. Así que el canal no lo cruza de este a oeste. Va de noroeste a sureste.",
+      "headline": "A SIDEWAYS S",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Panama Canal from space"
+        ],
+        "query": "Panama from space"
+      }
+    },
+    {
+      "text": "That means a ship entering from the Atlantic side at Colón comes out on the Pacific side near Panama City, about forty kilometers farther east.",
+      "es": "Eso significa que un barco que entra por el lado del Atlántico en Colón sale por el lado del Pacífico cerca de la Ciudad de Panamá, unos cuarenta kilómetros más al este.",
+      "visual": {
+        "type": "card",
+        "big": "~40 km EAST",
+        "label": "Atlantic → Pacific",
+        "sub": "the Pacific exit is east of the Atlantic entrance"
+      }
+    },
+    {
+      "text": "And the canal doesn't just cut through land. It goes over it. Locks lift ships about twenty six meters up to Gatun Lake, a giant artificial lake in the middle of the country.",
+      "es": "Y el canal no solo atraviesa la tierra. Pasa por encima. Las esclusas suben los barcos unos veintiséis metros hasta el lago Gatún, un enorme lago artificial en medio del país.",
+      "headline": "SHIPS GO UPHILL",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Miraflores Locks ship"
+        ],
+        "query": "Panama Canal locks"
+      }
+    },
+    {
+      "text": "Each ship crossing uses millions of liters of fresh water from the lake, which flows out to the sea. In very dry years, the canal has had to limit how many ships can pass.",
+      "es": "Cada barco que cruza usa millones de litros de agua dulce del lago, que termina en el mar. En años muy secos, el canal ha tenido que limitar cuántos barcos pueden pasar.",
+      "visual": {
+        "type": "card",
+        "big": "26 m",
+        "label": "ships lifted up to Gatun Lake",
+        "sub": "then lowered back down to the sea"
+      }
+    },
+    {
+      "text": "Building the canal was brutal. A French attempt in the eighteen eighties failed after thousands of workers died from diseases like malaria and yellow fever.",
+      "es": "Construir el canal fue brutal. Un intento francés en la década de 1880 fracasó después de que miles de trabajadores murieran por enfermedades como la malaria y la fiebre amarilla.",
+      "headline": "A DEADLY PROJECT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Panama Canal construction Culebra Cut"
+        ],
+        "query": "Panama Canal construction"
+      }
+    },
+    {
+      "text": "The United States took over in 1904 and finished it ten years later, after doctors learned that mosquitoes spread those diseases and fought them.",
+      "es": "Estados Unidos tomó el control en 1904 y lo terminó diez años después, cuando los médicos descubrieron que los mosquitos transmitían esas enfermedades y los combatieron.",
+      "visual": {
+        "type": "card",
+        "big": "1904–1914",
+        "label": "the US builds the canal",
+        "sub": "after the French attempt failed"
+      }
+    },
+    {
+      "text": "In 1999 the United States handed the canal over to Panama. Today it's run by Panama and earns billions of dollars a year.",
+      "es": "En 1999, Estados Unidos entregó el canal a Panamá. Hoy lo administra Panamá y genera miles de millones de dólares al año.",
+      "headline": "PANAMA'S CANAL",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Panama City"
+        ],
+        "query": "Panama City skyline"
+      }
+    },
+    {
+      "text": "In 2016, new bigger locks opened, so even giant container ships can now squeeze through, with only a few meters to spare.",
+      "es": "En 2016 se abrieron nuevas esclusas más grandes, así que incluso buques portacontenedores gigantes ahora pueden pasar, con solo unos metros de sobra.",
+      "headline": "NEW GIANT LOCKS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Agua Clara Locks Panama"
+        ],
+        "query": "Panama Canal expansion"
+      }
+    },
+    {
+      "text": "The canal opened in 1914, and it saves ships a trip of thousands of kilometers around the tip of South America. Did you know the Pacific end is east of the Atlantic end? Tell me in the comments.",
+      "es": "El canal se inauguró en 1914, y les ahorra a los barcos un viaje de miles de kilómetros alrededor de la punta de Sudamérica. ¿Sabías que la salida al Pacífico está al este de la del Atlántico? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "DID YOU KNOW?",
+        "commons": [
+          "Panama Canal container ship"
+        ],
+        "query": "Panama Canal ship"
+      }
+    }
+  ]
+}

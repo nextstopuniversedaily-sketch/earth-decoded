@@ -1,0 +1,185 @@
+{
+  "number": 9,
+  "publish": "2026-12-01 12:00",
+  "kicker": "NO COAST",
+  "title": "Bolivia",
+  "subtitle": "Why does a country with no sea have a navy?",
+  "yt_title": "Why Bolivia Has a Navy but No Ocean 🇧🇴🤯 #shorts",
+  "yt_title_es": "¿Por qué Bolivia tiene marina pero no tiene mar? 🇧🇴🤯 #shorts",
+  "description": "Bolivia has no coastline, but it still has a navy with thousands of sailors. Here's the war that took its coast, and why Bolivia never forgot it.\n#Bolivia #Chile #Geography #EarthDecoded #shorts",
+  "description_es": "Bolivia no tiene costa, pero aun así tiene una armada con miles de marineros. Esta es la guerra que le quitó el mar, y por qué nunca lo olvidó.\n#Bolivia #Geografia #shorts",
+  "tags": [
+    "bolivia navy",
+    "why bolivia has a navy",
+    "bolivia no coast",
+    "war of the pacific",
+    "lake titicaca",
+    "landlocked countries",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Lake Titicaca"
+    ],
+    "query": "Lake Titicaca",
+    "white": "A NAVY",
+    "accent": "BUT NO SEA?!",
+    "badge": "LANDLOCKED SINCE 1884"
+  },
+  "segments": [
+    {
+      "text": "Why does a country with no ocean have a navy?",
+      "es": "¿Por qué un país sin océano tiene una marina?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Lake Titicaca"
+        ],
+        "query": "Lake Titicaca"
+      }
+    },
+    {
+      "text": "This is Bolivia, in South America. It's completely landlocked. No beach, no coast, no sea.",
+      "es": "Esta es Bolivia, en Sudamérica. No tiene ninguna salida al mar. Ni playa, ni costa, ni mar.",
+      "headline": "LANDLOCKED",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -80,
+          -55,
+          -30,
+          -5
+        ],
+        "highlight": [
+          "Bolivia"
+        ],
+        "marker": [
+          -68.15,
+          -16.5
+        ],
+        "label": "La Paz"
+      }
+    },
+    {
+      "text": "But it wasn't always that way. When Bolivia became independent, it had a strip of coast on the Pacific Ocean, in the Atacama Desert.",
+      "es": "Pero no siempre fue así. Cuando Bolivia se independizó, tenía una franja de costa en el océano Pacífico, en el desierto de Atacama.",
+      "headline": "IT HAD A COAST",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Atacama Desert"
+        ],
+        "query": "Atacama desert coast"
+      }
+    },
+    {
+      "text": "That desert was full of valuable minerals. In 1879, a fight over them started the War of the Pacific, between Chile on one side, and Bolivia and Peru on the other.",
+      "es": "Ese desierto estaba lleno de minerales valiosos. En 1879, una disputa por ellos inició la Guerra del Pacífico, entre Chile por un lado, y Bolivia y Perú por el otro.",
+      "visual": {
+        "type": "card",
+        "big": "1879",
+        "label": "War of the Pacific",
+        "sub": "Chile vs. Bolivia and Peru"
+      }
+    },
+    {
+      "text": "Chile won. Bolivia lost its entire coastline, about four hundred kilometers of shore, and has been landlocked ever since.",
+      "es": "Ganó Chile. Bolivia perdió toda su costa, unos cuatrocientos kilómetros de litoral, y desde entonces no tiene salida al mar.",
+      "headline": "COAST LOST",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -76,
+          -60,
+          -28,
+          -14
+        ],
+        "highlight": [
+          "Chile"
+        ],
+        "marker": [
+          -70.4,
+          -23.65
+        ],
+        "label": "Antofagasta (once Bolivian)"
+      }
+    },
+    {
+      "text": "But Bolivia kept its navy. Today it has thousands of sailors who patrol rivers and Lake Titicaca, one of the highest navigable lakes in the world, high up in the Andes.",
+      "es": "Pero Bolivia conservó su armada. Hoy tiene miles de marineros que patrullan ríos y el lago Titicaca, uno de los lagos navegables más altos del mundo, en lo alto de los Andes.",
+      "headline": "LAKE TITICACA",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Lake Titicaca boats"
+        ],
+        "query": "Lake Titicaca boats"
+      }
+    },
+    {
+      "text": "Every year on March twenty third, Bolivia celebrates the Day of the Sea, to remember the coast it lost and the hope of getting back to the ocean one day.",
+      "es": "Cada 23 de marzo, Bolivia celebra el Día del Mar, para recordar la costa que perdió y la esperanza de volver al océano algún día.",
+      "visual": {
+        "type": "card",
+        "big": "MARCH 23",
+        "label": "Day of the Sea",
+        "sub": "Bolivia still remembers its coast"
+      }
+    },
+    {
+      "text": "Losing the coast hurt Bolivia's economy. Today it ships many of its exports through ports in Chile and Peru, paying fees and following another country's rules.",
+      "es": "Perder la costa afectó la economía de Bolivia. Hoy envía muchas de sus exportaciones por puertos de Chile y Perú, pagando tarifas y siguiendo reglas de otro país.",
+      "headline": "PORTS IN OTHER COUNTRIES",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Arica port Chile"
+        ],
+        "query": "cargo port ships"
+      }
+    },
+    {
+      "text": "In 2013, Bolivia took Chile to the International Court of Justice, asking it to negotiate access to the sea. In 2018 the court ruled that Chile had no obligation to do so.",
+      "es": "En 2013, Bolivia demandó a Chile ante la Corte Internacional de Justicia, pidiendo negociar un acceso al mar. En 2018, la corte decidió que Chile no tenía esa obligación.",
+      "visual": {
+        "type": "card",
+        "big": "2018",
+        "label": "the court said no",
+        "sub": "International Court of Justice, The Hague"
+      }
+    },
+    {
+      "text": "Lake Titicaca itself is amazing. It sits about thirty eight hundred meters above sea level, and the Uros people live on floating islands made of reeds.",
+      "es": "El lago Titicaca en sí es increíble. Está a unos tres mil ochocientos metros sobre el nivel del mar, y el pueblo uro vive en islas flotantes hechas de totora.",
+      "headline": "FLOATING ISLANDS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Uros"
+        ],
+        "query": "Uros floating islands"
+      }
+    },
+    {
+      "text": "Bolivia's navy even trains its sailors there, on a lake higher than most mountains in Europe.",
+      "es": "La armada de Bolivia incluso entrena a sus marineros ahí, en un lago más alto que la mayoría de las montañas de Europa.",
+      "visual": {
+        "type": "card",
+        "big": "3,812 m",
+        "label": "Lake Titicaca's altitude",
+        "sub": "Bolivia's navy trains here"
+      }
+    },
+    {
+      "text": "Should Bolivia get access to the sea again? Tell me what you think in the comments.",
+      "es": "¿Debería Bolivia recuperar una salida al mar? Dime qué piensas en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "BACK TO THE SEA?",
+        "query": "Pacific Ocean coast Chile"
+      }
+    }
+  ]
+}

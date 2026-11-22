@@ -1,0 +1,458 @@
+{
+ "slug": "never-survive-danakil",
+ "publish": "2027-01-02 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive the Danakil Depression",
+ "screen_title": "Why You'd Never Survive the Danakil Depression",
+ "subtitle": "The hottest place where people live",
+ "yt_title": "Why You'd Never Survive the Danakil Depression (Hottest Place People Live)",
+ "yt_title_es": "Por qué nunca sobrevivirías en la depresión de Danakil (el lugar habitado más caliente)",
+ "description": "The Danakil Depression in Ethiopia is one of the most extreme places on Earth: acid pools, toxic gas, a lava lake and the highest average temperature of any inhabited place. Here's what it's really like, who lives and works there, and why you'd never survive a day there on your own.\n\nSources: US Geological Survey, Smithsonian Global Volcanism Program, Nature Ecology & Evolution (2019).\n#Danakil #Dallol #Ethiopia #EarthDecoded",
+ "description_es": "La depresión de Danakil, en Etiopía, es uno de los lugares más extremos de la Tierra: lagunas de ácido, gases tóxicos, un lago de lava y la temperatura media más alta de cualquier lugar habitado. Así es en realidad, quién vive y trabaja allí y por qué nunca sobrevivirías un día solo.\n#Danakil #Etiopia",
+ "tags": [
+  "danakil depression",
+  "dallol",
+  "hottest place on earth",
+  "ethiopia",
+  "erta ale",
+  "lava lake",
+  "acid pools",
+  "afar",
+  "why you'd never survive",
+  "extreme places",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Dallol (hydrothermal system)"
+  ],
+  "query": "Dallol Ethiopia colorful",
+  "white": "ACID POOLS",
+  "accent": "& 50°C",
+  "badge": "HOTTEST PLACE PEOPLE LIVE"
+ },
+ "segments": [
+  {
+   "chapter": "Another planet",
+   "text": "This place looks like another planet. Bright yellow and green pools. Ground made of salt. Air that smells like rotten eggs. Not far away, a volcano with a lake of boiling lava. But this isn't Mars or a moon of Jupiter. It's the Danakil Depression in Ethiopia, the hottest place on Earth where people actually live. And today, we'll see why you'd never survive here.",
+   "es": "Este lugar parece otro planeta. Lagunas amarillo brillante y verdes. Suelo hecho de sal. Un aire que huele a huevo podrido. No muy lejos, un volcán con un lago de lava hirviendo. Pero esto no es Marte ni una luna de Júpiter. Es la depresión de Danakil, en Etiopía, el lugar más caliente de la Tierra donde realmente vive gente. Y hoy veremos por qué nunca sobrevivirías aquí.",
+   "visual": {
+    "type": "title",
+    "wiki": [
+     "Dallol (hydrothermal system)"
+    ],
+    "query": "Dallol"
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Let's go to the Danakil.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Vamos a Danakil.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     33,
+     48,
+     5,
+     19
+    ],
+    "highlight": [
+     "Ethiopia"
+    ],
+    "marker": [
+     40.3,
+     14.24
+    ],
+    "label": "Danakil"
+   }
+  },
+  {
+   "chapter": "Below the sea",
+   "text": "The Danakil Depression is in northeastern Ethiopia, near the border with Eritrea, in a region called Afar. Parts of it lie more than one hundred meters below sea level.",
+   "es": "La depresión de Danakil está en el noreste de Etiopía, cerca de la frontera con Eritrea, en una región llamada Afar. Partes de ella están a más de cien metros bajo el nivel del mar.",
+   "headline": "BELOW SEA LEVEL",
+   "visual": {
+    "type": "card",
+    "big": "-125 M",
+    "label": "below sea level at Dallol",
+    "sub": "one of the lowest places in Africa"
+   }
+  },
+  {
+   "text": "Why is it so low? Because Africa is slowly tearing apart right here. Three tectonic plates meet in the Afar region, and they're pulling away from each other. As they separate, the land in the middle sinks.",
+   "es": "¿Por qué es tan bajo? Porque África se está partiendo lentamente aquí mismo. Tres placas tectónicas se encuentran en la región de Afar, y se están separando. Al separarse, la tierra del medio se hunde.",
+   "headline": "AFRICA IS SPLITTING",
+   "visual": {
+    "type": "map",
+    "extent": [
+     30,
+     55,
+     0,
+     25
+    ],
+    "highlight": [
+     "Ethiopia",
+     "Eritrea",
+     "Djibouti"
+    ],
+    "marker": [
+     41.5,
+     12.0
+    ],
+    "label": "Afar Triangle"
+   }
+  },
+  {
+   "text": "In 2005, scientists watched it happen. In just a few days, a crack about sixty kilometers long opened in the ground in Afar, in some places several meters wide.",
+   "es": "En 2005, los científicos lo vieron ocurrir. En solo unos días, se abrió en el suelo de Afar una grieta de unos sesenta kilómetros de largo, en algunos lugares de varios metros de ancho.",
+   "visual": {
+    "type": "card",
+    "big": "60 KM",
+    "label": "crack that opened in days (2005)",
+    "sub": "the continent pulling apart"
+   }
+  },
+  {
+   "text": "Long ago, the sea flooded this area. When the water was cut off and evaporated, it left behind enormous layers of salt. In millions of years, scientists think the Red Sea could flood back in, and a new ocean could be born here.",
+   "es": "Hace mucho tiempo, el mar inundaba esta zona. Cuando el agua quedó aislada y se evaporó, dejó enormes capas de sal. En millones de años, los científicos creen que el mar Rojo podría volver a entrar, y aquí podría nacer un nuevo océano.",
+   "headline": "A FUTURE OCEAN",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Danakil salt flats Lake Assale"
+    ],
+    "query": "Danakil salt flat"
+   }
+  },
+  {
+   "text": "Getting here is an adventure in itself. Most trips start in the highland city of Mekele, more than two thousand meters above sea level, where the air is pleasant and cool. Then the road drops down, and down, into the depression. In just a few hours, you go from mountain air to one of the hottest furnaces on Earth.",
+   "es": "Llegar aquí ya es una aventura. La mayoría de los viajes empiezan en la ciudad de Mekele, en las tierras altas, a más de dos mil metros sobre el nivel del mar, donde el aire es agradable y fresco. Luego la carretera baja, y baja, hasta la depresión. En pocas horas pasas del aire de montaña a uno de los hornos más calientes de la Tierra.",
+   "headline": "FROM MOUNTAINS TO FURNACE",
+   "visual": {
+    "type": "card",
+    "big": "2,000 M → -125 M",
+    "label": "the drive down from Mekele",
+    "sub": "a few hours, a whole new world"
+   }
+  },
+  {
+   "chapter": "The heat",
+   "text": "Now the heat. The town of Dallol, at the north end of the depression, holds a record: the highest average annual temperature of any inhabited place ever measured. In the 1960s it averaged about thirty-four degrees Celsius. That's the average, day and night, all year.",
+   "es": "Ahora el calor. El poblado de Dallol, al norte de la depresión, tiene un récord: la temperatura media anual más alta jamás medida en un lugar habitado. En los años sesenta promedió unos treinta y cuatro grados Celsius. Ese es el promedio, de día y de noche, todo el año.",
+   "headline": "HOTTEST AVERAGE",
+   "visual": {
+    "type": "card",
+    "big": "34°C",
+    "label": "average temperature, all year",
+    "sub": "Dallol, 1960–1966: a world record"
+   }
+  },
+  {
+   "text": "In summer, afternoon temperatures can climb above forty-five degrees. There's almost no shade, very little rain, and the salt flats reflect the sunlight back up at you.",
+   "es": "En verano, las temperaturas de la tarde pueden pasar de cuarenta y cinco grados. Casi no hay sombra, llueve muy poco y las salinas reflejan la luz del sol de vuelta hacia ti.",
+   "headline": "45°C+",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Danakil Depression desert heat"
+    ],
+    "query": "Danakil desert"
+   }
+  },
+  {
+   "text": "And night brings little relief. With an average of thirty-four degrees, even the nights are often hotter than a summer afternoon in many cities. Your body never really gets a chance to cool down and recover.",
+   "es": "Y la noche trae poco alivio. Con un promedio de treinta y cuatro grados, incluso las noches suelen ser más calientes que una tarde de verano en muchas ciudades. Tu cuerpo nunca tiene realmente la oportunidad de enfriarse y recuperarse.",
+   "headline": "HOT NIGHTS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Danakil Depression night"
+    ],
+    "query": "Danakil desert night"
+   }
+  },
+  {
+   "text": "Your body cools down by sweating. Here, you could lose more than a liter of sweat every hour. Without lots of water, dehydration and heat stroke could set in within hours.",
+   "es": "Tu cuerpo se enfría sudando. Aquí podrías perder más de un litro de sudor por hora. Sin mucha agua, la deshidratación y el golpe de calor podrían llegar en horas.",
+   "visual": {
+    "type": "card",
+    "big": "1 LITER",
+    "label": "of sweat per hour",
+    "sub": "heat stroke can come within hours"
+   }
+  },
+  {
+   "question": true,
+   "text": "Quick question. What's the hottest temperature you've ever felt? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Cuál es la temperatura más alta que has sentido? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Hottest you've ever felt?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Pools of acid",
+   "text": "Then there's Dallol itself, a hydrothermal field on top of a buried volcano. Hot water rises through the salt, carrying minerals and gases from below, and builds strange shapes and pools in neon yellow, green and orange.",
+   "es": "Luego está Dallol, un campo hidrotermal sobre un volcán enterrado. El agua caliente sube a través de la sal, llevando minerales y gases desde abajo, y forma figuras y lagunas extrañas en amarillo neón, verde y naranja.",
+   "headline": "DALLOL",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Dallol (hydrothermal system)"
+    ],
+    "query": "Dallol hydrothermal field"
+   }
+  },
+  {
+   "text": "Those beautiful colors come from sulfur, iron and salt. But the pools are extremely acidic. Some have measured below pH one, and some even below zero. That's more acidic than lemon juice, more acidic than the acid in your stomach.",
+   "es": "Esos colores tan bonitos vienen del azufre, el hierro y la sal. Pero las lagunas son extremadamente ácidas. Algunas han medido un pH menor a uno, e incluso menor a cero. Es más ácido que el jugo de limón, más ácido que el ácido de tu estómago.",
+   "headline": "pH BELOW ZERO",
+   "visual": {
+    "type": "card",
+    "big": "pH < 1",
+    "label": "some Dallol pools",
+    "sub": "more acidic than stomach acid"
+   }
+  },
+  {
+   "text": "The water can also be scalding hot, near boiling. Touching it would burn your skin, and the ground around the pools is often a thin crust that can break under your feet.",
+   "es": "El agua también puede estar hirviendo, cerca del punto de ebullición. Tocarla te quemaría la piel, y el suelo alrededor de las lagunas suele ser una costra delgada que puede romperse bajo tus pies.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Dallol acid pool Ethiopia"
+    ],
+    "query": "Dallol acid pool"
+   }
+  },
+  {
+   "text": "Nearby is a small pond called Gaet'ale, which formed after an earthquake in 2005. It's reported to be among the saltiest water on Earth, even saltier than the Dead Sea. Gas bubbles up through it, and the shore is littered with dead insects and birds.",
+   "es": "Cerca hay un pequeño estanque llamado Gaet'ale, que se formó tras un sismo en 2005. Se dice que es una de las aguas más saladas de la Tierra, incluso más que el mar Muerto. El gas burbujea a través de él, y la orilla está llena de insectos y pájaros muertos.",
+   "headline": "SALTIER THAN THE DEAD SEA",
+   "visual": {
+    "type": "card",
+    "big": "GAET'ALE",
+    "label": "one of the saltiest ponds on Earth",
+    "sub": "saltier than the Dead Sea"
+   }
+  },
+  {
+   "text": "Around Dallol, you can also find the ruins of an old mining camp from the early twentieth century, when companies came to dig potash for fertilizer. Some of its buildings were made from blocks of salt. The heat and isolation eventually drove everyone away.",
+   "es": "Alrededor de Dallol también hay ruinas de un antiguo campamento minero de principios del siglo veinte, cuando llegaron empresas a extraer potasa para fertilizantes. Algunos de sus edificios estaban hechos de bloques de sal. El calor y el aislamiento terminaron por echar a todos.",
+   "headline": "A GHOST TOWN OF SALT",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Dallol ruins salt buildings"
+    ],
+    "query": "Dallol ruins"
+   }
+  },
+  {
+   "text": "Scientists study Dallol because it's so extreme. In 2019, a team reported that the hottest, most acidic and saltiest pools seemed to have no active life at all. On a planet where life is almost everywhere, that's incredibly rare.",
+   "es": "Los científicos estudian Dallol porque es muy extremo. En 2019, un equipo reportó que las lagunas más calientes, ácidas y saladas parecían no tener vida activa en absoluto. En un planeta donde la vida está casi en todas partes, eso es increíblemente raro.",
+   "headline": "NO LIFE",
+   "visual": {
+    "type": "card",
+    "big": "NO LIFE",
+    "label": "found in the most extreme pools",
+    "sub": "a 2019 scientific study"
+   }
+  },
+  {
+   "text": "That's exactly why space scientists are interested. Places like Dallol help them understand where life can and can't survive, which matters when we search for life on Mars or other worlds. If something can live in the Danakil, it might be able to live out there too.",
+   "es": "Por eso les interesa tanto a los científicos espaciales. Lugares como Dallol les ayudan a entender dónde puede y dónde no puede sobrevivir la vida, algo importante cuando buscamos vida en Marte u otros mundos. Si algo puede vivir en Danakil, quizá también pueda vivir allá afuera.",
+   "headline": "A WINDOW TO MARS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mars"
+    ],
+    "query": "Mars surface"
+   }
+  },
+  {
+   "chapter": "Poison air",
+   "text": "And it's not only the water. Some spots in the Danakil release toxic gases, like carbon dioxide and hydrogen sulfide, that collect in low places where there's no wind.",
+   "es": "Y no es solo el agua. Algunos puntos de Danakil liberan gases tóxicos, como dióxido de carbono y ácido sulfhídrico, que se acumulan en lugares bajos donde no hay viento.",
+   "headline": "TOXIC GAS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Dallol sulfur Ethiopia"
+    ],
+    "query": "Dallol sulfur"
+   }
+  },
+  {
+   "text": "Visitors have found dead birds and insects next to some pools, likely killed by the gas. You might not see it or smell it in time, which makes it one of the most dangerous parts of the whole place.",
+   "es": "Los visitantes han encontrado pájaros e insectos muertos junto a algunas lagunas, probablemente por el gas. Quizá no lo veas ni lo huelas a tiempo, lo que lo hace una de las partes más peligrosas del lugar.",
+   "visual": {
+    "type": "card",
+    "big": "INVISIBLE",
+    "label": "gas that collects in low spots",
+    "sub": "dead birds are a warning sign"
+   }
+  },
+  {
+   "question": true,
+   "text": "Would you visit the Danakil with a guide, or is this one place you'd skip? Tell me in the comments.",
+   "es": "¿Visitarías Danakil con un guía, o es un lugar que te saltarías? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Would you visit Dallol?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The lava lake",
+   "text": "South of Dallol stands Erta Ale, a volcano whose name means smoking mountain in the local Afar language. For decades, it held something very rare: a lake of liquid lava inside its crater.",
+   "es": "Al sur de Dallol está el Erta Ale, un volcán cuyo nombre significa montaña humeante en la lengua afar. Durante décadas tuvo algo muy raro: un lago de lava líquida dentro de su cráter.",
+   "headline": "ERTA ALE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Erta Ale"
+    ],
+    "query": "Erta Ale lava lake"
+   }
+  },
+  {
+   "text": "Only a handful of volcanoes on Earth have had long-lasting lava lakes. At Erta Ale, the lava glows at more than one thousand degrees Celsius, and at night the whole crater shines red.",
+   "es": "Solo unos pocos volcanes en la Tierra han tenido lagos de lava duraderos. En el Erta Ale, la lava brilla a más de mil grados Celsius, y de noche todo el cráter resplandece en rojo.",
+   "headline": "1,000°C+",
+   "visual": {
+    "type": "card",
+    "big": "1,100°C",
+    "label": "glowing lava in the crater",
+    "sub": "one of Earth's rare lava lakes"
+   }
+  },
+  {
+   "text": "Climbing it isn't easy. Most visitors start the hike in the evening, when it's a little cooler, and walk for hours across sharp, black lava rock in the dark, just to reach the rim and look down into the glowing crater.",
+   "es": "Subirlo no es fácil. La mayoría de los visitantes empiezan la caminata al atardecer, cuando hace un poco menos de calor, y caminan durante horas sobre roca volcánica negra y filosa en la oscuridad, solo para llegar al borde y mirar el cráter brillante.",
+   "headline": "A NIGHT HIKE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Erta Ale crater rim"
+    ],
+    "query": "Erta Ale crater"
+   }
+  },
+  {
+   "text": "The lava lake changes over the years. It rises, overflows, drains away and returns. Visitors who hike up at night often camp near the rim, close enough to feel the heat on their faces.",
+   "es": "El lago de lava cambia con los años. Sube, se desborda, se vacía y regresa. Los visitantes que suben de noche suelen acampar cerca del borde, lo bastante cerca para sentir el calor en la cara.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Erta Ale lava"
+    ],
+    "query": "Erta Ale volcano night"
+   }
+  },
+  {
+   "chapter": "The salt miners",
+   "text": "And yet, people live and work here. The Afar people have lived in this region for centuries. Some of them work as salt miners on the flats near Lake Assale.",
+   "es": "Y aun así, aquí vive y trabaja gente. El pueblo afar ha vivido en esta región durante siglos. Algunos trabajan como mineros de sal en las salinas cerca del lago Assale.",
+   "headline": "THE AFAR PEOPLE",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Afar salt miners Danakil"
+    ],
+    "query": "Danakil salt miners camels"
+   }
+  },
+  {
+   "text": "They pry up the salt crust with sticks and axes and cut it into neat blocks by hand, in that same brutal heat. Then camel caravans carry the blocks out of the depression, a tradition that goes back hundreds of years.",
+   "es": "Levantan la costra de sal con palos y hachas y la cortan a mano en bloques ordenados, con ese mismo calor brutal. Luego caravanas de camellos sacan los bloques de la depresión, una tradición de cientos de años.",
+   "headline": "CAMEL CARAVANS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "camel caravan salt Danakil"
+    ],
+    "query": "salt caravan camels Ethiopia"
+   }
+  },
+  {
+   "text": "Salt from the Danakil was once so valuable that bars of it, called amole, were used as money in parts of Ethiopia, well into the twentieth century. People literally paid with salt.",
+   "es": "La sal de Danakil fue tan valiosa que sus barras, llamadas amole, se usaron como dinero en partes de Etiopía hasta bien entrado el siglo veinte. La gente literalmente pagaba con sal.",
+   "headline": "SALT MONEY",
+   "visual": {
+    "type": "card",
+    "big": "AMOLE",
+    "label": "salt bars once used as money",
+    "sub": "in Ethiopia into the 20th century"
+   }
+  },
+  {
+   "text": "They survive because they know this land: when to work, where to find water and how to rest through the worst heat. A visitor without that knowledge wouldn't last long.",
+   "es": "Sobreviven porque conocen esta tierra: cuándo trabajar, dónde encontrar agua y cómo descansar en el peor calor. Un visitante sin ese conocimiento no duraría mucho.",
+   "visual": {
+    "type": "card",
+    "big": "CENTURIES",
+    "label": "of knowledge about this land",
+    "sub": "the only way to live here"
+   }
+  },
+  {
+   "text": "Not far from here, in the wider Afar region, scientists found the famous fossil Lucy in 1974, an early human relative who lived about three point two million years ago. This land has been part of the human story for a very long time.",
+   "es": "No muy lejos, en la región de Afar, los científicos encontraron en 1974 el famoso fósil Lucy, un pariente humano temprano que vivió hace unos tres punto dos millones de años. Esta tierra ha sido parte de la historia humana desde hace muchísimo tiempo.",
+   "headline": "LUCY",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Lucy (Australopithecus)"
+    ],
+    "query": "Lucy fossil skeleton"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive the Danakil on your own? Heat above forty-five degrees. Almost no fresh water. Acid pools, toxic gas, fragile ground and a lava lake. Most visitors only go with local guides, plenty of water and vehicles, and many check travel advisories first because the region can be unsafe.",
+   "es": "Entonces, ¿podrías sobrevivir en Danakil por tu cuenta? Calor de más de cuarenta y cinco grados. Casi nada de agua dulce. Lagunas de ácido, gases tóxicos, suelo frágil y un lago de lava. La mayoría de los visitantes solo van con guías locales, mucha agua y vehículos, y muchos revisan antes las alertas de viaje porque la región puede ser insegura.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Danakil Depression"
+    ],
+    "query": "Danakil Depression landscape"
+   }
+  },
+  {
+   "text": "It's one of the harshest places on our planet. But it's also one of the most beautiful, a window into how continents split, how oceans are born, and how far life, and people, can be pushed.",
+   "es": "Es uno de los lugares más duros del planeta. Pero también uno de los más hermosos, una ventana a cómo se parten los continentes, cómo nacen los océanos y hasta dónde puede llegar la vida, y la gente.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Dallol (hydrothermal system)"
+    ],
+    "query": "Dallol colors"
+   }
+  },
+  {
+   "question": true,
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who complains about the heat. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que siempre se queja del calor. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "query": "desert sunset"
+   }
+  }
+ ]
+}

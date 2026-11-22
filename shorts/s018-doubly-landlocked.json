@@ -1,0 +1,202 @@
+{
+  "number": 18,
+  "publish": "2026-12-10 12:00",
+  "kicker": "TRAPPED TWICE",
+  "title": "Doubly Landlocked",
+  "subtitle": "The only 2 countries trapped twice",
+  "yt_title": "The Only 2 Countries That Are Trapped Twice 🇱🇮🇺🇿🤯 Doubly Landlocked #shorts",
+  "yt_title_es": "Los únicos 2 países atrapados dos veces 🇱🇮🇺🇿🤯 Doblemente sin mar #shorts",
+  "description": "Liechtenstein and Uzbekistan are the only two doubly landlocked countries in the world: to reach the ocean, you have to cross at least two borders. Here's what that means.\n#Liechtenstein #Uzbekistan #Geography #EarthDecoded #shorts",
+  "description_es": "Liechtenstein y Uzbekistán son los únicos dos países doblemente sin litoral del mundo: para llegar al océano, debes cruzar al menos dos fronteras.\n#Geografia #shorts",
+  "tags": [
+    "doubly landlocked countries",
+    "liechtenstein",
+    "uzbekistan",
+    "landlocked countries",
+    "aral sea",
+    "geography trivia",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Vaduz Castle"
+    ],
+    "query": "Liechtenstein Alps",
+    "white": "TRAPPED",
+    "accent": "TWICE",
+    "badge": "ONLY 2 COUNTRIES"
+  },
+  "segments": [
+    {
+      "text": "Only two countries in the world are trapped twice. Do you know which ones?",
+      "es": "Solo dos países en el mundo están atrapados dos veces. ¿Sabes cuáles son?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Liechtenstein"
+        ],
+        "query": "Liechtenstein"
+      }
+    },
+    {
+      "text": "A landlocked country has no coastline. There are more than forty of them, like Switzerland, Bolivia and Mongolia.",
+      "es": "Un país sin litoral no tiene costa. Hay más de cuarenta, como Suiza, Bolivia y Mongolia.",
+      "visual": {
+        "type": "card",
+        "big": "40+",
+        "label": "landlocked countries",
+        "sub": "no coastline at all"
+      }
+    },
+    {
+      "text": "But a doubly landlocked country is only surrounded by other landlocked countries. To reach the ocean, you have to cross at least two borders. There are only two in the whole world.",
+      "es": "Pero un país doblemente sin litoral está rodeado solo por otros países sin litoral. Para llegar al océano, tienes que cruzar al menos dos fronteras. En todo el mundo solo hay dos.",
+      "visual": {
+        "type": "card",
+        "big": "2",
+        "label": "doubly landlocked countries",
+        "sub": "cross 2 borders to reach the sea"
+      }
+    },
+    {
+      "text": "The first is Liechtenstein, a tiny country in the Alps between Switzerland and Austria. Both of its neighbors are landlocked too.",
+      "es": "El primero es Liechtenstein, un pequeño país en los Alpes entre Suiza y Austria. Sus dos vecinos tampoco tienen mar.",
+      "headline": "LIECHTENSTEIN",
+      "visual": {
+        "type": "map",
+        "extent": [
+          4,
+          18,
+          44,
+          51
+        ],
+        "highlight": [
+          "Switzerland",
+          "Austria"
+        ],
+        "marker": [
+          9.55,
+          47.15
+        ],
+        "label": "Liechtenstein"
+      }
+    },
+    {
+      "text": "It's only about one hundred sixty square kilometers, with around forty thousand people, and it has no army and no airport of its own. It's also one of the richest countries in the world per person.",
+      "es": "Mide solo unos ciento sesenta kilómetros cuadrados, con cerca de cuarenta mil habitantes, y no tiene ejército ni aeropuerto propio. Además es uno de los países más ricos del mundo por persona.",
+      "headline": "TINY AND RICH",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Vaduz Castle"
+        ],
+        "query": "Vaduz"
+      }
+    },
+    {
+      "text": "The second is Uzbekistan, in Central Asia. All five of its neighbors, Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan and Turkmenistan, are landlocked as well.",
+      "es": "El segundo es Uzbekistán, en Asia Central. Sus cinco vecinos, Kazajistán, Kirguistán, Tayikistán, Afganistán y Turkmenistán, tampoco tienen mar.",
+      "headline": "UZBEKISTAN",
+      "visual": {
+        "type": "map",
+        "extent": [
+          50,
+          80,
+          33,
+          50
+        ],
+        "highlight": [
+          "Uzbekistan"
+        ],
+        "marker": [
+          69.24,
+          41.3
+        ],
+        "label": "Tashkent"
+      }
+    },
+    {
+      "text": "Uzbekistan is famous for the stunning blue domes of Samarkand, an ancient city on the Silk Road.",
+      "es": "Uzbekistán es famoso por las impresionantes cúpulas azules de Samarcanda, una antigua ciudad de la Ruta de la Seda.",
+      "headline": "SAMARKAND",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Registan"
+        ],
+        "query": "Samarkand Registan"
+      }
+    },
+    {
+      "text": "It also shares the Aral Sea, once one of the biggest lakes on Earth, which has mostly dried up after its rivers were used for cotton farming.",
+      "es": "También comparte el mar de Aral, que fue uno de los lagos más grandes de la Tierra, y que en gran parte se secó después de usar sus ríos para cultivar algodón.",
+      "headline": "THE LOST SEA",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Aral Sea"
+        ],
+        "query": "Aral Sea from space"
+      }
+    },
+    {
+      "text": "Liechtenstein uses the Swiss franc, and its border with Switzerland is so open you can walk across without noticing.",
+      "es": "Liechtenstein usa el franco suizo, y su frontera con Suiza es tan abierta que puedes cruzarla caminando sin darte cuenta.",
+      "headline": "SWISS FRANCS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Rhine Liechtenstein Switzerland border"
+        ],
+        "query": "Rhine valley Alps"
+      }
+    },
+    {
+      "text": "It's ruled by a prince, who lives in a castle above the capital, Vaduz. And it's one of the world's biggest makers of false teeth.",
+      "es": "Lo gobierna un príncipe, que vive en un castillo sobre la capital, Vaduz. Y es uno de los mayores fabricantes de dientes postizos del mundo.",
+      "headline": "FALSE TEETH CAPITAL",
+      "visual": {
+        "type": "card",
+        "big": "FALSE TEETH",
+        "label": "a world leader in false teeth",
+        "sub": "dental products are a big export"
+      }
+    },
+    {
+      "text": "Uzbekistan is much bigger, with more than thirty five million people, and its cities were stops on the Silk Road between China and Europe for centuries.",
+      "es": "Uzbekistán es mucho más grande, con más de treinta y cinco millones de habitantes, y sus ciudades fueron paradas de la Ruta de la Seda entre China y Europa durante siglos.",
+      "visual": {
+        "type": "card",
+        "big": "35+ MILLION",
+        "label": "people in Uzbekistan",
+        "sub": "a Silk Road crossroads"
+      }
+    },
+    {
+      "text": "To ship goods to the ocean, Uzbekistan has to send them across at least two other countries, which makes trade slower and more expensive.",
+      "es": "Para enviar mercancías al océano, Uzbekistán debe hacerlas cruzar al menos dos países más, lo que hace el comercio más lento y caro.",
+      "headline": "TWO BORDERS TO THE SEA",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Uzbekistan railway"
+        ],
+        "query": "Uzbekistan train"
+      }
+    },
+    {
+      "text": "Did you know there were only two doubly landlocked countries? Tell me in the comments.",
+      "es": "¿Sabías que solo hay dos países doblemente sin litoral? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "DID YOU KNOW?",
+        "commons": [
+          "Liechtenstein Alps valley"
+        ],
+        "query": "Alps valley"
+      }
+    }
+  ]
+}

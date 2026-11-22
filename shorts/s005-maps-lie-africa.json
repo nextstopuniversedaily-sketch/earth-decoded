@@ -1,0 +1,268 @@
+{
+  "number": 5,
+  "publish": "2026-11-27 12:00",
+  "kicker": "MAPS LIE",
+  "title": "Africa vs Greenland",
+  "subtitle": "Why does Greenland look as big as Africa?",
+  "yt_title": "Why Maps Make Africa Look Small 🌍🤯 Greenland vs Africa #shorts",
+  "yt_title_es": "¿Por qué los mapas hacen ver pequeña a África? 🌍🤯 #shorts",
+  "description": "On most world maps, Greenland looks about as big as Africa. In reality, Africa is about 14 times bigger. Here's why almost every map you've seen is lying to you.\n#Maps #Africa #Greenland #Geography #EarthDecoded #shorts",
+  "description_es": "En la mayoría de los mapas, Groenlandia parece tan grande como África. En realidad, África es unas 14 veces más grande. Por eso casi todos los mapas te engañan.\n#Mapas #Africa #shorts",
+  "tags": [
+    "mercator projection",
+    "true size of africa",
+    "greenland vs africa",
+    "maps are wrong",
+    "true size of countries",
+    "world map distortion",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "map": {
+      "extent": [
+        -60,
+        60,
+        -38,
+        82
+      ],
+      "highlight": [
+        "Greenland",
+        "Algeria",
+        "Libya",
+        "Egypt",
+        "Sudan",
+        "Chad",
+        "Niger",
+        "Mali",
+        "Nigeria",
+        "Ethiopia",
+        "Dem. Rep. Congo",
+        "Angola",
+        "South Africa",
+        "Tanzania",
+        "Kenya",
+        "Namibia",
+        "Mozambique",
+        "Zambia",
+        "Botswana",
+        "Mauritania",
+        "Morocco",
+        "Somalia",
+        "Central African Rep.",
+        "Cameroon",
+        "Madagascar",
+        "Zimbabwe",
+        "Gabon",
+        "Congo",
+        "W. Sahara",
+        "Tunisia",
+        "Ghana",
+        "Côte d'Ivoire",
+        "Burkina Faso",
+        "Guinea",
+        "S. Sudan",
+        "Uganda",
+        "Malawi",
+        "Eritrea",
+        "Senegal",
+        "Liberia",
+        "Sierra Leone",
+        "Benin",
+        "Togo",
+        "Rwanda",
+        "Burundi",
+        "Lesotho",
+        "eSwatini",
+        "Djibouti",
+        "Eq. Guinea",
+        "Guinea-Bissau",
+        "Gambia",
+        "Somaliland"
+      ]
+    },
+    "white": "MAPS LIE",
+    "accent": "TO YOU",
+    "badge": "AFRICA IS 14x BIGGER"
+  },
+  "segments": [
+    {
+      "text": "Why does Greenland look as big as Africa on almost every map?",
+      "es": "¿Por qué Groenlandia parece tan grande como África en casi todos los mapas?",
+      "visual": {
+        "type": "title",
+        "query": "Earth from space Africa"
+      }
+    },
+    {
+      "text": "On the map you probably grew up with, Greenland looks huge. About the same size as all of Africa.",
+      "es": "En el mapa con el que probablemente creciste, Groenlandia se ve enorme. Casi del mismo tamaño que toda África.",
+      "headline": "LOOKS THE SAME?",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -75,
+          60,
+          -38,
+          84
+        ],
+        "highlight": [
+          "Greenland"
+        ],
+        "marker": [
+          -41,
+          72
+        ],
+        "label": "Greenland"
+      }
+    },
+    {
+      "text": "But in reality, Africa is about fourteen times bigger. Africa covers about thirty million square kilometers. Greenland? Just over two million.",
+      "es": "Pero en realidad, África es unas catorce veces más grande. África mide unos treinta millones de kilómetros cuadrados. ¿Groenlandia? Poco más de dos millones.",
+      "visual": {
+        "type": "card",
+        "big": "14x",
+        "label": "Africa is bigger than Greenland",
+        "sub": "30 million km² vs 2.2 million km²"
+      }
+    },
+    {
+      "text": "So why the lie? Because the Earth is a ball, and a map is flat. You can't flatten a ball without stretching something.",
+      "es": "¿Por qué el engaño? Porque la Tierra es una esfera y el mapa es plano. No puedes aplanar una esfera sin estirar algo.",
+      "headline": "A BALL ON PAPER",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "The Blue Marble"
+        ],
+        "query": "Blue Marble Earth"
+      }
+    },
+    {
+      "text": "The most popular map, the Mercator projection, was made in 1569 for sailors. It keeps directions correct, which was perfect for navigation. But it stretches land more and more the closer you get to the poles.",
+      "es": "El mapa más popular, la proyección de Mercator, se hizo en 1569 para los marineros. Mantiene las direcciones correctas, perfecto para navegar. Pero estira la tierra cada vez más cerca de los polos.",
+      "headline": "MERCATOR, 1569",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Gerardus Mercator"
+        ],
+        "commons": [
+          "Mercator 1569 world map"
+        ],
+        "query": "old world map"
+      }
+    },
+    {
+      "text": "That's why Greenland, Canada and Russia look gigantic, while countries near the equator, like most of Africa, look much smaller than they really are.",
+      "es": "Por eso Groenlandia, Canadá y Rusia se ven gigantes, mientras que los países cerca del ecuador, como casi toda África, parecen mucho más pequeños de lo que son.",
+      "headline": "STRETCHED NORTH",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -170,
+          180,
+          -55,
+          84
+        ],
+        "highlight": [
+          "Greenland",
+          "Canada",
+          "Russia"
+        ]
+      }
+    },
+    {
+      "text": "In fact, you could fit the United States, China, India and most of Europe inside Africa, and still have room left over.",
+      "es": "De hecho, cabrían Estados Unidos, China, India y casi toda Europa dentro de África, y todavía sobraría espacio.",
+      "visual": {
+        "type": "card",
+        "big": "USA + CHINA + INDIA",
+        "label": "all fit inside Africa",
+        "sub": "with most of Europe too"
+      }
+    },
+    {
+      "text": "Africa is so big it has fifty four countries. The Sahara Desert alone is almost as big as the entire United States.",
+      "es": "África es tan grande que tiene cincuenta y cuatro países. Solo el desierto del Sahara es casi tan grande como todo Estados Unidos.",
+      "headline": "54 COUNTRIES",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Sahara"
+        ],
+        "commons": [
+          "Sahara desert dunes"
+        ],
+        "query": "Sahara desert"
+      }
+    },
+    {
+      "text": "Look at Alaska. On a normal map it looks almost as big as the rest of the United States. In reality, the lower forty eight states are almost five times bigger.",
+      "es": "Mira Alaska. En un mapa normal parece casi tan grande como el resto de Estados Unidos. En realidad, los cuarenta y ocho estados contiguos son casi cinco veces más grandes.",
+      "headline": "ALASKA TOO",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -170,
+          -60,
+          20,
+          72
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "marker": [
+          -150,
+          64
+        ],
+        "label": "Alaska"
+      }
+    },
+    {
+      "text": "And Antarctica looks like an endless white strip across the bottom of the map. That's just the Mercator projection stretching the South Pole into a line.",
+      "es": "Y la Antártida parece una franja blanca infinita en la parte de abajo del mapa. Es solo la proyección de Mercator estirando el Polo Sur hasta convertirlo en una línea.",
+      "headline": "ANTARCTICA STRETCHED",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Antarctica"
+        ],
+        "query": "Antarctica from space"
+      }
+    },
+    {
+      "text": "Mapmakers have tried other projections, like the Gall-Peters map, which shows countries at their true size. But then shapes look squashed and stretched. Every flat map has to sacrifice something.",
+      "es": "Los cartógrafos han probado otras proyecciones, como la de Gall-Peters, que muestra los países en su tamaño real. Pero entonces las formas se ven aplastadas y estiradas. Todo mapa plano tiene que sacrificar algo.",
+      "headline": "NO PERFECT MAP",
+      "visual": {
+        "type": "card",
+        "big": "NO PERFECT MAP",
+        "label": "every flat map distorts something",
+        "sub": "size, shape, distance or direction"
+      }
+    },
+    {
+      "text": "The only map that gets everything right is a globe. That's why pilots and ships planning long routes use great circles on a globe, not straight lines on a flat map.",
+      "es": "El único mapa que acierta en todo es un globo terráqueo. Por eso pilotos y barcos que planean rutas largas usan círculos máximos sobre un globo, no líneas rectas en un mapa plano.",
+      "headline": "ONLY A GLOBE IS RIGHT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "antique globe"
+        ],
+        "query": "Earth globe"
+      }
+    },
+    {
+      "text": "So next time you see a world map, remember: the size you see is not the size that's real. Which country surprised you the most? Tell me in the comments.",
+      "es": "La próxima vez que veas un mapa del mundo, recuerda: el tamaño que ves no es el real. ¿Qué país te sorprendió más? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "MAPS LIE",
+        "query": "Africa from space"
+      }
+    }
+  ]
+}

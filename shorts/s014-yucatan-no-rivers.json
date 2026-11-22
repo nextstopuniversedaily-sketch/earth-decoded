@@ -1,0 +1,184 @@
+{
+  "number": 14,
+  "publish": "2026-12-06 12:00",
+  "kicker": "HIDDEN RIVERS",
+  "title": "Yucatán",
+  "subtitle": "Why does it have no rivers?",
+  "yt_title": "Why Mexico's Yucatán Has No Rivers 🇲🇽🤯 Cenotes #shorts",
+  "yt_title_es": "¿Por qué Yucatán casi no tiene ríos? 🇲🇽🤯 Cenotes #shorts",
+  "description": "The Yucatán Peninsula gets lots of rain, but you'll find almost no rivers on its surface. Instead, thousands of cenotes lead to a hidden world of underground rivers, and a giant crater may have helped create them.\n#Yucatan #Cenotes #Mexico #Geography #EarthDecoded #shorts",
+  "description_es": "La península de Yucatán recibe mucha lluvia, pero casi no tiene ríos en la superficie. En cambio, miles de cenotes llevan a un mundo oculto de ríos subterráneos.\n#Yucatan #Cenotes #shorts",
+  "tags": [
+    "yucatan cenotes",
+    "why yucatan has no rivers",
+    "cenotes mexico",
+    "chicxulub crater",
+    "underground rivers",
+    "mexico geography",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Cenote"
+    ],
+    "commons": [
+      "Cenote Ik Kil"
+    ],
+    "query": "cenote Mexico",
+    "white": "NO RIVERS",
+    "accent": "ONLY THESE",
+    "badge": "THOUSANDS OF CENOTES"
+  },
+  "segments": [
+    {
+      "text": "Why does Mexico's Yucatán Peninsula have almost no rivers, even though it rains a lot?",
+      "es": "¿Por qué la península de Yucatán casi no tiene ríos, aunque llueve mucho?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Cenote"
+        ],
+        "query": "cenote"
+      }
+    },
+    {
+      "text": "The Yucatán is the big thumb of land in southeast Mexico, home to Cancún, Mérida and ancient Maya cities like Chichén Itzá.",
+      "es": "Yucatán es el gran pulgar de tierra en el sureste de México, donde están Cancún, Mérida y antiguas ciudades mayas como Chichén Itzá.",
+      "headline": "THE YUCATÁN",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -95,
+          -83,
+          14,
+          24
+        ],
+        "highlight": [
+          "Mexico"
+        ],
+        "marker": [
+          -89.6,
+          20.97
+        ],
+        "label": "Mérida"
+      }
+    },
+    {
+      "text": "It gets plenty of rain. But look at a map of its north, and you'll find almost no rivers or streams at all.",
+      "es": "Recibe bastante lluvia. Pero mira un mapa del norte, y casi no encontrarás ríos ni arroyos.",
+      "headline": "WHERE ARE THE RIVERS?",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Yucatan peninsula from space"
+        ],
+        "query": "Yucatan from space"
+      }
+    },
+    {
+      "text": "The reason is under your feet. The whole peninsula is a flat slab of limestone, a rock full of holes and cracks. Rainwater doesn't flow over it. It sinks straight down.",
+      "es": "La razón está bajo tus pies. Toda la península es una losa plana de piedra caliza, una roca llena de huecos y grietas. El agua de lluvia no corre por encima. Se hunde directo hacia abajo.",
+      "headline": "SPONGE OF ROCK",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "limestone cave Yucatan"
+        ],
+        "query": "limestone cave"
+      }
+    },
+    {
+      "text": "Underground, the water carved huge cave systems and hidden rivers, some explored for hundreds of kilometers. Where the roof of a cave collapses, you get a cenote, a natural well of crystal clear water.",
+      "es": "Bajo tierra, el agua talló enormes sistemas de cuevas y ríos ocultos, algunos explorados por cientos de kilómetros. Donde el techo de una cueva se derrumba, aparece un cenote, un pozo natural de agua cristalina.",
+      "headline": "CENOTES",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Cenote Ik Kil",
+          "cenote Yucatan"
+        ],
+        "query": "cenote"
+      }
+    },
+    {
+      "text": "There are thousands of them, possibly up to ten thousand across the peninsula. For the ancient Maya, cenotes were the main source of fresh water, and sacred doorways to the underworld.",
+      "es": "Hay miles, quizá hasta diez mil en toda la península. Para los antiguos mayas, los cenotes eran la principal fuente de agua dulce, y puertas sagradas al inframundo.",
+      "visual": {
+        "type": "card",
+        "big": "UP TO 10,000",
+        "label": "cenotes in the Yucatán",
+        "sub": "the Maya's sacred wells"
+      }
+    },
+    {
+      "text": "And here's the wildest part. Many cenotes form a giant ring around the buried Chicxulub crater, left by the asteroid that wiped out the dinosaurs sixty six million years ago.",
+      "es": "Y lo más impresionante. Muchos cenotes forman un anillo gigante alrededor del cráter enterrado de Chicxulub, dejado por el asteroide que acabó con los dinosaurios hace sesenta y seis millones de años.",
+      "headline": "THE DINOSAUR CRATER",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Chicxulub crater"
+        ],
+        "query": "Chicxulub crater"
+      }
+    },
+    {
+      "text": "Cave divers have mapped flooded caves in the Yucatán that stretch for hundreds of kilometers, including one of the longest underwater cave systems ever explored.",
+      "es": "Buzos de cuevas han mapeado cuevas inundadas en Yucatán que se extienden por cientos de kilómetros, incluyendo uno de los sistemas de cuevas submarinas más largos jamás explorados.",
+      "visual": {
+        "type": "card",
+        "big": "376+ km",
+        "label": "of flooded caves in one system",
+        "sub": "Sistema Sac Actun, Quintana Roo"
+      }
+    },
+    {
+      "text": "In some cenotes, fresh water floats on top of salt water. Where they meet, divers see a strange shimmering layer called a halocline, like a mirror underwater.",
+      "es": "En algunos cenotes, el agua dulce flota sobre agua salada. Donde se juntan, los buzos ven una capa brillante y extraña llamada haloclina, como un espejo bajo el agua.",
+      "headline": "AN UNDERWATER MIRROR",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "cenote diver halocline"
+        ],
+        "query": "cave diving cenote"
+      }
+    },
+    {
+      "text": "At Chichén Itzá, the Sacred Cenote was a place of offerings. Divers have recovered gold, jade and pottery thrown into its waters centuries ago.",
+      "es": "En Chichén Itzá, el Cenote Sagrado era un lugar de ofrendas. Buzos han recuperado oro, jade y cerámica arrojados a sus aguas hace siglos.",
+      "headline": "THE SACRED CENOTE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Sacred Cenote"
+        ],
+        "query": "Chichen Itza"
+      }
+    },
+    {
+      "text": "Today the underground water is precious, but fragile. Pollution on the surface can sink straight into the rivers below, so protecting the Yucatán's water is a big challenge.",
+      "es": "Hoy el agua subterránea es valiosa, pero frágil. La contaminación en la superficie puede filtrarse directo a los ríos de abajo, así que proteger el agua de Yucatán es un gran reto.",
+      "visual": {
+        "type": "card",
+        "big": "FRAGILE",
+        "label": "one hidden water supply",
+        "sub": "what goes into the ground ends up in the rivers"
+      }
+    },
+    {
+      "text": "Would you swim in a cenote, knowing the water connects to rivers deep underground? Tell me in the comments.",
+      "es": "¿Nadarías en un cenote, sabiendo que el agua se conecta con ríos muy profundos bajo tierra? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "WOULD YOU SWIM?",
+        "commons": [
+          "Cenote Suytun"
+        ],
+        "query": "cenote swimming"
+      }
+    }
+  ]
+}

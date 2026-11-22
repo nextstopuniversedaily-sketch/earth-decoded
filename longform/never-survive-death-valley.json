@@ -1,0 +1,529 @@
+{
+  "slug": "never-survive-death-valley",
+  "publish": "2026-12-05 11:00",
+  "kicker": "WHY YOU'D NEVER...",
+  "title": "Why You'd Never Survive a Summer Day in Death Valley",
+  "screen_title": "Why You'd Never Survive Death Valley",
+  "subtitle": "The hottest place ever measured on Earth",
+  "yt_title": "Why You'd Never Survive a Summer Day in Death Valley",
+  "yt_title_es": "Por qué nunca sobrevivirías un día de verano en el Valle de la Muerte",
+  "description": "Death Valley holds the world record for the hottest air temperature ever measured: 134°F (56.7°C). The ground can reach 201°F. What would actually happen to you if you got stranded there on a summer day? We go hour by hour through the heat, the dehydration and the strange beauty of the lowest, hottest and driest place in North America.\n\nSources: US National Park Service, NOAA National Centers for Environmental Information.\n#DeathValley #California #Desert #EarthDecoded",
+  "description_es": "El Valle de la Muerte tiene el récord mundial de la temperatura del aire más alta jamás medida: 56.7 °C. El suelo puede llegar a 94 °C. ¿Qué te pasaría si quedaras varado ahí un día de verano? Recorremos hora por hora el calor, la deshidratación y la extraña belleza del lugar más bajo, caliente y seco de Norteamérica.\n#ValleDeLaMuerte #Desierto",
+  "tags": [
+    "death valley",
+    "hottest place on earth",
+    "death valley heat",
+    "badwater basin",
+    "134 degrees",
+    "why you'd never survive",
+    "what if you were stranded in death valley",
+    "extreme heat",
+    "mojave desert",
+    "national park",
+    "geography documentary",
+    "earth decoded"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Badwater Basin"
+    ],
+    "commons": [
+      "Death Valley sand dunes"
+    ],
+    "query": "Death Valley",
+    "white": "134°F",
+    "accent": "COULD YOU SURVIVE?",
+    "badge": "HOTTEST PLACE EVER"
+  },
+  "segments": [
+    {
+      "chapter": "Stranded",
+      "text": "Imagine your car breaks down on a lonely road in July. No shade. No signal. The air feels like an open oven, and the ground is so hot it could burn your feet through your shoes. Welcome to Death Valley, the hottest place ever measured on Earth. How long could you last out here? Stay to the end, because the answer depends on one simple thing most people get wrong.",
+      "es": "Imagina que tu coche se descompone en una carretera solitaria en julio. Sin sombra. Sin señal. El aire se siente como un horno abierto, y el suelo está tan caliente que podría quemarte los pies a través de los zapatos. Bienvenido al Valle de la Muerte, el lugar más caliente jamás medido en la Tierra. ¿Cuánto tiempo durarías aquí? Quédate hasta el final, porque la respuesta depende de algo simple que la mayoría hace mal.",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Badwater Basin"
+        ],
+        "query": "Death Valley"
+      }
+    },
+    {
+      "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're spending one summer day in Death Valley, California.",
+      "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy pasamos un día de verano en el Valle de la Muerte, California.",
+      "subscribe": true,
+      "visual": {
+        "type": "map",
+        "extent": [
+          -125,
+          -110,
+          31,
+          42
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "marker": [
+          -116.87,
+          36.46
+        ],
+        "label": "Death Valley"
+      }
+    },
+    {
+      "chapter": "The hottest place on Earth",
+      "text": "On July tenth, 1913, a thermometer at Furnace Creek in Death Valley recorded one hundred thirty four degrees Fahrenheit, almost fifty seven degrees Celsius. More than a century later, it is still the hottest air temperature ever officially recorded on our planet.",
+      "es": "El diez de julio de 1913, un termómetro en Furnace Creek, en el Valle de la Muerte, registró casi cincuenta y siete grados Celsius. Más de un siglo después, sigue siendo la temperatura del aire más alta registrada oficialmente en el planeta.",
+      "visual": {
+        "type": "card",
+        "big": "134°F",
+        "label": "hottest air temperature ever recorded",
+        "sub": "Furnace Creek, July 10, 1913 (56.7°C)"
+      }
+    },
+    {
+      "text": "And that wasn't a one-day accident. During that heat wave, the temperature reached at least one hundred twenty nine degrees for five days in a row.",
+      "es": "Y no fue un accidente de un solo día. Durante esa ola de calor, la temperatura llegó al menos a cincuenta y cuatro grados durante cinco días seguidos.",
+      "headline": "5 DAYS ABOVE 129°F",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley heat thermometer Furnace Creek"
+        ],
+        "query": "Death Valley Furnace Creek"
+      }
+    },
+    {
+      "text": "The ground gets even hotter. On July fifteenth, 1972, the ground at Furnace Creek reached two hundred one degrees Fahrenheit. That's just eleven degrees short of boiling water.",
+      "es": "El suelo se calienta todavía más. El quince de julio de 1972, el suelo en Furnace Creek llegó a noventa y cuatro grados Celsius. A solo seis grados del punto de ebullición del agua.",
+      "visual": {
+        "type": "card",
+        "big": "201°F",
+        "label": "ground temperature",
+        "sub": "July 15, 1972: 11 degrees short of boiling"
+      }
+    },
+    {
+      "chapter": "Why is it so hot?",
+      "text": "So why is Death Valley so hot? First, it's low. Badwater Basin, in the middle of the valley, sits two hundred eighty two feet below sea level. It's the lowest point in all of North America.",
+      "es": "¿Por qué hace tanto calor en el Valle de la Muerte? Primero, porque es bajo. La cuenca de Badwater, en medio del valle, está a ochenta y seis metros bajo el nivel del mar. Es el punto más bajo de toda Norteamérica.",
+      "headline": "-282 FEET",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Badwater Basin"
+        ],
+        "commons": [
+          "Badwater Basin salt flats"
+        ],
+        "query": "Badwater Basin"
+      }
+    },
+    {
+      "text": "Air sinking into a low basin gets squeezed and heats up, like air in a bicycle pump. Second, the valley is long, narrow and surrounded by tall mountains, so the hot air gets trapped and circles around instead of escaping.",
+      "es": "El aire que baja a una cuenca profunda se comprime y se calienta, como el aire en una bomba de bicicleta. Segundo, el valle es largo, estrecho y rodeado de montañas altas, así que el aire caliente queda atrapado y da vueltas en lugar de escapar.",
+      "headline": "A NATURAL OVEN",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley from Dantes View"
+        ],
+        "query": "Death Valley mountains"
+      }
+    },
+    {
+      "text": "Third, almost nothing grows on the valley floor and the air is very dry. Sunlight hits bare rock and salt, the ground heats up, and the ground heats the air above it, all day long.",
+      "es": "Tercero, en el fondo del valle casi no crece nada y el aire es muy seco. La luz del sol golpea roca desnuda y sal, el suelo se calienta, y el suelo calienta el aire de encima, todo el día.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Devil's Golf Course Death Valley"
+        ],
+        "query": "Death Valley salt"
+      }
+    },
+    {
+      "text": "And here's the scary part. In summer, nights barely cool down. Some nights the temperature never drops below one hundred degrees Fahrenheit. Your body never gets a break.",
+      "es": "Y lo que da miedo: en verano, las noches casi no refrescan. Hay noches en que la temperatura nunca baja de treinta y ocho grados Celsius. Tu cuerpo nunca descansa.",
+      "headline": "NIGHTS DON'T COOL DOWN",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley night stars"
+        ],
+        "query": "Death Valley night sky"
+      }
+    },
+    {
+      "question": true,
+      "text": "Quick question before we go on. What's the hottest temperature you've ever experienced? Tell me in the comments.",
+      "es": "Una pregunta rápida antes de seguir. ¿Cuál es la temperatura más alta que has vivido? Dímelo en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "What's the hottest temperature YOU have ever felt?",
+        "sub": "Tell me in the comments"
+      }
+    },
+    {
+      "chapter": "Hour one",
+      "text": "Back to you, stranded on the road. In the first hour, you sweat. A lot. In this dry air, sweat evaporates the moment it appears, so you might not even feel wet. That's a trap. You're losing water much faster than you think.",
+      "es": "Volvamos a ti, varado en la carretera. En la primera hora, sudas. Mucho. En este aire tan seco, el sudor se evapora en cuanto aparece, así que quizá ni te sientas mojado. Es una trampa. Estás perdiendo agua mucho más rápido de lo que crees.",
+      "headline": "HOUR 1: INVISIBLE SWEAT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley road heat"
+        ],
+        "query": "desert road heat"
+      }
+    },
+    {
+      "text": "In extreme heat, a person can lose more than a liter of sweat every hour. Without water to replace it, you start getting dehydrated fast.",
+      "es": "Con calor extremo, una persona puede perder más de un litro de sudor por hora. Sin agua para reponerlo, te deshidratas rápidamente.",
+      "visual": {
+        "type": "card",
+        "big": "1+ LITER",
+        "label": "of sweat lost per hour",
+        "sub": "in extreme desert heat"
+      }
+    },
+    {
+      "chapter": "Hour three",
+      "text": "By hour three, you feel dizzy and your head pounds. Your mouth is dry, your heart beats faster, and your muscles cramp. This is heat exhaustion, and it's your body's warning siren.",
+      "es": "Para la tercera hora, sientes mareo y te late la cabeza. Tienes la boca seca, el corazón acelerado y calambres. Esto es agotamiento por calor, y es la sirena de alarma de tu cuerpo.",
+      "headline": "HOUR 3: HEAT EXHAUSTION",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Mesquite Flat Sand Dunes"
+        ],
+        "query": "Death Valley sand dunes"
+      }
+    },
+    {
+      "text": "If you keep walking in the sun, things get dangerous. When your body can no longer cool itself, your core temperature climbs past one hundred four degrees Fahrenheit. That's heatstroke, and it's a medical emergency.",
+      "es": "Si sigues caminando bajo el sol, la cosa se pone peligrosa. Cuando tu cuerpo ya no puede enfriarse, tu temperatura interna sube de cuarenta grados. Eso es un golpe de calor, y es una emergencia médica.",
+      "visual": {
+        "type": "card",
+        "big": "104°F+",
+        "label": "core body temperature",
+        "sub": "heatstroke: a medical emergency (40°C)"
+      }
+    },
+    {
+      "text": "With heatstroke, people get confused, stop sweating and can collapse. Rangers say that's how many heat tragedies here happen: people try to walk for help in the middle of the day.",
+      "es": "Con un golpe de calor, la gente se confunde, deja de sudar y puede desmayarse. Los guardaparques dicen que así ocurren muchas tragedias aquí: la gente intenta caminar en busca de ayuda a mitad del día.",
+      "headline": "DON'T WALK FOR HELP",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley warning sign heat"
+        ],
+        "query": "Death Valley sign"
+      }
+    },
+    {
+      "chapter": "The golden rule",
+      "text": "So here's that simple thing most people get wrong. If your car breaks down in Death Valley, stay with the car. It gives shade, it's easier to spot, and rangers patrol the roads. Drink your water, don't ration it, and only move in the cool early morning.",
+      "es": "Esto es lo simple que la mayoría hace mal. Si tu coche se descompone en el Valle de la Muerte, quédate con el coche. Da sombra, es más fácil de ver, y los guardaparques patrullan las carreteras. Bebe tu agua, no la racionees, y solo muévete temprano, cuando está más fresco.",
+      "headline": "STAY WITH YOUR CAR",
+      "visual": {
+        "type": "card",
+        "big": "STAY",
+        "label": "with your car",
+        "sub": "shade, visibility, and rangers will find you"
+      }
+    },
+    {
+      "text": "The park says to drink at least a gallon of water a day in summer, about four liters, and even more if you're active. That's why rangers say: travel prepared, and stay on the main roads.",
+      "es": "El parque recomienda beber al menos cuatro litros de agua al día en verano, y más si estás activo. Por eso los guardaparques dicen: viaja preparado y quédate en las carreteras principales.",
+      "visual": {
+        "type": "card",
+        "big": "1 GALLON",
+        "label": "of water per day, minimum",
+        "sub": "about 4 liters in summer"
+      }
+    },
+    {
+      "question": true,
+      "text": "Be honest. Would you have stayed with the car, or started walking? Let me know in the comments.",
+      "es": "Sé honesto. ¿Te habrías quedado con el coche, o habrías empezado a caminar? Dímelo en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "Stay with the car, or start walking?",
+        "sub": "Be honest in the comments"
+      }
+    },
+    {
+      "chapter": "How it got its name",
+      "text": "So how did Death Valley get its name? In 1849, during the California Gold Rush, a group of pioneers took what they thought was a shortcut through the valley. They got lost for weeks.",
+      "es": "¿Cómo obtuvo su nombre el Valle de la Muerte? En 1849, durante la fiebre del oro de California, un grupo de pioneros tomó lo que creían un atajo por el valle. Se perdieron durante semanas.",
+      "headline": "1849",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley 49ers wagon"
+        ],
+        "query": "pioneer wagon desert"
+      }
+    },
+    {
+      "text": "When they finally climbed out over the mountains, legend says one of them turned back and said, Goodbye, Death Valley. The name stuck.",
+      "es": "Cuando por fin salieron cruzando las montañas, la leyenda dice que uno de ellos se volteó y dijo: Adiós, Valle de la Muerte. El nombre se quedó.",
+      "headline": "GOODBYE, DEATH VALLEY",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Zabriskie Point"
+        ],
+        "query": "Zabriskie Point"
+      }
+    },
+    {
+      "text": "Later, miners came for gold, silver and borax. Teams of twenty mules pulled huge wagons of borax across the desert, more than one hundred sixty miles to the railroad.",
+      "es": "Después llegaron mineros en busca de oro, plata y bórax. Equipos de veinte mulas arrastraban enormes carretas de bórax por el desierto, más de doscientos cincuenta kilómetros hasta el ferrocarril.",
+      "headline": "20-MULE TEAMS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Twenty-mule team"
+        ],
+        "query": "Death Valley borax wagons"
+      }
+    },
+    {
+      "chapter": "People of the valley",
+      "text": "Long before the pioneers, people already called this valley home. The Timbisha Shoshone have lived here for more than a thousand years. They knew where to find springs, which plants to eat, and when to move up into the cooler mountains for summer.",
+      "es": "Mucho antes de los pioneros, ya había gente que llamaba hogar a este valle. Los timbisha shoshone han vivido aquí por más de mil años. Sabían dónde había manantiales, qué plantas comer y cuándo subir a las montañas más frescas en verano.",
+      "headline": "THE TIMBISHA SHOSHONE",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Timbisha Shoshone Death Valley"
+        ],
+        "query": "Death Valley oasis"
+      }
+    },
+    {
+      "text": "Their name for the valley is Tümpisa, which means rock paint, after the red ochre clay they used. Today their village still stands near Furnace Creek, inside the national park.",
+      "es": "Su nombre para el valle es Tümpisa, que significa pintura de roca, por la arcilla roja de ocre que usaban. Hoy su pueblo sigue en pie cerca de Furnace Creek, dentro del parque nacional.",
+      "headline": "TÜMPISA: ROCK PAINT",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley red rock canyon"
+        ],
+        "query": "Death Valley canyon"
+      }
+    },
+    {
+      "chapter": "Life finds a way",
+      "text": "You'd think nothing could live here. But Death Valley is full of survivors. Kangaroo rats can live their whole lives without drinking water, getting moisture from the seeds they eat.",
+      "es": "Pensarías que nada puede vivir aquí. Pero el Valle de la Muerte está lleno de sobrevivientes. Las ratas canguro pueden vivir toda su vida sin beber agua, obteniendo humedad de las semillas que comen.",
+      "headline": "NO DRINKING NEEDED",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Kangaroo rat"
+        ],
+        "query": "kangaroo rat"
+      }
+    },
+    {
+      "text": "In tiny pools of water that survived from the last ice age live the Devils Hole pupfish, one of the rarest fish on Earth. They live in one small pool and nowhere else.",
+      "es": "En pequeñas pozas de agua que sobrevivieron desde la última edad de hielo vive el pez cachorrito de Devils Hole, uno de los peces más raros de la Tierra. Viven en una sola poza pequeña y en ningún otro lugar.",
+      "headline": "RAREST FISH",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Devils Hole pupfish"
+        ],
+        "query": "pupfish"
+      }
+    },
+    {
+      "text": "And after a rare wet winter, something magical happens. The desert explodes into a superbloom, carpets of yellow wildflowers covering the valley floor.",
+      "es": "Y después de un invierno lluvioso, algo mágico ocurre. El desierto estalla en una súper floración, alfombras de flores amarillas que cubren el fondo del valle.",
+      "headline": "SUPERBLOOM",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley superbloom wildflowers"
+        ],
+        "query": "Death Valley wildflowers"
+      }
+    },
+    {
+      "chapter": "Mysteries",
+      "text": "Death Valley also has one of nature's great mysteries: the sailing stones of Racetrack Playa. Heavy rocks leave long trails across the dry lakebed, as if they moved by themselves.",
+      "es": "El Valle de la Muerte también tiene uno de los grandes misterios de la naturaleza: las piedras navegantes de Racetrack Playa. Rocas pesadas dejan largos rastros en el lecho seco del lago, como si se movieran solas.",
+      "headline": "SAILING STONES",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Sailing stones"
+        ],
+        "query": "Racetrack Playa"
+      }
+    },
+    {
+      "text": "For decades nobody could explain it. Then, in 2014, scientists filmed it. On rare winter mornings, thin sheets of ice form on shallow water, and light winds push the ice, carrying the rocks with it, inch by inch.",
+      "es": "Durante décadas nadie pudo explicarlo. Luego, en 2014, científicos lo filmaron. En raras mañanas de invierno, se forman capas delgadas de hielo sobre agua poco profunda, y vientos suaves empujan el hielo, arrastrando las rocas centímetro a centímetro.",
+      "visual": {
+        "type": "card",
+        "big": "SOLVED",
+        "label": "ice + wind move the rocks",
+        "sub": "filmed by scientists in 2014"
+      }
+    },
+    {
+      "text": "There's even snow here. About eighty five miles from Badwater sits Mount Whitney, the highest point in the lower forty eight states. The lowest and highest points of the contiguous US, almost side by side.",
+      "es": "Incluso hay nieve. A unos ciento treinta y seis kilómetros de Badwater está el monte Whitney, el punto más alto de los cuarenta y ocho estados contiguos. El punto más bajo y el más alto de Estados Unidos continental, casi juntos.",
+      "headline": "LOWEST MEETS HIGHEST",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Mount Whitney"
+        ],
+        "query": "Mount Whitney"
+      }
+    },
+    {
+      "chapter": "A lost lake",
+      "text": "Here's something hard to imagine. During the last ice age, Death Valley was filled with water. A huge lake, Lake Manly, stretched about one hundred miles long and up to six hundred feet deep.",
+      "es": "Esto es difícil de imaginar. Durante la última edad de hielo, el Valle de la Muerte estaba lleno de agua. Un enorme lago, el lago Manly, medía unos ciento sesenta kilómetros de largo y hasta ciento ochenta metros de profundidad.",
+      "headline": "LAKE MANLY",
+      "visual": {
+        "type": "card",
+        "big": "600 FEET DEEP",
+        "label": "Lake Manly filled the valley",
+        "sub": "during the last ice age"
+      }
+    },
+    {
+      "text": "When the climate warmed, the lake evaporated, leaving behind the salt flats of Badwater. That white crust you see today is what's left of an ancient lake.",
+      "es": "Cuando el clima se calentó, el lago se evaporó y dejó las salinas de Badwater. Esa costra blanca que ves hoy es lo que queda de un lago antiguo.",
+      "headline": "SALT FROM A LOST LAKE",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Badwater salt polygons"
+        ],
+        "query": "salt flats Death Valley"
+      }
+    },
+    {
+      "text": "And Death Valley has volcanoes too. Ubehebe Crater, about half a mile wide, was blasted out when rising magma hit groundwater and exploded into steam, just a few thousand years ago.",
+      "es": "Y el Valle de la Muerte también tiene volcanes. El cráter Ubehebe, de casi un kilómetro de ancho, se formó cuando el magma que subía tocó agua subterránea y explotó en vapor, hace apenas unos miles de años.",
+      "headline": "UBEHEBE CRATER",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Ubehebe Crater"
+        ],
+        "query": "Ubehebe Crater"
+      }
+    },
+    {
+      "chapter": "Getting hotter",
+      "text": "Death Valley keeps breaking records. In 2020 and again in 2021, it hit one hundred thirty degrees Fahrenheit, some of the hottest temperatures reliably measured in modern times.",
+      "es": "El Valle de la Muerte sigue rompiendo récords. En 2020 y otra vez en 2021, llegó a cincuenta y cuatro grados Celsius, algunas de las temperaturas más altas medidas con fiabilidad en tiempos modernos.",
+      "visual": {
+        "type": "card",
+        "big": "130°F",
+        "label": "in 2020 and again in 2021",
+        "sub": "measured by modern sensors"
+      }
+    },
+    {
+      "text": "Yet more than a million people visit every year, many of them in summer, just to feel the heat and take a photo with the famous thermometer at Furnace Creek.",
+      "es": "Aun así, más de un millón de personas lo visitan cada año, muchas en verano, solo para sentir el calor y tomarse una foto con el famoso termómetro de Furnace Creek.",
+      "headline": "A MILLION VISITORS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Furnace Creek visitor center"
+        ],
+        "query": "Death Valley National Park"
+      }
+    },
+    {
+      "chapter": "The craziest race",
+      "text": "Some people come here in July on purpose. Every summer, runners take on the Badwater one thirty five, a race of one hundred thirty five miles, from Badwater Basin all the way up to the slopes of Mount Whitney.",
+      "es": "Algunas personas vienen en julio a propósito. Cada verano, corredores enfrentan la Badwater 135, una carrera de doscientos diecisiete kilómetros, desde la cuenca de Badwater hasta las laderas del monte Whitney.",
+      "headline": "BADWATER 135",
+      "visual": {
+        "type": "card",
+        "big": "135 MILES",
+        "label": "the Badwater ultramarathon",
+        "sub": "through Death Valley in July"
+      }
+    },
+    {
+      "text": "Runners have support crews who spray them with water and bring ice, and many run at night. It's often called one of the toughest foot races on Earth.",
+      "es": "Los corredores tienen equipos que los rocían con agua y les llevan hielo, y muchos corren de noche. A menudo la llaman una de las carreras a pie más duras del mundo.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Badwater ultramarathon runner"
+        ],
+        "query": "desert runner"
+      }
+    },
+    {
+      "text": "And when the sun goes down, Death Valley shows another side. It's an International Dark Sky Park, one of the best places in the US to see the Milky Way with your own eyes.",
+      "es": "Y cuando el sol se oculta, el Valle de la Muerte muestra otra cara. Es un Parque Internacional de Cielo Oscuro, uno de los mejores lugares de Estados Unidos para ver la Vía Láctea a simple vista.",
+      "headline": "DARK SKY PARK",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Milky Way Death Valley"
+        ],
+        "query": "Milky Way desert"
+      }
+    },
+    {
+      "chapter": "So, could you survive?",
+      "text": "So, could you survive a summer day in Death Valley? With water, shade and patience, yes. Without them, in the middle of a July afternoon, your body could be in serious danger within just a few hours.",
+      "es": "Entonces, ¿podrías sobrevivir un día de verano en el Valle de la Muerte? Con agua, sombra y paciencia, sí. Sin ellas, en plena tarde de julio, tu cuerpo podría estar en grave peligro en solo unas horas.",
+      "headline": "COULD YOU SURVIVE?",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Mesquite Flat Sand Dunes sunset"
+        ],
+        "query": "Death Valley sunset"
+      }
+    },
+    {
+      "text": "Death Valley isn't evil. It's just extreme. Respect it, and it's one of the most beautiful places on Earth.",
+      "es": "El Valle de la Muerte no es malvado. Solo es extremo. Si lo respetas, es uno de los lugares más hermosos de la Tierra.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Death Valley Artists Palette"
+        ],
+        "query": "Artists Palette Death Valley"
+      }
+    },
+    {
+      "question": true,
+      "text": "Last question. Where should we go next? Somewhere just as extreme, but freezing cold? Tell me in the comments.",
+      "es": "Última pregunta. ¿A dónde vamos ahora? ¿A un lugar igual de extremo, pero helado? Dímelo en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "Next: somewhere freezing cold?",
+        "sub": "Tell me where in the comments"
+      }
+    },
+    {
+      "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who complains about the heat. See you in the next one.",
+      "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que siempre se queja del calor. Nos vemos en el próximo.",
+      "visual": {
+        "type": "end",
+        "big": "THANKS FOR WATCHING",
+        "query": "desert sunset"
+      }
+    }
+  ]
+}

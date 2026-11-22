@@ -1,0 +1,228 @@
+{
+  "number": 4,
+  "publish": "2026-11-26 12:00",
+  "kicker": "GIANT COUNTRY",
+  "title": "Russia",
+  "subtitle": "Why does one country have 11 time zones?",
+  "yt_title": "Why Russia Has 11 Time Zones 🇷🇺🤯 #shorts",
+  "yt_title_es": "¿Por qué Rusia tiene 11 husos horarios? 🇷🇺🤯 #shorts",
+  "description": "When people in western Russia are going to bed, people in the far east are already starting tomorrow. Here's why Russia has 11 time zones, and why one piece of it sits between Poland and Lithuania.\n#Russia #TimeZones #Geography #EarthDecoded #shorts",
+  "description_es": "Cuando en el oeste de Rusia la gente se va a dormir, en el extremo oriental ya empieza el día siguiente. Por esto Rusia tiene 11 husos horarios.\n#Rusia #Geografia #shorts",
+  "tags": [
+    "russia time zones",
+    "why russia has 11 time zones",
+    "largest country in the world",
+    "kaliningrad",
+    "trans siberian railway",
+    "time zones explained",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "thumbnail": {
+    "map": {
+      "extent": [
+        20,
+        180,
+        35,
+        78
+      ],
+      "highlight": [
+        "Russia"
+      ]
+    },
+    "white": "11 TIME ZONES",
+    "accent": "ONE COUNTRY?!",
+    "badge": "1/9 OF ALL LAND"
+  },
+  "segments": [
+    {
+      "text": "How can one country have eleven different time zones?",
+      "es": "¿Cómo puede un solo país tener once husos horarios diferentes?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Russia"
+        ],
+        "query": "Russia from space"
+      }
+    },
+    {
+      "text": "This is Russia, the biggest country on Earth. It covers about seventeen million square kilometers, more than one ninth of all the land on our planet.",
+      "es": "Esta es Rusia, el país más grande de la Tierra. Mide unos diecisiete millones de kilómetros cuadrados, más de una novena parte de toda la tierra del planeta.",
+      "headline": "THE BIGGEST COUNTRY",
+      "visual": {
+        "type": "map",
+        "extent": [
+          20,
+          180,
+          35,
+          78
+        ],
+        "highlight": [
+          "Russia"
+        ],
+        "marker": [
+          37.6,
+          55.75
+        ],
+        "label": "Moscow"
+      }
+    },
+    {
+      "text": "It stretches from Europe all the way to the Pacific Ocean. That's so wide that the Sun rises in the east about ten hours before it rises in the west.",
+      "es": "Se extiende desde Europa hasta el océano Pacífico. Es tan ancho que el sol sale en el este unas diez horas antes que en el oeste.",
+      "visual": {
+        "type": "card",
+        "big": "11",
+        "label": "time zones",
+        "sub": "from Kaliningrad to Kamchatka"
+      }
+    },
+    {
+      "text": "So when someone in Moscow is eating dinner, someone in Kamchatka is already waking up for tomorrow.",
+      "es": "Así que cuando alguien en Moscú está cenando, alguien en Kamchatka ya se está despertando para el día siguiente.",
+      "headline": "DINNER VS. BREAKFAST",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Kamchatka Peninsula"
+        ],
+        "commons": [
+          "Kamchatka volcano"
+        ],
+        "query": "Kamchatka volcano"
+      }
+    },
+    {
+      "text": "The westernmost time zone isn't even connected to the rest of Russia. Kaliningrad is a piece of Russia squeezed between Poland and Lithuania, on the Baltic Sea.",
+      "es": "El huso horario más occidental ni siquiera está conectado con el resto de Rusia. Kaliningrado es un pedazo de Rusia entre Polonia y Lituania, junto al mar Báltico.",
+      "headline": "KALININGRAD",
+      "visual": {
+        "type": "map",
+        "extent": [
+          10,
+          32,
+          50,
+          60
+        ],
+        "highlight": [
+          "Russia"
+        ],
+        "marker": [
+          20.5,
+          54.7
+        ],
+        "label": "Kaliningrad (Russia)"
+      }
+    },
+    {
+      "text": "The famous Trans-Siberian Railway crosses most of the country, from Moscow to Vladivostok. The full trip takes about a week, and you change your watch again and again along the way.",
+      "es": "El famoso Transiberiano cruza casi todo el país, de Moscú a Vladivostok. El viaje completo dura alrededor de una semana, y cambias la hora de tu reloj una y otra vez.",
+      "headline": "A WEEK BY TRAIN",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Trans-Siberian Railway"
+        ],
+        "commons": [
+          "Trans-Siberian train winter"
+        ],
+        "query": "Siberia winter"
+      }
+    },
+    {
+      "text": "Most of that land is Siberia: huge forests, frozen ground and very few people. Most Russians live in the western part, near Europe.",
+      "es": "La mayor parte de esa tierra es Siberia: bosques enormes, suelo congelado y muy poca gente. La mayoría de los rusos vive en el oeste, cerca de Europa.",
+      "headline": "SIBERIA",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Siberia"
+        ],
+        "commons": [
+          "Siberian taiga"
+        ],
+        "query": "Siberia"
+      }
+    },
+    {
+      "text": "Fun fact: France technically has even more time zones, twelve, because of its islands spread around the world. But Russia has the most on one connected piece of land.",
+      "es": "Dato curioso: Francia técnicamente tiene todavía más husos horarios, doce, por sus islas repartidas por el mundo. Pero Rusia tiene más en un solo territorio continuo.",
+      "visual": {
+        "type": "card",
+        "big": "12",
+        "label": "France wins (with islands)",
+        "sub": "Russia: most in one connected land"
+      }
+    },
+    {
+      "text": "Here's how it works in daily life. When it's noon in Moscow, it's already nine at night on the Kamchatka Peninsula. A phone call from one end of the country to the other can cross most of a day.",
+      "es": "Así funciona en la vida diaria. Cuando es mediodía en Moscú, ya son las nueve de la noche en la península de Kamchatka. Una llamada de un extremo del país al otro puede cruzar casi un día entero.",
+      "visual": {
+        "type": "card",
+        "big": "9 HOURS",
+        "label": "Moscow to Kamchatka",
+        "sub": "noon in Moscow = 9 PM in Kamchatka"
+      }
+    },
+    {
+      "text": "Russia even changed its mind about time zones. In 2010 it cut them down to nine, then went back up to eleven a few years later, because people complained it was dark at the wrong times.",
+      "es": "Rusia incluso cambió de opinión sobre los husos horarios. En 2010 los redujo a nueve, y años después volvió a once, porque la gente se quejaba de que oscurecía a horas equivocadas.",
+      "headline": "9, THEN 11 AGAIN",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Moscow Kremlin"
+        ],
+        "query": "Moscow Kremlin"
+      }
+    },
+    {
+      "text": "Russia is so wide that it borders fourteen countries, from Norway in the west to North Korea in the east, and across the Bering Strait, Alaska is less than one hundred kilometers away.",
+      "es": "Rusia es tan ancha que tiene frontera con catorce países, desde Noruega en el oeste hasta Corea del Norte en el este, y al otro lado del estrecho de Bering, Alaska está a menos de cien kilómetros.",
+      "headline": "14 NEIGHBORS",
+      "visual": {
+        "type": "map",
+        "extent": [
+          150,
+          200,
+          55,
+          72
+        ],
+        "highlight": [
+          "Russia"
+        ],
+        "marker": [
+          -169,
+          65.8
+        ],
+        "label": "Bering Strait"
+      }
+    },
+    {
+      "text": "In the middle of the Bering Strait sit two small islands: Big Diomede, in Russia, and Little Diomede, in the United States. They are only about four kilometers apart, but because the International Date Line runs between them, they are almost a full day apart in time.",
+      "es": "En medio del estrecho de Bering hay dos islas pequeñas: la Gran Diómedes, en Rusia, y la Pequeña Diómedes, en Estados Unidos. Están a solo unos cuatro kilómetros, pero como la línea internacional de cambio de fecha pasa entre ellas, están casi un día completo de diferencia.",
+      "headline": "TOMORROW ISLAND",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Diomede Islands"
+        ],
+        "query": "Bering Strait"
+      }
+    },
+    {
+      "text": "Would you ever take the week-long train across Russia? Tell me in the comments.",
+      "es": "¿Tomarías el tren de una semana para cruzar Rusia? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "ONE WEEK BY TRAIN?",
+        "wiki": [
+          "Lake Baikal"
+        ],
+        "query": "Siberia landscape"
+      }
+    }
+  ]
+}

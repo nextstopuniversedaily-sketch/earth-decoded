@@ -1,0 +1,489 @@
+{
+ "slug": "what-if-yellowstone-erupted",
+ "publish": "2026-12-19 11:00",
+ "kicker": "WHAT IF...",
+ "title": "What If Yellowstone Erupted Tomorrow?",
+ "screen_title": "What If Yellowstone Erupted Tomorrow?",
+ "subtitle": "Inside America's supervolcano",
+ "yt_title": "What If Yellowstone's Supervolcano Erupted Tomorrow?",
+ "yt_title_es": "¿Qué pasaría si el supervolcán de Yellowstone hiciera erupción mañana?",
+ "description": "Under Yellowstone National Park sits one of the biggest volcanic systems on Earth. What would really happen if it had a super-eruption tomorrow, and how likely is that? We look at the science, the ash, the past eruptions and what the USGS actually says.\n\nSources: US Geological Survey (Yellowstone Volcano Observatory), National Park Service.\n#Yellowstone #Supervolcano #Volcano #EarthDecoded",
+ "description_es": "Bajo el Parque Nacional de Yellowstone hay uno de los sistemas volcánicos más grandes de la Tierra. ¿Qué pasaría realmente si tuviera una súper erupción mañana, y qué tan probable es? Revisamos la ciencia, la ceniza, las erupciones pasadas y lo que dice el Servicio Geológico de EE. UU.\n#Yellowstone #Supervolcan",
+ "tags": [
+  "yellowstone supervolcano",
+  "what if yellowstone erupted",
+  "yellowstone eruption",
+  "supervolcano",
+  "yellowstone caldera",
+  "old faithful",
+  "grand prismatic spring",
+  "volcano documentary",
+  "usgs yellowstone",
+  "is yellowstone overdue",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Grand Prismatic Spring"
+  ],
+  "query": "Yellowstone Grand Prismatic",
+  "white": "IF THIS",
+  "accent": "EXPLODES..",
+  "badge": "SUPERVOLCANO"
+ },
+ "segments": [
+  {
+   "chapter": "Tomorrow morning",
+   "text": "Imagine waking up tomorrow to the news that Yellowstone, the famous national park in the United States, has erupted. Not a small eruption. A super-eruption, the kind that happens only a few times in millions of years. What would happen to the park, to America, and to the rest of the world? And how worried should you really be? Stay to the end, because the real answer surprises most people.",
+   "es": "Imagina despertar mañana con la noticia de que Yellowstone, el famoso parque nacional de Estados Unidos, hizo erupción. No una erupción pequeña. Una súper erupción, de las que ocurren solo unas pocas veces en millones de años. ¿Qué le pasaría al parque, a Estados Unidos y al resto del mundo? ¿Y qué tan preocupado deberías estar? Quédate hasta el final, porque la respuesta real sorprende a casi todos.",
+   "visual": {
+    "type": "title",
+    "wiki": [
+     "Grand Prismatic Spring"
+    ],
+    "query": "Yellowstone"
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're going inside America's supervolcano.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy entramos al supervolcán de Estados Unidos.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -125,
+     -95,
+     33,
+     50
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -110.6,
+     44.6
+    ],
+    "label": "Yellowstone"
+   }
+  },
+  {
+   "chapter": "A park on a volcano",
+   "text": "Yellowstone was the world's first national park, created in 1872. Millions of people visit every year to see geysers, bubbling mud and rainbow colored hot springs. But all of that exists for one reason: there's a huge volcanic system right underneath.",
+   "es": "Yellowstone fue el primer parque nacional del mundo, creado en 1872. Millones de personas lo visitan cada año para ver géiseres, lodo burbujeante y aguas termales de colores. Pero todo eso existe por una razón: debajo hay un enorme sistema volcánico.",
+   "headline": "THE FIRST NATIONAL PARK",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Old Faithful"
+    ],
+    "query": "Old Faithful geyser"
+   }
+  },
+  {
+   "text": "Yellowstone has more than ten thousand hydrothermal features, about half of all the geysers on Earth. Old Faithful erupts roughly every hour and a half, shooting boiling water dozens of meters into the air.",
+   "es": "Yellowstone tiene más de diez mil manifestaciones hidrotermales, cerca de la mitad de todos los géiseres de la Tierra. El Old Faithful hace erupción más o menos cada hora y media, lanzando agua hirviendo decenas de metros al aire.",
+   "visual": {
+    "type": "card",
+    "big": "10,000+",
+    "label": "hot springs, geysers and mud pots",
+    "sub": "about half of Earth's geysers"
+   }
+  },
+  {
+   "text": "Those rainbow colors at Grand Prismatic Spring aren't paint or minerals. They come from heat-loving microbes. Each color lives in a different temperature ring, from the scalding blue center to the cooler orange edges.",
+   "es": "Esos colores de arcoíris en Grand Prismatic Spring no son pintura ni minerales. Vienen de microbios que aman el calor. Cada color vive en un anillo de temperatura distinto, desde el centro azul hirviente hasta los bordes naranjas más frescos.",
+   "headline": "LIVING COLORS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Grand Prismatic Spring"
+    ],
+    "query": "Grand Prismatic Spring aerial"
+   }
+  },
+  {
+   "text": "And Yellowstone is home to Steamboat Geyser, the tallest active geyser in the world. Its biggest eruptions shoot water more than ninety meters high, taller than a thirty-story building.",
+   "es": "Y Yellowstone es hogar del géiser Steamboat, el géiser activo más alto del mundo. Sus mayores erupciones lanzan agua a más de noventa metros, más alto que un edificio de treinta pisos.",
+   "headline": "TALLEST GEYSER",
+   "visual": {
+    "type": "card",
+    "big": "90+ m",
+    "label": "Steamboat Geyser's biggest eruptions",
+    "sub": "the tallest active geyser on Earth"
+   }
+  },
+  {
+   "text": "The heat comes from a hotspot, a plume of hot rock rising from deep inside the Earth, the same kind of thing that built Hawaii. As the North American Plate slides over it, the hotspot has left a trail of old volcanoes across Idaho.",
+   "es": "El calor viene de un punto caliente, una columna de roca caliente que sube desde lo profundo de la Tierra, lo mismo que construyó Hawái. Al deslizarse la placa norteamericana encima, el punto caliente ha dejado un rastro de volcanes antiguos a través de Idaho.",
+   "headline": "THE HOTSPOT",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Yellowstone hotspot track Snake River Plain"
+    ],
+    "query": "Snake River Plain"
+   }
+  },
+  {
+   "chapter": "Three giant eruptions",
+   "text": "Yellowstone has had three huge, caldera-forming eruptions. The first, about two point one million years ago, was one of the largest volcanic eruptions we know of on Earth.",
+   "es": "Yellowstone ha tenido tres enormes erupciones que formaron calderas. La primera, hace unos dos punto un millones de años, fue una de las erupciones volcánicas más grandes que conocemos en la Tierra.",
+   "visual": {
+    "type": "card",
+    "big": "2.1 MILLION",
+    "label": "years ago: the biggest eruption",
+    "sub": "the Huckleberry Ridge eruption"
+   }
+  },
+  {
+   "text": "The second came about one point three million years ago. The third, about six hundred thirty one thousand years ago, created the giant crater, or caldera, that much of the park sits in today, roughly forty five by eighty five kilometers wide.",
+   "es": "La segunda ocurrió hace unos uno punto tres millones de años. La tercera, hace unos seiscientos treinta y un mil años, creó el cráter gigante, o caldera, en el que hoy está gran parte del parque, de unos cuarenta y cinco por ochenta y cinco kilómetros.",
+   "headline": "THE CALDERA",
+   "visual": {
+    "type": "card",
+    "big": "631,000",
+    "label": "years since the last super-eruption",
+    "sub": "it formed today's Yellowstone Caldera"
+   }
+  },
+  {
+   "text": "How big was that first eruption? It threw out around two thousand five hundred cubic kilometers of rock and ash. The 1980 eruption of Mount Saint Helens, which flattened forests for miles, released about one. That makes Yellowstone's biggest eruption roughly two thousand times larger.",
+   "es": "¿Qué tan grande fue esa primera erupción? Expulsó alrededor de dos mil quinientos kilómetros cúbicos de roca y ceniza. La erupción del monte Santa Helena en 1980, que derribó bosques por kilómetros, liberó cerca de uno. Eso hace la mayor erupción de Yellowstone unas dos mil veces más grande.",
+   "headline": "2,000× ST. HELENS",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "1980 eruption of Mount St. Helens"
+    ],
+    "query": "Mount St Helens 1980 eruption"
+   }
+  },
+  {
+   "text": "Scientists call an eruption this size a super-eruption: more than one thousand cubic kilometers of material at once. Only a handful of volcanoes on Earth have ever done it.",
+   "es": "Los científicos llaman súper erupción a una de este tamaño: más de mil kilómetros cúbicos de material de una sola vez. Solo unos pocos volcanes en la Tierra lo han hecho.",
+   "visual": {
+    "type": "card",
+    "big": "1,000+ km³",
+    "label": "what makes a super-eruption",
+    "sub": "the top of the volcanic scale"
+   }
+  },
+  {
+   "text": "The most recent super-eruption anywhere on Earth happened about twenty-six thousand five hundred years ago, at Taupō in New Zealand. Today, that volcano is a beautiful lake. No human has ever witnessed a super-eruption with modern science watching.",
+   "es": "La súper erupción más reciente en la Tierra ocurrió hace unos veintiséis mil quinientos años, en Taupō, Nueva Zelanda. Hoy ese volcán es un hermoso lago. Ningún ser humano ha presenciado una súper erupción con la ciencia moderna observando.",
+   "headline": "THE LAST ONE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Lake Taupō"
+    ],
+    "query": "Lake Taupo New Zealand"
+   }
+  },
+  {
+   "text": "The caldera is so big that for a long time people didn't even realize they were standing inside a volcano. It's easier to see from above.",
+   "es": "La caldera es tan grande que durante mucho tiempo la gente ni siquiera se daba cuenta de que estaba dentro de un volcán. Se ve mejor desde arriba.",
+   "headline": "INSIDE THE VOLCANO",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Yellowstone Caldera from space"
+    ],
+    "query": "Yellowstone from space"
+   }
+  },
+  {
+   "question": true,
+   "text": "Quick question. Have you ever been to Yellowstone, or would you go knowing it's a supervolcano? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Has ido a Yellowstone, o irías sabiendo que es un supervolcán? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Would you visit a supervolcano?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The eruption",
+   "text": "So let's imagine the worst case. A super-eruption like the one two million years ago. It would likely start with weeks or months of warning signs: earthquakes, the ground rising, and new steam vents.",
+   "es": "Imaginemos el peor caso. Una súper erupción como la de hace dos millones de años. Probablemente empezaría con semanas o meses de señales de alerta: sismos, el suelo elevándose y nuevas fumarolas.",
+   "headline": "WARNING SIGNS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Yellowstone steam vents"
+    ],
+    "query": "Yellowstone steam"
+   }
+  },
+  {
+   "text": "Then, the explosion. Huge columns of ash and gas would shoot tens of kilometers into the sky. Avalanches of scorching gas and rock, called pyroclastic flows, would race across the land around the caldera, destroying everything in their path.",
+   "es": "Luego, la explosión. Enormes columnas de ceniza y gas subirían decenas de kilómetros al cielo. Avalanchas de gas y roca ardiente, llamadas flujos piroclásticos, recorrerían el terreno alrededor de la caldera, destruyendo todo a su paso.",
+   "headline": "PYROCLASTIC FLOWS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "pyroclastic flow Mount St Helens"
+    ],
+    "query": "volcanic eruption ash column"
+   }
+  },
+  {
+   "text": "Near the park, the damage would be total. But the biggest effects would come from the ash.",
+   "es": "Cerca del parque, la destrucción sería total. Pero los mayores efectos vendrían de la ceniza.",
+   "visual": {
+    "type": "card",
+    "big": "TOTAL",
+    "label": "destruction near the caldera",
+    "sub": "within roughly 100 km"
+   }
+  },
+  {
+   "chapter": "The ash",
+   "text": "Computer models by the US Geological Survey show that ash from a super-eruption could spread across much of the United States. Places near the volcano could be buried under more than a meter of ash, while cities hundreds of kilometers away could get centimeters.",
+   "es": "Modelos por computadora del Servicio Geológico de EE. UU. muestran que la ceniza de una súper erupción podría extenderse por gran parte de Estados Unidos. Los lugares cerca del volcán podrían quedar bajo más de un metro de ceniza, y ciudades a cientos de kilómetros recibirían centímetros.",
+   "headline": "ASH ACROSS AMERICA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -125,
+     -70,
+     25,
+     50
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -110.6,
+     44.6
+    ],
+    "label": "Yellowstone"
+   }
+  },
+  {
+   "text": "Even a few centimeters of volcanic ash is a big problem. It's not soft like smoke. It's made of tiny pieces of rock and glass. It can collapse roofs, ruin crops, clog engines and contaminate water.",
+   "es": "Incluso unos centímetros de ceniza volcánica son un gran problema. No es suave como el humo. Está hecha de pequeños pedazos de roca y vidrio. Puede derrumbar techos, arruinar cosechas, atascar motores y contaminar el agua.",
+   "headline": "ASH IS ROCK AND GLASS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "volcanic ash microscope"
+    ],
+    "query": "volcanic ash"
+   }
+  },
+  {
+   "text": "We know how far it can travel, because it has happened before. Layers of ash from Yellowstone's ancient eruptions have been found in rocks across much of the western and central United States, hundreds and even thousands of kilometers from the park.",
+   "es": "Sabemos qué tan lejos puede llegar, porque ya ocurrió. Se han encontrado capas de ceniza de las antiguas erupciones de Yellowstone en rocas de gran parte del oeste y centro de Estados Unidos, a cientos e incluso miles de kilómetros del parque.",
+   "headline": "ANCIENT ASH LAYERS",
+   "visual": {
+    "type": "card",
+    "big": "1,000s KM",
+    "label": "how far old Yellowstone ash traveled",
+    "sub": "found across the western and central US"
+   }
+  },
+  {
+   "text": "Flights would stop across large areas. When a much smaller volcano erupted in Iceland in 2010, it shut down much of European air travel for days.",
+   "es": "Los vuelos se detendrían en zonas enormes. Cuando un volcán mucho más pequeño hizo erupción en Islandia en 2010, cerró gran parte del tráfico aéreo de Europa durante días.",
+   "headline": "SKIES CLOSED",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "2010 eruptions of Eyjafjallajökull"
+    ],
+    "query": "Eyjafjallajokull eruption"
+   }
+  },
+  {
+   "chapter": "A colder world",
+   "text": "And it wouldn't stop at America. A super-eruption would blast huge amounts of sulfur gas high into the atmosphere. That gas forms tiny droplets that reflect sunlight, which could cool the whole planet for several years.",
+   "es": "Y no se detendría en Estados Unidos. Una súper erupción lanzaría enormes cantidades de gas de azufre a lo alto de la atmósfera. Ese gas forma pequeñas gotas que reflejan la luz del sol, lo que podría enfriar todo el planeta durante varios años.",
+   "headline": "VOLCANIC WINTER",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "volcanic aerosol sunset"
+    ],
+    "query": "volcanic haze sky"
+   }
+  },
+  {
+   "text": "We've seen a smaller version of this. In 1815, Mount Tambora in Indonesia erupted. The next year, 1816, became known as the Year Without a Summer. It snowed in New England in June, and crops failed across the Northern Hemisphere.",
+   "es": "Ya vimos una versión más pequeña. En 1815, el monte Tambora, en Indonesia, hizo erupción. El año siguiente, 1816, fue conocido como el Año sin Verano. Nevó en Nueva Inglaterra en junio, y las cosechas fallaron en todo el hemisferio norte.",
+   "headline": "THE YEAR WITHOUT A SUMMER",
+   "visual": {
+    "type": "card",
+    "big": "1816",
+    "label": "the Year Without a Summer",
+    "sub": "after Tambora's eruption in 1815"
+   }
+  },
+  {
+   "text": "A Yellowstone super-eruption would be far larger than Tambora, so farming around the world could suffer for years.",
+   "es": "Una súper erupción de Yellowstone sería mucho más grande que la de Tambora, así que la agricultura de todo el mundo podría sufrir durante años.",
+   "visual": {
+    "type": "card",
+    "big": "YEARS",
+    "label": "of colder weather worldwide",
+    "sub": "hurting harvests around the globe"
+   }
+  },
+  {
+   "question": true,
+   "text": "If an eruption were coming, where would you go? Tell me in the comments.",
+   "es": "Si viniera una erupción, ¿a dónde irías? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Where would YOU go?",
+    "sub": "If Yellowstone were about to erupt"
+   }
+  },
+  {
+   "chapter": "How likely is it?",
+   "text": "Now the good news. Scientists at the Yellowstone Volcano Observatory watch the volcano constantly, with seismometers, GPS stations and satellites.",
+   "es": "Ahora las buenas noticias. Los científicos del Observatorio Vulcanológico de Yellowstone vigilan el volcán constantemente, con sismógrafos, estaciones GPS y satélites.",
+   "headline": "WATCHED 24/7",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "USGS Yellowstone monitoring station"
+    ],
+    "query": "volcano monitoring"
+   }
+  },
+  {
+   "text": "They record between one thousand five hundred and two thousand five hundred small earthquakes in Yellowstone every year. Most are too weak to feel. The ground of the caldera also rises and falls by a few centimeters as water and gas move underground. To scientists, that's a volcano breathing normally.",
+   "es": "Registran entre mil quinientos y dos mil quinientos pequeños sismos en Yellowstone cada año. La mayoría son demasiado débiles para sentirse. El suelo de la caldera también sube y baja unos centímetros mientras el agua y el gas se mueven bajo tierra. Para los científicos, es un volcán respirando con normalidad.",
+   "headline": "A BREATHING VOLCANO",
+   "visual": {
+    "type": "card",
+    "big": "1,500–2,500",
+    "label": "small earthquakes every year",
+    "sub": "most are too weak to feel"
+   }
+  },
+  {
+   "text": "The US Geological Survey estimates the yearly chance of another super-eruption at about one in seven hundred thirty thousand. That's lower than many people's chance of being hit by lightning in their lifetime.",
+   "es": "El Servicio Geológico de EE. UU. estima la probabilidad anual de otra súper erupción en alrededor de una en setecientas treinta mil. Es menor que la probabilidad de muchas personas de ser alcanzadas por un rayo en su vida.",
+   "visual": {
+    "type": "card",
+    "big": "1 in 730,000",
+    "label": "yearly chance of a super-eruption",
+    "sub": "US Geological Survey estimate"
+   }
+  },
+  {
+   "text": "And Yellowstone is not overdue. You may have heard it erupts every six hundred thousand years. But scientists say volcanoes don't work on a schedule, and three eruptions aren't enough to find a pattern.",
+   "es": "Y Yellowstone no está atrasado. Quizá escuchaste que hace erupción cada seiscientos mil años. Pero los científicos dicen que los volcanes no funcionan con horario, y tres erupciones no bastan para encontrar un patrón.",
+   "headline": "NOT OVERDUE",
+   "visual": {
+    "type": "card",
+    "big": "NOT OVERDUE",
+    "label": "volcanoes don't keep a schedule",
+    "sub": "according to the USGS"
+   }
+  },
+  {
+   "text": "Even better, studies show the magma chamber under Yellowstone is mostly solid. Only about five to fifteen percent of it is molten. It's not clear there's even enough liquid magma for a super-eruption right now.",
+   "es": "Mejor aún, los estudios muestran que la cámara magmática bajo Yellowstone es en su mayoría sólida. Solo entre el cinco y el quince por ciento está fundido. Ni siquiera está claro que haya suficiente magma líquido para una súper erupción ahora mismo.",
+   "headline": "MOSTLY SOLID",
+   "visual": {
+    "type": "card",
+    "big": "5–15%",
+    "label": "of the magma is molten",
+    "sub": "the rest is hot but solid rock"
+   }
+  },
+  {
+   "chapter": "What's more likely",
+   "text": "So what is more likely? A hydrothermal explosion, when underground water flashes into steam and blasts out a crater. These happen in Yellowstone every few years, usually small.",
+   "es": "¿Entonces qué es más probable? Una explosión hidrotermal, cuando el agua subterránea se convierte de golpe en vapor y abre un cráter. Esto pasa en Yellowstone cada pocos años, generalmente pequeño.",
+   "headline": "STEAM EXPLOSIONS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Biscuit Basin hydrothermal explosion"
+    ],
+    "query": "Yellowstone hot spring"
+   }
+  },
+  {
+   "text": "Another possibility is a lava flow. Since the last super-eruption, Yellowstone has had dozens of eruptions of thick, slow lava. The most recent was about seventy thousand years ago. A new one would be dramatic, but it would mostly affect the park itself.",
+   "es": "Otra posibilidad es un flujo de lava. Desde la última súper erupción, Yellowstone ha tenido decenas de erupciones de lava espesa y lenta. La más reciente fue hace unos setenta mil años. Una nueva sería espectacular, pero afectaría sobre todo al propio parque.",
+   "headline": "LAVA FLOWS",
+   "visual": {
+    "type": "card",
+    "big": "70,000",
+    "label": "years since the last lava flow",
+    "sub": "far more likely than a super-eruption"
+   }
+  },
+  {
+   "text": "In July 2024, one of these blasts at Biscuit Basin threw rocks and steam into the air, near a crowd of visitors on the boardwalk. Thankfully, no one was seriously hurt.",
+   "es": "En julio de 2024, una de estas explosiones en Biscuit Basin lanzó rocas y vapor al aire, cerca de un grupo de visitantes en el sendero de madera. Por suerte, nadie resultó gravemente herido.",
+   "visual": {
+    "type": "card",
+    "big": "JULY 2024",
+    "label": "Biscuit Basin steam explosion",
+    "sub": "a reminder of the heat below"
+   }
+  },
+  {
+   "text": "That's the real danger for visitors today: the boiling water. The ground near hot springs can be a thin crust over scalding water, which is why rangers tell everyone to stay on the boardwalks.",
+   "es": "Ese es el verdadero peligro para los visitantes hoy: el agua hirviendo. El suelo junto a las aguas termales puede ser una costra delgada sobre agua ardiente, por eso los guardaparques piden a todos quedarse en los senderos de madera.",
+   "headline": "STAY ON THE BOARDWALK",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Grand Prismatic Spring"
+    ],
+    "query": "Yellowstone boardwalk"
+   }
+  },
+  {
+   "chapter": "So, should you worry?",
+   "text": "So, what if Yellowstone erupted tomorrow? A super-eruption would be one of the biggest disasters in human history. But the chance of it happening in your lifetime is incredibly small.",
+   "es": "Entonces, ¿qué pasaría si Yellowstone hiciera erupción mañana? Una súper erupción sería uno de los mayores desastres de la historia humana. Pero la probabilidad de que ocurra en tu vida es increíblemente pequeña.",
+   "headline": "SHOULD YOU WORRY?",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Grand Canyon of the Yellowstone"
+    ],
+    "query": "Yellowstone canyon"
+   }
+  },
+  {
+   "text": "For now, the supervolcano mostly does something beautiful. It powers the geysers, colors the hot springs and makes Yellowstone one of the most amazing places on our planet.",
+   "es": "Por ahora, el supervolcán sobre todo hace algo hermoso. Alimenta los géiseres, colorea las aguas termales y hace de Yellowstone uno de los lugares más increíbles del planeta.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Morning Glory Pool"
+    ],
+    "query": "Yellowstone hot spring colors"
+   }
+  },
+  {
+   "question": true,
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who's worried about Yellowstone. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo preocupado por Yellowstone. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "query": "Yellowstone sunset"
+   }
+  }
+ ]
+}
