@@ -1,0 +1,28 @@
+[0;93m2026-11-22 03:33:46.682875704 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 13: Hawaii
+  audio 130.5s
+  WIKI File:Episode_4_of_Kilauea's_December_2024_eruption_2025-01-16.jpg (Public domain)
+  segment 1/12 [title] 3.5s
+  segment 2/12 [map] 9.1s
+  segment 3/12 [card] 13.7s
+  - no free lead image for 'Na Pali Coast State Wilderness Park'
+  NASA 'Kauai coast' -> PIA18465: Fishing LDSD out of the Water
+  segment 4/12 [image] 7.6s
+  WIKI File:Kilauea Halema‘uma‘u May 18 1924.jpg (Public domain)
+  segment 5/12 [image] 14.5s
+  WIKI File:ISS-38 Hawaiian Island chain.jpg (Public domain)
+  segment 6/12 [image] 16.1s
+  segment 7/12 [card] 14.6s
+  segment 8/12 [card] 12.0s
+  - skip File:Pāhoehoe lava meets Pacific.jpg: license 'CC BY-SA 3.0'
+  - skip File:Lava flow to ocean from Kilauea.jpg: license 'CC BY-SA 4.0'
+  - skip File:Lava enters ocean at Kalapana 04-08-1.jpg: license 'CC BY-SA 4.0'
+  - skip File:Lava flow near Kalapana, HI.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Mauna Ulu Lava Flow. Hawaii Volcanoes National Park (504030) (22187980848).jpg (CC BY 2.0)
+  segment 9/12 [image] 10.3s
+  segment 10/12 [map] 13.4s
+  WIKI File:Midway_Atoll_aerial_photo_2008.JPG (Public domain)
+  segment 11/12 [image] 10.8s
+  NASA 'Hawaii beach volcano' -> iss023e027824: Earth Observations taken by the Expedition 23 Crew
+  segment 12/12 [end] 4.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s013.mp4 (29.3 MB)
