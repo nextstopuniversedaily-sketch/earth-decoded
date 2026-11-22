@@ -224,3 +224,99 @@ def write_upload_sheet(path, ep, video_file, chapters=None, credits=None):
         "DESCRIPTION (Spanish translation):", ep.get("description_es", ""),
     ]
     open(path, "w", encoding="utf-8").write("\n".join(out) + "\n")
+
+
+# ---------------------------------------------------------------- thumbnails
+def vivid(img, w, h, top_dark=0.55, top_frac=0.42, bottom_dark=0.0):
+    """Punchy full-colour look with a dark top band so big text pops."""
+    from PIL import ImageChops, ImageEnhance, ImageOps
+    im = img.convert("RGB")
+    im = ImageOps.autocontrast(im, cutoff=1)
+    im = ImageEnhance.Color(im).enhance(1.45)
+    im = ImageEnhance.Contrast(im).enhance(1.15)
+    im = im.filter(ImageFilter.UnsharpMask(radius=3, percent=140, threshold=2))
+    glow = im.filter(ImageFilter.GaussianBlur(18))
+    im = Image.blend(im, ImageChops.screen(im, glow), 0.3)
+    a = np.asarray(im, np.float32) / 255.0
+    yy, xx = np.mgrid[0:h, 0:w]
+    v = 1 - 0.55 * (((xx - w / 2) / (w / 2)) ** 2 + ((yy - h / 2) / (h / 2)) ** 2) / 2
+    top = 1 - top_dark * np.clip(1 - yy / (h * top_frac), 0, 1)
+    bot = 1 - bottom_dark * np.clip((yy / h - 0.78) / 0.22, 0, 1)
+    a = a * np.clip(v, 0.3, 1)[..., None] * top[..., None] * bot[..., None]
+    return Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8))
+
+
+def cover(img, w, h, focus=(0.5, 0.5), zoom=1.0):
+    iw, ih = img.size
+    s = max(w / iw, h / ih) * zoom
+    im = img.resize((int(iw * s) + 1, int(ih * s) + 1), Image.LANCZOS)
+    x = int(min(max(focus[0] * im.width - w / 2, 0), im.width - w))
+    y = int(min(max(focus[1] * im.height - h / 2, 0), im.height - h))
+    return im.crop((x, y, x + w, y + h))
+
+
+def decorate(canvas, R, spec, w, h, accent=(255, 200, 40)):
+    """Optional extras on any thumbnail: red ring + arrow, red badge, big red down/up arrow."""
+    d = ImageDraw.Draw(canvas)
+    red = (255, 45, 45)
+    if spec.get("circle"):
+        cx, cy, r = spec["circle"]
+        cx, cy, r = cx * w, cy * h, r * min(w, h)
+        for k in range(3):
+            d.ellipse((cx - r - k * 4, cy - r - k * 4, cx + r + k * 4, cy + r + k * 4), outline=red, width=10)
+    if spec.get("arrow_down") or spec.get("arrow_up"):
+        up = bool(spec.get("arrow_up"))
+        ax, ay = spec.get("arrow_at", (0.82, 0.55))
+        ax, ay, s = ax * w, ay * h, min(w, h) * 0.16
+        shaft = (ax - s * 0.22, ay - s * 1.1, ax + s * 0.22, ay + s * 0.2) if not up else (ax - s * 0.22, ay - s * 0.2, ax + s * 0.22, ay + s * 1.1)
+        head = [(ax - s * 0.6, ay + s * 0.1), (ax + s * 0.6, ay + s * 0.1), (ax, ay + s * 0.9)] if not up else \
+               [(ax - s * 0.6, ay - s * 0.1), (ax + s * 0.6, ay - s * 0.1), (ax, ay - s * 0.9)]
+        for off, col in ((10, (0, 0, 0)), (0, red)):
+            d.rectangle((shaft[0] - off, shaft[1] - off, shaft[2] + off, shaft[3] + off), fill=col)
+            d.polygon([(x + (off if x > ax else -off if x < ax else 0), y + (off if not up else -off)) for x, y in head], fill=col)
+    if spec.get("badge"):
+        fnt = R.font(R.FONT_BLACK, int(min(w, h) * 0.075))
+        tw = fnt.getlength(spec["badge"])
+        bx, by = spec.get("badge_at", (0.5, 0.74))
+        bx, by = bx * w - tw / 2, by * h
+        d.rounded_rectangle((bx - 30, by - 14, bx + tw + 30, by + fnt.size * 1.2), radius=24, fill=red, outline=(255, 255, 255), width=5)
+        d.text((bx, by - 4), spec["badge"], font=fnt, fill=(255, 255, 255))
+    return canvas
+
+
+def short_thumb(R, img, spec, ep, w=1080, h=1920, accent=(255, 200, 40)):
+    """Vertical Shorts thumbnail / opening frame: vivid photo or map, giant two-colour hook."""
+    if spec.get("map"):
+        base = np.asarray(map_image(spec["map"], (w, h), R.FONT_BOLD), np.float32)
+        yy = np.arange(h)[:, None]
+        top = 1 - 0.6 * np.clip(1 - yy / (h * 0.45), 0, 1)
+        canvas = Image.fromarray((base * top[..., None]).clip(0, 255).astype(np.uint8)).convert("RGBA")
+    else:
+        if img is None:
+            img = R.starfield(3, w, h)
+        canvas = vivid(cover(img, w, h, tuple(spec.get("focus", (0.5, 0.5))), spec.get("zoom", 1.0)), w, h,
+                       top_dark=0.62, top_frac=0.48, bottom_dark=0.45).convert("RGBA")
+    decorate(canvas, R, spec, w, h, accent)
+    d = ImageDraw.Draw(canvas)
+    # kicker pill
+    kick = ep.get("kicker", R.BRAND)
+    kf = R.font(R.FONT_BOLD, 50)
+    kw = kf.getlength(kick)
+    d.rounded_rectangle(((w - kw) / 2 - 34, 250, (w + kw) / 2 + 34, 250 + 82), radius=41, fill=accent)
+    d.text(((w - kw) / 2, 262), kick, font=kf, fill=(20, 14, 0))
+    # giant hook: white line(s) then accent line(s)
+    y = 380
+    for txt, col in ((spec.get("white", ""), (255, 255, 255)), (spec.get("accent", ""), accent)):
+        if not txt:
+            continue
+        size = 200
+        while R.font(R.FONT_BLACK, size).getlength(txt) > w * 0.9 and size > 90:
+            size -= 6
+        fnt = R.font(R.FONT_BLACK, size)
+        tw = fnt.getlength(txt)
+        d.text(((w - tw) / 2, y), txt, font=fnt, fill=col, stroke_width=14, stroke_fill=(0, 0, 0))
+        y += int(size * 1.05)
+    bf = R.font(R.FONT_BOLD, 34)
+    bw_ = bf.getlength(R.BRAND)
+    d.text(((w - bw_) / 2, 120), R.BRAND, font=bf, fill=accent, stroke_width=3, stroke_fill=(0, 0, 0))
+    return canvas.convert("RGB")

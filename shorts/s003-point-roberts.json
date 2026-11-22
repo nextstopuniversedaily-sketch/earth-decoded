@@ -19,6 +19,42 @@
     "earth decoded",
     "shorts"
   ],
+  "thumbnail": {
+    "map": {
+      "extent": [
+        -128,
+        -116,
+        44,
+        54
+      ],
+      "highlight": [
+        "United States of America"
+      ],
+      "marker": [
+        -123.07,
+        48.985
+      ],
+      "label": "Point Roberts",
+      "line": [
+        [
+          -130,
+          49.0
+        ],
+        [
+          -114,
+          49.0
+        ]
+      ],
+      "line_label": "USA | Canada border"
+    },
+    "white": "CUT OFF",
+    "accent": "BY CANADA",
+    "badge": "A US TOWN?!",
+    "badge_at": [
+      0.5,
+      0.78
+    ]
+  },
   "segments": [
     {
       "text": "There's a town in the United States you can't drive to without going through Canada.",

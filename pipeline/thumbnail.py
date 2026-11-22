@@ -143,6 +143,8 @@ def make(path, offline=False, source=None):
         d.text((x, y), txt, font=fnt, fill=col, stroke_width=12, stroke_fill=(0, 0, 0))
         y += int(size * 1.02)
 
+    import earth as E
+    E.decorate(canvas, R, spec, TW, TH)
     if not spec.get("astronaut"):
         out = os.path.join(R.ROOT, "previews", f"thumb-{ep['slug']}.jpg")
         canvas.convert("RGB").save(out, quality=90)

@@ -17,7 +17,11 @@ rows = []
 for f in sorted(glob.glob(os.path.join(ROOT, "shorts", "*.json"))):
     ep = json.load(open(f))
     stem = f"videos/s{ep['number']:03d}"
-    rows.append((ep.get("publish", "~"), row(ep.get("publish", "—"), "Short", ep.get("yt_title", ep["title"]), stem, stem + ".mp4")))
+    r = row(ep.get("publish", "—"), "Short", ep.get("yt_title", ep["title"]), stem, stem + ".mp4")
+    th = f"previews/sthumb-s{ep['number']:03d}.jpg"
+    if os.path.exists(os.path.join(ROOT, th)):
+        r = r.rstrip(" |") + f" · [thumbnail]({RAW}{th}) |"
+    rows.append((ep.get("publish", "~"), r))
 for f in sorted(glob.glob(os.path.join(ROOT, "longform", "*.json"))):
     ep = json.load(open(f))
     stem = f"videos/long/{ep['slug']}"
@@ -31,7 +35,8 @@ rows.sort(key=lambda x: x[0])
 out = ["# Earth Decoded – videos to upload", "",
        "Newest scripts are rendered automatically. For each row: download the video, open YouTube Studio → Create → Upload,",
        "paste the title, description and tags from the text file, set **Schedule** to the publish time (Mexico City),",
-       "then under **Subtitles** add English (.en.srt) and Spanish (.es.srt). Long videos: also upload the thumbnail.", "",
+       "then under **Subtitles** add English (.en.srt) and Spanish (.es.srt). Thumbnails: long videos → Upload thumbnail;
+Shorts → the thumbnail is already the first frame of the video (if Studio offers a custom thumbnail for Shorts, upload the sthumb file).", "",
        "| Publish (Mexico City) | Type | Title | Video | Text to paste | Subtitles EN | Subtitles ES |",
        "|---|---|---|---|---|---|---|"] + [r for _, r in rows]
 open(os.path.join(ROOT, "UPLOAD.md"), "w").write("\n".join(out) + "\n")

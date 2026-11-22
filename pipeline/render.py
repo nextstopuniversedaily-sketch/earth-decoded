@@ -510,7 +510,23 @@ def render_episode(path, offline=False):
         nframes = int(round(dur * FPS))
         starts.append(t_acc)
         t_acc += dur
-        if vt == "card":
+        if vt == "title" and ep.get("thumbnail"):
+            spec = ep["thumbnail"]
+            timg = None
+            if not spec.get("map") and not offline:
+                for fn in spec.get("files", []):
+                    timg = _commons_file(fn if fn.startswith("File:") else "File:" + fn, fn, check=False, allow_reuse=True)
+                    if timg is not None:
+                        break
+                if timg is None:
+                    timg = pick_image(spec, offline)
+            thumb = E.short_thumb(sys.modules[__name__], timg, spec, ep, W, H, ACCENT)
+            os.makedirs(os.path.join(ROOT, "previews"), exist_ok=True)
+            thumb.save(os.path.join(ROOT, "previews", f"sthumb-{stem}.jpg"), quality=92)
+            if timg is not None:
+                last_img = timg
+            base = thumb.resize((int(W * 1.03), int(H * 1.03)), Image.LANCZOS)
+        elif vt == "card":
             base = starfield(seed=num * 100 + si, tint=(40, 28, 8))
         elif vt == "map":
             base = legibility(E.map_image(v, (int(W * 1.12), int(H * 1.12)), FONT_BOLD))
@@ -532,6 +548,12 @@ def render_episode(path, offline=False):
             # Ken Burns
             if vt == "card":
                 frame = base.copy().convert("RGBA")
+            elif vt == "title" and ep.get("thumbnail"):
+                p = fi / max(1, nframes - 1)
+                z = 1.0 + 0.03 * p
+                cw, ch = int(bw / z / 1.03), int(bh / z / 1.03)
+                box = (int(bw / 2 - cw / 2), int(bh / 2 - ch / 2), int(bw / 2 - cw / 2) + cw, int(bh / 2 - ch / 2) + ch)
+                frame = base.crop(box).resize((W, H), Image.BILINEAR).convert("RGBA")
             else:
                 p = fi / max(1, nframes - 1)
                 z = 1.0 + 0.08 * (p if zoom_in else 1 - p)
@@ -540,7 +562,7 @@ def render_episode(path, offline=False):
                 box = (int(cx - cw / 2), int(cy - ch / 2), int(cx - cw / 2) + cw, int(cy - ch / 2) + ch)
                 frame = base.crop(box).resize((W, H), Image.BILINEAR).convert("RGBA")
 
-            if vt == "title":
+            if vt == "title" and not ep.get("thumbnail"):
                 paste_center(frame, text_layer(ep.get("kicker", BRAND), FONT_BOLD, 46, color=(20, 14, 0),
                                                stroke=0, box=ACCENT + (255,)), 720, alpha=ease(t / 0.4))
                 paste_center(frame, text_layer(ep["title"].upper(), FONT_BLACK, fit(ep["title"].upper(), FONT_BLACK, 150, 980, 90), max_w=1000), 900,
@@ -577,7 +599,8 @@ def render_episode(path, offline=False):
                 wi = E.word_index(subs[idx], t - bounds[idx], bounds[idx + 1] - bounds[idx])
                 paste_center(frame, E.caption_layer(sys.modules[__name__], subs[idx].split(), wi, 84, 940, hi_color=ACCENT), 1380)
 
-            frame.alpha_composite(brand, ((W - brand.width) // 2, 120))
+            if not (vt == "title" and ep.get("thumbnail")):
+                frame.alpha_composite(brand, ((W - brand.width) // 2, 120))
             rgb = frame.convert("RGB")
             if fi < 5 and si > 0:  # dip from black between segments
                 rgb = Image.blend(Image.new("RGB", (W, H)), rgb, (fi + 1) / 6)

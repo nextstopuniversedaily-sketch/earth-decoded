@@ -19,6 +19,31 @@
     "earth decoded",
     "shorts"
   ],
+  "thumbnail": {
+    "files": [
+      "Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg"
+    ],
+    "commons": [
+      "Sobrevuelos CDMX"
+    ],
+    "query": "Mexico City",
+    "white": "MEXICO CITY",
+    "accent": "IS SINKING",
+    "arrow_down": true,
+    "arrow_at": [
+      0.8,
+      0.56
+    ],
+    "badge": "-10 INCHES A YEAR",
+    "badge_at": [
+      0.5,
+      0.72
+    ],
+    "focus": [
+      0.5,
+      0.5
+    ]
+  },
   "segments": [
     {
       "text": "Why is this city sinking almost ten inches every single year?",
