@@ -1,54 +1,53 @@
-[0;93m2026-11-22 08:49:54.276634908 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 12:18:08.313858143 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive the Amazon Rainforest
-  audio 464.4s (7.74 min)
+  audio 465.1s (7.75 min)
   WIKI File:Amazon rainforest treetops in Tena, Ecuador.jpg (CC BY 2.0)
-  segment 1/35 [title] 25.3s
-  segment 2/35 [map] 12.0s
-  segment 3/35 [card] 12.8s
+  segment 1/35 [title] 25.1s
+  segment 2/35 [map] 12.2s
+  segment 3/35 [card] 12.9s
   segment 4/35 [card] 8.4s
   WIKI File:Harpy Eagle (Harpia harpyja).jpg (CC BY 2.0)
-  segment 5/35 [image] 13.2s
+  segment 5/35 [image] 13.3s
   WIKI File:Amazon rainforest treetops in Tena, Ecuador.jpg (CC BY 2.0)
-  segment 6/35 [image] 16.9s
+  segment 6/35 [image] 17.0s
   WIKI File:Afternoon Clouds over the Amazon Rainforest.jpg (Public domain)
-  segment 7/35 [image] 14.9s
-  segment 8/35 [question] 6.8s
-  segment 9/35 [card] 16.4s
+  segment 7/35 [image] 14.8s
+  segment 8/35 [question] 6.7s
+  segment 9/35 [card] 16.6s
   WIKI File:Amazon rainforest, Brazil - 2026.jpg (CC BY 4.0)
   segment 10/35 [image] 9.9s
   segment 11/35 [card] 14.2s
   segment 12/35 [card] 16.4s
-  segment 13/35 [card] 8.0s
+  segment 13/35 [card] 8.1s
   segment 14/35 [card] 13.6s
   WIKI File:Brazil nut tree in the rainforest.jpg (CC BY 2.0)
   segment 15/35 [image] 9.9s
-  segment 16/35 [card] 15.3s
-  segment 17/35 [card] 14.4s
+  segment 16/35 [card] 15.2s
+  segment 17/35 [card] 14.5s
   WIKI File:Paraponera clavata in La Selva.jpg (CC BY 2.0)
   segment 18/35 [image] 13.1s
   WIKI File:Poison Dart Frog (Dendrobates azureus).jpg (CC BY 2.0)
   segment 19/35 [image] 10.2s
-  segment 20/35 [card] 15.2s
-  segment 21/35 [card] 9.3s
+  segment 20/35 [card] 15.3s
+  segment 21/35 [card] 9.4s
   segment 22/35 [question] 4.7s
   segment 23/35 [card] 18.5s
   segment 24/35 [card] 18.7s
   WIKI File:Amazon-river-NASA.jpg (Public domain)
-  segment 25/35 [image] 11.4s
+  segment 25/35 [image] 11.3s
   segment 26/35 [card] 10.7s
   segment 27/35 [card] 13.9s
   segment 28/35 [card] 15.7s
   segment 29/35 [card] 16.7s
   segment 30/35 [card] 19.1s
   WIKI File:Amazon Deforestation (6348745148).jpg (Public domain)
-  segment 31/35 [image] 12.6s
-  segment 32/35 [card] 9.7s
+  segment 31/35 [image] 12.7s
+  segment 32/35 [card] 9.9s
   WIKI File:Sunset at Amazon rainforest, Brazil - 2026-5.jpg (CC BY 4.0)
-  segment 33/35 [image] 17.8s
-  segment 34/35 [question] 6.2s
+  segment 33/35 [image] 17.9s
+  segment 34/35 [question] 6.0s
   WIKI File:Meeting of Waters (Manaus).jpg (CC0)
   segment 35/35 [end] 12.7s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-amazon-rainforest.mp4 (42.1 MB, 7.74 min)
-  - skip File:Amazon rainforest treetops in Tena, Ecuador.jpg: looks like a chart/blank
-  NASA 'Amazon rainforest' -> PIA11420: Mato Grosso, Brazil
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-amazon-rainforest.mp4 (42.1 MB, 7.75 min)
+  WIKI File:Sunset at Amazon rainforest, Brazil - 2026-5.jpg (CC BY 4.0)
 thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-amazon-rainforest.jpg
