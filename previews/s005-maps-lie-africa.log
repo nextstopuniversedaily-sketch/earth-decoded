@@ -1,0 +1,23 @@
+[0;93m2026-11-22 03:08:53.185316991 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 5: Africa vs Greenland
+  audio 130.1s
+  segment 1/13 [title] 4.6s
+  segment 2/13 [map] 7.0s
+  segment 3/13 [card] 10.5s
+  WIKI File:The_Blue_Marble,_AS17-148-22727.jpg (Public domain)
+  segment 4/13 [image] 7.8s
+  WIKI File:Gerardo_Mercatore_-_Gerardus_Mercator.jpg (Public domain)
+  segment 5/13 [image] 16.2s
+  segment 6/13 [map] 9.9s
+  segment 7/13 [card] 8.7s
+  WIKI File:Sahara_real_color.jpg (Public domain)
+  segment 8/13 [image] 8.9s
+  segment 9/13 [map] 11.3s
+  NASA 'Antarctica from space' -> GSFC_20171208_Archive_e001267: Mosaic of Antarctica
+  segment 10/13 [image] 10.2s
+  segment 11/13 [card] 13.3s
+  WIKI File:Vera Rubin with antique globes.jpg (Attribution)
+  segment 12/13 [image] 10.9s
+  NASA 'Africa from space' -> iss071e378517: Mount Kilimanjaro surrounded by clouds and the highest mountian in Afr
+  segment 13/13 [end] 10.8s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s005.mp4 (29.1 MB)
