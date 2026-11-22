@@ -1,0 +1,20 @@
+[0;93m2026-11-22 03:30:51.986245245 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 12: USA & Canada
+  audio 109.4s
+  segment 1/11 [title] 6.2s
+  segment 2/11 [map] 11.7s
+  segment 3/11 [card] 8.1s
+  NASA 'forest clearing border' -> PIA22034: Brunei-Sarawak Border
+  segment 4/11 [image] 11.9s
+  segment 5/11 [card] 13.1s
+  WIKI File:HaskellFreeLibraryandOperaHouse.JPG (CC0)
+  segment 6/11 [image] 12.4s
+  segment 7/11 [map] 10.3s
+  - skip File:3Falls_Niagara.jpg: license 'CC BY-SA 3.0'
+  NASA 'Niagara Falls' -> GRC-2022-C-07254: GRC-2022-C-07254
+  segment 8/11 [image] 9.6s
+  segment 9/11 [map] 12.0s
+  segment 10/11 [card] 8.3s
+  NASA 'Canada forest mountains' -> sts085-506-081: Earth observations taken from shuttle Discovery during STS-85 mission
+  segment 11/11 [end] 5.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s012.mp4 (23.3 MB)
