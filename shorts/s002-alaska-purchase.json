@@ -1,0 +1,138 @@
+{
+  "number": 2,
+  "publish": "2026-11-24 12:00",
+  "kicker": "RUSSIA'S BIG MISTAKE?",
+  "title": "Alaska",
+  "subtitle": "Bought for 2 cents an acre",
+  "yt_title": "How America Bought Alaska for 2 Cents an Acre 🇺🇸🤯 #shorts",
+  "yt_title_es": "Cómo Estados Unidos compró Alaska por 2 centavos el acre 🇺🇸🤯 #shorts",
+  "description": "In 1867 the USA bought Alaska from Russia for $7.2 million, about 2 cents an acre. Critics called it Seward's Folly. Then came gold and oil.\n#Alaska #History #Geography #EarthDecoded #shorts",
+  "description_es": "En 1867, Estados Unidos le compró Alaska a Rusia por 7.2 millones de dólares, unos 2 centavos por acre. Lo llamaron la locura de Seward. Luego llegaron el oro y el petróleo.\n#Alaska #Historia #shorts",
+  "tags": [
+    "alaska purchase",
+    "why did russia sell alaska",
+    "seward's folly",
+    "alaska history",
+    "2 cents an acre",
+    "prudhoe bay",
+    "klondike gold rush",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "segments": [
+    {
+      "text": "Why did Russia sell this giant piece of land for two cents an acre?",
+      "es": "¿Por qué Rusia vendió este enorme territorio por dos centavos el acre?",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Denali"
+        ],
+        "commons": [
+          "Denali mountain Alaska"
+        ],
+        "query": "Alaska mountains"
+      }
+    },
+    {
+      "text": "In 1867, Russia sold Alaska to the United States for 7.2 million dollars. That's land more than twice the size of Texas.",
+      "es": "En 1867, Rusia le vendió Alaska a Estados Unidos por 7.2 millones de dólares. Es un territorio más del doble de grande que Texas.",
+      "headline": "$7.2 MILLION",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -172,
+          -128,
+          50,
+          72
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "highlight_box": [
+          -180,
+          -129,
+          50,
+          75
+        ],
+        "marker": [
+          -150,
+          64
+        ],
+        "label": "Alaska"
+      }
+    },
+    {
+      "text": "So why sell? Russia was still in debt after losing the Crimean War. Alaska was far away, hard to defend, and Russia feared Britain could take it from next door in Canada.",
+      "es": "¿Por qué venderla? Rusia seguía endeudada tras perder la guerra de Crimea. Alaska estaba lejos, era difícil de defender, y Rusia temía que Gran Bretaña la tomara desde Canadá.",
+      "headline": "WHY SELL?",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -170,
+          -95,
+          42,
+          72
+        ],
+        "highlight": [
+          "Canada"
+        ],
+        "marker": [
+          -150,
+          64
+        ],
+        "label": "Alaska next to British Canada"
+      }
+    },
+    {
+      "text": "Back in America, newspapers mocked it as Seward's Folly, after Secretary of State William Seward. They called Alaska a giant icebox.",
+      "es": "En Estados Unidos, los periódicos se burlaron llamándola la locura de Seward, por el secretario de Estado William Seward. Decían que Alaska era un gran refrigerador.",
+      "headline": "SEWARD'S FOLLY",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "William H. Seward"
+        ],
+        "query": "Alaska glacier"
+      }
+    },
+    {
+      "text": "Then came gold. The Klondike Gold Rush sent tens of thousands of prospectors north through Alaska, and soon gold was found in Alaska itself, in places like Nome.",
+      "es": "Luego llegó el oro. La fiebre del oro del Klondike llevó a decenas de miles de buscadores al norte a través de Alaska, y pronto se encontró oro en la propia Alaska, en lugares como Nome.",
+      "headline": "GOLD RUSH",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Klondike Gold Rush"
+        ],
+        "commons": [
+          "Chilkoot Pass prospectors 1898"
+        ],
+        "query": "Alaska gold"
+      }
+    },
+    {
+      "text": "Alaska became the 49th state in 1959. And in 1968, the biggest oil field in North America was found at Prudhoe Bay.",
+      "es": "Alaska se convirtió en el estado número 49 en 1959. Y en 1968 se descubrió en Prudhoe Bay el mayor yacimiento de petróleo de América del Norte.",
+      "visual": {
+        "type": "card",
+        "big": "1968",
+        "label": "Oil at Prudhoe Bay",
+        "sub": "the biggest oil field in North America"
+      }
+    },
+    {
+      "text": "That oil has been worth many, many times what America paid. Not bad for an icebox. Was it the best deal in history? Tell me in the comments.",
+      "es": "Ese petróleo ha valido muchísimas veces lo que pagó Estados Unidos. Nada mal para un refrigerador. ¿Fue el mejor negocio de la historia? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "BEST DEAL EVER?",
+        "wiki": [
+          "Trans-Alaska Pipeline System"
+        ],
+        "query": "Alaska aurora"
+      }
+    }
+  ]
+}

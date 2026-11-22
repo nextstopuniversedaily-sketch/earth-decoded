@@ -1,0 +1,130 @@
+{
+  "number": 3,
+  "publish": "2026-11-25 12:00",
+  "kicker": "WEIRD BORDERS",
+  "title": "Point Roberts",
+  "subtitle": "The US town cut off by Canada",
+  "yt_title": "The US Town You Can Only Drive to Through Canada 🇺🇸🇨🇦🤯 #shorts",
+  "yt_title_es": "El pueblo de EE. UU. al que solo llegas en coche pasando por Canadá 🇺🇸🇨🇦🤯 #shorts",
+  "description": "Point Roberts, Washington is a US town you can only reach by land through Canada, all because of one straight line drawn in 1846.\n#PointRoberts #Borders #Geography #EarthDecoded #shorts",
+  "description_es": "Point Roberts, Washington, es un pueblo de Estados Unidos al que solo se llega por tierra a través de Canadá, por una línea recta trazada en 1846.\n#Fronteras #Geografia #shorts",
+  "tags": [
+    "point roberts",
+    "point roberts washington",
+    "us canada border",
+    "49th parallel",
+    "exclave",
+    "weird borders",
+    "geography facts",
+    "earth decoded",
+    "shorts"
+  ],
+  "segments": [
+    {
+      "text": "There's a town in the United States you can't drive to without going through Canada.",
+      "es": "Hay un pueblo en Estados Unidos al que no puedes llegar en coche sin pasar por Canadá.",
+      "visual": {
+        "type": "title",
+        "wiki": [
+          "Point Roberts, Washington"
+        ],
+        "query": "Point Roberts"
+      }
+    },
+    {
+      "text": "This is Point Roberts, Washington. The tip of a small peninsula just south of Vancouver, cut off from the rest of the country.",
+      "es": "Este es Point Roberts, Washington. La punta de una pequeña península al sur de Vancouver, separada del resto del país.",
+      "headline": "POINT ROBERTS",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -128,
+          -116,
+          44,
+          54
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "marker": [
+          -123.07,
+          48.985
+        ],
+        "label": "Point Roberts",
+        "line": [
+          [
+            -130,
+            49.0
+          ],
+          [
+            -114,
+            49.0
+          ]
+        ],
+        "line_label": "USA | Canada border"
+      }
+    },
+    {
+      "text": "How did this happen? In 1846, the US and Britain split this region along the 49th parallel. The line ran straight through this peninsula, and no exception was made for its tip.",
+      "es": "¿Cómo pasó esto? En 1846, Estados Unidos y Gran Bretaña dividieron la región siguiendo el paralelo 49. La línea cruzó la península y no se hizo ninguna excepción para su punta.",
+      "headline": "ONE STRAIGHT LINE",
+      "visual": {
+        "type": "map",
+        "extent": [
+          -126,
+          -66,
+          24,
+          54
+        ],
+        "highlight": [
+          "United States of America"
+        ],
+        "line": [
+          [
+            -123.3,
+            49.0
+          ],
+          [
+            -95.2,
+            49.0
+          ]
+        ],
+        "line_label": "49th parallel"
+      }
+    },
+    {
+      "text": "About thirteen hundred people live here. There's a tiny primary school, but older kids ride a bus into Canada and back into the US just to reach school.",
+      "es": "Aquí viven unas mil trescientas personas. Hay una pequeña escuela primaria, pero los niños mayores toman un autobús que entra a Canadá y vuelve a Estados Unidos solo para llegar a la escuela.",
+      "visual": {
+        "type": "card",
+        "big": "4 BORDERS",
+        "label": "crossed every school day",
+        "sub": "about 25 miles through Canada"
+      }
+    },
+    {
+      "text": "Canadians cross over too, mostly for cheaper gas.",
+      "es": "Los canadienses también cruzan, sobre todo por gasolina más barata.",
+      "headline": "CHEAPER GAS",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "Point Roberts border crossing"
+        ],
+        "query": "Canada United States border crossing"
+      }
+    },
+    {
+      "text": "One straight line on a map, and a whole town ended up on the wrong side. Would you live here? Tell me in the comments.",
+      "es": "Una línea recta en un mapa, y todo un pueblo quedó del lado equivocado. ¿Vivirías aquí? Dímelo en los comentarios.",
+      "visual": {
+        "type": "end",
+        "big": "WRONG SIDE?",
+        "commons": [
+          "Point Roberts Washington aerial"
+        ],
+        "query": "Point Roberts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "slug": "never-survive-mariana-trench",
+  "publish": "2026-11-28 11:00",
+  "kicker": "WHY YOU'D NEVER...",
+  "title": "Why You'd Never Survive the Bottom of the Mariana Trench",
+  "screen_title": "Why You'd Never Survive the Mariana Trench",
+  "subtitle": "A journey 36,000 feet down",
+  "yt_title": "Why You'd Never Survive the Bottom of the Mariana Trench",
+  "yt_title_es": "Por qué nunca sobrevivirías en el fondo de la Fosa de las Marianas",
+  "description": "What would actually happen if you sank to the bottom of the Mariana Trench, the deepest place on Earth, almost 36,000 feet down? We go step by step through the darkness, the cold, the crushing pressure, and the strange life that survives there.\n\nSources: Royal Museums Greenwich, History.com, Geographical, Cornell University Library.\n#MarianaTrench #DeepSea #Ocean #EarthDecoded",
+  "description_es": "¿Qué pasaría si te hundieras hasta el fondo de la Fosa de las Marianas, el lugar más profundo de la Tierra, a casi 11 kilómetros? Recorremos paso a paso la oscuridad, el frío, la presión aplastante y la extraña vida que sobrevive allí.\n#FosaDeLasMarianas #Oceano",
+  "tags": [
+    "mariana trench",
+    "challenger deep",
+    "deepest place on earth",
+    "what if you fell into the mariana trench",
+    "deep sea creatures",
+    "ocean pressure",
+    "hadal zone",
+    "trieste 1960",
+    "james cameron dive",
+    "deep ocean documentary",
+    "ocean facts",
+    "earth decoded"
+  ],
+  "thumbnail": {
+    "wiki": [
+      "Mariana Trench"
+    ],
+    "query": "deep sea ocean dark",
+    "white": "36,000 FT",
+    "accent": "DOWN..",
+    "focus": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0
+  },
+  "segments": [
+    {
+      "chapter": "The drop",
+      "text": "Imagine you're floating in the middle of the Pacific Ocean. The water is warm, the sky is clear. Now imagine something pulls you straight down. Below you is the deepest place on our planet. How far would you get before the ocean stopped you? Stay to the end, because what scientists found at the bottom is the strangest part.",
+      "es": "Imagina que flotas en medio del océano Pacífico. El agua está tibia y el cielo despejado. Ahora imagina que algo te jala directo hacia abajo. Debajo de ti está el lugar más profundo del planeta. ¿Hasta dónde llegarías antes de que el océano te detuviera? Quédate hasta el final, porque lo que encontraron los científicos en el fondo es lo más extraño.",
+      "visual": {
+        "type": "title",
+        "query": "Pacific Ocean surface",
+        "commons": [
+          "Pacific Ocean open water"
+        ]
+      }
+    },
+    {
+      "text": "Welcome to Earth Decoded. If you love the strangest places on our planet, tap subscribe. Today, we sink nearly seven miles into the Mariana Trench.",
+      "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extraños del planeta, suscríbete. Hoy nos hundimos casi once kilómetros en la Fosa de las Marianas.",
+      "subscribe": true,
+      "visual": {
+        "type": "map",
+        "extent": [
+          125,
+          165,
+          0,
+          30
+        ],
+        "highlight": [],
+        "marker": [
+          142.2,
+          11.35
+        ],
+        "label": "Challenger Deep"
+      }
+    },
+    {
+      "text": "At its very bottom is a spot called the Challenger Deep, almost thirty six thousand feet down. That's nearly seven miles of water stacked on top of you.",
+      "es": "En lo más profundo hay un punto llamado Abismo Challenger, a casi once mil metros. Son casi once kilómetros de agua encima de ti.",
+      "visual": {
+        "type": "card",
+        "big": "36,000 FT",
+        "label": "the Challenger Deep",
+        "sub": "about 10,935 meters down"
+      }
+    },
+    {
+      "text": "Thousands of people have climbed Mount Everest. But fewer than thirty have ever reached this spot, all inside machines built to survive it. You would not be in a machine. So let's go down, step by step.",
+      "es": "Miles de personas han escalado el Everest. Pero menos de treinta han llegado a este punto, y todas dentro de máquinas hechas para resistirlo. Tú no estarías en una máquina. Así que bajemos, paso a paso.",
+      "headline": "FEWER THAN 30 PEOPLE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Mount Everest"
+        ],
+        "query": "Mount Everest"
+      }
+    },
+    {
+      "chapter": "How deep is deep?",
+      "text": "First, the scale. The average depth of the ocean is about two point three miles. The Challenger Deep is nearly three times deeper than that.",
+      "es": "Primero, la escala. La profundidad promedio del océano es de unos tres kilómetros y setecientos metros. El Abismo Challenger es casi tres veces más profundo.",
+      "visual": {
+        "type": "card",
+        "big": "3x",
+        "label": "deeper than the average ocean",
+        "sub": "average ocean depth: about 2.3 miles"
+      }
+    },
+    {
+      "text": "If you dropped Mount Everest, the tallest mountain on Earth, into the trench, its peak would still be more than a mile underwater.",
+      "es": "Si dejaras caer el Everest, la montaña más alta de la Tierra, dentro de la fosa, su cima seguiría más de un kilómetro y medio bajo el agua.",
+      "headline": "EVEREST WOULD DISAPPEAR",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Mount Everest"
+        ],
+        "commons": [
+          "Everest north face"
+        ],
+        "query": "Himalaya Everest"
+      }
+    },
+    {
+      "text": "The trench itself is a giant scar in the seafloor, curving for more than fifteen hundred miles through the western Pacific, near the island of Guam.",
+      "es": "La fosa es una enorme cicatriz en el fondo marino que se curva por más de dos mil cuatrocientos kilómetros en el Pacífico occidental, cerca de la isla de Guam.",
+      "headline": "1,500+ MILES LONG",
+      "visual": {
+        "type": "map",
+        "extent": [
+          128,
+          158,
+          5,
+          30
+        ],
+        "highlight": [],
+        "marker": [
+          144.8,
+          13.45
+        ],
+        "label": "Guam",
+        "line": [
+          [
+            141.5,
+            11.0
+          ],
+          [
+            147.5,
+            21.0
+          ]
+        ],
+        "line_label": "Mariana Trench"
+      }
+    },
+    {
+      "text": "It formed because one giant piece of Earth's crust, the Pacific Plate, is slowly sliding underneath another. Where they meet, the seafloor bends down into the planet. And you are falling straight into that gap.",
+      "es": "Se formó porque una enorme pieza de la corteza terrestre, la placa del Pacífico, se desliza lentamente debajo de otra. Donde se encuentran, el fondo marino se dobla hacia el interior del planeta. Y tú estás cayendo directo en esa grieta.",
+      "headline": "PLATES COLLIDING",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Subduction"
+        ],
+        "query": "ocean floor relief"
+      }
+    },
+    {
+      "text": "How do we even know it's this deep? In 1875, the crew of a British ship, HMS Challenger, lowered a weighted rope over the side here, and it just kept going down. Much later, ships using sound waves bouncing off the seafloor mapped the deepest point, and named it after that ship.",
+      "es": "¿Cómo sabemos que es tan profunda? En 1875, la tripulación de un barco británico, el HMS Challenger, bajó aquí una cuerda con peso, y no dejaba de bajar. Mucho después, barcos que usaban ondas de sonido rebotando en el fondo marino midieron el punto más profundo, y le pusieron el nombre de aquel barco.",
+      "headline": "HMS CHALLENGER, 1875",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "HMS Challenger (1858)"
+        ],
+        "query": "sailing ship ocean"
+      }
+    },
+    {
+      "text": "Is there anywhere deeper? Not that we know of. The runner up, the Tonga Trench in the South Pacific, comes close, but the Mariana Trench still holds the record for the deepest point on Earth.",
+      "es": "¿Hay algún lugar más profundo? No que sepamos. La segunda, la Fosa de Tonga en el Pacífico Sur, se acerca, pero la Fosa de las Marianas sigue siendo el punto más profundo de la Tierra.",
+      "visual": {
+        "type": "card",
+        "big": "#1",
+        "label": "deepest point on Earth",
+        "sub": "the Tonga Trench is a close second"
+      }
+    },
+    {
+      "chapter": "The light disappears",
+      "text": "The first thing you'd notice is the light. At about six hundred fifty feet, most of the sunlight is already gone. The water turns a deep, dark blue.",
+      "es": "Lo primero que notarías es la luz. A unos doscientos metros, casi toda la luz del sol ya desapareció. El agua se vuelve de un azul profundo y oscuro.",
+      "headline": "650 FEET: FADING",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "underwater sunlight rays deep blue"
+        ],
+        "query": "underwater sunlight"
+      }
+    },
+    {
+      "text": "By around three thousand feet, there is no sunlight at all. Not dim. None. From here to the bottom, it is darker than the darkest night you have ever seen.",
+      "es": "A unos mil metros ya no hay luz solar. No poca. Ninguna. De aquí al fondo, está más oscuro que la noche más oscura que hayas visto.",
+      "visual": {
+        "type": "card",
+        "big": "0%",
+        "label": "sunlight below 3,000 feet",
+        "sub": "total darkness from here down"
+      }
+    },
+    {
+      "text": "Scientists call the deepest zone, below about twenty thousand feet, the hadal zone. It's named after Hades, the Greek god of the underworld. And you still have more than six miles to go.",
+      "es": "Los científicos llaman a la zona más profunda, debajo de unos seis mil metros, la zona hadal. Su nombre viene de Hades, el dios griego del inframundo. Y todavía te faltan más de diez kilómetros.",
+      "headline": "THE HADAL ZONE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Hadal zone"
+        ],
+        "query": "deep sea darkness"
+      }
+    },
+    {
+      "text": "Quick question before we go deeper. How deep do you think you could dive before you'd turn back? Tell me in the comments.",
+      "es": "Una pregunta rápida antes de bajar más. ¿Hasta qué profundidad crees que podrías bucear antes de regresar? Dímelo en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "How deep could YOU dive before turning back?",
+        "sub": "Tell me in the comments"
+      }
+    },
+    {
+      "chapter": "The cold",
+      "text": "As the light fades, so does the heat. The warm surface water is only a thin layer. Below it, the ocean gets colder and colder.",
+      "es": "Al desaparecer la luz, también desaparece el calor. El agua tibia de la superficie es solo una capa delgada. Debajo, el océano se vuelve cada vez más frío.",
+      "headline": "GETTING COLDER",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "deep ocean water blue dark"
+        ],
+        "query": "deep ocean"
+      }
+    },
+    {
+      "text": "At the bottom of the trench, the water sits between about thirty four and thirty nine degrees Fahrenheit. Just above freezing.",
+      "es": "En el fondo de la fosa, el agua está entre uno y cuatro grados centígrados. Apenas por encima del punto de congelación.",
+      "visual": {
+        "type": "card",
+        "big": "34–39°F",
+        "label": "at the bottom",
+        "sub": "about 1–4°C, just above freezing"
+      }
+    },
+    {
+      "text": "In water that cold, an unprotected human loses heat incredibly fast. Your body would start shutting down long before the bottom. But honestly, cold would be the least of your problems.",
+      "es": "En agua tan fría, un ser humano sin protección pierde calor muy rápido. Tu cuerpo empezaría a apagarse mucho antes de llegar al fondo. Pero, sinceramente, el frío sería el menor de tus problemas.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "diver dark water silhouette"
+        ],
+        "query": "ocean diver"
+      }
+    },
+    {
+      "chapter": "The pressure",
+      "text": "Here's what really makes the Mariana Trench deadly. Pressure. Right now, the air above you presses on your body with about fifteen pounds on every square inch. You don't feel it, because you've lived with it your whole life.",
+      "es": "Esto es lo que hace realmente mortal a la Fosa de las Marianas. La presión. Ahora mismo, el aire empuja tu cuerpo con alrededor de un kilo por centímetro cuadrado. No lo sientes porque has vivido así toda tu vida.",
+      "headline": "THE REAL KILLER",
+      "visual": {
+        "type": "card",
+        "big": "15 PSI",
+        "label": "the air pressing on you now",
+        "sub": "1 atmosphere at sea level"
+      }
+    },
+    {
+      "text": "In the ocean, every thirty three feet of water adds that same amount again. Go down thirty three feet, and the pressure doubles. Go down three hundred thirty feet, and it's eleven times stronger.",
+      "es": "En el océano, cada diez metros de agua suman esa misma presión otra vez. Baja diez metros y la presión se duplica. Baja cien metros y es once veces más fuerte.",
+      "visual": {
+        "type": "card",
+        "big": "x2",
+        "label": "every 33 feet down",
+        "sub": "+1 atmosphere per 10 meters of water"
+      }
+    },
+    {
+      "text": "At the bottom of the Challenger Deep, the pressure is more than one thousand times what you feel at the surface. About sixteen thousand pounds on every square inch. Like an elephant standing on your thumb.",
+      "es": "En el fondo del Abismo Challenger, la presión es más de mil veces la de la superficie. Más de mil kilos por cada centímetro cuadrado. Como un elefante parado sobre tu pulgar.",
+      "visual": {
+        "type": "card",
+        "big": "1,000x",
+        "label": "the pressure at the surface",
+        "sub": "about 16,000 pounds per square inch"
+      }
+    },
+    {
+      "text": "So what would that do to you? The parts of your body filled with air would go first. Your lungs, your sinuses, your ears. The air inside them gets squeezed smaller and smaller, and your lungs would collapse long before the bottom.",
+      "es": "¿Y qué te haría eso? Primero, las partes de tu cuerpo llenas de aire. Tus pulmones, tus senos nasales, tus oídos. El aire dentro de ellos se comprime cada vez más, y tus pulmones colapsarían mucho antes de llegar al fondo.",
+      "headline": "SQUEEZED",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "air bubbles underwater dark"
+        ],
+        "query": "bubbles underwater"
+      }
+    },
+    {
+      "text": "The water in your body doesn't compress much, which is why deep sea animals can live here. But a body built for air simply can't.",
+      "es": "El agua de tu cuerpo casi no se comprime, por eso los animales de las profundidades pueden vivir allí. Pero un cuerpo hecho para el aire simplemente no puede.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "deep sea fish NOAA"
+        ],
+        "query": "deep sea creature"
+      }
+    },
+    {
+      "chapter": "Even machines struggle",
+      "text": "This pressure doesn't just crush people. It crushes machines too. In January 1960, Jacques Piccard and Don Walsh became the first humans to reach the Challenger Deep, inside a vessel called the Trieste.",
+      "es": "Esta presión no solo aplasta personas. También aplasta máquinas. En enero de 1960, Jacques Piccard y Don Walsh fueron los primeros humanos en llegar al Abismo Challenger, dentro de una nave llamada Trieste.",
+      "headline": "1960: THE TRIESTE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Trieste (bathyscaphe)"
+        ],
+        "query": "bathyscaphe Trieste"
+      }
+    },
+    {
+      "text": "On the way down, they heard a loud crack. One of the outer window panes had cracked under the pressure. They kept going anyway, and spent about twenty minutes at the bottom.",
+      "es": "Durante el descenso escucharon un fuerte crujido. Uno de los vidrios exteriores se había agrietado por la presión. Aun así siguieron, y pasaron unos veinte minutos en el fondo.",
+      "visual": {
+        "type": "card",
+        "big": "20 MIN",
+        "label": "at the bottom, 1960",
+        "sub": "after a window cracked on the way down"
+      }
+    },
+    {
+      "text": "Nobody went back for fifty two years. Then in 2012, filmmaker James Cameron made the first solo dive to the bottom.",
+      "es": "Nadie regresó durante cincuenta y dos años. Luego, en 2012, el cineasta James Cameron hizo el primer descenso en solitario hasta el fondo.",
+      "headline": "2012: SOLO DIVE",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Deepsea Challenger"
+        ],
+        "query": "submersible"
+      }
+    },
+    {
+      "text": "And starting in 2019, explorer Victor Vescovo began a series of dives in a submersible built for full ocean depth, bringing others down with him, including the son of Don Walsh.",
+      "es": "Y a partir de 2019, el explorador Victor Vescovo hizo una serie de descensos en un sumergible hecho para la máxima profundidad del océano, llevando a otras personas, incluido el hijo de Don Walsh.",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "DSV Limiting Factor"
+        ],
+        "query": "deep submergence vehicle"
+      }
+    },
+    {
+      "text": "So here's my question for you. If you got a free seat in that submarine, would you go? Yes or no, in the comments.",
+      "es": "Así que te pregunto. Si te regalaran un lugar en ese submarino, ¿irías? Sí o no, en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "Free seat in the submarine. Would you go?",
+        "sub": "Yes or no, in the comments"
+      }
+    },
+    {
+      "chapter": "Who lives down here?",
+      "text": "So the bottom of the trench is dark, freezing, and crushing. Surely nothing lives there. Wrong.",
+      "es": "Entonces, el fondo de la fosa es oscuro, helado y aplastante. Seguramente nada vive allí. Error.",
+      "headline": "LIFE AT THE BOTTOM",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "NOAA Okeanos Explorer Mariana deep sea"
+        ],
+        "query": "deep sea jellyfish"
+      }
+    },
+    {
+      "text": "Small shrimp-like creatures called amphipods scuttle across the floor. Some are far bigger than their cousins in shallow water, and they swarm anything that sinks down from above.",
+      "es": "Pequeñas criaturas parecidas a camarones, llamadas anfípodos, corren por el fondo. Algunas son mucho más grandes que sus parientes de aguas poco profundas, y se lanzan sobre todo lo que cae desde arriba.",
+      "headline": "AMPHIPODS",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Amphipoda"
+        ],
+        "query": "amphipod"
+      }
+    },
+    {
+      "text": "There are xenophyophores, giant single-celled living things that can grow as big as your fist. One single cell, the size of your fist.",
+      "es": "Hay xenofióforos, seres vivos gigantes de una sola célula que pueden crecer tanto como tu puño. Una sola célula, del tamaño de tu puño.",
+      "headline": "ONE CELL, FIST-SIZED",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Xenophyophorea"
+        ],
+        "query": "xenophyophore"
+      }
+    },
+    {
+      "text": "And a little higher up live snailfish. Small, soft, almost see-through fish that live deeper than any other fish we know of.",
+      "es": "Y un poco más arriba viven los peces caracol. Peces pequeños, blandos y casi transparentes que viven más profundo que cualquier otro pez conocido.",
+      "headline": "SNAILFISH",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Snailfish"
+        ],
+        "query": "snailfish deep sea"
+      }
+    },
+    {
+      "text": "All of them survive on scraps. Dead plankton, fish, and the occasional dead whale that slowly sinks down from the sunlit world miles above. Down here, nothing goes to waste.",
+      "es": "Todos sobreviven con restos. Plancton muerto, peces y, de vez en cuando, una ballena muerta que cae lentamente desde el mundo iluminado, kilómetros arriba. Aquí abajo, nada se desperdicia.",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Whale fall"
+        ],
+        "query": "whale ocean"
+      }
+    },
+    {
+      "chapter": "The strangest find",
+      "text": "But not everything at the bottom is alive. On several expeditions, explorers spotted something they never expected at the deepest place on Earth. Plastic bags.",
+      "es": "Pero no todo en el fondo está vivo. En varias expediciones, los exploradores encontraron algo que no esperaban en el lugar más profundo de la Tierra. Bolsas de plástico.",
+      "headline": "PLASTIC. 7 MILES DOWN.",
+      "visual": {
+        "type": "image",
+        "wiki": [
+          "Marine debris"
+        ],
+        "query": "plastic bag ocean"
+      }
+    },
+    {
+      "text": "Think about that. Humans have barely been there. But our trash got there first. No place on our planet is truly beyond our reach.",
+      "es": "Piénsalo. Los humanos casi no han estado allí. Pero nuestra basura llegó primero. Ningún lugar del planeta está realmente fuera de nuestro alcance.",
+      "visual": {
+        "type": "card",
+        "big": "FIRST",
+        "label": "our trash got there before us",
+        "sub": "plastic seen on several deep dives"
+      }
+    },
+    {
+      "chapter": "Could you survive?",
+      "text": "So let's go back to you, sinking through the dark. The light would disappear in the first few minutes. The cold would start shutting your body down. And the pressure would squeeze the air out of you long before the bottom.",
+      "es": "Volvamos a ti, hundiéndote en la oscuridad. La luz desaparecería en los primeros minutos. El frío empezaría a apagar tu cuerpo. Y la presión sacaría el aire de ti mucho antes de llegar al fondo.",
+      "headline": "COULD YOU SURVIVE?",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "deep blue ocean darkness"
+        ],
+        "query": "ocean depth"
+      }
+    },
+    {
+      "text": "The Mariana Trench isn't just deep. It's one of the most hostile places on our planet. And yet, life found a way to live there, quietly, in total darkness. There may still be creatures down there no human has ever seen.",
+      "es": "La Fosa de las Marianas no solo es profunda. Es uno de los lugares más hostiles del planeta. Y aun así, la vida encontró la forma de vivir allí, en silencio, en total oscuridad. Puede que todavía haya criaturas que ningún humano ha visto.",
+      "visual": {
+        "type": "image",
+        "commons": [
+          "NOAA deep sea creature Mariana"
+        ],
+        "query": "deep sea"
+      }
+    },
+    {
+      "text": "Last question. Where should we go next, somewhere just as extreme, but on land? Tell me in the comments.",
+      "es": "Última pregunta. ¿A dónde vamos ahora, a algún lugar igual de extremo, pero en tierra? Dímelo en los comentarios.",
+      "visual": {
+        "type": "question",
+        "q": "Where should we go next?",
+        "sub": "Somewhere just as extreme, on land"
+      }
+    },
+    {
+      "text": "Thanks for watching Earth Decoded. If you enjoyed this journey, like the video, subscribe, and share it with someone who loves the ocean. See you on the next one.",
+      "es": "Gracias por ver Earth Decoded. Si te gustó este viaje, dale me gusta, suscríbete y compártelo con alguien a quien le encante el océano. Nos vemos en el próximo.",
+      "visual": {
+        "type": "end",
+        "big": "THANKS FOR WATCHING",
+        "commons": [
+          "Pacific Ocean sunset"
+        ],
+        "query": "ocean sunset"
+      }
+    }
+  ]
+}
