@@ -7,186 +7,186 @@ Only two countries in the world are
 trapped twice. Do you know which ones?
 
 3
-00:00:04,745 --> 00:00:07,721
+00:00:04,745 --> 00:00:07,679
 A landlocked country has no coastline. There
 
 4
-00:00:07,721 --> 00:00:09,954
+00:00:07,679 --> 00:00:09,880
 are more than forty of them, like
 
 5
-00:00:09,954 --> 00:00:12,254
+00:00:09,880 --> 00:00:12,147
 Switzerland, Bolivia and Mongolia.
 
 6
-00:00:12,604 --> 00:00:15,166
+00:00:12,497 --> 00:00:15,060
 But a doubly landlocked country is only
 
 7
-00:00:15,166 --> 00:00:18,451
+00:00:15,060 --> 00:00:18,344
 surrounded by other landlocked countries. To reach
 
 8
-00:00:18,451 --> 00:00:20,488
+00:00:18,344 --> 00:00:20,381
 the ocean, you have to cross at
 
 9
-00:00:20,488 --> 00:00:22,918
+00:00:20,381 --> 00:00:22,812
 least two borders. There are only two
 
 10
-00:00:22,918 --> 00:00:24,167
+00:00:22,812 --> 00:00:24,060
 in the whole world.
 
 11
-00:00:24,517 --> 00:00:27,353
+00:00:24,410 --> 00:00:27,246
 The first is Liechtenstein, a tiny country
 
 12
-00:00:27,353 --> 00:00:30,324
+00:00:27,246 --> 00:00:30,217
 in the Alps between Switzerland and Austria.
 
 13
-00:00:30,324 --> 00:00:33,093
+00:00:30,217 --> 00:00:32,986
 Both of its neighbors are landlocked too.
 
 14
-00:00:33,443 --> 00:00:36,176
+00:00:33,336 --> 00:00:36,060
 It's only about one hundred sixty square
 
 15
-00:00:36,176 --> 00:00:39,593
+00:00:36,060 --> 00:00:39,466
 kilometers, with around forty thousand people, and
 
 16
-00:00:39,593 --> 00:00:41,574
+00:00:39,466 --> 00:00:41,441
 it has no army and no airport
 
 17
-00:00:41,574 --> 00:00:43,488
+00:00:41,441 --> 00:00:43,348
 of its own. It's also one of
 
 18
-00:00:43,488 --> 00:00:46,084
+00:00:43,348 --> 00:00:45,937
 the richest countries in the world per
 
 19
-00:00:46,084 --> 00:00:46,563
+00:00:45,937 --> 00:00:46,413
 person.
 
 20
-00:00:46,913 --> 00:00:50,118
+00:00:46,763 --> 00:00:49,968
 The second is Uzbekistan, in Central Asia.
 
 21
-00:00:50,118 --> 00:00:53,933
+00:00:49,968 --> 00:00:53,784
 All five of its neighbors, Kazakhstan, Kyrgyzstan,
 
 22
-00:00:53,933 --> 00:00:58,435
+00:00:53,784 --> 00:00:58,286
 Tajikistan, Afghanistan and Turkmenistan, are landlocked as
 
 23
-00:00:58,435 --> 00:00:58,817
+00:00:58,286 --> 00:00:58,667
 well.
 
 24
-00:00:59,167 --> 00:01:02,055
+00:00:59,017 --> 00:01:01,906
 Uzbekistan is famous for the stunning blue
 
 25
-00:01:02,055 --> 00:01:04,668
+00:01:01,906 --> 00:01:04,519
 domes of Samarkand, an ancient city on
 
 26
-00:01:04,668 --> 00:01:05,631
+00:01:04,519 --> 00:01:05,481
 the Silk Road.
 
 27
-00:01:05,981 --> 00:01:08,149
+00:01:05,831 --> 00:01:07,994
 It also shares the Aral Sea, once
 
 28
-00:01:08,149 --> 00:01:10,383
+00:01:07,994 --> 00:01:10,223
 one of the biggest lakes on Earth,
 
 29
-00:01:10,383 --> 00:01:12,682
+00:01:10,223 --> 00:01:12,517
 which has mostly dried up after its
 
 30
-00:01:12,682 --> 00:01:15,047
+00:01:12,517 --> 00:01:14,877
 rivers were used for cotton farming.
 
 31
-00:01:15,397 --> 00:01:18,222
+00:01:15,227 --> 00:01:18,027
 Liechtenstein uses the Swiss franc, and its
 
 32
-00:01:18,222 --> 00:01:20,718
+00:01:18,027 --> 00:01:20,502
 border with Switzerland is so open you
 
 33
-00:01:20,718 --> 00:01:22,885
+00:01:20,502 --> 00:01:22,651
 can walk across without noticing.
 
 34
-00:01:23,235 --> 00:01:25,486
+00:01:23,001 --> 00:01:25,257
 It's ruled by a prince, who lives
 
 35
-00:01:25,486 --> 00:01:28,009
+00:01:25,257 --> 00:01:27,786
 in a castle above the capital, Vaduz.
 
 36
-00:01:28,009 --> 00:01:30,396
+00:01:27,786 --> 00:01:30,179
 And it's one of the world's biggest
 
 37
-00:01:30,396 --> 00:01:31,897
+00:01:30,179 --> 00:01:31,683
 makers of false teeth.
 
 38
-00:01:32,247 --> 00:01:34,988
+00:01:32,033 --> 00:01:34,757
 Uzbekistan is much bigger, with more than
 
 39
-00:01:34,988 --> 00:01:37,796
+00:01:34,757 --> 00:01:37,547
 thirty five million people, and its cities
 
 40
-00:01:37,796 --> 00:01:40,137
+00:01:37,547 --> 00:01:39,873
 were stops on the Silk Road between
 
 41
-00:01:40,137 --> 00:01:42,209
+00:01:39,873 --> 00:01:41,932
 China and Europe for centuries.
 
 42
-00:01:42,559 --> 00:01:45,016
+00:01:42,282 --> 00:01:44,726
 To ship goods to the ocean, Uzbekistan
 
 43
-00:01:45,016 --> 00:01:47,084
+00:01:44,726 --> 00:01:46,784
 has to send them across at least
 
 44
-00:01:47,084 --> 00:01:49,993
+00:01:46,784 --> 00:01:49,679
 two other countries, which makes trade slower
 
 45
-00:01:49,993 --> 00:01:51,221
+00:01:49,679 --> 00:01:50,901
 and more expensive.
 
 46
-00:01:51,571 --> 00:01:53,481
+00:01:51,251 --> 00:01:53,161
 Did you know there were only two
 
 47
-00:01:53,481 --> 00:01:56,047
+00:01:53,161 --> 00:01:55,727
 doubly landlocked countries? Tell me in the
 
 48
-00:01:56,047 --> 00:01:56,584
+00:01:55,727 --> 00:01:56,264
 comments.
 
