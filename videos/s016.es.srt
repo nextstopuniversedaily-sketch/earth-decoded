@@ -39,150 +39,150 @@ historia. Pero los científicos dicen que nunca
 hubo serpientes que echar.
 
 11
-00:00:22,682 --> 00:00:24,734
+00:00:22,682 --> 00:00:24,749
 La verdadera razón es la Edad de
 
 12
-00:00:24,734 --> 00:00:27,876
+00:00:24,749 --> 00:00:27,915
 Hielo. Durante el último periodo glacial, Irlanda
 
 13
-00:00:27,876 --> 00:00:30,954
+00:00:27,915 --> 00:00:31,016
 estaba cubierta por hielo grueso. Demasiado frío
 
 14
-00:00:30,954 --> 00:00:33,326
+00:00:31,016 --> 00:00:33,406
 para reptiles de sangre fría como las
 
 15
-00:00:33,326 --> 00:00:34,031
+00:00:33,406 --> 00:00:34,117
 serpientes.
 
 16
-00:00:34,381 --> 00:00:36,736
+00:00:34,467 --> 00:00:36,801
 Cuando el hielo se derritió, hace unos
 
 17
-00:00:36,736 --> 00:00:39,153
+00:00:36,801 --> 00:00:39,197
 diez mil años, los animales empezaron a
 
 18
-00:00:39,153 --> 00:00:41,570
+00:00:39,197 --> 00:00:41,593
 regresar al norte desde Europa. Pero el
 
 19
-00:00:41,570 --> 00:00:44,173
+00:00:41,593 --> 00:00:44,173
 hielo derretido también hizo subir el mar.
 
 20
-00:00:44,523 --> 00:00:46,744
+00:00:44,523 --> 00:00:46,722
 El agua inundó el puente de tierra
 
 21
-00:00:46,744 --> 00:00:49,162
+00:00:46,722 --> 00:00:49,114
 entre Irlanda y Gran Bretaña antes de
 
 22
-00:00:49,162 --> 00:00:52,297
+00:00:49,114 --> 00:00:52,218
 que las serpientes pudieran cruzar. Gran Bretaña
 
 23
-00:00:52,297 --> 00:00:54,780
+00:00:52,218 --> 00:00:54,676
 siguió conectada a Europa un poco más,
 
 24
-00:00:54,780 --> 00:00:57,458
+00:00:54,676 --> 00:00:57,327
 por eso tiene tres especies de serpientes
 
 25
-00:00:57,458 --> 00:00:59,222
+00:00:57,327 --> 00:00:59,073
 nativas, e Irlanda ninguna.
 
 26
-00:00:59,572 --> 00:01:02,004
+00:00:59,423 --> 00:01:01,855
 Irlanda no es la única. Nueva Zelanda,
 
 27
-00:01:02,004 --> 00:01:05,268
+00:01:01,855 --> 00:01:05,119
 Islandia, Groenlandia y la Antártida tampoco tienen
 
 28
-00:01:05,268 --> 00:01:07,188
+00:01:05,119 --> 00:01:07,039
 serpientes terrestres nativas.
 
 29
-00:01:07,538 --> 00:01:10,368
+00:01:07,389 --> 00:01:10,207
 A Irlanda le faltan otros animales también.
 
 30
-00:01:10,368 --> 00:01:12,803
+00:01:10,207 --> 00:01:12,631
 Tiene una sola lagartija nativa y una
 
 31
-00:01:12,803 --> 00:01:15,041
+00:01:12,631 --> 00:01:14,860
 sola rana nativa, y no tiene topos
 
 32
-00:01:15,041 --> 00:01:17,607
+00:01:14,860 --> 00:01:17,415
 ni comadrejas, todo por la misma razón.
 
 33
-00:01:17,957 --> 00:01:20,356
+00:01:17,765 --> 00:01:20,136
 Hay un misterio parecido en Hawái, que
 
 34
-00:01:20,356 --> 00:01:23,639
+00:01:20,136 --> 00:01:23,379
 tampoco tiene serpientes terrestres nativas. Ahí las
 
 35
-00:01:23,639 --> 00:01:26,796
+00:01:23,379 --> 00:01:26,498
 serpientes se consideran una amenaza seria, porque
 
 36
-00:01:26,796 --> 00:01:29,321
+00:01:26,498 --> 00:01:28,993
 una especie que escape podría acabar con
 
 37
-00:01:29,321 --> 00:01:30,395
+00:01:28,993 --> 00:01:30,053
 las aves nativas.
 
 38
-00:01:30,745 --> 00:01:33,363
+00:01:30,403 --> 00:01:33,021
 San Patricio sigue siendo el santo patrono
 
 39
-00:01:33,363 --> 00:01:35,794
+00:01:33,021 --> 00:01:35,452
 de Irlanda, y cada diecisiete de marzo,
 
 40
-00:01:35,794 --> 00:01:37,726
+00:01:35,452 --> 00:01:37,385
 todo el mundo se pinta de verde
 
 41
-00:01:37,726 --> 00:01:38,723
+00:01:37,385 --> 00:01:38,382
 para celebrarlo.
 
 42
-00:01:39,073 --> 00:01:41,101
+00:01:38,732 --> 00:01:40,765
 Los historiadores creen que la historia de
 
 43
-00:01:41,101 --> 00:01:43,033
+00:01:40,765 --> 00:01:42,701
 las serpientes puede ser un símbolo: las
 
 44
-00:01:43,033 --> 00:01:45,882
+00:01:42,701 --> 00:01:45,557
 serpientes representaban las antiguas creencias paganas que
 
 45
-00:01:45,882 --> 00:01:48,055
+00:01:45,557 --> 00:01:47,735
 Patricio expulsó al difundir el cristianismo.
 
 46
-00:01:48,405 --> 00:01:50,685
+00:01:48,085 --> 00:01:50,365
 ¿Te mudarías a un país sin serpientes?
 
 47
-00:01:50,685 --> 00:01:52,245
+00:01:50,365 --> 00:01:51,925
 Dímelo en los comentarios.
 
