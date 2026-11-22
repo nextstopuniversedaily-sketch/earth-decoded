@@ -1,536 +1,584 @@
 1
-00:00:00,000 --> 00:00:03,998
+00:00:00,000 --> 00:00:04,031
 Thirty-three kilometers off the coast of Brazil, there's a
 
 2
-00:00:03,998 --> 00:00:08,133
+00:00:04,031 --> 00:00:08,202
 green island that looks like paradise. Forest, rocks, waves.
 
 3
-00:00:08,133 --> 00:00:11,097
+00:00:08,202 --> 00:00:11,191
 But almost nobody is allowed to set foot on
 
 4
-00:00:11,097 --> 00:00:14,406
+00:00:11,191 --> 00:00:14,527
 it. Because hidden in the trees are thousands of
 
 5
-00:00:14,406 --> 00:00:18,266
+00:00:14,527 --> 00:00:18,419
 venomous snakes that live nowhere else on Earth. Welcome
 
 6
-00:00:18,266 --> 00:00:21,919
+00:00:18,419 --> 00:00:22,103
 to Snake Island. Today, we'll separate the facts from
 
 7
-00:00:21,919 --> 00:00:25,365
+00:00:22,103 --> 00:00:25,579
 the legends, and see why you'd never survive here.
 
 8
-00:00:25,915 --> 00:00:29,350
+00:00:26,129 --> 00:00:29,557
 Welcome to Earth Decoded. If you love the most
 
 9
-00:00:29,350 --> 00:00:33,606
+00:00:29,557 --> 00:00:33,805
 extreme places on our planet, tap subscribe. Today, we're
 
 10
-00:00:33,606 --> 00:00:36,966
+00:00:33,805 --> 00:00:37,159
 going to the island that Brazil won't let you
 
 11
-00:00:36,966 --> 00:00:37,414
+00:00:37,159 --> 00:00:37,606
 visit.
 
 12
-00:00:37,964 --> 00:00:41,333
+00:00:38,156 --> 00:00:41,532
 Its real name is Ilha da Queimada Grande. It
 
 13
-00:00:41,333 --> 00:00:46,005
+00:00:41,532 --> 00:00:46,213
 sits in the Atlantic Ocean, about thirty-three kilometers off
 
 14
-00:00:46,005 --> 00:00:48,225
+00:00:46,213 --> 00:00:48,439
 the coast of São Paulo state.
 
 15
-00:00:48,775 --> 00:00:52,718
+00:00:48,989 --> 00:00:52,907
 It's small, only about forty-three hectares, less than half
 
 16
-00:00:52,718 --> 00:00:55,858
+00:00:52,907 --> 00:00:56,029
 a square kilometer. You could walk across it in
 
 17
-00:00:55,858 --> 00:00:58,598
+00:00:56,029 --> 00:00:58,752
 less than an hour, if it weren't for what
 
 18
-00:00:58,598 --> 00:00:59,399
+00:00:58,752 --> 00:00:59,549
 lives there.
 
 19
-00:00:59,949 --> 00:01:03,722
+00:01:00,099 --> 00:01:03,871
 Its slopes are covered in humid Atlantic Forest, with
 
 20
-00:01:03,722 --> 00:01:07,423
+00:01:03,871 --> 00:01:07,572
 steep rocky cliffs dropping into the sea. There's no
 
 21
-00:01:07,423 --> 00:01:10,626
+00:01:07,572 --> 00:01:10,775
 beach and no dock. Boats have to approach the
 
 22
-00:01:10,626 --> 00:01:14,683
+00:01:10,775 --> 00:01:14,832
 rocks carefully, and landing is dangerous even before you
 
 23
-00:01:14,683 --> 00:01:15,608
+00:01:14,832 --> 00:01:15,757
 meet a snake.
 
 24
-00:01:16,158 --> 00:01:19,883
+00:01:16,307 --> 00:01:20,007
 Its name means big burned island. Long ago, people
 
 25
-00:01:19,883 --> 00:01:23,012
+00:01:20,007 --> 00:01:23,114
 tried to burn the forest to clear land for
 
 26
-00:01:23,012 --> 00:01:25,545
+00:01:23,114 --> 00:01:25,630
 farming, but the plan didn't last.
 
 27
-00:01:26,095 --> 00:01:29,929
+00:01:26,180 --> 00:01:30,025
 The island belongs to its snakes: the golden lancehead,
 
 28
-00:01:29,929 --> 00:01:32,996
+00:01:30,025 --> 00:01:33,101
 a pit viper found only here and nowhere else
 
 29
-00:01:32,996 --> 00:01:33,903
+00:01:33,101 --> 00:01:34,009
 in the world.
 
 30
-00:01:34,453 --> 00:01:37,912
+00:01:34,559 --> 00:01:37,961
 It grows to around seventy centimeters to a meter
 
 31
-00:01:37,912 --> 00:01:41,583
+00:01:37,961 --> 00:01:41,572
 long, with a pale, golden-brown body, which gives it
 
 32
-00:01:41,583 --> 00:01:42,218
+00:01:41,572 --> 00:01:42,197
 its name.
 
 33
-00:01:42,768 --> 00:01:45,302
+00:01:42,747 --> 00:01:45,277
 So how did snakes end up alone on an
 
 34
-00:01:45,302 --> 00:01:48,893
+00:01:45,277 --> 00:01:48,862
 island? About eleven thousand years ago, at the end
 
 35
-00:01:48,893 --> 00:01:51,709
+00:01:48,862 --> 00:01:51,674
 of the last ice age, sea levels rose and
 
 36
-00:01:51,709 --> 00:01:55,018
+00:01:51,674 --> 00:01:54,978
 cut this hill off from the mainland. The snakes
 
 37
-00:01:55,018 --> 00:01:56,848
+00:01:54,978 --> 00:01:56,805
 living there were trapped.
 
 38
-00:01:57,398 --> 00:02:00,412
+00:01:57,355 --> 00:02:00,354
 On the island, there were no rats, mice or
 
 39
-00:02:00,412 --> 00:02:03,354
+00:02:00,354 --> 00:02:03,281
 frogs to eat on the ground. So the snakes
 
 40
-00:02:03,354 --> 00:02:06,726
+00:02:03,281 --> 00:02:06,637
 moved up into the trees and started hunting the
 
 41
-00:02:06,726 --> 00:02:10,027
+00:02:06,637 --> 00:02:09,921
 one thing that kept arriving: migrating birds.
 
 42
-00:02:10,577 --> 00:02:14,106
+00:02:10,471 --> 00:02:14,006
 That makes life hard. Most of their food arrives
 
 43
-00:02:14,106 --> 00:02:17,562
+00:02:14,006 --> 00:02:17,467
 only when birds stop on the island during their
 
 44
-00:02:17,562 --> 00:02:21,974
+00:02:17,467 --> 00:02:21,887
 migrations. Between those seasons, many snakes go hungry for
 
 45
-00:02:21,974 --> 00:02:22,929
+00:02:21,887 --> 00:02:22,844
 long periods.
 
 46
-00:02:23,479 --> 00:02:26,637
+00:02:23,394 --> 00:02:26,551
 Quick question. Are you more afraid of snakes or
 
 47
-00:02:26,637 --> 00:02:29,005
+00:02:26,551 --> 00:02:28,919
 of spiders? Tell me in the comments.
 
 48
-00:02:29,555 --> 00:02:32,713
+00:02:29,469 --> 00:02:32,623
 Hunting birds is hard. If a snake bites a
 
 49
-00:02:32,713 --> 00:02:35,949
+00:02:32,623 --> 00:02:35,854
 bird and it flies away, it's gone. So over
 
 50
-00:02:35,949 --> 00:02:40,956
+00:02:35,854 --> 00:02:40,855
 thousands of years, the golden lancehead's venom became extremely
 
 51
-00:02:40,956 --> 00:02:44,808
+00:02:40,855 --> 00:02:44,701
 fast-acting, able to kill a bird almost instantly.
 
 52
-00:02:45,358 --> 00:02:49,153
+00:02:45,251 --> 00:02:49,007
 Scientists believe its venom is more potent than that
 
 53
-00:02:49,153 --> 00:02:53,449
+00:02:49,007 --> 00:02:53,259
 of its mainland relative, the jararaca, which already causes
 
 54
-00:02:53,449 --> 00:02:55,811
+00:02:53,259 --> 00:02:55,598
 many of the snakebites in Brazil.
 
 55
-00:02:56,361 --> 00:03:00,255
+00:02:56,148 --> 00:03:00,022
 Venom from these vipers attacks the blood and tissue.
 
 56
-00:03:00,255 --> 00:03:04,443
+00:03:00,022 --> 00:03:04,188
 A bite can cause intense pain, swelling, bleeding, kidney
 
 57
-00:03:04,443 --> 00:03:08,337
+00:03:04,188 --> 00:03:08,061
 damage and tissue death. Without antivenom, it can be
 
 58
-00:03:08,337 --> 00:03:08,777
+00:03:08,061 --> 00:03:08,500
 fatal.
 
 59
-00:03:09,327 --> 00:03:13,136
+00:03:09,050 --> 00:03:12,845
 Snakebites are a real problem in Brazil. The country
 
 60
-00:03:13,136 --> 00:03:17,237
+00:03:12,845 --> 00:03:16,931
 records tens of thousands of snakebite cases every year,
 
 61
-00:03:17,237 --> 00:03:21,338
+00:03:16,931 --> 00:03:21,018
 most of them from mainland lanceheads like the jararaca.
 
 62
-00:03:21,888 --> 00:03:25,116
+00:03:21,568 --> 00:03:24,814
 Doctors say that after a bite, you should stay
 
 63
-00:03:25,116 --> 00:03:28,415
+00:03:24,814 --> 00:03:28,130
 as calm and still as possible, remove rings and
 
 64
-00:03:28,415 --> 00:03:31,853
+00:03:28,130 --> 00:03:31,588
 tight clothing, and get to a hospital fast. Don't
 
 65
-00:03:31,853 --> 00:03:34,660
+00:03:31,588 --> 00:03:34,411
 cut the wound, don't try to suck out the
 
 66
-00:03:34,660 --> 00:03:37,397
+00:03:34,411 --> 00:03:37,163
 venom and don't use a tight tourniquet.
 
 67
-00:03:37,947 --> 00:03:41,871
+00:03:37,713 --> 00:03:41,637
 And here's the problem. On Snake Island, there's no
 
 68
-00:03:41,871 --> 00:03:46,026
+00:03:41,637 --> 00:03:45,792
 hospital, no doctor and no road. The nearest antivenom
 
 69
-00:03:46,026 --> 00:03:48,796
+00:03:45,792 --> 00:03:48,562
 is hours away by boat and car on the
 
 70
-00:03:48,796 --> 00:03:49,489
+00:03:48,562 --> 00:03:49,254
 mainland.
 
 71
-00:03:50,039 --> 00:03:52,646
+00:03:49,804 --> 00:03:52,411
 And the snakes are hard to see. They rest
 
 72
-00:03:52,646 --> 00:03:55,572
+00:03:52,411 --> 00:03:55,337
 on branches and among leaves at about head and
 
 73
-00:03:55,572 --> 00:03:59,451
+00:03:55,337 --> 00:03:59,216
 hand height, exactly where you'd reach while climbing through
 
 74
-00:03:59,451 --> 00:04:00,151
+00:03:59,216 --> 00:03:59,916
 the forest.
 
 75
-00:04:00,701 --> 00:04:04,571
+00:04:00,466 --> 00:04:04,301
 Researchers who visit wear thick boots and leg guards,
 
 76
-00:04:04,571 --> 00:04:08,369
+00:04:04,301 --> 00:04:08,066
 move slowly, and watch every branch before they touch
 
 77
-00:04:08,369 --> 00:04:11,737
+00:04:08,066 --> 00:04:11,404
 it. Even experts treat every step on the island
 
 78
-00:04:11,737 --> 00:04:12,669
+00:04:11,404 --> 00:04:12,327
 with respect.
 
 79
-00:04:13,219 --> 00:04:16,632
+00:04:12,877 --> 00:04:16,267
 Now, the legends. You may have heard there's one
 
 80
-00:04:16,632 --> 00:04:20,188
+00:04:16,267 --> 00:04:19,799
 snake for every square meter. That's a myth. Early
 
 81
-00:04:20,188 --> 00:04:22,605
+00:04:19,799 --> 00:04:22,200
 estimates were wildly exaggerated.
 
 82
-00:04:23,155 --> 00:04:27,875
+00:04:22,750 --> 00:04:27,446
 Modern studies by Brazilian scientists estimate the population at
 
 83
-00:04:27,875 --> 00:04:31,650
+00:04:27,446 --> 00:04:31,203
 a few thousand snakes, roughly two to four thousand,
 
 84
-00:04:31,650 --> 00:04:35,208
+00:04:31,203 --> 00:04:34,744
 which is still an incredibly high number for such
 
 85
-00:04:35,208 --> 00:04:36,297
+00:04:34,744 --> 00:04:35,827
 a small island.
 
 86
-00:04:36,847 --> 00:04:40,245
-There's also a famous legend that the island's last
+00:04:36,377 --> 00:04:40,218
+The golden lancehead mostly hunts by ambush. It waits
 
 87
-00:04:40,245 --> 00:04:43,843
-lighthouse keeper and his family were killed by snakes
+00:04:40,218 --> 00:04:43,913
+motionless on a branch for hours, then strikes when
 
 88
-00:04:43,843 --> 00:04:46,774
-that came in through a window. It's a creepy
+00:04:43,913 --> 00:04:47,247
+a bird lands close enough. After the bite, the
 
 89
-00:04:46,774 --> 00:04:50,372
-story, but there's no solid evidence it ever happened.
+00:04:47,247 --> 00:04:49,348
+bird usually doesn't get far.
 
 90
-00:04:50,922 --> 00:04:54,858
-What is true: the lighthouse was automated decades ago,
+00:04:49,898 --> 00:04:53,937
+The snakes also eat lizards, and sometimes frogs, but
 
 91
-00:04:54,858 --> 00:04:57,578
-so nobody needs to live there anymore.
+00:04:53,937 --> 00:04:58,052
+birds are their main meal. Some scientists think birds
 
 92
-00:04:58,128 --> 00:05:00,608
-Have you ever heard a scary legend about a
+00:04:58,052 --> 00:05:01,101
+are why the island has so many snakes in
 
 93
-00:05:00,608 --> 00:05:02,971
-place near you? Tell me in the comments.
+00:05:01,101 --> 00:05:02,549
+such a small space.
 
 94
-00:05:03,521 --> 00:05:08,441
-Today, Brazil's navy and environmental authorities forbid visits to
+00:05:03,099 --> 00:05:06,545
+There's also a famous legend that the island's last
 
 95
-00:05:08,441 --> 00:05:12,481
-the island. Only scientists and navy crews with special
+00:05:06,545 --> 00:05:10,194
+lighthouse keeper and his family were killed by snakes
 
 96
-00:05:12,481 --> 00:05:16,447
-permission can land, and researchers usually go with a
+00:05:10,194 --> 00:05:13,167
+that came in through a window. It's a creepy
 
 97
-00:05:16,447 --> 00:05:16,961
-doctor.
+00:05:13,167 --> 00:05:16,816
+story, but there's no solid evidence it ever happened.
 
 98
-00:05:17,511 --> 00:05:20,751
-The ban isn't only to protect people. It's to
+00:05:17,366 --> 00:05:21,340
+What is true: the lighthouse was automated decades ago,
 
 99
-00:05:20,751 --> 00:05:24,568
-protect the snakes. The golden lancehead is listed as
+00:05:21,340 --> 00:05:24,086
+so nobody needs to live there anymore.
 
 100
-00:05:24,568 --> 00:05:28,745
-critically endangered, because it lives on one tiny island
+00:05:24,636 --> 00:05:27,149
+Have you ever heard a scary legend about a
 
 101
-00:05:28,745 --> 00:05:29,969
-and nowhere else.
+00:05:27,149 --> 00:05:29,543
+place near you? Tell me in the comments.
 
 102
-00:05:30,519 --> 00:05:34,315
-One of the biggest threats is illegal collection. Wildlife
+00:05:30,093 --> 00:05:35,029
+Today, Brazil's navy and environmental authorities forbid visits to
 
 103
-00:05:34,315 --> 00:05:37,849
-smugglers have sneaked onto the island to catch snakes
+00:05:35,029 --> 00:05:39,081
+the island. Only scientists and navy crews with special
 
 104
-00:05:37,849 --> 00:05:41,253
-for collectors, who can pay thousands of dollars for
+00:05:39,081 --> 00:05:43,060
+permission can land, and researchers usually go with a
 
 105
-00:05:41,253 --> 00:05:42,103
-a single one.
+00:05:43,060 --> 00:05:43,575
+doctor.
 
 106
-00:05:42,653 --> 00:05:46,202
-It's not the only island like this in Brazil.
+00:05:44,125 --> 00:05:47,377
+The ban isn't only to protect people. It's to
 
 107
-00:05:46,202 --> 00:05:50,302
-On Alcatrazes, another island off São Paulo, lives a
+00:05:47,377 --> 00:05:51,207
+protect the snakes. The golden lancehead is listed as
 
 108
-00:05:50,302 --> 00:05:55,112
-different viper found nowhere else, the Alcatrazes lancehead.
+00:05:51,207 --> 00:05:55,398
+critically endangered, because it lives on one tiny island
 
 109
-00:05:55,662 --> 00:05:59,388
-Fire, disease and the small size of the population
+00:05:55,398 --> 00:05:56,627
+and nowhere else.
 
 110
-00:05:59,388 --> 00:06:03,263
-also put them at risk. Because they've been isolated
+00:05:57,177 --> 00:06:01,001
+One of the biggest threats is illegal collection. Wildlife
 
 111
-00:06:03,263 --> 00:06:06,841
-so long, the snakes have little genetic variety.
+00:06:01,001 --> 00:06:04,561
+smugglers have sneaked onto the island to catch snakes
 
 112
-00:06:07,391 --> 00:06:11,828
-And scientists want them protected for another reason: venom
+00:06:04,561 --> 00:06:07,989
+for collectors, who can pay thousands of dollars for
 
 113
-00:06:11,828 --> 00:06:15,081
-can save lives. Research on the venom of the
+00:06:07,989 --> 00:06:08,846
+a single one.
 
 114
-00:06:15,081 --> 00:06:19,444
-mainland jararaca helped create captopril, one of the first
+00:06:09,396 --> 00:06:12,908
+It's not the only island like this in Brazil.
 
 115
-00:06:19,444 --> 00:06:23,881
-modern blood pressure medicines, used by millions of people.
+00:06:12,908 --> 00:06:16,966
+On Alcatrazes, another island off São Paulo, lives a
 
 116
-00:06:24,431 --> 00:06:29,049
-Brazil's Butantan Institute in São Paulo studies these snakes
+00:06:16,966 --> 00:06:21,727
+different viper found nowhere else, the Alcatrazes lancehead.
 
 117
-00:06:29,049 --> 00:06:33,440
-and produces antivenom that saves thousands of lives every
+00:06:22,277 --> 00:06:25,996
+Fire, disease and the small size of the population
 
 118
-00:06:33,440 --> 00:06:33,818
-year.
+00:06:25,996 --> 00:06:29,864
+also put them at risk. Because they've been isolated
 
 119
-00:06:34,368 --> 00:06:38,053
-Golden lancehead venom is being studied too, for its
+00:06:29,864 --> 00:06:33,434
+so long, the snakes have little genetic variety.
 
 120
-00:06:38,053 --> 00:06:41,525
-effects on blood clotting and the heart. A deadly
+00:06:33,984 --> 00:06:38,421
+And scientists want them protected for another reason: venom
 
 121
-00:06:41,525 --> 00:06:44,501
-snake could one day lead to new medicines.
+00:06:38,421 --> 00:06:41,675
+can save lives. Research on the venom of the
 
 122
-00:06:45,051 --> 00:06:48,608
-So, could you survive Snake Island? If you landed
+00:06:41,675 --> 00:06:46,038
+mainland jararaca helped create captopril, one of the first
 
 123
-00:06:48,608 --> 00:06:52,238
-there alone and got bitten, with hours between you
+00:06:46,038 --> 00:06:50,475
+modern blood pressure medicines, used by millions of people.
 
 124
-00:06:52,238 --> 00:06:56,376
-and antivenom, your chances would be poor. That's exactly
+00:06:51,025 --> 00:06:55,600
+Brazil's Butantan Institute in São Paulo studies these snakes
 
 125
-00:06:56,376 --> 00:07:00,731
-why nobody goes without permission, experience and a doctor.
+00:06:55,600 --> 00:06:59,951
+and produces antivenom that saves thousands of lives every
 
 126
-00:07:01,281 --> 00:07:04,376
-But the island isn't a monster's lair. It's a
+00:06:59,951 --> 00:07:00,326
+year.
 
 127
-00:07:04,376 --> 00:07:08,227
-tiny, fragile world, and the snakes need protection from
+00:07:00,876 --> 00:07:04,726
+Founded in 1901, Butantan is one of the world's
 
 128
-00:07:08,227 --> 00:07:11,116
-us more than we need protection from them.
+00:07:04,726 --> 00:07:09,723
+biggest producers of antivenoms and vaccines, and visitors to
 
 129
-00:07:11,666 --> 00:07:15,635
-Last question. Which extreme place should we explore next?
+00:07:09,723 --> 00:07:13,491
+São Paulo can see its live snake collection up
 
 130
-00:07:15,635 --> 00:07:17,277
-Tell me in the comments.
+00:07:13,491 --> 00:07:15,703
+close, safely behind glass.
 
 131
-00:07:17,827 --> 00:07:21,520
-Thanks for watching Earth Decoded. If you enjoyed this,
+00:07:16,253 --> 00:07:19,891
+Golden lancehead venom is being studied too, for its
 
 132
-00:07:21,520 --> 00:07:24,608
-like the video, subscribe, and share it with a
+00:07:19,891 --> 00:07:23,319
+effects on blood clotting and the heart. A deadly
 
 133
-00:07:24,608 --> 00:07:27,428
-friend who is scared of snakes. See you in
+00:07:23,319 --> 00:07:26,258
+snake could one day lead to new medicines.
 
 134
-00:07:27,428 --> 00:07:28,301
+00:07:26,808 --> 00:07:30,394
+So, could you survive Snake Island? If you landed
+
+135
+00:07:30,394 --> 00:07:34,053
+there alone and got bitten, with hours between you
+
+136
+00:07:34,053 --> 00:07:38,225
+and antivenom, your chances would be poor. That's exactly
+
+137
+00:07:38,225 --> 00:07:42,616
+why nobody goes without permission, experience and a doctor.
+
+138
+00:07:43,166 --> 00:07:46,261
+But the island isn't a monster's lair. It's a
+
+139
+00:07:46,261 --> 00:07:50,112
+tiny, fragile world, and the snakes need protection from
+
+140
+00:07:50,112 --> 00:07:53,001
+us more than we need protection from them.
+
+141
+00:07:53,551 --> 00:07:57,429
+Last question. Which extreme place should we explore next?
+
+142
+00:07:57,429 --> 00:07:59,033
+Tell me in the comments.
+
+143
+00:07:59,583 --> 00:08:03,231
+Thanks for watching Earth Decoded. If you enjoyed this,
+
+144
+00:08:03,231 --> 00:08:06,282
+like the video, subscribe, and share it with a
+
+145
+00:08:06,282 --> 00:08:09,068
+friend who is scared of snakes. See you in
+
+146
+00:08:09,068 --> 00:08:09,930
 the next one.
 

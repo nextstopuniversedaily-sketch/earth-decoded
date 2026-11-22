@@ -1,564 +1,616 @@
 1
-00:00:00,000 --> 00:00:02,833
+00:00:00,000 --> 00:00:02,857
 A treinta y tres kilómetros de la costa de
 
 2
-00:00:02,833 --> 00:00:06,071
+00:00:02,857 --> 00:00:06,123
 Brasil hay una isla verde que parece un paraíso.
 
 3
-00:00:06,071 --> 00:00:09,647
+00:00:06,123 --> 00:00:09,728
 Bosque, rocas, olas. Pero casi nadie tiene permiso de
 
 4
-00:00:09,647 --> 00:00:13,290
+00:00:09,728 --> 00:00:13,402
 pisarla. Porque entre los árboles se esconden miles de
 
 5
-00:00:13,290 --> 00:00:17,000
+00:00:13,402 --> 00:00:17,143
 serpientes venenosas que no viven en ningún otro lugar.
 
 6
-00:00:17,000 --> 00:00:20,711
+00:00:17,143 --> 00:00:20,885
 Bienvenido a la Isla de las Serpientes. Hoy separaremos
 
 7
-00:00:20,711 --> 00:00:23,679
+00:00:20,885 --> 00:00:23,878
 los hechos de las leyendas y veremos por qué
 
 8
-00:00:23,679 --> 00:00:25,365
+00:00:23,878 --> 00:00:25,579
 nunca sobrevivirías aquí.
 
 9
-00:00:25,915 --> 00:00:30,288
+00:00:26,129 --> 00:00:30,493
 Bienvenido a Earth Decoded. Si te encantan los lugares
 
 10
-00:00:30,288 --> 00:00:34,580
+00:00:30,493 --> 00:00:34,777
 más extremos del planeta, suscríbete. Hoy, vamos a la
 
 11
-00:00:34,580 --> 00:00:37,414
+00:00:34,777 --> 00:00:37,606
 isla que Brasil no te deja visitar.
 
 12
-00:00:37,964 --> 00:00:41,434
+00:00:38,156 --> 00:00:41,633
 Su nombre real es Ilha da Queimada Grande. Está
 
 13
-00:00:41,434 --> 00:00:44,756
+00:00:41,633 --> 00:00:44,962
 en el océano Atlántico, a unos treinta y tres
 
 14
-00:00:44,756 --> 00:00:48,225
+00:00:44,962 --> 00:00:48,439
 kilómetros de la costa del estado de São Paulo.
 
 15
-00:00:48,775 --> 00:00:52,317
+00:00:48,989 --> 00:00:52,509
 Es pequeña, solo unas cuarenta y tres hectáreas, menos
 
 16
-00:00:52,317 --> 00:00:56,514
+00:00:52,509 --> 00:00:56,681
 de medio kilómetro cuadrado. Podrías cruzarla caminando en menos
 
 17
-00:00:56,514 --> 00:00:58,809
+00:00:56,681 --> 00:00:58,962
 de una hora, si no fuera por lo que
 
 18
-00:00:58,809 --> 00:00:59,399
+00:00:58,962 --> 00:00:59,549
 vive ahí.
 
 19
-00:00:59,949 --> 00:01:03,715
+00:01:00,099 --> 00:01:03,865
 Sus laderas están cubiertas de húmeda mata atlántica, con
 
 20
-00:01:03,715 --> 00:01:06,953
+00:01:03,865 --> 00:01:07,102
 acantilados rocosos que caen al mar. No hay playa
 
 21
-00:01:06,953 --> 00:01:10,322
+00:01:07,102 --> 00:01:10,472
 ni muelle. Los barcos deben acercarse con cuidado a
 
 22
-00:01:10,322 --> 00:01:13,890
+00:01:10,472 --> 00:01:14,040
 las rocas, y desembarcar es peligroso incluso antes de
 
 23
-00:01:13,890 --> 00:01:15,608
+00:01:14,040 --> 00:01:15,757
 encontrarte una serpiente.
 
 24
-00:01:16,158 --> 00:01:19,694
+00:01:16,307 --> 00:01:19,819
 Su nombre significa isla grande quemada. Hace mucho, la
 
 25
-00:01:19,694 --> 00:01:23,294
+00:01:19,819 --> 00:01:23,395
 gente intentó quemar el bosque para despejar tierra para
 
 26
-00:01:23,294 --> 00:01:25,545
+00:01:23,395 --> 00:01:25,630
 cultivar, pero el plan no prosperó.
 
 27
-00:01:26,095 --> 00:01:29,117
+00:01:26,180 --> 00:01:29,211
 La isla pertenece a sus serpientes: la cabeza de
 
 28
-00:01:29,117 --> 00:01:31,951
+00:01:29,211 --> 00:01:32,052
 lanza dorada, una víbora que solo vive aquí y
 
 29
-00:01:31,951 --> 00:01:33,903
+00:01:32,052 --> 00:01:34,009
 en ningún otro lugar del mundo.
 
 30
-00:01:34,453 --> 00:01:38,160
+00:01:34,559 --> 00:01:38,206
 Mide alrededor de setenta centímetros a un metro, con
 
 31
-00:01:38,160 --> 00:01:41,309
+00:01:38,206 --> 00:01:41,302
 un cuerpo pálido de color café dorado, que le
 
 32
-00:01:41,309 --> 00:01:42,218
+00:01:41,302 --> 00:01:42,197
 da su nombre.
 
 33
-00:01:42,768 --> 00:01:46,452
+00:01:42,747 --> 00:01:46,426
 ¿Cómo terminaron serpientes solas en una isla? Hace unos
 
 34
-00:01:46,452 --> 00:01:49,150
+00:01:46,426 --> 00:01:49,119
 once mil años, al final de la última edad
 
 35
-00:01:49,150 --> 00:01:51,848
+00:01:49,119 --> 00:01:51,813
 de hielo, el nivel del mar subió y separó
 
 36
-00:01:51,848 --> 00:01:55,598
+00:01:51,813 --> 00:01:55,557
 esta colina del continente. Las serpientes que vivían ahí
 
 37
-00:01:55,598 --> 00:01:56,848
+00:01:55,557 --> 00:01:56,805
 quedaron atrapadas.
 
 38
-00:01:57,398 --> 00:02:00,650
+00:01:57,355 --> 00:02:00,591
 En la isla no había ratas, ratones ni ranas
 
 39
-00:02:00,650 --> 00:02:04,129
+00:02:00,591 --> 00:02:04,052
 en el suelo. Así que las serpientes subieron a
 
 40
-00:02:04,129 --> 00:02:07,456
+00:02:04,052 --> 00:02:07,362
 los árboles y empezaron a cazar lo único que
 
 41
-00:02:07,456 --> 00:02:10,027
+00:02:07,362 --> 00:02:09,921
 seguía llegando: aves migratorias.
 
 42
-00:02:10,577 --> 00:02:13,233
+00:02:10,471 --> 00:02:13,131
 Eso hace la vida difícil. La mayor parte de
 
 43
-00:02:13,233 --> 00:02:16,197
+00:02:13,131 --> 00:02:16,101
 su comida llega solo cuando las aves se detienen
 
 44
-00:02:16,197 --> 00:02:19,780
+00:02:16,101 --> 00:02:19,689
 en la isla durante sus migraciones. Entre esas temporadas,
 
 45
-00:02:19,780 --> 00:02:22,929
+00:02:19,689 --> 00:02:22,844
 muchas serpientes pasan hambre por largos periodos.
 
 46
-00:02:23,479 --> 00:02:26,628
+00:02:23,394 --> 00:02:26,543
 Una pregunta rápida. ¿Te dan más miedo las serpientes
 
 47
-00:02:26,628 --> 00:02:29,005
+00:02:26,543 --> 00:02:28,919
 o las arañas? Dímelo en los comentarios.
 
 48
-00:02:29,555 --> 00:02:32,952
+00:02:29,469 --> 00:02:32,862
 Cazar aves es difícil. Si una serpiente muerde un
 
 49
-00:02:32,952 --> 00:02:35,725
+00:02:32,862 --> 00:02:35,631
 ave y esta se va volando, se pierde. Así
 
 50
-00:02:35,725 --> 00:02:38,291
+00:02:35,631 --> 00:02:38,193
 que en miles de años, el veneno de la
 
 51
-00:02:38,291 --> 00:02:42,520
+00:02:38,193 --> 00:02:42,417
 cabeza de lanza dorada se volvió extremadamente rápido, capaz
 
 52
-00:02:42,520 --> 00:02:44,808
+00:02:42,417 --> 00:02:44,701
 de matar un ave casi al instante.
 
 53
-00:02:45,358 --> 00:02:48,625
+00:02:45,251 --> 00:02:48,485
 Los científicos creen que su veneno es más potente
 
 54
-00:02:48,625 --> 00:02:51,891
+00:02:48,485 --> 00:02:51,718
 que el de su pariente del continente, la jararaca,
 
 55
-00:02:51,891 --> 00:02:55,158
+00:02:51,718 --> 00:02:54,951
 que ya causa muchas de las mordeduras de serpiente
 
 56
-00:02:55,158 --> 00:02:55,811
+00:02:54,951 --> 00:02:55,598
 en Brasil.
 
 57
-00:02:56,361 --> 00:02:59,252
+00:02:56,148 --> 00:02:59,024
 El veneno de estas víboras ataca la sangre y
 
 58
-00:02:59,252 --> 00:03:03,390
+00:02:59,024 --> 00:03:03,141
 los tejidos. Una mordida puede causar dolor intenso, hinchazón,
 
 59
-00:03:03,390 --> 00:03:06,609
+00:03:03,141 --> 00:03:06,343
 sangrado, daño en los riñones y muerte de tejido.
 
 60
-00:03:06,609 --> 00:03:08,777
+00:03:06,343 --> 00:03:08,500
 Sin antiveneno, puede ser mortal.
 
 61
-00:03:09,327 --> 00:03:13,040
+00:03:09,050 --> 00:03:12,749
 Las mordeduras de serpiente son un problema real en
 
 62
-00:03:13,040 --> 00:03:16,679
+00:03:12,749 --> 00:03:16,376
 Brasil. El país registra decenas de miles de casos
 
 63
-00:03:16,679 --> 00:03:20,464
+00:03:16,376 --> 00:03:20,148
 cada año, la mayoría por víboras del continente como
 
 64
-00:03:20,464 --> 00:03:21,338
+00:03:20,148 --> 00:03:21,018
 la jararaca.
 
 65
-00:03:21,888 --> 00:03:25,416
+00:03:21,568 --> 00:03:25,115
 Los médicos dicen que tras una mordida debes quedarte
 
 66
-00:03:25,416 --> 00:03:28,944
+00:03:25,115 --> 00:03:28,663
 lo más tranquilo y quieto posible, quitarte anillos y
 
 67
-00:03:28,944 --> 00:03:32,139
+00:03:28,663 --> 00:03:31,875
 ropa apretada, y llegar rápido a un hospital. No
 
 68
-00:03:32,139 --> 00:03:35,334
+00:03:31,875 --> 00:03:35,088
 cortes la herida, no intentes chupar el veneno y
 
 69
-00:03:35,334 --> 00:03:37,397
+00:03:35,088 --> 00:03:37,163
 no uses un torniquete apretado.
 
 70
-00:03:37,947 --> 00:03:40,605
+00:03:37,713 --> 00:03:40,371
 Y aquí está el problema. En la Isla de
 
 71
-00:03:40,605 --> 00:03:44,522
+00:03:40,371 --> 00:03:44,288
 las Serpientes no hay hospital, ni médico, ni carretera.
 
 72
-00:03:44,522 --> 00:03:47,810
+00:03:44,288 --> 00:03:47,575
 El antiveneno más cercano está a horas en barco
 
 73
-00:03:47,810 --> 00:03:49,489
+00:03:47,575 --> 00:03:49,254
 y auto en el continente.
 
 74
-00:03:50,039 --> 00:03:53,282
+00:03:49,804 --> 00:03:53,047
 Y las serpientes son difíciles de ver. Descansan en
 
 75
-00:03:53,282 --> 00:03:55,635
+00:03:53,047 --> 00:03:55,401
 ramas y entre hojas a la altura de la
 
 76
-00:03:55,635 --> 00:03:58,688
+00:03:55,401 --> 00:03:58,453
 cabeza y las manos, justo donde pondrías la mano
 
 77
-00:03:58,688 --> 00:04:00,151
+00:03:58,453 --> 00:03:59,916
 al subir por el bosque.
 
 78
-00:04:00,701 --> 00:04:03,965
+00:04:00,466 --> 00:04:03,701
 Los investigadores que la visitan usan botas gruesas y
 
 79
-00:04:03,965 --> 00:04:07,350
+00:04:03,701 --> 00:04:07,056
 protectores en las piernas, se mueven despacio y revisan
 
 80
-00:04:07,350 --> 00:04:10,674
+00:04:07,056 --> 00:04:10,350
 cada rama antes de tocarla. Incluso los expertos tratan
 
 81
-00:04:10,674 --> 00:04:12,669
+00:04:10,350 --> 00:04:12,327
 cada paso en la isla con respeto.
 
 82
-00:04:13,219 --> 00:04:17,091
+00:04:12,877 --> 00:04:16,724
 Ahora, las leyendas. Quizá escuchaste que hay una serpiente
 
 83
-00:04:17,091 --> 00:04:20,308
+00:04:16,724 --> 00:04:19,918
 por cada metro cuadrado. Es un mito. Las primeras
 
 84
-00:04:20,308 --> 00:04:22,605
+00:04:19,918 --> 00:04:22,200
 estimaciones fueron muy exageradas.
 
 85
-00:04:23,155 --> 00:04:27,493
+00:04:22,750 --> 00:04:27,066
 Estudios modernos de científicos brasileños estiman la población en
 
 86
-00:04:27,493 --> 00:04:30,470
+00:04:27,066 --> 00:04:30,030
 unos pocos miles de serpientes, más o menos de
 
 87
-00:04:30,470 --> 00:04:33,319
+00:04:30,030 --> 00:04:32,864
 dos a cuatro mil, que sigue siendo un número
 
 88
-00:04:33,319 --> 00:04:36,297
+00:04:32,864 --> 00:04:35,827
 increíblemente alto para una isla tan pequeña.
 
 89
-00:04:36,847 --> 00:04:39,903
-También hay una famosa leyenda de que el último
+00:04:36,377 --> 00:04:39,429
+La cabeza de lanza dorada caza sobre todo al
 
 90
-00:04:39,903 --> 00:04:43,414
-guardián del faro y su familia murieron por serpientes
+00:04:39,429 --> 00:04:42,897
+acecho. Espera inmóvil en una rama durante horas y
 
 91
-00:04:43,414 --> 00:04:47,316
-que entraron por una ventana. Es una historia escalofriante,
+00:04:42,897 --> 00:04:46,088
+ataca cuando un ave se posa lo bastante cerca.
 
 92
-00:04:47,316 --> 00:04:50,372
-pero no hay pruebas sólidas de que haya pasado.
+00:04:46,088 --> 00:04:49,348
+Tras la mordida, el ave casi nunca llega lejos.
 
 93
-00:04:50,922 --> 00:04:53,961
-Lo que sí es cierto: el faro se automatizó
+00:04:49,898 --> 00:04:53,666
+Las serpientes también comen lagartijas y a veces ranas,
 
 94
-00:04:53,961 --> 00:04:57,578
-hace décadas, así que ya nadie necesita vivir ahí.
+00:04:53,666 --> 00:04:57,569
+pero las aves son su comida principal. Algunos científicos
 
 95
-00:04:58,128 --> 00:05:01,175
-¿Has oído alguna leyenda aterradora sobre un lugar cerca
+00:04:57,569 --> 00:05:00,463
+creen que por las aves la isla tiene tantas
 
 96
-00:05:01,175 --> 00:05:02,971
-de ti? Dímelo en los comentarios.
+00:05:00,463 --> 00:05:02,549
+serpientes en tan poco espacio.
 
 97
-00:05:03,521 --> 00:05:06,960
-Hoy, la marina de Brasil y las autoridades ambientales
+00:05:03,099 --> 00:05:06,198
+También hay una famosa leyenda de que el último
 
 98
-00:05:06,960 --> 00:05:10,145
-prohíben las visitas a la isla. Solo científicos y
+00:05:06,198 --> 00:05:09,759
+guardián del faro y su familia murieron por serpientes
 
 99
-00:05:10,145 --> 00:05:14,094
-personal de la marina con permiso especial pueden desembarcar,
+00:05:09,759 --> 00:05:13,716
+que entraron por una ventana. Es una historia escalofriante,
 
 100
-00:05:14,094 --> 00:05:16,961
-y los investigadores suelen ir con un médico.
+00:05:13,716 --> 00:05:16,816
+pero no hay pruebas sólidas de que haya pasado.
 
 101
-00:05:17,511 --> 00:05:21,089
-La prohibición no solo protege a las personas. Protege
+00:05:17,366 --> 00:05:20,434
+Lo que sí es cierto: el faro se automatizó
 
 102
-00:05:21,089 --> 00:05:24,270
-a las serpientes. La cabeza de lanza dorada está
+00:05:20,434 --> 00:05:24,086
+hace décadas, así que ya nadie necesita vivir ahí.
 
 103
-00:05:24,270 --> 00:05:27,849
-catalogada en peligro crítico, porque vive en una isla
+00:05:24,636 --> 00:05:27,723
+¿Has oído alguna leyenda aterradora sobre un lugar cerca
 
 104
-00:05:27,849 --> 00:05:29,969
-diminuta y en ningún otro lugar.
+00:05:27,723 --> 00:05:29,543
+de ti? Dímelo en los comentarios.
 
 105
-00:05:30,519 --> 00:05:33,604
-Una de las mayores amenazas es la captura ilegal.
+00:05:30,093 --> 00:05:33,543
+Hoy, la marina de Brasil y las autoridades ambientales
 
 106
-00:05:33,604 --> 00:05:36,374
-Traficantes de fauna se han metido a la isla
+00:05:33,543 --> 00:05:36,738
+prohíben las visitas a la isla. Solo científicos y
 
 107
-00:05:36,374 --> 00:05:40,592
-para atrapar serpientes para coleccionistas, que pueden pagar miles
+00:05:36,738 --> 00:05:40,700
+personal de la marina con permiso especial pueden desembarcar,
 
 108
-00:05:40,592 --> 00:05:42,103
-de dólares por una sola.
+00:05:40,700 --> 00:05:43,575
+y los investigadores suelen ir con un médico.
 
 109
-00:05:42,653 --> 00:05:45,481
-No es la única isla así en Brasil. En
+00:05:44,125 --> 00:05:47,716
+La prohibición no solo protege a las personas. Protege
 
 110
-00:05:45,481 --> 00:05:49,379
-Alcatrazes, otra isla frente a São Paulo, vive otra
+00:05:47,716 --> 00:05:50,908
+a las serpientes. La cabeza de lanza dorada está
 
 111
-00:05:49,379 --> 00:05:52,819
-víbora que no existe en ningún otro lugar, la
+00:05:50,908 --> 00:05:54,499
+catalogada en peligro crítico, porque vive en una isla
 
 112
-00:05:52,819 --> 00:05:55,112
-cabeza de lanza de Alcatrazes.
+00:05:54,499 --> 00:05:56,627
+diminuta y en ningún otro lugar.
 
 113
-00:05:55,662 --> 00:05:59,061
-El fuego, las enfermedades y lo pequeño de la
+00:05:57,177 --> 00:06:00,284
+Una de las mayores amenazas es la captura ilegal.
 
 114
-00:05:59,061 --> 00:06:03,291
-población también los ponen en riesgo. Como llevan tanto
+00:06:00,284 --> 00:06:03,075
+Traficantes de fauna se han metido a la isla
 
 115
-00:06:03,291 --> 00:06:06,841
-tiempo aislados, tienen poca variedad genética.
+00:06:03,075 --> 00:06:07,324
+para atrapar serpientes para coleccionistas, que pueden pagar miles
 
 116
-00:06:07,391 --> 00:06:10,875
-Y los científicos quieren protegerlas por otra razón: el
+00:06:07,324 --> 00:06:08,846
+de dólares por una sola.
 
 117
-00:06:10,875 --> 00:06:14,423
-veneno puede salvar vidas. La investigación del veneno de
+00:06:09,396 --> 00:06:12,195
+No es la única isla así en Brasil. En
 
 118
-00:06:14,423 --> 00:06:17,783
-la jararaca del continente ayudó a crear el captopril,
+00:06:12,195 --> 00:06:16,053
+Alcatrazes, otra isla frente a São Paulo, vive otra
 
 119
-00:06:17,783 --> 00:06:21,330
-uno de los primeros medicamentos modernos para la presión
+00:06:16,053 --> 00:06:19,457
+víbora que no existe en ningún otro lugar, la
 
 120
-00:06:21,330 --> 00:06:23,881
-arterial, usado por millones de personas.
+00:06:19,457 --> 00:06:21,727
+cabeza de lanza de Alcatrazes.
 
 121
-00:06:24,431 --> 00:06:29,332
-El Instituto Butantan de São Paulo estudia estas serpientes
+00:06:22,277 --> 00:06:25,669
+El fuego, las enfermedades y lo pequeño de la
 
 122
-00:06:29,332 --> 00:06:33,486
-y produce antiveneno que salva miles de vidas cada
+00:06:25,669 --> 00:06:29,891
+población también los ponen en riesgo. Como llevan tanto
 
 123
-00:06:33,486 --> 00:06:33,818
-año.
+00:06:29,891 --> 00:06:33,434
+tiempo aislados, tienen poca variedad genética.
 
 124
-00:06:34,368 --> 00:06:37,094
-El veneno de la cabeza de lanza dorada también
+00:06:33,984 --> 00:06:37,469
+Y los científicos quieren protegerlas por otra razón: el
 
 125
-00:06:37,094 --> 00:06:39,879
-se estudia, por sus efectos en la coagulación y
+00:06:37,469 --> 00:06:41,016
+veneno puede salvar vidas. La investigación del veneno de
 
 126
-00:06:39,879 --> 00:06:43,198
-el corazón. Una serpiente mortal podría llevar algún día
+00:06:41,016 --> 00:06:44,376
+la jararaca del continente ayudó a crear el captopril,
 
 127
-00:06:43,198 --> 00:06:44,501
-a nuevos medicamentos.
+00:06:44,376 --> 00:06:47,923
+uno de los primeros medicamentos modernos para la presión
 
 128
-00:06:45,051 --> 00:06:49,315
-Entonces, ¿podrías sobrevivir en la Isla de las Serpientes?
+00:06:47,923 --> 00:06:50,475
+arterial, usado por millones de personas.
 
 129
-00:06:49,315 --> 00:06:53,144
-Si desembarcaras solo y te mordieran, con horas entre
+00:06:51,025 --> 00:06:55,881
+El Instituto Butantan de São Paulo estudia estas serpientes
 
 130
-00:06:53,144 --> 00:06:57,118
-tú y el antiveneno, tus posibilidades serían malas. Por
+00:06:55,881 --> 00:06:59,997
+y produce antiveneno que salva miles de vidas cada
 
 131
-00:06:57,118 --> 00:07:00,731
-eso nadie va sin permiso, experiencia y un médico.
+00:06:59,997 --> 00:07:00,326
+año.
 
 132
-00:07:01,281 --> 00:07:03,576
-Pero la isla no es la guarida de un
+00:07:00,876 --> 00:07:03,827
+Fundado en 1901, el Butantan es uno de los
 
 133
-00:07:03,576 --> 00:07:06,592
-monstruo. Es un mundo diminuto y frágil, y las
+00:07:03,827 --> 00:07:07,833
+mayores productores de antivenenos y vacunas del mundo, y
 
 134
-00:07:06,592 --> 00:07:10,723
-serpientes necesitan más protección de nosotros que nosotros de
+00:07:07,833 --> 00:07:11,205
+quienes visitan São Paulo pueden ver de cerca su
 
 135
-00:07:10,723 --> 00:07:11,116
-ellas.
+00:07:11,205 --> 00:07:15,211
+colección de serpientes vivas, con seguridad detrás de un
 
 136
-00:07:11,666 --> 00:07:16,140
-Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en
+00:07:15,211 --> 00:07:15,703
+vidrio.
 
 137
-00:07:16,140 --> 00:07:17,277
-los comentarios.
+00:07:16,253 --> 00:07:18,944
+El veneno de la cabeza de lanza dorada también
 
 138
-00:07:17,827 --> 00:07:21,070
-Gracias por ver Earth Decoded. Si te gustó, dale
+00:07:18,944 --> 00:07:21,694
+se estudia, por sus efectos en la coagulación y
 
 139
-00:07:21,070 --> 00:07:24,449
-me gusta, suscríbete y compártelo con un amigo que
+00:07:21,694 --> 00:07:24,971
+el corazón. Una serpiente mortal podría llevar algún día
 
 140
-00:07:24,449 --> 00:07:27,558
-les tenga miedo a las serpientes. Nos vemos en
+00:07:24,971 --> 00:07:26,258
+a nuevos medicamentos.
 
 141
-00:07:27,558 --> 00:07:28,301
+00:07:26,808 --> 00:07:31,106
+Entonces, ¿podrías sobrevivir en la Isla de las Serpientes?
+
+142
+00:07:31,106 --> 00:07:34,967
+Si desembarcaras solo y te mordieran, con horas entre
+
+143
+00:07:34,967 --> 00:07:38,974
+tú y el antiveneno, tus posibilidades serían malas. Por
+
+144
+00:07:38,974 --> 00:07:42,616
+eso nadie va sin permiso, experiencia y un médico.
+
+145
+00:07:43,166 --> 00:07:45,461
+Pero la isla no es la guarida de un
+
+146
+00:07:45,461 --> 00:07:48,477
+monstruo. Es un mundo diminuto y frágil, y las
+
+147
+00:07:48,477 --> 00:07:52,607
+serpientes necesitan más protección de nosotros que nosotros de
+
+148
+00:07:52,607 --> 00:07:53,001
+ellas.
+
+149
+00:07:53,551 --> 00:07:57,923
+Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en
+
+150
+00:07:57,923 --> 00:07:59,033
+los comentarios.
+
+151
+00:07:59,583 --> 00:08:02,787
+Gracias por ver Earth Decoded. Si te gustó, dale
+
+152
+00:08:02,787 --> 00:08:06,125
+me gusta, suscríbete y compártelo con un amigo que
+
+153
+00:08:06,125 --> 00:08:09,196
+les tenga miedo a las serpientes. Nos vemos en
+
+154
+00:08:09,196 --> 00:08:09,930
 el próximo.
 
