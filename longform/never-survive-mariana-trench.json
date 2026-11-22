@@ -179,11 +179,9 @@
       "headline": "650 FEET: FADING",
       "visual": {
         "type": "image",
-        "files": [
-          "Deep blue Red Sea reefs.jpg"
-        ],
         "commons": [
-          "underwater sunbeams ocean"
+          "NOAA Ocean Explorer midwater",
+          "Okeanos Explorer jellyfish"
         ],
         "query": "ocean"
       }
@@ -335,14 +333,11 @@
     {
       "text": "Nobody went back for fifty two years. Then in 2012, filmmaker James Cameron made the first solo dive to the bottom.",
       "es": "Nadie regresó durante cincuenta y dos años. Luego, en 2012, el cineasta James Cameron hizo el primer descenso en solitario hasta el fondo.",
-      "headline": "2012: SOLO DIVE",
       "visual": {
-        "type": "image",
-        "commons": [
-          "Deepsea Challenger submersible James Cameron",
-          "Deepsea Challenger"
-        ],
-        "query": "submersible ocean"
+        "type": "card",
+        "big": "2012",
+        "label": "James Cameron's solo dive",
+        "sub": "52 years after the first visit"
       }
     },
     {
