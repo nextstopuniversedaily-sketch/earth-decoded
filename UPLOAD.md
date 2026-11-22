@@ -866,7 +866,33 @@ El Everest es la montaña más alta sobre el nivel del mar, pero otras dos puede
 ## 27. Wed Dec 16, 12:00 PM · Short
 **Venice Is Built on a Forest Underwater 🇮🇹🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s024.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s024.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s024.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s024.es.srt)
+
+**Title** (copy):
+```text
+Venice Is Built on a Forest Underwater 🇮🇹🤯 #shorts
+```
+**Description** (copy):
+```text
+Venice stands on millions of wooden piles pushed into the mud of a lagoon, some of them more than a thousand years old. Why hasn't the wood rotted, and why is the city still sinking?
+#Venice #Italy #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+venice, venice sinking, venice wooden piles, italy, acqua alta, mose barrier, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Venecia está construida sobre un bosque bajo el agua 🇮🇹🤯 #shorts
+```
+```text
+Venecia se sostiene sobre millones de pilotes de madera clavados en el lodo de una laguna, algunos con más de mil años. ¿Por qué no se ha podrido la madera y por qué la ciudad sigue hundiéndose?
+#Venecia #Italia #shorts
+```
+</details>
 
 ## 28. Thu Dec 17, 12:00 PM · Short
 **Why Greenland Is Covered in Ice (and Iceland Is Green) 🧊 #shorts**

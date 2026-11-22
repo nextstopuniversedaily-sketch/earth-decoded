@@ -1,0 +1,37 @@
+[0;93m2026-11-22 08:26:34.277916713 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 24: Venice
+  audio 119.3s
+  - skip File:Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg: license 'CC BY-SA 4.0'
+  - skip File:Canal Grande Chiesa della Salute e Dogana dal ponte dell Accademia.jpg: license 'CC BY-SA 3.0'
+  - skip File:Venice awakes (20618763815).jpg: license 'CC BY-SA 4.0'
+  - skip File:(Venice) Francesco Albotto - Canal Grande con San Simeon Piccolo e la chiesa degli Scalzi verso Santa Lucia - Pinacoteca Querini Stampalia.jpg: license 'CC BY-SA 4.0'
+  - skip File:Aperture of Rio San Giovanni Crisostomo on Grand Canal (Venice).jpg: license 'CC BY-SA 4.0'
+  - skip File:(Venice) Rio and chiesa di San Vidal viewed from Grand Canal.jpg: license 'CC BY-SA 4.0'
+  WIKI File:(Venice) Veduta del Canal Grande dalla Punta della Dogana - Bernardo Bellotto.jpg (Public domain)
+  segment 1/12 [title] 3.4s
+  segment 2/12 [map] 10.5s
+  segment 3/12 [card] 11.1s
+  - skip File:Santa_Maria_della_Salute_from_Hotel_Monaco.jpg: license 'CC BY-SA 3.0'
+  ! no usable NASA image for 'Santa Maria della Salute'
+  segment 4/12 [image] 12.3s
+  segment 5/12 [card] 11.8s
+  segment 6/12 [card] 12.6s
+  - skip File:Acqua alta in Venice, Fondamenta del Squero, 2019.jpg: license 'CC BY-SA 4.0'
+  - skip File:Acqua alta in Venice, Campo Santa Margherita, 2019.jpg: license 'CC BY-SA 4.0'
+  - skip File:Acqua alta in Venice, Fondamenta di Borgo, 2019.jpg: license 'CC BY-SA 4.0'
+  - skip File:Fdta de la Case Nove, Castello, Venedig Acqua alta-5207.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-4496.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-4806.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-5048.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-5097.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-5204.jpg: license 'CC BY-SA 4.0'
+  - skip File:Venedig Acqua alta-4682.jpg: license 'CC BY-SA 4.0'
+  NASA 'Venice flood' -> STS062-85-021: Mississippi River Delta, Louisiana as seen from STS-62
+  segment 7/12 [image] 14.8s
+  segment 8/12 [card] 9.7s
+  segment 9/12 [card] 10.0s
+  segment 10/12 [card] 8.5s
+  segment 11/12 [card] 9.7s
+  NASA 'Venice' -> PIA00546: Venice, Italy & the Alps from the Shuttle KidSat Camera
+  segment 12/12 [end] 5.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s024.mp4 (27.4 MB)
