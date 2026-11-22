@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:03,091
+Imagina que tu coche se descompone en una carretera
+
+2
+00:00:03,091 --> 00:00:06,121
+solitaria en julio. Sin sombra. Sin señal. El aire
+
+3
+00:00:06,121 --> 00:00:08,727
+se siente como un horno abierto, y el suelo
+
+4
+00:00:08,727 --> 00:00:11,637
+está tan caliente que podría quemarte los pies a
+
+5
+00:00:11,637 --> 00:00:14,546
+través de los zapatos. Bienvenido al Valle de la
+
+6
+00:00:14,546 --> 00:00:17,455
+Muerte, el lugar más caliente jamás medido en la
+
+7
+00:00:17,455 --> 00:00:21,152
+Tierra. ¿Cuánto tiempo durarías aquí? Quédate hasta el final,
+
+8
+00:00:21,152 --> 00:00:24,122
+porque la respuesta depende de algo simple que la
+
+9
+00:00:24,122 --> 00:00:25,152
+mayoría hace mal.
+
+10
+00:00:25,702 --> 00:00:29,760
+Bienvenido a Earth Decoded. Si te encantan los lugares
+
+11
+00:00:29,760 --> 00:00:33,968
+más extremos del planeta, suscríbete. Hoy pasamos un día
+
+12
+00:00:33,968 --> 00:00:37,499
+de verano en el Valle de la Muerte, California.
+
+13
+00:00:38,049 --> 00:00:41,531
+El diez de julio de 1913, un termómetro en
+
+14
+00:00:41,531 --> 00:00:45,594
+Furnace Creek, en el Valle de la Muerte, registró
+
+15
+00:00:45,594 --> 00:00:49,573
+casi cincuenta y siete grados Celsius. Más de un
+
+16
+00:00:49,573 --> 00:00:54,133
+siglo después, sigue siendo la temperatura del aire más
+
+17
+00:00:54,133 --> 00:00:57,697
+alta registrada oficialmente en el planeta.
+
+18
+00:00:58,247 --> 00:01:00,771
+Y no fue un accidente de un solo día.
+
+19
+00:01:00,771 --> 00:01:04,113
+Durante esa ola de calor, la temperatura llegó al
+
+20
+00:01:04,113 --> 00:01:07,660
+menos a cincuenta y cuatro grados durante cinco días
+
+21
+00:01:07,660 --> 00:01:08,274
+seguidos.
+
+22
+00:01:08,824 --> 00:01:12,369
+El suelo se calienta todavía más. El quince de
+
+23
+00:01:12,369 --> 00:01:15,914
+julio de 1972, el suelo en Furnace Creek llegó
+
+24
+00:01:15,914 --> 00:01:19,459
+a noventa y cuatro grados Celsius. A solo seis
+
+25
+00:01:19,459 --> 00:01:22,541
+grados del punto de ebullición del agua.
+
+26
+00:01:23,091 --> 00:01:25,615
+¿Por qué hace tanto calor en el Valle de
+
+27
+00:01:25,615 --> 00:01:28,643
+la Muerte? Primero, porque es bajo. La cuenca de
+
+28
+00:01:28,643 --> 00:01:31,545
+Badwater, en medio del valle, está a ochenta y
+
+29
+00:01:31,545 --> 00:01:34,068
+seis metros bajo el nivel del mar. Es el
+
+30
+00:01:34,068 --> 00:01:36,339
+punto más bajo de toda Norteamérica.
+
+31
+00:01:36,889 --> 00:01:39,623
+El aire que baja a una cuenca profunda se
+
+32
+00:01:39,623 --> 00:01:42,489
+comprime y se calienta, como el aire en una
+
+33
+00:01:42,489 --> 00:01:46,223
+bomba de bicicleta. Segundo, el valle es largo, estrecho
+
+34
+00:01:46,223 --> 00:01:49,156
+y rodeado de montañas altas, así que el aire
+
+35
+00:01:49,156 --> 00:01:52,356
+caliente queda atrapado y da vueltas en lugar de
+
+36
+00:01:52,356 --> 00:01:52,889
+escapar.
+
+37
+00:01:53,439 --> 00:01:56,587
+Tercero, en el fondo del valle casi no crece
+
+38
+00:01:56,587 --> 00:01:59,019
+nada y el aire es muy seco. La luz
+
+39
+00:01:59,019 --> 00:02:02,095
+del sol golpea roca desnuda y sal, el suelo
+
+40
+00:02:02,095 --> 00:02:05,171
+se calienta, y el suelo calienta el aire de
+
+41
+00:02:05,171 --> 00:02:06,602
+encima, todo el día.
+
+42
+00:02:07,152 --> 00:02:10,101
+Y lo que da miedo: en verano, las noches
+
+43
+00:02:10,101 --> 00:02:13,862
+casi no refrescan. Hay noches en que la temperatura
+
+44
+00:02:13,862 --> 00:02:17,327
+nunca baja de treinta y ocho grados Celsius. Tu
+
+45
+00:02:17,327 --> 00:02:18,949
+cuerpo nunca descansa.
+
+46
+00:02:19,499 --> 00:02:22,609
+Una pregunta rápida antes de seguir. ¿Cuál es la
+
+47
+00:02:22,609 --> 00:02:25,847
+temperatura más alta que has vivido? Dímelo en los
+
+48
+00:02:25,847 --> 00:02:26,625
+comentarios.
+
+49
+00:02:27,175 --> 00:02:30,054
+Volvamos a ti, varado en la carretera. En la
+
+50
+00:02:30,054 --> 00:02:33,327
+primera hora, sudas. Mucho. En este aire tan seco,
+
+51
+00:02:33,327 --> 00:02:36,337
+el sudor se evapora en cuanto aparece, así que
+
+52
+00:02:36,337 --> 00:02:39,479
+quizá ni te sientas mojado. Es una trampa. Estás
+
+53
+00:02:39,479 --> 00:02:42,620
+perdiendo agua mucho más rápido de lo que crees.
+
+54
+00:02:43,170 --> 00:02:47,073
+Con calor extremo, una persona puede perder más de
+
+55
+00:02:47,073 --> 00:02:50,273
+un litro de sudor por hora. Sin agua para
+
+56
+00:02:50,273 --> 00:02:53,239
+reponerlo, te deshidratas rápidamente.
+
+57
+00:02:53,789 --> 00:02:56,944
+Para la tercera hora, sientes mareo y te late
+
+58
+00:02:56,944 --> 00:03:00,590
+la cabeza. Tienes la boca seca, el corazón acelerado
+
+59
+00:03:00,590 --> 00:03:03,956
+y calambres. Esto es agotamiento por calor, y es
+
+60
+00:03:03,956 --> 00:03:06,269
+la sirena de alarma de tu cuerpo.
+
+61
+00:03:06,819 --> 00:03:10,030
+Si sigues caminando bajo el sol, la cosa se
+
+62
+00:03:10,030 --> 00:03:14,137
+pone peligrosa. Cuando tu cuerpo ya no puede enfriarse,
+
+63
+00:03:14,137 --> 00:03:18,169
+tu temperatura interna sube de cuarenta grados. Eso es
+
+64
+00:03:18,169 --> 00:03:21,603
+un golpe de calor, y es una emergencia médica.
+
+65
+00:03:22,153 --> 00:03:24,799
+Con un golpe de calor, la gente se confunde,
+
+66
+00:03:24,799 --> 00:03:28,226
+deja de sudar y puede desmayarse. Los guardaparques dicen
+
+67
+00:03:28,226 --> 00:03:31,532
+que así ocurren muchas tragedias aquí: la gente intenta
+
+68
+00:03:31,532 --> 00:03:34,057
+caminar en busca de ayuda a mitad del día.
+
+69
+00:03:34,607 --> 00:03:37,379
+Esto es lo simple que la mayoría hace mal.
+
+70
+00:03:37,379 --> 00:03:40,018
+Si tu coche se descompone en el Valle de
+
+71
+00:03:40,018 --> 00:03:43,053
+la Muerte, quédate con el coche. Da sombra, es
+
+72
+00:03:43,053 --> 00:03:46,418
+más fácil de ver, y los guardaparques patrullan las
+
+73
+00:03:46,418 --> 00:03:49,651
+carreteras. Bebe tu agua, no la racionees, y solo
+
+74
+00:03:49,651 --> 00:03:52,357
+muévete temprano, cuando está más fresco.
+
+75
+00:03:52,907 --> 00:03:56,546
+El parque recomienda beber al menos cuatro litros de
+
+76
+00:03:56,546 --> 00:03:59,136
+agua al día en verano, y más si estás
+
+77
+00:03:59,136 --> 00:04:03,196
+activo. Por eso los guardaparques dicen: viaja preparado y
+
+78
+00:04:03,196 --> 00:04:05,856
+quédate en las carreteras principales.
+
+79
+00:04:06,406 --> 00:04:09,116
+Sé honesto. ¿Te habrías quedado con el coche, o
+
+80
+00:04:09,116 --> 00:04:12,230
+habrías empezado a caminar? Dímelo en los comentarios.
+
+81
+00:04:12,780 --> 00:04:16,392
+¿Cómo obtuvo su nombre el Valle de la Muerte?
+
+82
+00:04:16,392 --> 00:04:20,324
+En 1849, durante la fiebre del oro de California,
+
+83
+00:04:20,324 --> 00:04:23,695
+un grupo de pioneros tomó lo que creían un
+
+84
+00:04:23,695 --> 00:04:27,628
+atajo por el valle. Se perdieron durante semanas.
+
+85
+00:04:28,178 --> 00:04:31,723
+Cuando por fin salieron cruzando las montañas, la leyenda
+
+86
+00:04:31,723 --> 00:04:34,149
+dice que uno de ellos se volteó y dijo:
+
+87
+00:04:34,149 --> 00:04:37,010
+Adiós, Valle de la Muerte. El nombre se quedó.
+
+88
+00:04:37,560 --> 00:04:40,831
+Después llegaron mineros en busca de oro, plata y
+
+89
+00:04:40,831 --> 00:04:44,971
+bórax. Equipos de veinte mulas arrastraban enormes carretas de
+
+90
+00:04:44,971 --> 00:04:49,043
+bórax por el desierto, más de doscientos cincuenta kilómetros
+
+91
+00:04:49,043 --> 00:04:50,445
+hasta el ferrocarril.
+
+92
+00:04:50,995 --> 00:04:54,218
+Mucho antes de los pioneros, ya había gente que
+
+93
+00:04:54,218 --> 00:04:57,853
+llamaba hogar a este valle. Los timbisha shoshone han
+
+94
+00:04:57,853 --> 00:05:00,939
+vivido aquí por más de mil años. Sabían dónde
+
+95
+00:05:00,939 --> 00:05:04,574
+había manantiales, qué plantas comer y cuándo subir a
+
+96
+00:05:04,574 --> 00:05:06,974
+las montañas más frescas en verano.
+
+97
+00:05:07,524 --> 00:05:10,735
+Su nombre para el valle es Tümpisa, que significa
+
+98
+00:05:10,735 --> 00:05:13,618
+pintura de roca, por la arcilla roja de ocre
+
+99
+00:05:13,618 --> 00:05:16,501
+que usaban. Hoy su pueblo sigue en pie cerca
+
+100
+00:05:16,501 --> 00:05:19,449
+de Furnace Creek, dentro del parque nacional.
+
+101
+00:05:19,999 --> 00:05:23,020
+Pensarías que nada puede vivir aquí. Pero el Valle
+
+102
+00:05:23,020 --> 00:05:26,161
+de la Muerte está lleno de sobrevivientes. Las ratas
+
+103
+00:05:26,161 --> 00:05:29,121
+canguro pueden vivir toda su vida sin beber agua,
+
+104
+00:05:29,121 --> 00:05:31,839
+obteniendo humedad de las semillas que comen.
+
+105
+00:05:32,389 --> 00:05:35,511
+En pequeñas pozas de agua que sobrevivieron desde la
+
+106
+00:05:35,511 --> 00:05:38,272
+última edad de hielo vive el pez cachorrito de
+
+107
+00:05:38,272 --> 00:05:40,793
+Devils Hole, uno de los peces más raros de
+
+108
+00:05:40,793 --> 00:05:43,374
+la Tierra. Viven en una sola poza pequeña y
+
+109
+00:05:43,374 --> 00:05:44,635
+en ningún otro lugar.
+
+110
+00:05:45,185 --> 00:05:49,030
+Y después de un invierno lluvioso, algo mágico ocurre.
+
+111
+00:05:49,030 --> 00:05:53,017
+El desierto estalla en una súper floración, alfombras de
+
+112
+00:05:53,017 --> 00:05:56,363
+flores amarillas que cubren el fondo del valle.
+
+113
+00:05:56,913 --> 00:05:59,606
+El Valle de la Muerte también tiene uno de
+
+114
+00:05:59,606 --> 00:06:03,580
+los grandes misterios de la naturaleza: las piedras navegantes
+
+115
+00:06:03,580 --> 00:06:07,234
+de Racetrack Playa. Rocas pesadas dejan largos rastros en
+
+116
+00:06:07,234 --> 00:06:09,990
+el lecho seco del lago, como si se movieran
+
+117
+00:06:09,990 --> 00:06:10,375
+solas.
+
+118
+00:06:10,925 --> 00:06:15,223
+Durante décadas nadie pudo explicarlo. Luego, en 2014, científicos
+
+119
+00:06:15,223 --> 00:06:18,609
+lo filmaron. En raras mañanas de invierno, se forman
+
+120
+00:06:18,609 --> 00:06:21,930
+capas delgadas de hielo sobre agua poco profunda, y
+
+121
+00:06:21,930 --> 00:06:26,163
+vientos suaves empujan el hielo, arrastrando las rocas centímetro
+
+122
+00:06:26,163 --> 00:06:27,010
+a centímetro.
+
+123
+00:06:27,560 --> 00:06:30,648
+Incluso hay nieve. A unos ciento treinta y seis
+
+124
+00:06:30,648 --> 00:06:34,196
+kilómetros de Badwater está el monte Whitney, el punto
+
+125
+00:06:34,196 --> 00:06:37,482
+más alto de los cuarenta y ocho estados contiguos.
+
+126
+00:06:37,482 --> 00:06:39,716
+El punto más bajo y el más alto de
+
+127
+00:06:39,716 --> 00:06:42,344
+Estados Unidos continental, casi juntos.
+
+128
+00:06:42,894 --> 00:06:46,022
+Esto es difícil de imaginar. Durante la última edad
+
+129
+00:06:46,022 --> 00:06:48,721
+de hielo, el Valle de la Muerte estaba lleno
+
+130
+00:06:48,721 --> 00:06:51,481
+de agua. Un enorme lago, el lago Manly, medía
+
+131
+00:06:51,481 --> 00:06:54,793
+unos ciento sesenta kilómetros de largo y hasta ciento
+
+132
+00:06:54,793 --> 00:06:56,633
+ochenta metros de profundidad.
+
+133
+00:06:57,183 --> 00:07:00,621
+Cuando el clima se calentó, el lago se evaporó
+
+134
+00:07:00,621 --> 00:07:04,283
+y dejó las salinas de Badwater. Esa costra blanca
+
+135
+00:07:04,283 --> 00:07:06,750
+que ves hoy es lo que queda de un
+
+136
+00:07:06,750 --> 00:07:07,721
+lago antiguo.
+
+137
+00:07:08,271 --> 00:07:11,418
+Y el Valle de la Muerte también tiene volcanes.
+
+138
+00:07:11,418 --> 00:07:14,699
+El cráter Ubehebe, de casi un kilómetro de ancho,
+
+139
+00:07:14,699 --> 00:07:17,645
+se formó cuando el magma que subía tocó agua
+
+140
+00:07:17,645 --> 00:07:21,261
+subterránea y explotó en vapor, hace apenas unos miles
+
+141
+00:07:21,261 --> 00:07:21,797
+de años.
+
+142
+00:07:22,347 --> 00:07:25,883
+El Valle de la Muerte sigue rompiendo récords. En
+
+143
+00:07:25,883 --> 00:07:28,914
+2020 y otra vez en 2021, llegó a cincuenta
+
+144
+00:07:28,914 --> 00:07:32,955
+y cuatro grados Celsius, algunas de las temperaturas más
+
+145
+00:07:32,955 --> 00:07:36,491
+altas medidas con fiabilidad en tiempos modernos.
+
+146
+00:07:37,041 --> 00:07:39,638
+Aun así, más de un millón de personas lo
+
+147
+00:07:39,638 --> 00:07:43,014
+visitan cada año, muchas en verano, solo para sentir
+
+148
+00:07:43,014 --> 00:07:45,676
+el calor y tomarse una foto con el famoso
+
+149
+00:07:45,676 --> 00:07:47,494
+termómetro de Furnace Creek.
+
+150
+00:07:48,044 --> 00:07:52,222
+Algunas personas vienen en julio a propósito. Cada verano,
+
+151
+00:07:52,222 --> 00:07:56,761
+corredores enfrentan la Badwater 135, una carrera de doscientos
+
+152
+00:07:56,761 --> 00:08:01,083
+diecisiete kilómetros, desde la cuenca de Badwater hasta las
+
+153
+00:08:01,083 --> 00:08:02,956
+laderas del monte Whitney.
+
+154
+00:08:03,506 --> 00:08:06,730
+Los corredores tienen equipos que los rocían con agua
+
+155
+00:08:06,730 --> 00:08:09,468
+y les llevan hielo, y muchos corren de noche.
+
+156
+00:08:09,468 --> 00:08:11,902
+A menudo la llaman una de las carreras a
+
+157
+00:08:11,902 --> 00:08:13,362
+pie más duras del mundo.
+
+158
+00:08:13,912 --> 00:08:16,327
+Y cuando el sol se oculta, el Valle de
+
+159
+00:08:16,327 --> 00:08:19,822
+la Muerte muestra otra cara. Es un Parque Internacional
+
+160
+00:08:19,822 --> 00:08:22,746
+de Cielo Oscuro, uno de los mejores lugares de
+
+161
+00:08:22,746 --> 00:08:25,669
+Estados Unidos para ver la Vía Láctea a simple
+
+162
+00:08:25,669 --> 00:08:26,051
+vista.
+
+163
+00:08:26,601 --> 00:08:30,338
+Entonces, ¿podrías sobrevivir un día de verano en el
+
+164
+00:08:30,338 --> 00:08:33,859
+Valle de la Muerte? Con agua, sombra y paciencia,
+
+165
+00:08:33,859 --> 00:08:36,877
+sí. Sin ellas, en plena tarde de julio, tu
+
+166
+00:08:36,877 --> 00:08:40,399
+cuerpo podría estar en grave peligro en solo unas
+
+167
+00:08:40,399 --> 00:08:40,830
+horas.
+
+168
+00:08:41,380 --> 00:08:44,012
+El Valle de la Muerte no es malvado. Solo
+
+169
+00:08:44,012 --> 00:08:46,643
+es extremo. Si lo respetas, es uno de los
+
+170
+00:08:46,643 --> 00:08:48,825
+lugares más hermosos de la Tierra.
+
+171
+00:08:49,375 --> 00:08:52,835
+Última pregunta. ¿A dónde vamos ahora? ¿A un lugar
+
+172
+00:08:52,835 --> 00:08:56,778
+igual de extremo, pero helado? Dímelo en los comentarios.
+
+173
+00:08:57,328 --> 00:09:00,826
+Gracias por ver Earth Decoded. Si te gustó, dale
+
+174
+00:09:00,826 --> 00:09:04,470
+me gusta, suscríbete y compártelo con un amigo que
+
+175
+00:09:04,470 --> 00:09:07,604
+siempre se queja del calor. Nos vemos en el
+
+176
+00:09:07,604 --> 00:09:08,187
+próximo.
+

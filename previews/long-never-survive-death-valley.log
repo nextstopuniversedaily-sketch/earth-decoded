@@ -1,0 +1,112 @@
+[0;93m2026-11-22 04:21:21.381662959 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive a Summer Day in Death Valley
+  audio 550.7s (9.18 min)
+  WIKI File:Badwater_Basin_from_Dante's_View_Overlook.JPG (CC BY 3.0)
+  segment 1/41 [title] 25.7s
+  segment 2/41 [map] 12.3s
+  segment 3/41 [card] 20.2s
+  WIKI File:Furnace Creek Visitor Center park rangers digitial thermometer sign 20 July 2020.png (Public domain)
+  segment 4/41 [image] 10.6s
+  segment 5/41 [card] 14.3s
+  - skip File:Visitors on the salt flats of Badwater Basin, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Boardwalk at Badwater Basin, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Walking on Badwater Basin (3028818792).jpg: license 'CC BY-SA 2.0'
+  - skip File:Badwater salt formations.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Uplift on the salt flats, Badwater Basin.jpg (Public domain)
+  segment 6/41 [image] 13.8s
+  - skip File:Badwater Basin seen from Dante's View, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dante's View and death Valley, salt lake.JPG: license 'CC BY-SA 3.0'
+  - skip File:Badwater Basin and a ridge seen from Dante's View, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Death Valley from Dante's View.jpg: license 'CC BY-SA 4.0'
+  - skip File:Panamint Range and Death Valley from Dante's View (1 669 m).jpg: license 'CC BY-SA 4.0'
+  WIKI File:Midday view over the Death Valley salt flats from Dante's View, Death Valley National Park.jpg (CC0)
+  segment 7/41 [image] 16.6s
+  - skip File:Devil's Golf Course in Death Valley NP.jpg: license 'CC BY-SA 3.0'
+  - skip File:Devil's Golf Course in Death Valley NP 2.jpg: license 'CC BY-SA 3.0'
+  - skip File:Pool of water - Devils Golf Course - Death Valley, CA.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Death Valley,19820817,Devil's Golf Course.jpg (Public domain)
+  segment 8/41 [image] 13.7s
+  WIKI File:An International Dark Sky Park, Death Valley National Park has some of the best night sky viewing in the country. (cc311a3f-fea8-4835-b3a5-f6a2b877e5f4).jpg (Public domain)
+  segment 9/41 [image] 12.3s
+  segment 10/41 [question] 7.7s
+  WIKI File:Death Valley Climb (189271887).jpeg (CC BY 3.0)
+  segment 11/41 [image] 16.0s
+  segment 12/41 [card] 10.6s
+  - skip File:Death Valley Mesquite Flats Sand Dunes 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mesquite Flat Sand Dunes Panorama Morning 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mesquite Sand Dunes in Death Valley.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mesquite Flat Sand Dunes Death Valley December 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Landscape near Mesquite Flat Sand Dunes Morning 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mesquite Flat Dune field at Death Valley NP.jpg: license 'CC BY-SA 3.0'
+  - skip File:Mesquite Flat Sand Dunes Death Valley 2018-04-07 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Mesquite Flat Sand Dunes Death Valley 2018-04-07 01.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Mesquite Flat Sand Dunes - California6.jpg (CC BY 2.0)
+  segment 13/41 [image] 13.0s
+  segment 14/41 [card] 15.3s
+  WIKI File:Extreme heat warning sign in Death Valley, California, USA (9282).jpg (CC BY 2.0)
+  segment 15/41 [image] 12.5s
+  segment 16/41 [card] 18.3s
+  segment 17/41 [card] 13.5s
+  segment 18/41 [question] 6.4s
+  - skip File:Furnace Creek, Death Valley.jpg: license 'CC BY-SA 3.0'
+  ! no usable NASA image for 'pioneer wagon desert'
+  segment 19/41 [image] 15.4s
+  - skip File:Zabriskie Point Death Valley December 2013 002.jpg: license 'CC BY-SA 3.0'
+  - skip File:Death Valley view from Zabriskie Point 2013 01.jpg: license 'CC BY-SA 3.0'
+  - skip File:Death Valley view from Zabriskie Point with people 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Zabriskie Point-Panorama-edit2.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Zabriskie Point, Death Valley, California, panorama.jpg (CC BY 2.5)
+  segment 20/41 [image] 9.4s
+  - skip File:20_Mule_Team_in_Death_Valley.jpg: looks like a chart/blank
+  ! no usable NASA image for 'Death Valley borax wagons'
+  segment 21/41 [image] 13.4s
+  - skip File:Death Valley exit SR190 view Panamint Butt flash flood 2013.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Timbisha Shoshone Tribe community in Death Valley.jpg (CC BY 3.0)
+  segment 22/41 [image] 16.5s
+  WIKI File:Red Rock Canyon State Park - 51112923115.jpg (CC BY 2.0)
+  segment 23/41 [image] 12.5s
+  - skip File:Heermannskangaroorat.png: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'kangaroo rat'
+  segment 24/41 [image] 12.4s
+  WIKI File:Cyprinodon_diabolis,_males.jpg (Public domain)
+  segment 25/41 [image] 12.8s
+  ! no usable NASA image for 'Death Valley wildflowers'
+  segment 26/41 [image] 11.7s
+  - skip File:Racetrack_Playa_in_Death_Valley_National_Park.jpg: license 'CC BY-SA 4.0'
+  NASA 'Racetrack Playa' -> GSFC_20171208_Archive_e002047: Mysterious Roving Rocks of Racetrack Playa
+  segment 27/41 [image] 14.0s
+  segment 28/41 [card] 16.6s
+  WIKI File:Mount_Whitney_2003-03-25.jpg (CC BY 1.0)
+  segment 29/41 [image] 15.3s
+  segment 30/41 [card] 14.3s
+  ! no usable NASA image for 'salt flats Death Valley'
+  segment 31/41 [image] 11.1s
+  WIKI File:Ubehebe_Crater,_Death_Valley,_CA.jpg (CC BY 2.0)
+  segment 32/41 [image] 14.1s
+  segment 33/41 [card] 14.7s
+  - skip File:Furnace Creek, CA 92328, USA - panoramio (19).jpg: license 'CC BY-SA 3.0'
+  - skip File:Display of Books on Death Valley - Furnace Creek Visitors Center - Death Valley - California - USA (6914410475).jpg: license 'CC BY-SA 2.0'
+  WIKI File:Death Valley Museum at a cool 50°F - panoramio.jpg (CC BY 3.0)
+  segment 34/41 [image] 11.0s
+  segment 35/41 [card] 15.5s
+  - skip File:David Goggins Badwater Ultramarathon 2007.jpg: looks like a chart/blank
+  ! no usable NASA image for 'desert runner'
+  segment 36/41 [image] 10.4s
+  WIKI File:Deathvalleysky nps big.jpg (Public domain)
+  segment 37/41 [image] 12.7s
+  WIKI File:Mesquite Flat Sand Dunes - California8.jpg (CC BY 2.0)
+  segment 38/41 [image] 14.8s
+  - skip File:Artist's Palette, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Artist's Palette panorama, Death Valley National Park, California.jpg: license 'CC BY-SA 4.0'
+  - skip File:Death Valley at Artists Palette 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Death Valley Artist's Drive 2013.jpg: license 'CC BY-SA 3.0'
+  - skip File:Artist's Drive Death Valley December 2013 001.jpg: license 'CC BY-SA 3.0'
+  - skip File:Artist's Drive Death Valley December 2013 002.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Artists Drive, Death Valley.jpg (CC BY 2.0)
+  segment 39/41 [image] 8.0s
+  segment 40/41 [question] 8.0s
+  NASA 'desert sunset' -> GSFC_20171208_Archive_e001945: Desert Patterns
+  segment 41/41 [end] 13.4s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-death-valley.mp4 (55.6 MB, 9.18 min)
+  WIKI File:Badwater_Basin_from_Dante's_View_Overlook.JPG (CC BY 3.0)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-death-valley.jpg
