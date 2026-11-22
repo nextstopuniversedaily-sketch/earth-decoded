@@ -1,22 +1,21 @@
-[0;93m2026-11-22 08:29:14.537525434 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 10:41:18.285706653 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 25: Greenland
-  audio 105.7s
-  WIKI File:Greenland coast - panoramio.jpg (CC BY 3.0)
-  segment 1/12 [title] 4.2s
+  audio 106.2s
+  segment 1/12 [title] 4.3s
   segment 2/12 [map] 9.8s
-  segment 3/12 [card] 9.8s
-  segment 4/12 [card] 12.2s
+  segment 3/12 [card] 9.9s
+  segment 4/12 [card] 12.1s
   segment 5/12 [card] 7.9s
-  WIKI File:East coast of Greenland - panoramio (1).jpg (CC BY 3.0)
-  segment 6/12 [image] 10.9s
+  WIKI File:Greenland coast - panoramio.jpg (CC BY 3.0)
+  segment 6/12 [image] 11.0s
   - skip File:Icelandic Landscape near Neskaupstaður July 2014.JPG: license 'CC BY-SA 4.0'
   - skip File:Brúarhlöð, Iceland, 20230501 1041 3844.jpg: license 'CC BY-SA 4.0'
   WIKI File:Fjallsárlón glacier lake, Iceland, 20240719 1720 2774.jpg (CC BY 4.0)
-  segment 7/12 [image] 10.3s
+  segment 7/12 [image] 10.4s
   segment 8/12 [card] 8.6s
-  segment 9/12 [card] 11.1s
-  segment 10/12 [card] 10.2s
-  segment 11/12 [map] 5.5s
+  segment 9/12 [card] 11.3s
+  segment 10/12 [card] 10.3s
+  segment 11/12 [map] 5.6s
   NASA 'Greenland' -> PIA24983: Apusiaajik Glacier, Greenland
   segment 12/12 [end] 5.2s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s025.mp4 (17.3 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s025.mp4 (17.0 MB)
