@@ -1003,7 +1003,33 @@ Bajo el Parque Nacional de Yellowstone hay uno de los sistemas volcánicos más 
 ## 31. Sat Dec 19, 12:00 PM · Short
 **The 100 km Gap in the World's Longest Road 🌎🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s027.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s027.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s027.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s027.es.srt)
+
+**Title** (copy):
+```text
+The 100 km Gap in the World's Longest Road 🌎🤯 #shorts
+```
+**Description** (copy):
+```text
+The Pan-American Highway runs from Alaska to the tip of South America, except for one stretch of jungle between Panama and Colombia: the Darién Gap. Here's why no road was ever built.
+#DarienGap #PanAmericanHighway #Panama #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+darien gap, pan american highway, panama, colombia, longest road, jungle, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+El hueco de 100 km en la carretera más larga del mundo 🌎🤯 #shorts
+```
+```text
+La Carretera Panamericana va de Alaska al extremo de Sudamérica, excepto por un tramo de selva entre Panamá y Colombia: el Tapón del Darién. Te explico por qué nunca se construyó.
+#Darien #Panamericana #shorts
+```
+</details>
 
 ## 32. Sun Dec 20, 12:00 PM · Short
 **Australia Built a 5,600 km Fence… for Dogs 🇦🇺🤯 #shorts**

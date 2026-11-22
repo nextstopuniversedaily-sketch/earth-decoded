@@ -1,0 +1,17 @@
+[0;93m2026-11-22 08:34:15.898394973 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 27: The Darién Gap
+  audio 104.8s
+  segment 1/11 [title] 3.3s
+  segment 2/11 [map] 10.8s
+  segment 3/11 [map] 10.8s
+  WIKI File:Jungle path in the Darién Gap.jpg (Public domain)
+  segment 4/11 [image] 6.5s
+  segment 5/11 [card] 13.5s
+  segment 6/11 [card] 9.1s
+  segment 7/11 [card] 6.9s
+  segment 8/11 [card] 12.3s
+  segment 9/11 [card] 13.0s
+  segment 10/11 [card] 12.0s
+  NASA 'rainforest' -> PIA11420: Mato Grosso, Brazil
+  segment 11/11 [end] 6.7s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s027.mp4 (15.9 MB)
