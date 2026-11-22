@@ -189,6 +189,26 @@
    }
   },
   {
+   "text": "And the wind. In the afternoons, strong winds sweep across the high desert, carrying dust and sand that sting your face and eyes, and make it even harder to keep your body's water.",
+   "es": "Y el viento. Por las tardes, vientos fuertes barren el desierto alto, llevando polvo y arena que te pican la cara y los ojos, y hacen aún más difícil conservar el agua del cuerpo.",
+   "visual": {
+    "type": "card",
+    "big": "WIND & DUST",
+    "label": "every afternoon",
+    "sub": "stinging sand and faster dehydration"
+   }
+  },
+  {
+   "text": "Without shade, water and protection, a person lost in the open Atacama could be in serious danger within a single day.",
+   "es": "Sin sombra, agua ni protección, una persona perdida en pleno Atacama podría estar en grave peligro en un solo día.",
+   "visual": {
+    "type": "card",
+    "big": "ONE DAY",
+    "label": "to serious danger",
+    "sub": "without shade or water"
+   }
+  },
+  {
    "text": "And the altitude. On the high plateau, the air has much less oxygen. Workers at some observatories here carry oxygen tanks and must pass medical checks before going up.",
    "es": "Y la altura. En el altiplano, el aire tiene mucho menos oxígeno. Los trabajadores de algunos observatorios llevan tanques de oxígeno y deben pasar revisiones médicas antes de subir.",
    "headline": "THIN AIR",

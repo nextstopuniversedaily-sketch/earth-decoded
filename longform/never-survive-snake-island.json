@@ -296,6 +296,26 @@
    }
   },
   {
+   "text": "The golden lancehead mostly hunts by ambush. It waits motionless on a branch for hours, then strikes when a bird lands close enough. After the bite, the bird usually doesn't get far.",
+   "es": "La cabeza de lanza dorada caza sobre todo al acecho. Espera inmóvil en una rama durante horas y ataca cuando un ave se posa lo bastante cerca. Tras la mordida, el ave casi nunca llega lejos.",
+   "visual": {
+    "type": "card",
+    "big": "AMBUSH",
+    "label": "waits for hours on a branch",
+    "sub": "then strikes in a flash"
+   }
+  },
+  {
+   "text": "The snakes also eat lizards, and sometimes frogs, but birds are their main meal. Some scientists think birds are why the island has so many snakes in such a small space.",
+   "es": "Las serpientes también comen lagartijas y a veces ranas, pero las aves son su comida principal. Algunos científicos creen que por las aves la isla tiene tantas serpientes en tan poco espacio.",
+   "visual": {
+    "type": "card",
+    "big": "BIRDS",
+    "label": "the main meal",
+    "sub": "the reason so many snakes survive"
+   }
+  },
+  {
    "text": "There's also a famous legend that the island's last lighthouse keeper and his family were killed by snakes that came in through a window. It's a creepy story, but there's no solid evidence it ever happened.",
    "es": "También hay una famosa leyenda de que el último guardián del faro y su familia murieron por serpientes que entraron por una ventana. Es una historia escalofriante, pero no hay pruebas sólidas de que haya pasado.",
    "visual": {

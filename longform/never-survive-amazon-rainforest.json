@@ -263,6 +263,26 @@
    }
   },
   {
+   "text": "At night, the jungle floor comes alive with spiders, scorpions and centipedes. Locals shake out their boots every morning before putting them on, a simple habit that prevents a lot of painful surprises.",
+   "es": "De noche, el suelo de la selva se llena de arañas, escorpiones y ciempiés. Los locales sacuden sus botas cada mañana antes de ponérselas, un hábito simple que evita muchas sorpresas dolorosas.",
+   "visual": {
+    "type": "card",
+    "big": "SHAKE YOUR BOOTS",
+    "label": "every morning",
+    "sub": "spiders and scorpions love them"
+   }
+  },
+  {
+   "text": "And then there are the plants. Some trees have spines on their trunks, some leaves cause rashes, and some vines are strong enough to trap your feet. Every step off the trail is a risk.",
+   "es": "Y luego están las plantas. Algunos árboles tienen espinas en el tronco, algunas hojas causan ronchas y algunas lianas son tan fuertes que atrapan tus pies. Cada paso fuera del sendero es un riesgo.",
+   "visual": {
+    "type": "card",
+    "big": "SPINES & VINES",
+    "label": "the plants fight back too",
+    "sub": "every step is a risk"
+   }
+  },
+  {
    "text": "In the rivers live black caimans, piranhas and electric eels that can deliver shocks of several hundred volts. And the green anaconda, the heaviest snake in the world, can weigh around a hundred kilos.",
    "es": "En los ríos viven caimanes negros, pirañas y anguilas eléctricas que pueden dar descargas de varios cientos de voltios. Y la anaconda verde, la serpiente más pesada del mundo, puede pesar alrededor de cien kilos.",
    "headline": "IN THE RIVERS",

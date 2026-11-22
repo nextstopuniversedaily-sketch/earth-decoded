@@ -111,6 +111,26 @@
    }
   },
   {
+   "text": "Where would all that water go? The oceans already cover about seventy-one percent of the planet. With seventy more meters, they would swallow many of the low, flat places where people prefer to live: river deltas, coastal plains and islands.",
+   "es": "¿A dónde iría toda esa agua? Los océanos ya cubren cerca del setenta y uno por ciento del planeta. Con setenta metros más, se tragarían muchos de los lugares bajos y planos donde la gente prefiere vivir: deltas de ríos, llanuras costeras e islas.",
+   "visual": {
+    "type": "card",
+    "big": "71%",
+    "label": "of Earth is already ocean",
+    "sub": "70 m more would swallow the lowlands"
+   }
+  },
+  {
+   "text": "About forty percent of the world's people live within one hundred kilometers of the coast, which is why sea level matters to so many of us.",
+   "es": "Cerca del cuarenta por ciento de la población mundial vive a menos de cien kilómetros de la costa, por eso el nivel del mar nos importa a tantos.",
+   "visual": {
+    "type": "card",
+    "big": "~40%",
+    "label": "of people live near the coast",
+    "sub": "within 100 km of the sea"
+   }
+  },
+  {
    "text": "One important detail: melting sea ice, like the floating ice at the North Pole, doesn't raise sea levels, just like melting ice cubes don't overflow a glass. It's ice on land that matters.",
    "es": "Un detalle importante: el hielo marino que se derrite, como el hielo flotante del Polo Norte, no sube el nivel del mar, igual que los cubos de hielo que se derriten no desbordan un vaso. Lo que importa es el hielo sobre tierra.",
    "visual": {
