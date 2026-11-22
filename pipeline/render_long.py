@@ -45,7 +45,7 @@ def get_image(v, offline):
         return None
     os.makedirs(R.CACHE, exist_ok=True)
     for f in v.get("files", []):
-        img = R._commons_file(f if f.startswith("File:") else "File:" + f, f)
+        img = R._commons_file(f if f.startswith("File:") else "File:" + f, f, check=False, allow_reuse=True)
         if img is not None:
             return img
     return R.pick_image(v, offline)
@@ -150,6 +150,7 @@ def render_long(path, offline=False):
     sub_btn = subscribe_button(0.8)
     preview, chapters = [], []
     R.CREDITS.clear()
+    R.USED.clear()
     last_img, t0 = None, 0.0
     n = len(segs)
     for si, s in enumerate(segs):

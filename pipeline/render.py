@@ -125,6 +125,7 @@ def _download(nasa_id, path):
 
 UA = {"User-Agent": "EarthDecodedBot/1.0 (https://github.com/nextstopuniversedaily-sketch/earth-decoded)"}
 CREDITS = []  # (artist, license, source page) for images used in the current episode
+USED = set()  # Commons files already used in the current video (searches skip them)
 
 
 def _strip_html(t):
@@ -135,10 +136,11 @@ def _license_ok(lic):
     l = (lic or "").lower()
     if "sa" in re.split(r"[\s\-]", l) or "nd" in re.split(r"[\s\-]", l):
         return False
-    return l.startswith("public domain") or l.startswith("pd") or "cc0" in l or l.startswith("cc by") or l.startswith("cc-by")
+    return (l.startswith("public domain") or l.startswith("pd") or "cc0" in l or l.startswith("cc by") or l.startswith("cc-by")
+            or l.startswith("no restrictions") or l == "attribution")
 
 
-def _commons_file(file_title, cache_key):
+def _commons_file(file_title, cache_key, check=True, allow_reuse=False):
     """Download a Commons file (as a 2400px rendition) if its license allows reuse in a video."""
     try:
         r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
@@ -150,6 +152,8 @@ def _commons_file(file_title, cache_key):
         print("  ! commons lookup failed", file_title, e)
         return None
     if ii.get("mime") not in ("image/jpeg", "image/png"):
+        return None
+    if not allow_reuse and file_title.replace("_", " ") in USED:
         return None
     meta = ii.get("extmetadata", {})
     lic = meta.get("LicenseShortName", {}).get("value", "")
@@ -167,9 +171,10 @@ def _commons_file(file_title, cache_key):
             print("  ! commons download failed", file_title, e)
             return None
     img = Image.open(path).convert("RGB")
-    if not _ok_pixels(img):
+    if check and not _ok_pixels(img):
         print(f"  - skip {file_title}: looks like a chart/blank")
         return None
+    USED.add(file_title.replace("_", " "))
     artist = _strip_html(meta.get("Artist", {}).get("value", "")) or "Unknown"
     CREDITS.append((artist[:120], lic, ii.get("descriptionurl", "")))
     print(f"  WIKI {file_title} ({lic})")
@@ -496,6 +501,7 @@ def render_episode(path, offline=False):
     n_segs = len(ep["segments"])
     last_img = None
     CREDITS.clear()
+    USED.clear()
     for si, s in enumerate(ep["segments"]):
         v = s.get("visual", {"type": "image"})
         vt = v.get("type", "image")

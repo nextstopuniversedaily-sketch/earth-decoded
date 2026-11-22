@@ -43,10 +43,10 @@
       "es": "Imagina que flotas en medio del océano Pacífico. El agua está tibia y el cielo despejado. Ahora imagina que algo te jala directo hacia abajo. Debajo de ti está el lugar más profundo del planeta. ¿Hasta dónde llegarías antes de que el océano te detuviera? Quédate hasta el final, porque lo que encontraron los científicos en el fondo es lo más extraño.",
       "visual": {
         "type": "title",
-        "query": "Pacific Ocean surface",
-        "commons": [
-          "Pacific Ocean open water"
-        ]
+        "files": [
+          "Marianatrenchmap.png"
+        ],
+        "query": "Pacific Ocean"
       }
     },
     {
@@ -85,10 +85,7 @@
       "headline": "FEWER THAN 30 PEOPLE",
       "visual": {
         "type": "image",
-        "wiki": [
-          "Mount Everest"
-        ],
-        "query": "Mount Everest"
+        "query": "Himalaya Everest"
       }
     },
     {
@@ -105,16 +102,11 @@
     {
       "text": "If you dropped Mount Everest, the tallest mountain on Earth, into the trench, its peak would still be more than a mile underwater.",
       "es": "Si dejaras caer el Everest, la montaña más alta de la Tierra, dentro de la fosa, su cima seguiría más de un kilómetro y medio bajo el agua.",
-      "headline": "EVEREST WOULD DISAPPEAR",
       "visual": {
-        "type": "image",
-        "wiki": [
-          "Mount Everest"
-        ],
-        "commons": [
-          "Everest north face"
-        ],
-        "query": "Himalaya Everest"
+        "type": "card",
+        "big": "1+ MILE",
+        "label": "of water above Everest's peak",
+        "sub": "if Everest were dropped into the trench"
       }
     },
     {
@@ -151,13 +143,11 @@
     {
       "text": "It formed because one giant piece of Earth's crust, the Pacific Plate, is slowly sliding underneath another. Where they meet, the seafloor bends down into the planet. And you are falling straight into that gap.",
       "es": "Se formó porque una enorme pieza de la corteza terrestre, la placa del Pacífico, se desliza lentamente debajo de otra. Donde se encuentran, el fondo marino se dobla hacia el interior del planeta. Y tú estás cayendo directo en esa grieta.",
-      "headline": "PLATES COLLIDING",
       "visual": {
-        "type": "image",
-        "wiki": [
-          "Subduction"
-        ],
-        "query": "ocean floor relief"
+        "type": "card",
+        "big": "2 PLATES",
+        "label": "one sliding under the other",
+        "sub": "the Pacific Plate dives beneath the Mariana Plate"
       }
     },
     {
@@ -189,10 +179,13 @@
       "headline": "650 FEET: FADING",
       "visual": {
         "type": "image",
-        "commons": [
-          "underwater sunlight rays deep blue"
+        "files": [
+          "Deep blue Red Sea reefs.jpg"
         ],
-        "query": "underwater sunlight"
+        "commons": [
+          "underwater sunbeams ocean"
+        ],
+        "query": "ocean"
       }
     },
     {
@@ -208,13 +201,11 @@
     {
       "text": "Scientists call the deepest zone, below about twenty thousand feet, the hadal zone. It's named after Hades, the Greek god of the underworld. And you still have more than six miles to go.",
       "es": "Los científicos llaman a la zona más profunda, debajo de unos seis mil metros, la zona hadal. Su nombre viene de Hades, el dios griego del inframundo. Y todavía te faltan más de diez kilómetros.",
-      "headline": "THE HADAL ZONE",
       "visual": {
-        "type": "image",
-        "wiki": [
-          "Hadal zone"
-        ],
-        "query": "deep sea darkness"
+        "type": "card",
+        "big": "HADAL ZONE",
+        "label": "below about 20,000 feet",
+        "sub": "named after Hades, god of the underworld"
       }
     },
     {
@@ -234,9 +225,10 @@
       "visual": {
         "type": "image",
         "commons": [
-          "deep ocean water blue dark"
+          "NOAA deep sea jellyfish",
+          "Hydromedusa Okeanos Explorer"
         ],
-        "query": "deep ocean"
+        "query": "ocean"
       }
     },
     {
@@ -255,9 +247,9 @@
       "visual": {
         "type": "image",
         "commons": [
-          "diver dark water silhouette"
+          "NOAA scuba diver underwater"
         ],
-        "query": "ocean diver"
+        "query": "NEEMO aquanaut underwater"
       }
     },
     {
@@ -295,13 +287,11 @@
     {
       "text": "So what would that do to you? The parts of your body filled with air would go first. Your lungs, your sinuses, your ears. The air inside them gets squeezed smaller and smaller, and your lungs would collapse long before the bottom.",
       "es": "¿Y qué te haría eso? Primero, las partes de tu cuerpo llenas de aire. Tus pulmones, tus senos nasales, tus oídos. El aire dentro de ellos se comprime cada vez más, y tus pulmones colapsarían mucho antes de llegar al fondo.",
-      "headline": "SQUEEZED",
       "visual": {
-        "type": "image",
-        "commons": [
-          "air bubbles underwater dark"
-        ],
-        "query": "bubbles underwater"
+        "type": "card",
+        "big": "COLLAPSE",
+        "label": "your lungs, long before the bottom",
+        "sub": "air spaces get squeezed smaller and smaller"
       }
     },
     {
@@ -310,9 +300,10 @@
       "visual": {
         "type": "image",
         "commons": [
-          "deep sea fish NOAA"
+          "Okeanos Explorer deep-sea fish",
+          "NOAA deep sea fish Okeanos"
         ],
-        "query": "deep sea creature"
+        "query": "ocean"
       }
     },
     {
@@ -322,10 +313,13 @@
       "headline": "1960: THE TRIESTE",
       "visual": {
         "type": "image",
+        "files": [
+          "Bathyscaphe_Trieste.jpg"
+        ],
         "wiki": [
           "Trieste (bathyscaphe)"
         ],
-        "query": "bathyscaphe Trieste"
+        "query": "bathyscaphe"
       }
     },
     {
@@ -344,10 +338,11 @@
       "headline": "2012: SOLO DIVE",
       "visual": {
         "type": "image",
-        "wiki": [
+        "commons": [
+          "Deepsea Challenger submersible James Cameron",
           "Deepsea Challenger"
         ],
-        "query": "submersible"
+        "query": "submersible ocean"
       }
     },
     {
@@ -355,10 +350,11 @@
       "es": "Y a partir de 2019, el explorador Victor Vescovo hizo una serie de descensos en un sumergible hecho para la máxima profundidad del océano, llevando a otras personas, incluido el hijo de Don Walsh.",
       "visual": {
         "type": "image",
-        "wiki": [
-          "DSV Limiting Factor"
+        "commons": [
+          "Limiting Factor submersible",
+          "Triton submersible"
         ],
-        "query": "deep submergence vehicle"
+        "query": "submarine ocean"
       }
     },
     {
@@ -461,9 +457,10 @@
       "visual": {
         "type": "image",
         "commons": [
-          "deep blue ocean darkness"
+          "Okeanos Explorer bioluminescence",
+          "NOAA deep sea octopus"
         ],
-        "query": "ocean depth"
+        "query": "ocean"
       }
     },
     {
@@ -472,9 +469,10 @@
       "visual": {
         "type": "image",
         "commons": [
-          "NOAA deep sea creature Mariana"
+          "Okeanos Explorer siphonophore",
+          "NOAA deep sea creature Okeanos Explorer 2016"
         ],
-        "query": "deep sea"
+        "query": "ocean"
       }
     },
     {
