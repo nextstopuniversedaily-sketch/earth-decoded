@@ -1,37 +1,37 @@
 1
-00:00:00,000 --> 00:00:02,410
+00:00:00,000 --> 00:00:02,398
 La pirámide más grande del mundo no
 
 2
-00:00:02,410 --> 00:00:04,544
+00:00:02,398 --> 00:00:04,523
 está en Egipto. Está en México.
 
 3
-00:00:04,894 --> 00:00:07,202
+00:00:04,873 --> 00:00:07,175
 En el pueblo de Cholula, en Puebla,
 
 4
-00:00:07,202 --> 00:00:09,247
+00:00:07,175 --> 00:00:09,214
 hay un gran cerro verde con una
 
 5
-00:00:09,247 --> 00:00:12,017
+00:00:09,214 --> 00:00:11,977
 iglesia amarilla encima. Pero ese cerro no
 
 6
-00:00:12,017 --> 00:00:12,809
+00:00:11,977 --> 00:00:12,766
 es un cerro.
 
 7
-00:00:13,159 --> 00:00:15,742
+00:00:13,116 --> 00:00:15,713
 Bajo el pasto está la Gran Pirámide
 
 8
-00:00:15,742 --> 00:00:19,948
+00:00:15,713 --> 00:00:19,941
 de Cholula, conocida como Tlachihualtepetl, que significa
 
 9
-00:00:19,948 --> 00:00:21,351
+00:00:19,941 --> 00:00:21,351
 cerro hecho a mano.
 
 10
@@ -63,94 +63,94 @@ grande jamás construida, y el monumento más
 grande de cualquier tipo.
 
 17
-00:00:38,550 --> 00:00:41,397
+00:00:38,550 --> 00:00:41,404
 Se construyó por etapas durante unos mil
 
 18
-00:00:41,397 --> 00:00:43,888
+00:00:41,404 --> 00:00:43,901
 años, empezando hace más de dos mil
 
 19
-00:00:43,888 --> 00:00:47,019
+00:00:43,901 --> 00:00:47,041
 años, cada nueva capa cubriendo la anterior.
 
 20
-00:00:47,369 --> 00:00:50,653
+00:00:47,391 --> 00:00:50,654
 Para cuando llegaron los españoles en el
 
 21
-00:00:50,653 --> 00:00:54,266
+00:00:50,654 --> 00:00:54,244
 siglo dieciséis, estaba cubierta de tierra y
 
 22
-00:00:54,266 --> 00:00:58,125
+00:00:54,244 --> 00:00:58,078
 plantas. En 1594 construyeron encima la iglesia
 
 23
-00:00:58,125 --> 00:01:00,916
+00:00:58,078 --> 00:01:00,852
 de Nuestra Señora de los Remedios.
 
 24
-00:01:01,266 --> 00:01:04,386
+00:01:01,202 --> 00:01:04,349
 Hoy puedes caminar por túneles excavados por
 
 25
-00:01:04,386 --> 00:01:07,152
+00:01:04,349 --> 00:01:07,137
 arqueólogos dentro de la pirámide, y en
 
 26
-00:01:07,152 --> 00:01:10,201
+00:01:07,137 --> 00:01:10,212
 un día despejado ver el volcán Popocatépetl
 
 27
-00:01:10,201 --> 00:01:11,335
+00:01:10,212 --> 00:01:11,357
 humeando detrás.
 
 28
-00:01:11,685 --> 00:01:13,703
+00:01:11,707 --> 00:01:13,719
 La iglesia está encima de la pirámide
 
 29
-00:01:13,703 --> 00:01:16,919
+00:01:13,719 --> 00:01:16,927
 porque los colonizadores españoles solían construir templos
 
 30
-00:01:16,919 --> 00:01:19,100
+00:01:16,927 --> 00:01:19,102
 sobre los sitios sagrados de los pueblos
 
 31
-00:01:19,100 --> 00:01:20,027
+00:01:19,102 --> 00:01:20,027
 que conquistaban.
 
 32
-00:01:20,377 --> 00:01:22,831
+00:01:20,377 --> 00:01:22,860
 Cholula también es una de las ciudades
 
 33
-00:01:22,831 --> 00:01:25,609
+00:01:22,860 --> 00:01:25,669
 habitadas de forma continua más antiguas de
 
 34
-00:01:25,609 --> 00:01:28,322
+00:01:25,669 --> 00:01:28,414
 América, con gente viviendo ahí desde hace
 
 35
-00:01:28,322 --> 00:01:29,614
+00:01:28,414 --> 00:01:29,721
 más de dos mil años.
 
 36
-00:01:29,964 --> 00:01:33,100
+00:01:30,071 --> 00:01:33,207
 La pirámide estaba dedicada al dios Quetzalcóatl,
 
 37
-00:01:33,100 --> 00:01:34,572
+00:01:33,207 --> 00:01:34,679
 la serpiente emplumada.
 
 38
-00:01:34,922 --> 00:01:37,097
+00:01:35,029 --> 00:01:37,188
 ¿Has ido a Cholula? Dímelo en los
 
 39
-00:01:37,097 --> 00:01:37,887
+00:01:37,188 --> 00:01:37,973
 comentarios.
 

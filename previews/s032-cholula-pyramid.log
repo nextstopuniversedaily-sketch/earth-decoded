@@ -1,22 +1,19 @@
-[0;93m2026-11-22 08:45:17.863416388 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 10:43:40.157393192 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 32: Cholula
-  audio 98.8s
+  audio 98.9s
   WIKI File:Cholula church atop pyramid.jpg (CC BY 2.0)
   segment 1/12 [title] 4.9s
-  segment 2/12 [map] 8.3s
+  segment 2/12 [map] 8.2s
   WIKI File:Cholula, Great Pyramid, Building 5 (20498609518).jpg (CC BY 2.0)
-  segment 3/12 [image] 8.5s
+  segment 3/12 [image] 8.6s
   segment 4/12 [card] 7.8s
   segment 5/12 [card] 9.1s
   segment 6/12 [card] 8.8s
   ! no usable NASA image for 'Cholula church'
-  segment 7/12 [image] 13.9s
-  - skip File:Mexico-Popocatepetl.jpg: license 'CC BY-SA 3.0'
-  NASA 'Popocatepetl' -> PIA15617: ASTER Tracks Continuing Popocatepetl Eruption
-  segment 8/12 [image] 10.4s
+  segment 7/12 [image] 13.8s
+  segment 8/12 [card] 10.5s
   segment 9/12 [card] 8.7s
-  segment 10/12 [card] 9.6s
+  segment 10/12 [card] 9.7s
   segment 11/12 [card] 5.0s
-  ! no usable NASA image for 'Cholula'
   segment 12/12 [end] 3.9s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s032.mp4 (36.9 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s032.mp4 (40.3 MB)
