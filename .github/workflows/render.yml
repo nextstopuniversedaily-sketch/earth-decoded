@@ -52,7 +52,8 @@ jobs:
           mkdir -p previews videos/long
           for f in $(python pipeline/render.py --all --list); do
             python pipeline/render.py "$f" 2>&1 | tee "previews/$(basename "$f" .json).log"
-            git add videos previews
+            python tools/index.py || true
+            git add videos previews UPLOAD.md
             git commit -q -m "Render $(basename "$f" .json)" || true
             git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
           done
@@ -64,7 +65,8 @@ jobs:
             slug=$(python -c "import json,sys;print(json.load(open(sys.argv[1]))['slug'])" "$f")
             python pipeline/render_long.py "$f" 2>&1 | tee "previews/long-$slug.log"
             python pipeline/thumbnail.py "$f" 2>&1 | tee -a "previews/long-$slug.log" || true
-            git add videos/long previews
+            python tools/index.py || true
+            git add videos/long previews UPLOAD.md
             git commit -q -m "Render long-form $slug" || true
             git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
           done
