@@ -1610,5 +1610,42 @@ El 26 de abril de 1986, el reactor 4 de la planta nuclear de Chernóbil explotó
 ## 47. Sat Feb 27, 11:00 AM · Long video
 **What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-all-ice-melted.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-what-if-all-ice-melted.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-all-ice-melted.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-all-ice-melted.es.srt)
+
+**Title** (copy):
+```text
+What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)
+```
+**Description** (copy):
+```text
+If every glacier and ice sheet on Earth melted, sea levels would rise by about 70 meters. Which cities would disappear, what would the map of the Americas look like, how long would it take, and what is really happening to the ice today?
+
+Sources: USGS, NASA, IPCC AR6, NOAA.
+#SeaLevelRise #Climate #Ice #EarthDecoded
+
+Chapters:
+0:00 A world without ice
+0:36 Where the ice is
+2:01 The new map
+3:55 A different planet
+5:04 Is it really happening?
+6:43 How we adapt
+7:02 So, what if?
+```
+**Tags** (copy):
+```text
+what if all the ice melted, sea level rise, greenland ice sheet, antarctica, climate change, flooded cities, thwaites glacier, what if, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Qué pasaría si se derritiera todo el hielo de la Tierra? (70 metros más de mar)
+```
+```text
+Si se derritieran todos los glaciares y capas de hielo de la Tierra, el nivel del mar subiría unos 70 metros. ¿Qué ciudades desaparecerían, cómo se vería el mapa de América, cuánto tardaría y qué está pasando realmente con el hielo hoy?
+#NivelDelMar #Clima
+```
+</details>
 

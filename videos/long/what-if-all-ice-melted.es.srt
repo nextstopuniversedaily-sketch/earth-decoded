@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:03,440
+Imagina despertar en un mundo sin hielo. Sin glaciares
+
+2
+00:00:03,440 --> 00:00:06,051
+en las montañas, sin la capa blanca de la
+
+3
+00:00:06,051 --> 00:00:10,192
+Antártida, sin Groenlandia congelada. Ahora mira la costa. Miami,
+
+4
+00:00:10,192 --> 00:00:14,651
+Nueva Orleans, Cancún, Londres, Shanghái: desaparecidas, bajo el agua.
+
+5
+00:00:14,651 --> 00:00:17,645
+¿Cómo se vería el planeta si se derritiera todo
+
+6
+00:00:17,645 --> 00:00:20,129
+el hielo de la Tierra? ¿Y qué tan cerca
+
+7
+00:00:20,129 --> 00:00:22,613
+estamos realmente? Vamos a averiguarlo.
+
+8
+00:00:23,163 --> 00:00:27,182
+Bienvenido a Earth Decoded. Si te encantan los lugares
+
+9
+00:00:27,182 --> 00:00:31,870
+más extremos del planeta, suscríbete. Hoy, derretimos todos los
+
+10
+00:00:31,870 --> 00:00:35,963
+glaciares del planeta, al menos en nuestra imaginación.
+
+11
+00:00:36,513 --> 00:00:39,257
+La mayor parte del agua dulce del mundo está
+
+12
+00:00:39,257 --> 00:00:42,812
+congelada. Cerca de dos tercios están atrapados en hielo,
+
+13
+00:00:42,812 --> 00:00:45,555
+sobre todo en dos enormes capas de hielo: la
+
+14
+00:00:45,555 --> 00:00:47,052
+Antártida y Groenlandia.
+
+15
+00:00:47,602 --> 00:00:50,266
+La capa de hielo de la Antártida es enorme.
+
+16
+00:00:50,266 --> 00:00:53,426
+En algunos lugares mide más de cuatro kilómetros de
+
+17
+00:00:53,426 --> 00:00:56,339
+grosor. Si se derritiera toda, el nivel del mar
+
+18
+00:00:56,339 --> 00:00:58,631
+subiría unos cincuenta y ocho metros.
+
+19
+00:00:59,181 --> 00:01:01,384
+La mayor parte de ese hielo está en la
+
+20
+00:01:01,384 --> 00:01:04,513
+Antártida Oriental, que está sobre todo en tierra alta
+
+21
+00:01:04,513 --> 00:01:07,411
+y es bastante estable. La mayor preocupación es la
+
+22
+00:01:07,411 --> 00:01:11,062
+Antártida Occidental, donde gran parte del hielo descansa sobre
+
+23
+00:01:11,062 --> 00:01:13,265
+roca bajo el nivel del mar, así que el
+
+24
+00:01:13,265 --> 00:01:16,163
+agua cálida del océano puede comérselo por debajo.
+
+25
+00:01:16,713 --> 00:01:20,518
+El hielo de Groenlandia sumaría unos siete metros más.
+
+26
+00:01:20,518 --> 00:01:23,760
+Y todos los glaciares de montaña en los Alpes,
+
+27
+00:01:23,760 --> 00:01:27,496
+los Andes, el Himalaya y Alaska juntos sumarían menos
+
+28
+00:01:27,496 --> 00:01:28,553
+de medio metro.
+
+29
+00:01:29,103 --> 00:01:31,896
+Si lo sumas, y si se derritiera cada pedazo
+
+30
+00:01:31,896 --> 00:01:35,858
+de hielo terrestre, los océanos subirían unos setenta metros.
+
+31
+00:01:35,858 --> 00:01:38,392
+Más o menos la altura de un edificio de
+
+32
+00:01:38,392 --> 00:01:39,236
+veinte pisos.
+
+33
+00:01:39,786 --> 00:01:43,128
+Un detalle importante: el hielo marino que se derrite,
+
+34
+00:01:43,128 --> 00:01:45,976
+como el hielo flotante del Polo Norte, no sube
+
+35
+00:01:45,976 --> 00:01:48,451
+el nivel del mar, igual que los cubos de
+
+36
+00:01:48,451 --> 00:01:51,299
+hielo que se derriten no desbordan un vaso. Lo
+
+37
+00:01:51,299 --> 00:01:53,589
+que importa es el hielo sobre tierra.
+
+38
+00:01:54,139 --> 00:01:57,153
+Una pregunta rápida. ¿Vives cerca de la costa? ¿A
+
+39
+00:01:57,153 --> 00:01:59,860
+qué altura sobre el mar está tu casa? Dímelo
+
+40
+00:01:59,860 --> 00:02:01,029
+en los comentarios.
+
+41
+00:02:01,579 --> 00:02:06,179
+Entonces, setenta metros más de océano. Redibujemos el mapa,
+
+42
+00:02:06,179 --> 00:02:10,011
+empezando por América del Norte. Todo el estado de
+
+43
+00:02:10,011 --> 00:02:14,534
+Florida desaparecería bajo el Atlántico, con Miami, Tampa y
+
+44
+00:02:14,534 --> 00:02:15,147
+Orlando.
+
+45
+00:02:15,697 --> 00:02:19,034
+En el golfo de México, Houston y Nueva Orleans
+
+46
+00:02:19,034 --> 00:02:22,370
+estarían bajo el agua. En la costa este, Nueva
+
+47
+00:02:22,370 --> 00:02:26,215
+York, Washington y Boston se perderían en su mayoría.
+
+48
+00:02:26,765 --> 00:02:30,291
+En México, gran parte de la península de Yucatán,
+
+49
+00:02:30,291 --> 00:02:34,177
+baja y plana, se inundaría, incluidos Cancún y Mérida.
+
+50
+00:02:34,177 --> 00:02:38,855
+Veracruz y otras ciudades costeras desaparecerían. Pero la Ciudad
+
+51
+00:02:38,855 --> 00:02:42,166
+de México, a más de dos mil doscientos metros,
+
+52
+00:02:42,166 --> 00:02:44,109
+estaría totalmente a salvo.
+
+53
+00:02:44,659 --> 00:02:48,239
+En Sudamérica, la cuenca del Amazonas es tan baja
+
+54
+00:02:48,239 --> 00:02:52,111
+y plana que el Atlántico entraría muy tierra adentro,
+
+55
+00:02:52,111 --> 00:02:56,276
+convirtiendo gran parte en un enorme mar interior. Buenos
+
+56
+00:02:56,276 --> 00:02:58,760
+Aires y Montevideo desaparecerían.
+
+57
+00:02:59,310 --> 00:03:03,291
+En Europa, Londres, Venecia y Ámsterdam quedarían bajo el
+
+58
+00:03:03,291 --> 00:03:07,343
+agua. Los Países Bajos y Dinamarca casi desaparecerían por
+
+59
+00:03:07,343 --> 00:03:07,971
+completo.
+
+60
+00:03:08,521 --> 00:03:12,170
+En Asia, Bangladés, hogar de más de ciento setenta
+
+61
+00:03:12,170 --> 00:03:16,476
+millones de personas, se inundaría casi por completo, junto
+
+62
+00:03:16,476 --> 00:03:19,833
+con Shanghái, Bangkok y gran parte de la costa
+
+63
+00:03:19,833 --> 00:03:20,489
+de China.
+
+64
+00:03:21,039 --> 00:03:25,090
+Australia tendría un nuevo mar interior, al entrar el
+
+65
+00:03:25,090 --> 00:03:28,376
+océano a sus cuencas bajas. Y en África, el
+
+66
+00:03:28,376 --> 00:03:32,962
+continente menos afectado, Alejandría y gran parte del delta
+
+67
+00:03:32,962 --> 00:03:35,866
+del Nilo en Egipto se perderían igual.
+
+68
+00:03:36,416 --> 00:03:41,252
+Algunos países no necesitarían setenta metros para desaparecer. Naciones
+
+69
+00:03:41,252 --> 00:03:44,878
+insulares como Maldivas, Kiribati y Tuvalu están en su
+
+70
+00:03:44,878 --> 00:03:47,565
+mayoría a solo un par de metros sobre el
+
+71
+00:03:47,565 --> 00:03:50,923
+mar. Incluso una subida pequeña amenaza su futuro.
+
+72
+00:03:51,473 --> 00:03:54,971
+¿Qué ciudad extrañarías más? Dímelo en los comentarios.
+
+73
+00:03:55,521 --> 00:03:58,400
+El océano no sería el único cambio. El hielo
+
+74
+00:03:58,400 --> 00:04:01,278
+refleja la luz del sol hacia el espacio. Sin
+
+75
+00:04:01,278 --> 00:04:04,615
+él, la tierra y el océano, más oscuros, absorberían
+
+76
+00:04:04,615 --> 00:04:07,297
+más calor, calentando aún más el planeta.
+
+77
+00:04:07,847 --> 00:04:10,887
+Miles de millones de personas en Asia y Sudamérica
+
+78
+00:04:10,887 --> 00:04:13,867
+dependen de los glaciares de montaña para el agua
+
+79
+00:04:13,867 --> 00:04:16,603
+de los ríos en temporada seca. Sin ellos, los
+
+80
+00:04:16,603 --> 00:04:19,764
+ríos alimentados por el Himalaya y los Andes podrían
+
+81
+00:04:19,764 --> 00:04:21,223
+reducirse drásticamente.
+
+82
+00:04:21,773 --> 00:04:24,883
+¿La Tierra ha estado alguna vez sin hielo? Sí.
+
+83
+00:04:24,883 --> 00:04:28,466
+Hace unos cincuenta millones de años no había grandes
+
+84
+00:04:28,466 --> 00:04:31,712
+capas de hielo. El planeta era mucho más cálido,
+
+85
+00:04:31,712 --> 00:04:35,295
+y palmeras y parientes de cocodrilos vivían cerca del
+
+86
+00:04:35,295 --> 00:04:35,768
+Ártico.
+
+87
+00:04:36,318 --> 00:04:39,634
+Y le pasaría algo sorprendente a la tierra. El
+
+88
+00:04:39,634 --> 00:04:42,877
+hielo es tan pesado que empuja el suelo hacia
+
+89
+00:04:42,877 --> 00:04:46,769
+abajo. Sin él, Groenlandia y la Antártida se elevarían
+
+90
+00:04:46,769 --> 00:04:50,806
+de nuevo lentamente, cientos de metros, durante miles de
+
+91
+00:04:50,806 --> 00:04:51,166
+años.
+
+92
+00:04:51,716 --> 00:04:55,984
+También perderíamos una biblioteca. Los núcleos de hielo extraídos
+
+93
+00:04:55,984 --> 00:04:59,346
+de la Antártida guardan pequeñas burbujas de aire de
+
+94
+00:04:59,346 --> 00:05:02,903
+hasta ochocientos mil años atrás, un registro del clima
+
+95
+00:05:02,903 --> 00:05:04,196
+pasado de la Tierra.
+
+96
+00:05:04,746 --> 00:05:08,897
+Ahora la pregunta más importante. ¿Esto realmente va a
+
+97
+00:05:08,897 --> 00:05:12,433
+pasar? No pronto. Derretir todo el hielo de la
+
+98
+00:05:12,433 --> 00:05:16,354
+Tierra tomaría miles de años, incluso en los peores
+
+99
+00:05:16,354 --> 00:05:18,506
+escenarios de calentamiento.
+
+100
+00:05:19,056 --> 00:05:21,944
+Pero el hielo se está derritiendo más rápido que
+
+101
+00:05:21,944 --> 00:05:25,554
+antes. Los satélites muestran que Groenlandia ha perdido, en
+
+102
+00:05:25,554 --> 00:05:29,285
+promedio, unos doscientos setenta mil millones de toneladas de
+
+103
+00:05:29,285 --> 00:05:31,451
+hielo al año en las últimas décadas.
+
+104
+00:05:32,001 --> 00:05:35,433
+El nivel del mar ya subió más de veinte
+
+105
+00:05:35,433 --> 00:05:39,833
+centímetros desde 1900, y el ritmo se acelera. Hoy
+
+106
+00:05:39,833 --> 00:05:43,969
+el océano sube unos cuatro milímetros cada año.
+
+107
+00:05:44,519 --> 00:05:47,741
+Los glaciares de montaña son los que más rápido
+
+108
+00:05:47,741 --> 00:05:51,717
+se encogen. En México, los glaciares del Iztaccíhuatl casi
+
+109
+00:05:51,717 --> 00:05:56,037
+desaparecieron, y en 2024 los científicos dijeron que Venezuela
+
+110
+00:05:56,037 --> 00:05:59,259
+se había convertido en el primer país andino en
+
+111
+00:05:59,259 --> 00:06:02,481
+tiempos modernos en perder todos sus glaciares.
+
+112
+00:06:03,031 --> 00:06:06,790
+En la Antártida, los científicos vigilan de cerca el
+
+113
+00:06:06,790 --> 00:06:10,910
+glaciar Thwaites, apodado el Glaciar del Juicio Final. Es
+
+114
+00:06:10,910 --> 00:06:14,018
+del tamaño de Florida, y por sí solo guarda
+
+115
+00:06:14,018 --> 00:06:17,560
+hielo suficiente para subir el mar unos sesenta y
+
+116
+00:06:17,560 --> 00:06:18,861
+cinco centímetros.
+
+117
+00:06:19,411 --> 00:06:22,817
+Los científicos del clima de la ONU proyectan que
+
+118
+00:06:22,817 --> 00:06:25,946
+para 2100 el mar podría subir de unos treinta
+
+119
+00:06:25,946 --> 00:06:29,770
+centímetros a cerca de un metro, dependiendo sobre todo
+
+120
+00:06:29,770 --> 00:06:33,107
+de cuántos gases de efecto invernadero emitamos.
+
+121
+00:06:33,657 --> 00:06:37,288
+Incluso un metro importaría. Cientos de millones de personas
+
+122
+00:06:37,288 --> 00:06:39,890
+viven en zonas costeras bajas, y un mar más
+
+123
+00:06:39,890 --> 00:06:42,915
+alto empeora mucho las inundaciones por tormentas.
+
+124
+00:06:43,465 --> 00:06:46,681
+La gente se está adaptando. Los Países Bajos, con
+
+125
+00:06:46,681 --> 00:06:49,765
+cerca de una cuarta parte de su territorio bajo
+
+126
+00:06:49,765 --> 00:06:52,717
+el nivel del mar, se han defendido con diques
+
+127
+00:06:52,717 --> 00:06:56,851
+y barreras durante siglos. Venecia levantó sus compuertas MOSE.
+
+128
+00:06:56,851 --> 00:07:00,526
+E Indonesia construye una nueva capital, en parte porque
+
+129
+00:07:00,526 --> 00:07:01,641
+Yakarta se hunde.
+
+130
+00:07:02,191 --> 00:07:05,559
+Entonces, ¿qué pasaría si se derritiera todo el hielo
+
+131
+00:07:05,559 --> 00:07:08,483
+de la Tierra? El mapa cambiaría por completo y
+
+132
+00:07:08,483 --> 00:07:12,042
+las grandes ciudades costeras se perderían. No pasará en
+
+133
+00:07:12,042 --> 00:07:15,982
+nuestra vida. Pero cuánto hielo conservemos todavía depende de
+
+134
+00:07:15,982 --> 00:07:17,253
+nuestras decisiones.
+
+135
+00:07:17,803 --> 00:07:22,277
+Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en
+
+136
+00:07:22,277 --> 00:07:23,413
+los comentarios.
+
+137
+00:07:23,963 --> 00:07:27,448
+Gracias por ver Earth Decoded. Si te gustó, dale
+
+138
+00:07:27,448 --> 00:07:31,077
+me gusta, suscríbete y compártelo con un amigo que
+
+139
+00:07:31,077 --> 00:07:33,836
+viva junto a la playa. Nos vemos en el
+
+140
+00:07:33,836 --> 00:07:34,417
+próximo.
+
