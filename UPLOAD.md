@@ -773,7 +773,33 @@ Chile mide unos 4,300 km de norte a sur pero solo unos 177 km de ancho en promed
 ## 24. Sun Dec 13, 12:00 PM · Short
 **Why Iceland Had No Mosquitoes (Until Now) 🇮🇸🦟 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s021.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s021.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s021.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s021.es.srt)
+
+**Title** (copy):
+```text
+Why Iceland Had No Mosquitoes (Until Now) 🇮🇸🦟 #shorts
+```
+**Description** (copy):
+```text
+For centuries Iceland was one of the only places on Earth without mosquitoes, even though its neighbors have plenty. Scientists think its strange winters were the reason. Then, in 2025, something changed.
+#Iceland #Mosquitoes #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+iceland, iceland mosquitoes, no mosquitoes, iceland facts, climate change, insects, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué Islandia no tenía mosquitos (hasta ahora) 🇮🇸🦟 #shorts
+```
+```text
+Durante siglos, Islandia fue uno de los pocos lugares de la Tierra sin mosquitos, aunque sus vecinos tienen muchos. Los científicos creen que sus extraños inviernos eran la razón. Luego, en 2025, algo cambió.
+#Islandia #Mosquitos #shorts
+```
+</details>
 
 ## 25. Mon Dec 14, 12:00 PM · Short
 **The Biggest Country With No Rivers 🇸🇦🏜️ #shorts**

@@ -1,0 +1,26 @@
+[0;93m2026-11-22 08:18:57.742897107 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 21: Iceland
+  audio 112.4s
+  WIKI File:Fjallsárlón glacier lake, Iceland, 20240719 1720 2774.jpg (CC BY 4.0)
+  segment 1/12 [title] 2.7s
+  segment 2/12 [map] 10.5s
+  segment 3/12 [card] 11.2s
+  WIKI File:Landscape during Laugavegur hiking trail 2-CA reduced.jpg (CC BY 3.0)
+  segment 4/12 [image] 9.0s
+  segment 5/12 [card] 10.4s
+  - skip File:Mývatn-pjt.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Myvatn Iceland'
+  segment 6/12 [image] 9.1s
+  segment 7/12 [card] 12.6s
+  segment 8/12 [card] 11.9s
+  segment 9/12 [card] 9.8s
+  segment 10/12 [card] 9.1s
+  segment 11/12 [card] 8.5s
+  - skip File:Icelandic Landscape near Neskaupstaður July 2014.JPG: license 'CC BY-SA 4.0'
+  - skip File:Brúarhlöð, Iceland, 20230501 1041 3844.jpg: license 'CC BY-SA 4.0'
+  - skip File:Elliðaey (Breiðafjörður) Iceland M74A1908.jpg: license 'FAL'
+  - skip File:Iceland Dettifoss 1972.jpg: license 'CC BY-SA 3.0'
+  - skip File:Iceland Grimsvoetn 1972-B.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Breiðamerkurjökull glacier, Iceland, 20240719 1514 2687.jpg (CC BY 4.0)
+  segment 12/12 [end] 7.3s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s021.mp4 (24.0 MB)
