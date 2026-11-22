@@ -1,7 +1,7 @@
-[0;93m2026-11-22 00:37:24.551647249 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 1: Mexico City
   audio 66.6s
-  WIKI File:Sobrevuelos CDMX HJ2A4913 (25514321687).jpg (CC0)
+  ! commons download failed File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg [Errno 2] No such file or directory: '/tmp/ed-cache/wm_Sobrevuelos_CDMX_HJ2A4913__25514321687___cropped_.jpg.jpg'
+  WIKI File:Sobrevuelos CDMX HJ2A5874 (40341238042).jpg (CC0)
   segment 1/9 [title] 4.1s
   segment 2/9 [map] 8.2s
   segment 3/9 [card] 5.3s
@@ -9,11 +9,11 @@
   WIKI File:Lake Texcoco and Valley of Mexico (9755095616).jpg (CC0)
   segment 4/9 [image] 3.7s
   WIKI File:Vista_completa_de_Tenochtitlán.jpg (CC BY 4.0)
-  segment 5/9 [image] 12.4s
+  segment 5/9 [image] 12.3s
   WIKI File:US-Indian Spacecraft Captures Mexico City Subsidence (PIA26709).jpg (Public domain)
   segment 6/9 [image] 9.5s
   segment 7/9 [card] 9.0s
   segment 8/9 [card] 4.8s
-  ! no usable NASA image for 'Mexico City at night astronaut photograph'
+  WIKI File:Sobrevuelos CDMX HJ2A5878 (38575794990).jpg (CC0)
   segment 9/9 [end] 9.6s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s001.mp4 (22.3 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s001.mp4 (20.7 MB)
