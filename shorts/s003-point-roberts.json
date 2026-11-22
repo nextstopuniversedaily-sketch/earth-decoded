@@ -25,10 +25,10 @@
       "es": "Hay un pueblo en Estados Unidos al que no puedes llegar en coche sin pasar por Canadá.",
       "visual": {
         "type": "title",
-        "wiki": [
-          "Point Roberts, Washington"
+        "commons": [
+          "Pointrobertswide oli 2020210"
         ],
-        "query": "Point Roberts"
+        "query": "Vancouver satellite"
       }
     },
     {
@@ -109,9 +109,9 @@
       "visual": {
         "type": "image",
         "commons": [
-          "Point Roberts border crossing"
+          "Point Roberts aerial view"
         ],
-        "query": "Canada United States border crossing"
+        "query": "Canada United States border"
       }
     },
     {
@@ -121,9 +121,9 @@
         "type": "end",
         "big": "WRONG SIDE?",
         "commons": [
-          "Point Roberts Washington aerial"
+          "Boundary Bay British Columbia"
         ],
-        "query": "Point Roberts"
+        "query": "Pacific Northwest coast"
       }
     }
   ]
