@@ -1,188 +1,182 @@
 {
-  "number": 11,
-  "publish": "2026-12-03 12:00",
-  "kicker": "LOST WORLD",
-  "title": "The Sahara",
-  "subtitle": "When the desert was green",
-  "yt_title": "The Sahara Was Once Green 🌍🤯 Lakes, Hippos and Grass #shorts",
-  "yt_title_es": "El Sahara alguna vez fue verde 🌍🤯 Lagos, hipopótamos y pasto #shorts",
-  "description": "Thousands of years ago, the Sahara Desert had lakes, grasslands, hippos and crocodiles. Here's how a tiny wobble in Earth's orbit turned it into the world's biggest hot desert.\n#Sahara #GreenSahara #Geography #EarthDecoded #shorts",
-  "description_es": "Hace miles de años, el desierto del Sahara tenía lagos, pastizales, hipopótamos y cocodrilos. Así un pequeño bamboleo de la órbita terrestre lo convirtió en el mayor desierto cálido del mundo.\n#Sahara #shorts",
-  "tags": [
-    "green sahara",
-    "sahara was green",
-    "african humid period",
-    "sahara desert",
-    "cave paintings sahara",
-    "earth orbit climate",
-    "geography facts",
-    "earth decoded",
-    "shorts"
+ "number": 11,
+ "publish": "2026-12-03 12:00",
+ "kicker": "LOST WORLD",
+ "title": "The Sahara",
+ "subtitle": "When the desert was green",
+ "yt_title": "The Sahara Was Once Green 🌍🤯 Lakes, Hippos and Grass #shorts",
+ "yt_title_es": "El Sahara alguna vez fue verde 🌍🤯 Lagos, hipopótamos y pasto #shorts",
+ "description": "Thousands of years ago, the Sahara Desert had lakes, grasslands, hippos and crocodiles. Here's how a tiny wobble in Earth's orbit turned it into the world's biggest hot desert.\n#Sahara #GreenSahara #Geography #EarthDecoded #shorts",
+ "description_es": "Hace miles de años, el desierto del Sahara tenía lagos, pastizales, hipopótamos y cocodrilos. Así un pequeño bamboleo de la órbita terrestre lo convirtió en el mayor desierto cálido del mundo.\n#Sahara #shorts",
+ "tags": [
+  "green sahara",
+  "sahara was green",
+  "african humid period",
+  "sahara desert",
+  "cave paintings sahara",
+  "earth orbit climate",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Sahara"
   ],
-  "thumbnail": {
+  "commons": [
+   "Sahara desert dunes"
+  ],
+  "query": "Sahara desert",
+  "white": "THIS DESERT",
+  "accent": "WAS GREEN",
+  "badge": "HIPPOS LIVED HERE"
+ },
+ "segments": [
+  {
+   "text": "What if I told you the Sahara Desert was once green?",
+   "es": "¿Y si te dijera que el desierto del Sahara alguna vez fue verde?",
+   "visual": {
+    "type": "title",
     "wiki": [
-      "Sahara"
+     "Sahara"
     ],
-    "commons": [
-      "Sahara desert dunes"
-    ],
-    "query": "Sahara desert",
-    "white": "THIS DESERT",
-    "accent": "WAS GREEN",
-    "badge": "HIPPOS LIVED HERE"
+    "query": "Sahara desert"
+   }
   },
-  "segments": [
-    {
-      "text": "What if I told you the Sahara Desert was once green?",
-      "es": "¿Y si te dijera que el desierto del Sahara alguna vez fue verde?",
-      "visual": {
-        "type": "title",
-        "wiki": [
-          "Sahara"
-        ],
-        "query": "Sahara desert"
-      }
-    },
-    {
-      "text": "Today the Sahara is the largest hot desert on Earth, about as big as the United States. Sand, rock and almost no rain.",
-      "es": "Hoy el Sahara es el desierto cálido más grande de la Tierra, casi del tamaño de Estados Unidos. Arena, roca y casi nada de lluvia.",
-      "headline": "THE BIGGEST HOT DESERT",
-      "visual": {
-        "type": "map",
-        "extent": [
-          -18,
-          40,
-          10,
-          36
-        ],
-        "highlight": [
-          "Algeria",
-          "Libya",
-          "Egypt",
-          "Mali",
-          "Niger",
-          "Chad",
-          "Mauritania",
-          "W. Sahara",
-          "Sudan"
-        ]
-      }
-    },
-    {
-      "text": "But between roughly eleven thousand and five thousand years ago, it looked completely different. There were lakes, rivers and grasslands, full of hippos, crocodiles, giraffes and elephants.",
-      "es": "Pero hace entre unos once mil y cinco mil años, se veía completamente distinto. Había lagos, ríos y pastizales, llenos de hipopótamos, cocodrilos, jirafas y elefantes.",
-      "headline": "LAKES AND HIPPOS",
-      "visual": {
-        "type": "image",
-        "wiki": [
-          "Hippopotamus"
-        ],
-        "query": "African savanna lake"
-      }
-    },
-    {
-      "text": "Scientists call it the African Humid Period. One lake, Mega Lake Chad, may have been almost as big as the Caspian Sea is today.",
-      "es": "Los científicos lo llaman el Periodo Húmedo Africano. Un lago, el Mega Lago Chad, pudo haber sido casi tan grande como el mar Caspio actual.",
-      "visual": {
-        "type": "card",
-        "big": "11,000 – 5,000",
-        "label": "years ago: the Green Sahara",
-        "sub": "the African Humid Period"
-      }
-    },
-    {
-      "text": "We know because people living there painted it. Ancient rock art in the Sahara shows cattle, swimmers and giraffes, in places that are pure desert today.",
-      "es": "Lo sabemos porque la gente que vivía allí lo pintó. El arte rupestre del Sahara muestra ganado, nadadores y jirafas, en lugares que hoy son puro desierto.",
-      "headline": "ROCK ART",
-      "visual": {
-        "type": "image",
-        "wiki": [
-          "Tassili n'Ajjer"
-        ],
-        "commons": [
-          "Sahara rock art giraffe"
-        ],
-        "query": "Sahara rock art"
-      }
-    },
-    {
-      "text": "So what changed? Earth's orbit. Our planet slowly wobbles on its axis, in cycles of thousands of years. Back then, northern summers got a bit more sunlight, which pushed the African monsoon rains far into the Sahara.",
-      "es": "¿Qué cambió? La órbita de la Tierra. Nuestro planeta se bambolea lentamente sobre su eje, en ciclos de miles de años. En aquel entonces, los veranos del norte recibían un poco más de luz, y eso llevaba las lluvias del monzón africano muy dentro del Sahara.",
-      "headline": "EARTH'S WOBBLE",
-      "visual": {
-        "type": "image",
-        "wiki": [
-          "The Blue Marble"
-        ],
-        "query": "Earth from space Africa"
-      }
-    },
-    {
-      "text": "As the wobble shifted, the rains moved south again. The lakes dried up, the grass died, and the sand took over.",
-      "es": "Al cambiar el bamboleo, las lluvias regresaron al sur. Los lagos se secaron, el pasto murió y la arena se apoderó de todo.",
-      "headline": "THE SAND RETURNS",
-      "visual": {
-        "type": "image",
-        "commons": [
-          "Sahara sand dunes aerial"
-        ],
-        "query": "Sahara dunes"
-      }
-    },
-    {
-      "text": "There's even proof from space. Radar satellites have found ancient riverbeds buried under the Sahara sand, rivers that flowed when the desert was green.",
-      "es": "Incluso hay pruebas desde el espacio. Satélites de radar encontraron antiguos cauces de ríos enterrados bajo la arena del Sahara, ríos que corrían cuando el desierto era verde.",
-      "headline": "BURIED RIVERS",
-      "visual": {
-        "type": "image",
-        "commons": [
-          "Sahara radar buried river channels"
-        ],
-        "query": "Sahara from space"
-      }
-    },
-    {
-      "text": "Fossils of hippos, crocodiles and huge fish have been found in the middle of the desert, far from any water today.",
-      "es": "Se han encontrado fósiles de hipopótamos, cocodrilos y peces enormes en medio del desierto, lejos de cualquier agua actual.",
-      "visual": {
-        "type": "card",
-        "big": "HIPPO FOSSILS",
-        "label": "found in the middle of the desert",
-        "sub": "proof of ancient lakes"
-      }
-    },
-    {
-      "text": "Dust from the Sahara still travels across the Atlantic every year and helps fertilize the Amazon rainforest. So the desert still feeds a jungle on the other side of the ocean.",
-      "es": "El polvo del Sahara todavía cruza el Atlántico cada año y ayuda a fertilizar la selva amazónica. Así que el desierto aún alimenta una selva al otro lado del océano.",
-      "headline": "FEEDING THE AMAZON",
-      "visual": {
-        "type": "image",
-        "commons": [
-          "Saharan dust plume Atlantic NASA"
-        ],
-        "query": "Saharan dust Atlantic"
-      }
-    },
-    {
-      "text": "Some places in the Sahara still hide water, like oases fed by groundwater that fell as rain thousands of years ago, during the green period.",
-      "es": "Algunos lugares del Sahara todavía esconden agua, como oasis alimentados por agua subterránea que cayó como lluvia hace miles de años, durante el periodo verde.",
-      "headline": "ANCIENT WATER",
-      "visual": {
-        "type": "image",
-        "wiki": [
-          "Oasis"
-        ],
-        "query": "Sahara oasis"
-      }
-    },
-    {
-      "text": "Scientists think these green phases have come and gone many times, and one day the Sahara may turn green again. Would you visit a green Sahara? Tell me in the comments.",
-      "es": "Los científicos creen que estas fases verdes han ido y venido muchas veces, y que algún día el Sahara podría volver a ser verde. ¿Visitarías un Sahara verde? Dímelo en los comentarios.",
-      "visual": {
-        "type": "end",
-        "big": "GREEN AGAIN?",
-        "query": "Sahara oasis"
-      }
-    }
-  ]
+  {
+   "text": "Today the Sahara is the largest hot desert on Earth, about as big as the United States. Sand, rock and almost no rain.",
+   "es": "Hoy el Sahara es el desierto cálido más grande de la Tierra, casi del tamaño de Estados Unidos. Arena, roca y casi nada de lluvia.",
+   "headline": "THE BIGGEST HOT DESERT",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -18,
+     40,
+     10,
+     36
+    ],
+    "highlight": [
+     "Algeria",
+     "Libya",
+     "Egypt",
+     "Mali",
+     "Niger",
+     "Chad",
+     "Mauritania",
+     "W. Sahara",
+     "Sudan"
+    ]
+   }
+  },
+  {
+   "text": "But between roughly eleven thousand and five thousand years ago, it looked completely different. There were lakes, rivers and grasslands, full of hippos, crocodiles, giraffes and elephants.",
+   "es": "Pero hace entre unos once mil y cinco mil años, se veía completamente distinto. Había lagos, ríos y pastizales, llenos de hipopótamos, cocodrilos, jirafas y elefantes.",
+   "headline": "LAKES AND HIPPOS",
+   "visual": {
+    "type": "card",
+    "big": "HIPPOS & CROCS",
+    "label": "lived in a green Sahara",
+    "sub": "lakes, rivers and grasslands"
+   }
+  },
+  {
+   "text": "Scientists call it the African Humid Period. One lake, Mega Lake Chad, may have been almost as big as the Caspian Sea is today.",
+   "es": "Los científicos lo llaman el Periodo Húmedo Africano. Un lago, el Mega Lago Chad, pudo haber sido casi tan grande como el mar Caspio actual.",
+   "visual": {
+    "type": "card",
+    "big": "11,000 – 5,000",
+    "label": "years ago: the Green Sahara",
+    "sub": "the African Humid Period"
+   }
+  },
+  {
+   "text": "We know because people living there painted it. Ancient rock art in the Sahara shows cattle, swimmers and giraffes, in places that are pure desert today.",
+   "es": "Lo sabemos porque la gente que vivía allí lo pintó. El arte rupestre del Sahara muestra ganado, nadadores y jirafas, en lugares que hoy son puro desierto.",
+   "headline": "ROCK ART",
+   "visual": {
+    "type": "card",
+    "big": "ROCK ART",
+    "label": "cattle, swimmers and giraffes",
+    "sub": "painted where it's desert today"
+   }
+  },
+  {
+   "text": "So what changed? Earth's orbit. Our planet slowly wobbles on its axis, in cycles of thousands of years. Back then, northern summers got a bit more sunlight, which pushed the African monsoon rains far into the Sahara.",
+   "es": "¿Qué cambió? La órbita de la Tierra. Nuestro planeta se bambolea lentamente sobre su eje, en ciclos de miles de años. En aquel entonces, los veranos del norte recibían un poco más de luz, y eso llevaba las lluvias del monzón africano muy dentro del Sahara.",
+   "headline": "EARTH'S WOBBLE",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "The Blue Marble"
+    ],
+    "query": "Earth from space Africa"
+   }
+  },
+  {
+   "text": "As the wobble shifted, the rains moved south again. The lakes dried up, the grass died, and the sand took over.",
+   "es": "Al cambiar el bamboleo, las lluvias regresaron al sur. Los lagos se secaron, el pasto murió y la arena se apoderó de todo.",
+   "headline": "THE SAND RETURNS",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Sahara sand dunes aerial"
+    ],
+    "query": "Sahara dunes"
+   }
+  },
+  {
+   "text": "There's even proof from space. Radar satellites have found ancient riverbeds buried under the Sahara sand, rivers that flowed when the desert was green.",
+   "es": "Incluso hay pruebas desde el espacio. Satélites de radar encontraron antiguos cauces de ríos enterrados bajo la arena del Sahara, ríos que corrían cuando el desierto era verde.",
+   "headline": "BURIED RIVERS",
+   "visual": {
+    "type": "card",
+    "big": "BURIED RIVERS",
+    "label": "found by radar satellites",
+    "sub": "under the Sahara sand"
+   }
+  },
+  {
+   "text": "Fossils of hippos, crocodiles and huge fish have been found in the middle of the desert, far from any water today.",
+   "es": "Se han encontrado fósiles de hipopótamos, cocodrilos y peces enormes en medio del desierto, lejos de cualquier agua actual.",
+   "visual": {
+    "type": "card",
+    "big": "HIPPO FOSSILS",
+    "label": "found in the middle of the desert",
+    "sub": "proof of ancient lakes"
+   }
+  },
+  {
+   "text": "Dust from the Sahara still travels across the Atlantic every year and helps fertilize the Amazon rainforest. So the desert still feeds a jungle on the other side of the ocean.",
+   "es": "El polvo del Sahara todavía cruza el Atlántico cada año y ayuda a fertilizar la selva amazónica. Así que el desierto aún alimenta una selva al otro lado del océano.",
+   "headline": "FEEDING THE AMAZON",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Saharan dust plume Atlantic NASA"
+    ],
+    "query": "Saharan dust Atlantic"
+   }
+  },
+  {
+   "text": "Some places in the Sahara still hide water, like oases fed by groundwater that fell as rain thousands of years ago, during the green period.",
+   "es": "Algunos lugares del Sahara todavía esconden agua, como oasis alimentados por agua subterránea que cayó como lluvia hace miles de años, durante el periodo verde.",
+   "headline": "ANCIENT WATER",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Oasis"
+    ],
+    "query": "Sahara oasis"
+   }
+  },
+  {
+   "text": "Scientists think these green phases have come and gone many times, and one day the Sahara may turn green again. Would you visit a green Sahara? Tell me in the comments.",
+   "es": "Los científicos creen que estas fases verdes han ido y venido muchas veces, y que algún día el Sahara podría volver a ser verde. ¿Visitarías un Sahara verde? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "GREEN AGAIN?",
+    "query": "Sahara oasis"
+   }
+  }
+ ]
 }
