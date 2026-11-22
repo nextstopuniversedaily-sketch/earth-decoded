@@ -1,0 +1,84 @@
+[0;93m2026-11-22 04:51:21.073538272 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: What If Yellowstone Erupted Tomorrow?
+  audio 560.5s (9.34 min)
+  - skip File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg: license 'CC BY-SA 4.0'
+  NASA 'Yellowstone' -> PIA01741: Space Radar Image of Yellowstone Park, Wyoming
+  segment 1/38 [title] 26.6s
+  segment 2/38 [map] 11.6s
+  - skip File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2599.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Old Faithful geyser'
+  segment 3/38 [image] 20.7s
+  segment 4/38 [card] 15.0s
+  - skip File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Grand Prismatic Spring aerial'
+  segment 5/38 [image] 15.6s
+  segment 6/38 [card] 13.3s
+  WIKI File:Lava Fields in Snake River Plain, Southern Idaho (MODIS 2022-07-27).jpg (Public domain)
+  segment 7/38 [image] 17.5s
+  segment 8/38 [card] 13.6s
+  segment 9/38 [card] 18.4s
+  WIKI File:MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg (Public domain)
+  segment 10/38 [image] 20.9s
+  segment 11/38 [card] 13.2s
+  - skip File:Lake_Taupo.jpg: license 'CC BY-SA 2.5'
+  ! no usable NASA image for 'Lake Taupo New Zealand'
+  segment 12/38 [image] 18.2s
+  - skip File:Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg: license 'CC BY-SA 4.0'
+  - skip File:Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg: license 'CC BY-SA 4.0'
+  - skip File:Yellowstone National Park (WY, USA), Old Faithful Geyser -- 2022 -- 2599.jpg: license 'CC BY-SA 4.0'
+  - skip File:Yellowstone National Park (WY, USA), Firehole River, Abflusskanal des Excelsior Geysirs -- 2022 -- 2572-4.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Yellowstone Lake from space.jpg (Public domain)
+  segment 13/38 [image] 10.2s
+  segment 14/38 [question] 8.3s
+  - skip File:Crepuscular rays over the steam from hot spring.jpg: license 'CC BY-SA 3.0'
+  - skip File:Black Growler Steam Vent, Norris Geyser Basin in Yellowstone DyeClan.com - panoramio.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Ledge Geyser (vents near bottom) & Black Growler Steam Vent (center foreground - steaming) & Guardian Geyser (center background - steaming) (10 August 2011) 4.jpg (CC BY 2.0)
+  segment 15/38 [image] 14.4s
+  WIKI File:Pyroclastic Flow St. Helens.jpg (Public domain)
+  segment 16/38 [image] 18.6s
+  segment 17/38 [card] 6.1s
+  segment 18/38 [map] 18.6s
+  WIKI File:Volcanic dust Mount Soufriere YORYM-TA0019.jpg (Public domain)
+  segment 19/38 [image] 16.1s
+  segment 20/38 [card] 17.5s
+  - skip File:Eyjafjallajokull-April-17.JPG: license 'CC BY-SA 3.0'
+  NASA 'Eyjafjallajokull eruption' -> GSFC_20171208_Archive_e002097: Eruption of Eyjafjallajökull Volcano, Iceland
+  segment 21/38 [image] 12.2s
+  - skip File:Volcanic Lavender.jpg: license 'CC BY-SA 3.0'
+  - skip File:Twilight photometer measurements of the Raikoke volcano aerosol cloud over Geronimo Creek Observatory, Texas, on 27 July 2019. The blue trace shows the atmospheric profile on a very clear evening nearly the same day a year before.jpg: license 'CC BY-SA 4.0'
+  - skip File:Raikoke volcano twilight glow by Forrest M. Mims III.jpg: license 'CC BY-SA 4.0'
+  - skip File:Tracking the Sulfur Dioxide from Calbuco.jpg: looks like a chart/blank
+  WIKI File:Tracking the Sulfur Dioxide from Calbuco, acquired April 25, 2015.jpg (Public domain)
+  segment 22/38 [image] 15.8s
+  segment 23/38 [card] 20.8s
+  segment 24/38 [card] 8.1s
+  segment 25/38 [question] 4.7s
+  NASA 'volcano monitoring' -> PIA18799: Iceland Volcanic Eruption Monitored by NASA EO-1 Spacecraft
+  segment 26/38 [image] 12.4s
+  segment 27/38 [card] 21.7s
+  segment 28/38 [card] 14.8s
+  segment 29/38 [card] 14.2s
+  segment 30/38 [card] 15.4s
+  WIKI File:Hydrothermal explosion at Biscuit Basin.jpg (Public domain)
+  segment 31/38 [image] 13.6s
+  segment 32/38 [card] 18.6s
+  segment 33/38 [card] 14.1s
+  - skip File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Yellowstone boardwalk'
+  segment 34/38 [image] 13.9s
+  - skip File:Grand_Canyon_of_Yellowstone_and_Lower_falls,_Wyoming,_United_States.jpg: license 'CC BY-SA 4.0'
+  NASA 'Yellowstone canyon' -> NHQ202206090010: NASA’s SpaceX Crew-2 Astronauts at the National Park Service
+  segment 35/38 [image] 13.4s
+  - skip File:Morning Glory Pool 2017 02.jpg: license 'CC BY-SA 3.0'
+  - skip File:Morning Glory Pool 2017 06.jpg: license 'CC BY-SA 3.0'
+  - skip File:Morning Glory Pool 2017 03.jpg: license 'CC BY-SA 3.0'
+  - skip File:Morning Glory Pool Yellowstone National Park.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Morning Glory Pool.jpg (Public domain)
+  segment 36/38 [image] 12.6s
+  segment 37/38 [question] 6.2s
+  ! no usable NASA image for 'Yellowstone sunset'
+  segment 38/38 [end] 13.6s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/what-if-yellowstone-erupted.mp4 (45.5 MB, 9.34 min)
+  - skip File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Yellowstone Grand Prismatic'
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-what-if-yellowstone-erupted.jpg
