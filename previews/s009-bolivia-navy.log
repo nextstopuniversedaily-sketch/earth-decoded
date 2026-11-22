@@ -1,0 +1,29 @@
+[0;93m2026-11-22 03:21:35.393985267 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 9: Bolivia
+  audio 112.5s
+  WIKI File:Lake_Titicaca_ESA22522896.jpeg (Attribution)
+  segment 1/12 [title] 3.1s
+  segment 2/12 [map] 6.7s
+  WIKI File:Atacama.png (Public domain)
+  segment 3/12 [image] 9.3s
+  segment 4/12 [card] 13.6s
+  segment 5/12 [map] 9.1s
+  - skip File:Lake Titicaca Bolivian tourist lake boats shaped like swans.jpg: license 'CC BY-SA 4.0'
+  - skip File:Lake Titicaca 4.jpg: license 'GFDL'
+  - skip File:LAKE TITICACA BOAT EXCURSIONS- BOLIVIA.jpg: license 'CC BY-SA 3.0'
+  - skip File:Lake Titicaca 2.jpg: license 'GFDL'
+  - skip File:Lake Titicaca 3.jpg: license 'GFDL'
+  WIKI File:022 Boat Lake Titicaca Peru 3073 (14995307578).jpg (CC BY 2.0)
+  segment 6/12 [image] 11.8s
+  segment 7/12 [card] 10.4s
+  - skip File:The port of Arica in southern Chile in 1960.png: license 'CC BY-SA 3.0'
+  WIKI File:Arica port (Jan. 2008).jpg (CC BY 2.0)
+  segment 8/12 [image] 11.1s
+  segment 9/12 [card] 14.3s
+  - skip File:Indigenous_woman_of_Peru_showing_her_traditional_textiles.png: license 'CC BY-SA 2.5'
+  ! no usable NASA image for 'Uros floating islands'
+  segment 10/12 [image] 11.1s
+  segment 11/12 [card] 6.4s
+  NASA 'Pacific Ocean coast Chile' -> iss069e036533: iss069e036533
+  segment 12/12 [end] 5.5s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s009.mp4 (17.6 MB)
