@@ -1322,7 +1322,45 @@ _Still rendering — check back in a few minutes._
 ## 43. Sat Jan 30, 11:00 AM · Long video
 **Why You'd Never Survive the Atacama, the Driest Desert on Earth**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-atacama.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-atacama.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-atacama.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-atacama.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive the Atacama, the Driest Desert on Earth
+```
+**Description** (copy):
+```text
+Chile's Atacama Desert is the driest non-polar place on Earth. Some spots have gone years, even decades, without rain. NASA tests Mars rovers here, and the world's biggest telescopes watch the sky from it. Here's why you'd never survive it, and why it's still full of surprises.
+
+Sources: NASA, ESO, Dirección Meteorológica de Chile.
+#Atacama #Chile #Desert #EarthDecoded
+
+Chapters:
+0:00 The driest place
+0:58 Why it never rains
+1:54 What would kill you
+2:57 Mars on Earth
+3:49 Window to the universe
+4:54 Life finds a way
+6:00 Treasures of the desert
+7:13 Could you survive?
+```
+**Tags** (copy):
+```text
+atacama desert, driest place on earth, why you'd never survive, chile, alma telescope, mars on earth, desert bloom, chinchorro mummies, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en el Atacama, el desierto más seco de la Tierra
+```
+```text
+El desierto de Atacama, en Chile, es el lugar no polar más seco de la Tierra. Algunos puntos han pasado años, incluso décadas, sin lluvia. La NASA prueba robots de Marte aquí, y los telescopios más grandes del mundo miran el cielo desde él. Así es por qué nunca sobrevivirías, y por qué aún está lleno de sorpresas.
+#Atacama #Chile
+```
+</details>
 
 ## 44. Sat Feb 6, 11:00 AM · Long video
 **Why You'd Never Survive Snake Island (Brazil's Forbidden Island)**
