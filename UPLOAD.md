@@ -774,11 +774,11 @@ Chapters:
 0:00 Alone
 0:35 Finding nowhere
 2:12 The nearest humans
-3:01 A graveyard for spacecraft
+3:00 A graveyard for spacecraft
 3:58 Day one: the water
 4:46 The storms
 5:25 An ocean desert
-6:58 Waiting for rescue
+6:59 Waiting for rescue
 7:59 The loneliest place
 ```
 **Tags** (copy):
