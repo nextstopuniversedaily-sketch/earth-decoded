@@ -1,0 +1,27 @@
+[0;93m2026-11-22 03:24:21.652394530 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 10: Antarctica
+  audio 126.4s
+  - skip File:114 once an iceberg now a Growler and a scupture V-P.jpg: license 'CC BY-SA 4.0'
+  - skip File:South Shetland-2016-Deception Island–Chinstrap penguins (Pygoscelis antarctica) 04 on iceberg.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Antarctica (8381226547).jpg (CC BY 2.0)
+  segment 1/12 [title] 2.9s
+  segment 2/12 [card] 11.6s
+  NASA 'Antarctica map' -> GSFC_20171208_Archive_e000945: Operation IceBridge Turns Five
+  segment 3/12 [image] 15.0s
+  segment 4/12 [card] 10.6s
+  WIKI File:Amundsen–Scott_South_Pole_Station_01.jpg (CC BY 4.0)
+  segment 5/12 [image] 12.1s
+  segment 6/12 [card] 10.4s
+  WIKI File:2982 Marie Byrd Land West Antarctica by NASA-Mount Waesche.jpg (Public domain)
+  segment 7/12 [image] 9.8s
+  segment 8/12 [card] 15.7s
+  WIKI File:Nacreous clouds Antarctica.jpg (CC BY 2.0)
+  segment 9/12 [image] 11.4s
+  segment 10/12 [card] 11.6s
+  - skip File:Icebergs, Mountains, Cruise Ship in Paradise Bay, Antarctica - panoramio.jpg: license 'CC BY-SA 3.0'
+  - skip File:Icebergs, Mountains, Glacier, Cruise Ship in Paradise Bay, Antarctica - panoramio.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Paradise Bay Iceberg Antarctica (47284342752).jpg (CC BY 2.0)
+  segment 11/12 [image] 9.3s
+  WIKI File:Penguin in Antarctica jumping out of the water.jpg (CC BY 2.0)
+  segment 12/12 [end] 6.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s010.mp4 (29.0 MB)
