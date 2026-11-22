@@ -1,0 +1,43 @@
+[0;93m2026-11-22 03:49:12.831217177 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 18: Doubly Landlocked
+  audio 117.5s
+  - skip File:Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg: license 'FAL'
+  ! no usable NASA image for 'Liechtenstein Alps'
+  segment 1/13 [title] 4.7s
+  segment 2/13 [card] 7.9s
+  segment 3/13 [card] 11.9s
+  segment 4/13 [map] 8.9s
+  - skip File:Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg: license 'FAL'
+  ! no usable NASA image for 'Vaduz'
+  segment 5/13 [image] 13.5s
+  segment 6/13 [map] 12.3s
+  WIKI File:RegistanSquare_Samarkand.jpg (CC BY 2.0)
+  segment 7/13 [image] 6.8s
+  WIKI File:Aral_Sea_1964_vs._August_25,_2026.png (Public domain)
+  segment 8/13 [image] 9.4s
+  - skip File:The Rhine, Swiss-Liechtenstein Border (32498934977).jpg: license 'CC BY-SA 2.0'
+  WIKI File:Lichtenstein Switzerland border - panoramio - kamukvark.jpg (CC BY 3.0)
+  segment 9/13 [image] 7.8s
+  segment 10/13 [card] 9.0s
+  segment 11/13 [card] 10.3s
+  - skip File:Uzbekistan Railway Network.png: license 'CC BY-SA 3.0'
+  - skip File:Uzbekistan Container at Tashkent Railway Museum.jpg: license 'CC BY-SA 4.0'
+  - skip File:Samarkand Railway Station 2.jpg: license 'CC BY-SA 4.0'
+  - skip File:Samarkand Railway Station 1.jpg: license 'CC BY-SA 4.0'
+  - skip File:Stamps of Uzbekistan, 2010-44.jpg: looks like a chart/blank
+  - skip File:Railway station in Samarkand 2011.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Samarkand Railway Station..JPG (CC0)
+  segment 12/13 [image] 9.0s
+  - skip File:Goetzis-Lower Alpine Rhine Valley-03ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:Goetzis-Lower Alpine Rhine Valley-Kapf-01ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:Goetzis-Lower Alpine Rhine Valley-Ruine Neu-Montfort-Berg-01ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:Gsohl-Rhine valley-lake constance-01ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:Goetzis-Lower Alpine Rhine Valley-01ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:2012-11-08 09-10-56 Deutschland Baden-Württemberg Wangen im Allgäu Riehlings.JPG: license 'CC BY-SA 3.0'
+  - skip File:Goetzis-Lower Alpine Rhine Valley-Kapf-Berg-01ASD.jpg: license 'CC BY-SA 4.0'
+  - skip File:2018-05-12 Alpine Rhine Valley.jpg: license 'CC BY-SA 4.0'
+  - skip File:Alpstein Pano.jpg: license 'CC BY-SA 2.5'
+  - skip File:Hohenems-view to Hohenems and Diepoldsau-01ASD.jpg: license 'CC BY-SA 4.0'
+  NASA 'Alps valley' -> s45-82-029: French Alps, Mont Blanc, French/Italian Border
+  segment 13/13 [end] 6.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s018.mp4 (18.8 MB)
