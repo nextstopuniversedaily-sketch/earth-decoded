@@ -1,620 +1,620 @@
 1
-00:00:00,000 --> 00:00:03,795
+00:00:00,000 --> 00:00:03,807
 Imagine waking up tomorrow to the news that Yellowstone,
 
 2
-00:00:03,795 --> 00:00:07,183
+00:00:03,807 --> 00:00:07,207
 the famous national park in the United States, has
 
 3
-00:00:07,183 --> 00:00:11,046
+00:00:07,207 --> 00:00:11,082
 erupted. Not a small eruption. A super-eruption, the kind
 
 4
-00:00:11,046 --> 00:00:14,028
+00:00:11,082 --> 00:00:14,074
 that happens only a few times in millions of
 
 5
-00:00:14,028 --> 00:00:17,349
+00:00:14,074 --> 00:00:17,405
 years. What would happen to the park, to America,
 
 6
-00:00:17,349 --> 00:00:19,856
+00:00:17,405 --> 00:00:19,921
 and to the rest of the world? And how
 
 7
-00:00:19,856 --> 00:00:22,973
+00:00:19,921 --> 00:00:23,048
 worried should you really be? Stay to the end,
 
 8
-00:00:22,973 --> 00:00:26,091
+00:00:23,048 --> 00:00:26,176
 because the real answer surprises most people.
 
 9
-00:00:26,641 --> 00:00:30,312
+00:00:26,726 --> 00:00:30,397
 Welcome to Earth Decoded. If you love the most
 
 10
-00:00:30,312 --> 00:00:34,861
+00:00:30,397 --> 00:00:34,946
 extreme places on our planet, tap subscribe. Today, we're
 
 11
-00:00:34,861 --> 00:00:37,734
+00:00:34,946 --> 00:00:37,819
 going inside America's supervolcano.
 
 12
-00:00:38,284 --> 00:00:43,094
+00:00:38,369 --> 00:00:43,175
 Yellowstone was the world's first national park, created in
 
 13
-00:00:43,094 --> 00:00:47,008
+00:00:43,175 --> 00:00:47,084
 1872. Millions of people visit every year to see
 
 14
-00:00:47,008 --> 00:00:51,737
+00:00:47,084 --> 00:00:51,808
 geysers, bubbling mud and rainbow colored hot springs. But
 
 15
-00:00:51,737 --> 00:00:55,324
+00:00:51,808 --> 00:00:55,392
 all of that exists for one reason: there's a
 
 16
-00:00:55,324 --> 00:00:58,423
+00:00:55,392 --> 00:00:58,487
 huge volcanic system right underneath.
 
 17
-00:00:58,973 --> 00:01:03,754
+00:00:59,037 --> 00:01:03,888
 Yellowstone has more than ten thousand hydrothermal features, about
 
 18
-00:01:03,754 --> 00:01:07,036
+00:01:03,888 --> 00:01:07,219
 half of all the geysers on Earth. Old Faithful
 
 19
-00:01:07,036 --> 00:01:10,889
+00:01:07,219 --> 00:01:11,129
 erupts roughly every hour and a half, shooting boiling
 
 20
-00:01:10,889 --> 00:01:13,458
+00:01:11,129 --> 00:01:13,735
 water dozens of meters into the air.
 
 21
-00:01:14,008 --> 00:01:18,149
+00:01:14,285 --> 00:01:18,385
 Those rainbow colors at Grand Prismatic Spring aren't paint
 
 22
-00:01:18,149 --> 00:01:22,360
+00:01:18,385 --> 00:01:22,554
 or minerals. They come from heat-loving microbes. Each color
 
 23
-00:01:22,360 --> 00:01:26,290
+00:01:22,554 --> 00:01:26,445
 lives in a different temperature ring, from the scalding
 
 24
-00:01:26,290 --> 00:01:29,027
+00:01:26,445 --> 00:01:29,155
 blue center to the cooler orange edges.
 
 25
-00:01:29,577 --> 00:01:33,489
+00:01:29,705 --> 00:01:33,623
 And Yellowstone is home to Steamboat Geyser, the tallest
 
 26
-00:01:33,489 --> 00:01:37,331
+00:01:33,623 --> 00:01:37,472
 active geyser in the world. Its biggest eruptions shoot
 
 27
-00:01:37,331 --> 00:01:40,754
+00:01:37,472 --> 00:01:40,901
 water more than ninety meters high, taller than a
 
 28
-00:01:40,754 --> 00:01:42,291
+00:01:40,901 --> 00:01:42,441
 thirty-story building.
 
 29
-00:01:42,841 --> 00:01:45,905
+00:01:42,991 --> 00:01:46,054
 The heat comes from a hotspot, a plume of
 
 30
-00:01:45,905 --> 00:01:49,416
+00:01:46,054 --> 00:01:49,565
 hot rock rising from deep inside the Earth, the
 
 31
-00:01:49,416 --> 00:01:52,704
+00:01:49,565 --> 00:01:52,853
 same kind of thing that built Hawaii. As the
 
 32
-00:01:52,704 --> 00:01:56,589
+00:01:52,853 --> 00:01:56,738
 North American Plate slides over it, the hotspot has
 
 33
-00:01:56,589 --> 00:01:59,801
+00:01:56,738 --> 00:01:59,951
 left a trail of old volcanoes across Idaho.
 
 34
-00:02:00,351 --> 00:02:05,731
+00:02:00,501 --> 00:02:05,863
 Yellowstone has had three huge, caldera-forming eruptions. The first,
 
 35
-00:02:05,731 --> 00:02:09,318
+00:02:05,863 --> 00:02:09,438
 about two point one million years ago, was one
 
 36
-00:02:09,318 --> 00:02:12,982
+00:02:09,438 --> 00:02:13,090
 of the largest volcanic eruptions we know of on
 
 37
-00:02:12,982 --> 00:02:13,450
+00:02:13,090 --> 00:02:13,557
 Earth.
 
 38
-00:02:14,000 --> 00:02:17,822
+00:02:14,107 --> 00:02:17,938
 The second came about one point three million years
 
 39
-00:02:17,822 --> 00:02:21,793
+00:02:17,938 --> 00:02:21,919
 ago. The third, about six hundred thirty one thousand
 
 40
-00:02:21,793 --> 00:02:25,765
+00:02:21,919 --> 00:02:25,900
 years ago, created the giant crater, or caldera, that
 
 41
-00:02:25,765 --> 00:02:29,137
+00:02:25,900 --> 00:02:29,280
 much of the park sits in today, roughly forty
 
 42
-00:02:29,137 --> 00:02:31,835
+00:02:29,280 --> 00:02:31,984
 five by eighty five kilometers wide.
 
 43
-00:02:32,385 --> 00:02:35,651
+00:02:32,534 --> 00:02:35,821
 How big was that first eruption? It threw out
 
 44
-00:02:35,651 --> 00:02:39,788
+00:02:35,821 --> 00:02:39,984
 around two thousand five hundred cubic kilometers of rock
 
 45
-00:02:39,788 --> 00:02:43,344
+00:02:39,984 --> 00:02:43,562
 and ash. The 1980 eruption of Mount Saint Helens,
 
 46
-00:02:43,344 --> 00:02:47,626
+00:02:43,562 --> 00:02:47,871
 which flattened forests for miles, released about one. That
 
 47
-00:02:47,626 --> 00:02:52,779
+00:02:47,871 --> 00:02:53,057
 makes Yellowstone's biggest eruption roughly two thousand times larger.
 
 48
-00:02:53,329 --> 00:02:57,821
+00:02:53,607 --> 00:02:58,098
 Scientists call an eruption this size a super-eruption: more
 
 49
-00:02:57,821 --> 00:03:01,938
+00:02:58,098 --> 00:03:02,215
 than one thousand cubic kilometers of material at once.
 
 50
-00:03:01,938 --> 00:03:05,381
+00:03:02,215 --> 00:03:05,658
 Only a handful of volcanoes on Earth have ever
 
 51
-00:03:05,381 --> 00:03:05,980
+00:03:05,658 --> 00:03:06,257
 done it.
 
 52
-00:03:06,530 --> 00:03:11,091
+00:03:06,807 --> 00:03:11,374
 The most recent super-eruption anywhere on Earth happened about
 
 53
-00:03:11,091 --> 00:03:15,072
+00:03:11,374 --> 00:03:15,360
 twenty-six thousand five hundred years ago, at Taupō in
 
 54
-00:03:15,072 --> 00:03:18,909
+00:03:15,360 --> 00:03:19,202
 New Zealand. Today, that volcano is a beautiful lake.
 
 55
-00:03:18,909 --> 00:03:22,963
+00:03:19,202 --> 00:03:23,260
 No human has ever witnessed a super-eruption with modern
 
 56
-00:03:22,963 --> 00:03:24,194
+00:03:23,260 --> 00:03:24,493
 science watching.
 
 57
-00:03:24,744 --> 00:03:27,387
+00:03:25,043 --> 00:03:27,738
 The caldera is so big that for a long
 
 58
-00:03:27,387 --> 00:03:31,458
+00:03:27,738 --> 00:03:31,891
 time people didn't even realize they were standing inside
 
 59
-00:03:31,458 --> 00:03:34,387
+00:03:31,891 --> 00:03:34,877
 a volcano. It's easier to see from above.
 
 60
-00:03:34,937 --> 00:03:38,434
+00:03:35,427 --> 00:03:38,915
 Quick question. Have you ever been to Yellowstone, or
 
 61
-00:03:38,434 --> 00:03:41,668
+00:03:38,915 --> 00:03:42,140
 would you go knowing it's a supervolcano? Tell me
 
 62
-00:03:41,668 --> 00:03:42,723
+00:03:42,140 --> 00:03:43,193
 in the comments.
 
 63
-00:03:43,273 --> 00:03:47,082
+00:03:43,743 --> 00:03:47,540
 So let's imagine the worst case. A super-eruption like
 
 64
-00:03:47,082 --> 00:03:50,326
+00:03:47,540 --> 00:03:50,774
 the one two million years ago. It would likely
 
 65
-00:03:50,326 --> 00:03:54,347
+00:03:50,774 --> 00:03:54,782
 start with weeks or months of warning signs: earthquakes,
 
 66
-00:03:54,347 --> 00:03:57,097
+00:03:54,782 --> 00:03:57,524
 the ground rising, and new steam vents.
 
 67
-00:03:57,647 --> 00:04:01,303
+00:03:58,074 --> 00:04:01,734
 Then, the explosion. Huge columns of ash and gas
 
 68
-00:04:01,303 --> 00:04:05,491
+00:04:01,734 --> 00:04:05,927
 would shoot tens of kilometers into the sky. Avalanches
 
 69
-00:04:05,491 --> 00:04:09,908
+00:04:05,927 --> 00:04:10,349
 of scorching gas and rock, called pyroclastic flows, would
 
 70
-00:04:09,908 --> 00:04:14,629
+00:04:10,349 --> 00:04:15,076
 race across the land around the caldera, destroying everything
 
 71
-00:04:14,629 --> 00:04:15,695
+00:04:15,076 --> 00:04:16,143
 in their path.
 
 72
-00:04:16,245 --> 00:04:19,061
+00:04:16,693 --> 00:04:19,509
 Near the park, the damage would be total. But
 
 73
-00:04:19,061 --> 00:04:21,813
+00:04:19,509 --> 00:04:22,261
 the biggest effects would come from the ash.
 
 74
-00:04:22,363 --> 00:04:26,071
+00:04:22,811 --> 00:04:26,475
 Computer models by the US Geological Survey show that
 
 75
-00:04:26,071 --> 00:04:29,778
+00:04:26,475 --> 00:04:30,139
 ash from a super-eruption could spread across much of
 
 76
-00:04:29,778 --> 00:04:33,346
+00:04:30,139 --> 00:04:33,664
 the United States. Places near the volcano could be
 
 77
-00:04:33,346 --> 00:04:36,424
+00:04:33,664 --> 00:04:36,706
 buried under more than a meter of ash, while
 
 78
-00:04:36,424 --> 00:04:40,411
+00:04:36,706 --> 00:04:40,646
 cities hundreds of kilometers away could get centimeters.
 
 79
-00:04:40,961 --> 00:04:44,408
+00:04:41,196 --> 00:04:44,681
 Even a few centimeters of volcanic ash is a
 
 80
-00:04:44,408 --> 00:04:48,256
+00:04:44,681 --> 00:04:48,571
 big problem. It's not soft like smoke. It's made
 
 81
-00:04:48,256 --> 00:04:51,463
+00:04:48,571 --> 00:04:51,813
 of tiny pieces of rock and glass. It can
 
 82
-00:04:51,463 --> 00:04:56,513
+00:04:51,813 --> 00:04:56,919
 collapse roofs, ruin crops, clog engines and contaminate water.
 
 83
-00:04:57,063 --> 00:04:59,898
+00:04:57,469 --> 00:05:00,332
 We know how far it can travel, because it
 
 84
-00:04:59,898 --> 00:05:04,115
+00:05:00,332 --> 00:05:04,592
 has happened before. Layers of ash from Yellowstone's ancient
 
 85
-00:05:04,115 --> 00:05:07,503
+00:05:04,592 --> 00:05:08,014
 eruptions have been found in rocks across much of
 
 86
-00:05:07,503 --> 00:05:11,375
+00:05:08,014 --> 00:05:11,924
 the western and central United States, hundreds and even
 
 87
-00:05:11,375 --> 00:05:14,002
+00:05:11,924 --> 00:05:14,578
 thousands of kilometers from the park.
 
 88
-00:05:14,552 --> 00:05:18,610
+00:05:15,128 --> 00:05:19,223
 Flights would stop across large areas. When a much
 
 89
-00:05:18,610 --> 00:05:22,749
+00:05:19,223 --> 00:05:23,400
 smaller volcano erupted in Iceland in 2010, it shut
 
 90
-00:05:22,749 --> 00:05:26,157
+00:05:23,400 --> 00:05:26,840
 down much of European air travel for days.
 
 91
-00:05:26,707 --> 00:05:30,580
+00:05:27,390 --> 00:05:31,269
 And it wouldn't stop at America. A super-eruption would
 
 92
-00:05:30,580 --> 00:05:33,820
+00:05:31,269 --> 00:05:34,512
 blast huge amounts of sulfur gas high into the
 
 93
-00:05:33,820 --> 00:05:38,256
+00:05:34,512 --> 00:05:38,955
 atmosphere. That gas forms tiny droplets that reflect sunlight,
 
 94
-00:05:38,256 --> 00:05:41,918
+00:05:38,955 --> 00:05:42,622
 which could cool the whole planet for several years.
 
 95
-00:05:42,468 --> 00:05:46,607
+00:05:43,172 --> 00:05:47,272
 We've seen a smaller version of this. In 1815,
 
 96
-00:05:46,607 --> 00:05:51,646
+00:05:47,272 --> 00:05:52,263
 Mount Tambora in Indonesia erupted. The next year, 1816,
 
 97
-00:05:51,646 --> 00:05:55,695
+00:05:52,263 --> 00:05:56,274
 became known as the Year Without a Summer. It
 
 98
-00:05:55,695 --> 00:05:59,924
+00:05:56,274 --> 00:06:00,462
 snowed in New England in June, and crops failed
 
 99
-00:05:59,924 --> 00:06:02,713
+00:06:00,462 --> 00:06:03,225
 across the Northern Hemisphere.
 
 100
-00:06:03,263 --> 00:06:07,419
+00:06:03,775 --> 00:06:07,919
 A Yellowstone super-eruption would be far larger than Tambora,
 
 101
-00:06:07,419 --> 00:06:10,837
+00:06:07,919 --> 00:06:11,327
 so farming around the world could suffer for years.
 
 102
-00:06:11,387 --> 00:06:14,126
+00:06:11,877 --> 00:06:14,645
 If an eruption were coming, where would you go?
 
 103
-00:06:14,126 --> 00:06:15,525
+00:06:14,645 --> 00:06:16,059
 Tell me in the comments.
 
 104
-00:06:16,075 --> 00:06:20,696
+00:06:16,609 --> 00:06:21,221
 Now the good news. Scientists at the Yellowstone Volcano
 
 105
-00:06:20,696 --> 00:06:26,720
+00:06:21,221 --> 00:06:27,234
 Observatory watch the volcano constantly, with seismometers, GPS stations
 
 106
-00:06:26,720 --> 00:06:27,958
+00:06:27,234 --> 00:06:28,470
 and satellites.
 
 107
-00:06:28,508 --> 00:06:32,281
+00:06:29,020 --> 00:06:32,785
 They record between one thousand five hundred and two
 
 108
-00:06:32,281 --> 00:06:36,979
+00:06:32,785 --> 00:06:37,474
 thousand five hundred small earthquakes in Yellowstone every year.
 
 109
-00:06:36,979 --> 00:06:39,826
+00:06:37,474 --> 00:06:40,315
 Most are too weak to feel. The ground of
 
 110
-00:06:39,826 --> 00:06:42,745
+00:06:40,315 --> 00:06:43,228
 the caldera also rises and falls by a few
 
 111
-00:06:42,745 --> 00:06:47,087
+00:06:43,228 --> 00:06:47,561
 centimeters as water and gas move underground. To scientists,
 
 112
-00:06:47,087 --> 00:06:49,649
+00:06:47,561 --> 00:06:50,119
 that's a volcano breathing normally.
 
 113
-00:06:50,199 --> 00:06:53,993
+00:06:50,669 --> 00:06:54,479
 The US Geological Survey estimates the yearly chance of
 
 114
-00:06:53,993 --> 00:06:58,062
+00:06:54,479 --> 00:06:58,567
 another super-eruption at about one in seven hundred thirty
 
 115
-00:06:58,062 --> 00:07:01,993
+00:06:58,567 --> 00:07:02,516
 thousand. That's lower than many people's chance of being
 
 116
-00:07:01,993 --> 00:07:04,407
+00:07:02,516 --> 00:07:04,941
 hit by lightning in their lifetime.
 
 117
-00:07:04,957 --> 00:07:08,393
+00:07:05,491 --> 00:07:08,937
 And Yellowstone is not overdue. You may have heard
 
 118
-00:07:08,393 --> 00:07:12,379
+00:07:08,937 --> 00:07:12,935
 it erupts every six hundred thousand years. But scientists
 
 119
-00:07:12,379 --> 00:07:15,746
+00:07:12,935 --> 00:07:16,313
 say volcanoes don't work on a schedule, and three
 
 120
-00:07:15,746 --> 00:07:18,632
+00:07:16,313 --> 00:07:19,208
 eruptions aren't enough to find a pattern.
 
 121
-00:07:19,182 --> 00:07:23,551
+00:07:19,758 --> 00:07:24,140
 Even better, studies show the magma chamber under Yellowstone
 
 122
-00:07:23,551 --> 00:07:27,204
+00:07:24,140 --> 00:07:27,803
 is mostly solid. Only about five to fifteen percent
 
 123
-00:07:27,204 --> 00:07:30,356
+00:07:27,803 --> 00:07:30,964
 of it is molten. It's not clear there's even
 
 124
-00:07:30,356 --> 00:07:34,009
+00:07:30,964 --> 00:07:34,627
 enough liquid magma for a super-eruption right now.
 
 125
-00:07:34,559 --> 00:07:38,641
+00:07:35,177 --> 00:07:39,246
 So what is more likely? A hydrothermal explosion, when
 
 126
-00:07:38,641 --> 00:07:42,647
+00:07:39,246 --> 00:07:43,239
 underground water flashes into steam and blasts out a
 
 127
-00:07:42,647 --> 00:07:47,182
+00:07:43,239 --> 00:07:47,760
 crater. These happen in Yellowstone every few years, usually
 
 128
-00:07:47,182 --> 00:07:47,636
+00:07:47,760 --> 00:07:48,212
 small.
 
 129
-00:07:48,186 --> 00:07:51,800
+00:07:48,762 --> 00:07:52,393
 Another possibility is a lava flow. Since the last
 
 130
-00:07:51,800 --> 00:07:56,498
+00:07:52,393 --> 00:07:57,113
 super-eruption, Yellowstone has had dozens of eruptions of thick,
 
 131
-00:07:56,498 --> 00:08:00,329
+00:07:57,113 --> 00:08:00,962
 slow lava. The most recent was about seventy thousand
 
 132
-00:08:00,329 --> 00:08:03,437
+00:08:00,962 --> 00:08:04,085
 years ago. A new one would be dramatic, but
 
 133
-00:08:03,437 --> 00:08:06,255
+00:08:04,085 --> 00:08:06,917
 it would mostly affect the park itself.
 
 134
-00:08:06,805 --> 00:08:10,412
+00:08:07,467 --> 00:08:11,108
 In July 2024, one of these blasts at Biscuit
 
 135
-00:08:10,412 --> 00:08:14,183
+00:08:11,108 --> 00:08:14,914
 Basin threw rocks and steam into the air, near
 
 136
-00:08:14,183 --> 00:08:18,445
+00:08:14,914 --> 00:08:19,217
 a crowd of visitors on the boardwalk. Thankfully, no
 
 137
-00:08:18,445 --> 00:08:20,331
+00:08:19,217 --> 00:08:21,120
 one was seriously hurt.
 
 138
-00:08:20,881 --> 00:08:24,696
+00:08:21,670 --> 00:08:25,492
 That's the real danger for visitors today: the boiling
 
 139
-00:08:24,696 --> 00:08:27,735
+00:08:25,492 --> 00:08:28,535
 water. The ground near hot springs can be a
 
 140
-00:08:27,735 --> 00:08:31,409
+00:08:28,535 --> 00:08:32,215
 thin crust over scalding water, which is why rangers
 
 141
-00:08:31,409 --> 00:08:34,235
+00:08:32,215 --> 00:08:35,046
 tell everyone to stay on the boardwalks.
 
 142
-00:08:34,785 --> 00:08:39,344
+00:08:35,596 --> 00:08:40,132
 So, what if Yellowstone erupted tomorrow? A super-eruption would
 
 143
-00:08:39,344 --> 00:08:42,834
+00:08:40,132 --> 00:08:43,605
 be one of the biggest disasters in human history.
 
 144
-00:08:42,834 --> 00:08:46,182
+00:08:43,605 --> 00:08:46,936
 But the chance of it happening in your lifetime
 
 145
-00:08:46,182 --> 00:08:47,607
+00:08:46,936 --> 00:08:48,353
 is incredibly small.
 
 146
-00:08:48,157 --> 00:08:52,492
+00:08:48,903 --> 00:08:53,262
 For now, the supervolcano mostly does something beautiful. It
 
 147
-00:08:52,492 --> 00:08:56,187
+00:08:53,262 --> 00:08:56,977
 powers the geysers, colors the hot springs and makes
 
 148
-00:08:56,187 --> 00:08:59,670
+00:08:56,977 --> 00:09:00,478
 Yellowstone one of the most amazing places on our
 
 149
-00:08:59,670 --> 00:09:00,167
+00:09:00,478 --> 00:09:00,978
 planet.
 
 150
-00:09:00,717 --> 00:09:04,686
+00:09:01,528 --> 00:09:05,406
 Last question. Which extreme place should we explore next?
 
 151
-00:09:04,686 --> 00:09:06,328
+00:09:05,406 --> 00:09:07,011
 Tell me in the comments.
 
 152
-00:09:06,878 --> 00:09:10,591
+00:09:07,561 --> 00:09:11,295
 Thanks for watching Earth Decoded. If you enjoyed this,
 
 153
-00:09:10,591 --> 00:09:13,697
+00:09:11,295 --> 00:09:14,419
 like the video, subscribe, and share it with a
 
 154
-00:09:13,697 --> 00:09:17,342
+00:09:14,419 --> 00:09:18,086
 friend who's worried about Yellowstone. See you in the
 
 155
-00:09:17,342 --> 00:09:17,950
+00:09:18,086 --> 00:09:18,697
 next one.
 
