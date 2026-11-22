@@ -804,7 +804,33 @@ Durante siglos, Islandia fue uno de los pocos lugares de la Tierra sin mosquitos
 ## 25. Mon Dec 14, 12:00 PM · Short
 **The Biggest Country With No Rivers 🇸🇦🏜️ #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s022.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s022.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s022.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s022.es.srt)
+
+**Title** (copy):
+```text
+The Biggest Country With No Rivers 🇸🇦🏜️ #shorts
+```
+**Description** (copy):
+```text
+Saudi Arabia is the largest country in the world with no permanent river. So where does all its water come from? Desalination, ancient underground water and a lot of engineering.
+#SaudiArabia #Desert #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+saudi arabia, country with no rivers, desalination, rub al khali, desert, fossil water, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+El país más grande sin ríos 🇸🇦🏜️ #shorts
+```
+```text
+Arabia Saudita es el país más grande del mundo sin un río permanente. ¿De dónde sale toda su agua? Desalinización, agua subterránea antigua y mucha ingeniería.
+#ArabiaSaudita #Desierto #shorts
+```
+</details>
 
 ## 26. Tue Dec 15, 12:00 PM · Short
 **Everest Is NOT the Tallest Mountain? 🏔️🤯 #shorts**
