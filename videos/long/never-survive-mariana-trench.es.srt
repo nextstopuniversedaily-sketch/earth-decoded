@@ -1,588 +1,588 @@
 1
-00:00:00,000 --> 00:00:03,302
+00:00:00,000 --> 00:00:03,321
 Imagina que flotas en medio del océano Pacífico. El
 
 2
-00:00:03,302 --> 00:00:06,604
+00:00:03,321 --> 00:00:06,642
 agua está tibia y el cielo despejado. Ahora imagina
 
 3
-00:00:06,604 --> 00:00:09,647
+00:00:06,642 --> 00:00:09,702
 que algo te jala directo hacia abajo. Debajo de
 
 4
-00:00:09,647 --> 00:00:12,819
+00:00:09,702 --> 00:00:12,892
 ti está el lugar más profundo del planeta. ¿Hasta
 
 5
-00:00:12,819 --> 00:00:16,186
+00:00:12,892 --> 00:00:16,278
 dónde llegarías antes de que el océano te detuviera?
 
 6
-00:00:16,186 --> 00:00:19,617
+00:00:16,278 --> 00:00:19,729
 Quédate hasta el final, porque lo que encontraron los
 
 7
-00:00:19,617 --> 00:00:22,336
+00:00:19,729 --> 00:00:22,464
 científicos en el fondo es lo más extraño.
 
 8
-00:00:22,886 --> 00:00:26,785
+00:00:23,014 --> 00:00:26,943
 Bienvenido a Earth Decoded. Si te encantan los lugares
 
 9
-00:00:26,785 --> 00:00:31,045
+00:00:26,943 --> 00:00:31,235
 más extraños del planeta, suscríbete. Hoy nos hundimos casi
 
 10
-00:00:31,045 --> 00:00:34,150
+00:00:31,235 --> 00:00:34,363
 once kilómetros en la Fosa de las Marianas.
 
 11
-00:00:34,700 --> 00:00:38,517
+00:00:34,913 --> 00:00:38,738
 En lo más profundo hay un punto llamado Abismo
 
 12
-00:00:38,517 --> 00:00:42,583
+00:00:38,738 --> 00:00:42,813
 Challenger, a casi once mil metros. Son casi once
 
 13
-00:00:42,583 --> 00:00:45,239
+00:00:42,813 --> 00:00:45,473
 kilómetros de agua encima de ti.
 
 14
-00:00:45,789 --> 00:00:49,590
+00:00:46,023 --> 00:00:49,807
 Miles de personas han escalado el Everest. Pero menos
 
 15
-00:00:49,590 --> 00:00:52,745
+00:00:49,807 --> 00:00:52,949
 de treinta han llegado a este punto, y todas
 
 16
-00:00:52,745 --> 00:00:56,833
+00:00:52,949 --> 00:00:57,018
 dentro de máquinas hechas para resistirlo. Tú no estarías
 
 17
-00:00:56,833 --> 00:01:00,061
+00:00:57,018 --> 00:01:00,231
 en una máquina. Así que bajemos, paso a paso.
 
 18
-00:01:00,611 --> 00:01:04,149
+00:01:00,781 --> 00:01:04,288
 Primero, la escala. La profundidad promedio del océano es
 
 19
-00:01:04,149 --> 00:01:07,563
+00:01:04,288 --> 00:01:07,672
 de unos tres kilómetros y setecientos metros. El Abismo
 
 20
-00:01:07,563 --> 00:01:10,232
+00:01:07,672 --> 00:01:10,317
 Challenger es casi tres veces más profundo.
 
 21
-00:01:10,782 --> 00:01:13,679
+00:01:10,867 --> 00:01:13,787
 Si dejaras caer el Everest, la montaña más alta
 
 22
-00:01:13,679 --> 00:01:16,145
+00:01:13,787 --> 00:01:16,272
 de la Tierra, dentro de la fosa, su cima
 
 23
-00:01:16,145 --> 00:01:18,858
+00:01:16,272 --> 00:01:19,005
 seguiría más de un kilómetro y medio bajo el
 
 24
-00:01:18,858 --> 00:01:19,166
+00:01:19,005 --> 00:01:19,315
 agua.
 
 25
-00:01:19,716 --> 00:01:22,398
+00:01:19,865 --> 00:01:22,571
 La fosa es una enorme cicatriz en el fondo
 
 26
-00:01:22,398 --> 00:01:24,825
+00:01:22,571 --> 00:01:25,018
 marino que se curva por más de dos mil
 
 27
-00:01:24,825 --> 00:01:28,848
+00:01:25,018 --> 00:01:29,076
 cuatrocientos kilómetros en el Pacífico occidental, cerca de la
 
 28
-00:01:28,848 --> 00:01:29,679
+00:01:29,076 --> 00:01:29,913
 isla de Guam.
 
 29
-00:01:30,229 --> 00:01:33,067
+00:01:30,463 --> 00:01:33,310
 Se formó porque una enorme pieza de la corteza
 
 30
-00:01:33,067 --> 00:01:36,893
+00:01:33,310 --> 00:01:37,148
 terrestre, la placa del Pacífico, se desliza lentamente debajo
 
 31
-00:01:36,893 --> 00:01:39,856
+00:01:37,148 --> 00:01:40,119
 de otra. Donde se encuentran, el fondo marino se
 
 32
-00:01:39,856 --> 00:01:42,756
+00:01:40,119 --> 00:01:43,028
 dobla hacia el interior del planeta. Y tú estás
 
 33
-00:01:42,756 --> 00:01:44,607
+00:01:43,028 --> 00:01:44,885
 cayendo directo en esa grieta.
 
 34
-00:01:45,157 --> 00:01:48,434
+00:01:45,435 --> 00:01:48,695
 ¿Cómo sabemos que es tan profunda? En 1875, la
 
 35
-00:01:48,434 --> 00:01:52,565
+00:01:48,695 --> 00:01:52,805
 tripulación de un barco británico, el HMS Challenger, bajó
 
 36
-00:01:52,565 --> 00:01:55,415
+00:01:52,805 --> 00:01:55,640
 aquí una cuerda con peso, y no dejaba de
 
 37
-00:01:55,415 --> 00:01:59,332
+00:01:55,640 --> 00:01:59,538
 bajar. Mucho después, barcos que usaban ondas de sonido
 
 38
-00:01:59,332 --> 00:02:02,894
+00:01:59,538 --> 00:02:03,082
 rebotando en el fondo marino midieron el punto más
 
 39
-00:02:02,894 --> 00:02:06,384
+00:02:03,082 --> 00:02:06,555
 profundo, y le pusieron el nombre de aquel barco.
 
 40
-00:02:06,934 --> 00:02:10,428
+00:02:07,105 --> 00:02:10,610
 ¿Hay algún lugar más profundo? No que sepamos. La
 
 41
-00:02:10,428 --> 00:02:13,637
+00:02:10,610 --> 00:02:13,830
 segunda, la Fosa de Tonga en el Pacífico Sur,
 
 42
-00:02:13,637 --> 00:02:16,846
+00:02:13,830 --> 00:02:17,049
 se acerca, pero la Fosa de las Marianas sigue
 
 43
-00:02:16,846 --> 00:02:19,841
+00:02:17,049 --> 00:02:20,054
 siendo el punto más profundo de la Tierra.
 
 44
-00:02:20,391 --> 00:02:23,248
+00:02:20,604 --> 00:02:23,492
 Lo primero que notarías es la luz. A unos
 
 45
-00:02:23,248 --> 00:02:26,454
+00:02:23,492 --> 00:02:26,731
 doscientos metros, casi toda la luz del sol ya
 
 46
-00:02:26,454 --> 00:02:29,939
+00:02:26,731 --> 00:02:30,253
 desapareció. El agua se vuelve de un azul profundo
 
 47
-00:02:29,939 --> 00:02:30,567
+00:02:30,253 --> 00:02:30,887
 y oscuro.
 
 48
-00:02:31,117 --> 00:02:34,328
+00:02:31,437 --> 00:02:34,642
 A unos mil metros ya no hay luz solar.
 
 49
-00:02:34,328 --> 00:02:38,046
+00:02:34,642 --> 00:02:38,353
 No poca. Ninguna. De aquí al fondo, está más
 
 50
-00:02:38,046 --> 00:02:42,018
+00:02:38,353 --> 00:02:42,317
 oscuro que la noche más oscura que hayas visto.
 
 51
-00:02:42,568 --> 00:02:46,256
+00:02:42,867 --> 00:02:46,572
 Los científicos llaman a la zona más profunda, debajo
 
 52
-00:02:46,256 --> 00:02:49,179
+00:02:46,572 --> 00:02:49,509
 de unos seis mil metros, la zona hadal. Su
 
 53
-00:02:49,179 --> 00:02:52,867
+00:02:49,509 --> 00:02:53,215
 nombre viene de Hades, el dios griego del inframundo.
 
 54
-00:02:52,867 --> 00:02:55,859
+00:02:53,215 --> 00:02:56,221
 Y todavía te faltan más de diez kilómetros.
 
 55
-00:02:56,409 --> 00:02:59,210
+00:02:56,771 --> 00:02:59,548
 Una pregunta rápida antes de bajar más. ¿Hasta qué
 
 56
-00:02:59,210 --> 00:03:02,683
+00:02:59,548 --> 00:03:02,991
 profundidad crees que podrías bucear antes de regresar? Dímelo
 
 57
-00:03:02,683 --> 00:03:03,747
+00:03:02,991 --> 00:03:04,046
 en los comentarios.
 
 58
-00:03:04,297 --> 00:03:07,518
+00:03:04,596 --> 00:03:07,817
 Al desaparecer la luz, también desaparece el calor. El
 
 59
-00:03:07,518 --> 00:03:10,143
+00:03:07,817 --> 00:03:10,442
 agua tibia de la superficie es solo una capa
 
 60
-00:03:10,143 --> 00:03:13,066
+00:03:10,442 --> 00:03:13,364
 delgada. Debajo, el océano se vuelve cada vez más
 
 61
-00:03:13,066 --> 00:03:13,364
+00:03:13,364 --> 00:03:13,663
 frío.
 
 62
-00:03:13,914 --> 00:03:16,454
+00:03:14,213 --> 00:03:16,746
 En el fondo de la fosa, el agua está
 
 63
-00:03:16,454 --> 00:03:20,406
+00:03:16,746 --> 00:03:20,688
 entre uno y cuatro grados centígrados. Apenas por encima
 
 64
-00:03:20,406 --> 00:03:22,170
+00:03:20,688 --> 00:03:22,447
 del punto de congelación.
 
 65
-00:03:22,720 --> 00:03:25,935
+00:03:22,997 --> 00:03:26,207
 En agua tan fría, un ser humano sin protección
 
 66
-00:03:25,935 --> 00:03:29,779
+00:03:26,207 --> 00:03:30,045
 pierde calor muy rápido. Tu cuerpo empezaría a apagarse
 
 67
-00:03:29,779 --> 00:03:33,553
+00:03:30,045 --> 00:03:33,813
 mucho antes de llegar al fondo. Pero, sinceramente, el
 
 68
-00:03:33,553 --> 00:03:36,139
+00:03:33,813 --> 00:03:36,395
 frío sería el menor de tus problemas.
 
 69
-00:03:36,689 --> 00:03:39,543
+00:03:36,945 --> 00:03:39,786
 Esto es lo que hace realmente mortal a la
 
 70
-00:03:39,543 --> 00:03:42,954
+00:03:39,786 --> 00:03:43,182
 Fosa de las Marianas. La presión. Ahora mismo, el
 
 71
-00:03:42,954 --> 00:03:46,156
+00:03:43,182 --> 00:03:46,371
 aire empuja tu cuerpo con alrededor de un kilo
 
 72
-00:03:46,156 --> 00:03:50,055
+00:03:46,371 --> 00:03:50,252
 por centímetro cuadrado. No lo sientes porque has vivido
 
 73
-00:03:50,055 --> 00:03:51,238
+00:03:50,252 --> 00:03:51,430
 así toda tu vida.
 
 74
-00:03:51,788 --> 00:03:55,531
+00:03:51,980 --> 00:03:55,747
 En el océano, cada diez metros de agua suman
 
 75
-00:03:55,531 --> 00:03:59,443
+00:03:55,747 --> 00:03:59,685
 esa misma presión otra vez. Baja diez metros y
 
 76
-00:03:59,443 --> 00:04:03,186
+00:03:59,685 --> 00:04:03,451
 la presión se duplica. Baja cien metros y es
 
 77
-00:04:03,186 --> 00:04:05,057
+00:04:03,451 --> 00:04:05,335
 once veces más fuerte.
 
 78
-00:04:05,607 --> 00:04:09,344
+00:04:05,885 --> 00:04:09,633
 En el fondo del Abismo Challenger, la presión es
 
 79
-00:04:09,344 --> 00:04:12,536
+00:04:09,633 --> 00:04:12,835
 más de mil veces la de la superficie. Más
 
 80
-00:04:12,536 --> 00:04:16,428
+00:04:12,835 --> 00:04:16,740
 de mil kilos por cada centímetro cuadrado. Como un
 
 81
-00:04:16,428 --> 00:04:18,919
+00:04:16,740 --> 00:04:19,239
 elefante parado sobre tu pulgar.
 
 82
-00:04:19,469 --> 00:04:22,474
+00:04:19,789 --> 00:04:22,781
 ¿Y qué te haría eso? Primero, las partes de
 
 83
-00:04:22,474 --> 00:04:25,898
+00:04:22,781 --> 00:04:26,191
 tu cuerpo llenas de aire. Tus pulmones, tus senos
 
 84
-00:04:25,898 --> 00:04:29,112
+00:04:26,191 --> 00:04:29,391
 nasales, tus oídos. El aire dentro de ellos se
 
 85
-00:04:29,112 --> 00:04:32,955
+00:04:29,391 --> 00:04:33,218
 comprime cada vez más, y tus pulmones colapsarían mucho
 
 86
-00:04:32,955 --> 00:04:34,701
+00:04:33,218 --> 00:04:34,957
 antes de llegar al fondo.
 
 87
-00:04:35,251 --> 00:04:37,520
+00:04:35,507 --> 00:04:37,753
 El agua de tu cuerpo casi no se comprime,
 
 88
-00:04:37,520 --> 00:04:40,508
+00:04:37,753 --> 00:04:40,711
 por eso los animales de las profundidades pueden vivir
 
 89
-00:04:40,508 --> 00:04:43,329
+00:04:40,711 --> 00:04:43,505
 allí. Pero un cuerpo hecho para el aire simplemente
 
 90
-00:04:43,329 --> 00:04:43,827
+00:04:43,505 --> 00:04:43,998
 no puede.
 
 91
-00:04:44,377 --> 00:04:49,166
+00:04:44,548 --> 00:04:49,303
 Esta presión no solo aplasta personas. También aplasta máquinas.
 
 92
-00:04:49,166 --> 00:04:52,533
+00:04:49,303 --> 00:04:52,647
 En enero de 1960, Jacques Piccard y Don Walsh
 
 93
-00:04:52,533 --> 00:04:56,948
+00:04:52,647 --> 00:04:57,030
 fueron los primeros humanos en llegar al Abismo Challenger,
 
 94
-00:04:56,948 --> 00:04:59,567
+00:04:57,030 --> 00:04:59,631
 dentro de una nave llamada Trieste.
 
 95
-00:05:00,117 --> 00:05:03,790
+00:05:00,181 --> 00:05:03,861
 Durante el descenso escucharon un fuerte crujido. Uno de
 
 96
-00:05:03,790 --> 00:05:07,530
+00:05:03,861 --> 00:05:07,608
 los vidrios exteriores se había agrietado por la presión.
 
 97
-00:05:07,530 --> 00:05:10,876
+00:05:07,608 --> 00:05:10,960
 Aun así siguieron, y pasaron unos veinte minutos en
 
 98
-00:05:10,876 --> 00:05:11,466
+00:05:10,960 --> 00:05:11,551
 el fondo.
 
 99
-00:05:12,016 --> 00:05:15,533
+00:05:12,101 --> 00:05:15,618
 Nadie regresó durante cincuenta y dos años. Luego, en
 
 100
-00:05:15,533 --> 00:05:19,182
+00:05:15,618 --> 00:05:19,267
 2012, el cineasta James Cameron hizo el primer descenso
 
 101
-00:05:19,182 --> 00:05:21,040
+00:05:19,267 --> 00:05:21,125
 en solitario hasta el fondo.
 
 102
-00:05:21,590 --> 00:05:24,980
+00:05:21,675 --> 00:05:25,087
 Y a partir de 2019, el explorador Victor Vescovo
 
 103
-00:05:24,980 --> 00:05:28,512
+00:05:25,087 --> 00:05:28,641
 hizo una serie de descensos en un sumergible hecho
 
 104
-00:05:28,512 --> 00:05:32,397
+00:05:28,641 --> 00:05:32,550
 para la máxima profundidad del océano, llevando a otras
 
 105
-00:05:32,397 --> 00:05:35,222
+00:05:32,550 --> 00:05:35,393
 personas, incluido el hijo de Don Walsh.
 
 106
-00:05:35,772 --> 00:05:39,318
+00:05:35,943 --> 00:05:39,450
 Así que te pregunto. Si te regalaran un lugar
 
 107
-00:05:39,318 --> 00:05:42,549
+00:05:39,450 --> 00:05:42,645
 en ese submarino, ¿irías? Sí o no, en los
 
 108
-00:05:42,549 --> 00:05:43,495
+00:05:42,645 --> 00:05:43,580
 comentarios.
 
 109
-00:05:44,045 --> 00:05:47,222
+00:05:44,130 --> 00:05:47,307
 Entonces, el fondo de la fosa es oscuro, helado
 
 110
-00:05:47,222 --> 00:05:50,466
+00:05:47,307 --> 00:05:50,551
 y aplastante. Seguramente nada vive allí. Error.
 
 111
-00:05:51,016 --> 00:05:55,340
+00:05:51,101 --> 00:05:55,394
 Pequeñas criaturas parecidas a camarones, llamadas anfípodos, corren por
 
 112
-00:05:55,340 --> 00:05:58,162
+00:05:55,394 --> 00:05:58,197
 el fondo. Algunas son mucho más grandes que sus
 
 113
-00:05:58,162 --> 00:06:01,285
+00:05:58,197 --> 00:06:01,297
 parientes de aguas poco profundas, y se lanzan sobre
 
 114
-00:06:01,285 --> 00:06:03,027
+00:06:01,297 --> 00:06:03,027
 todo lo que cae desde arriba.
 
 115
-00:06:03,577 --> 00:06:07,682
+00:06:03,577 --> 00:06:07,654
 Hay xenofióforos, seres vivos gigantes de una sola célula
 
 116
-00:06:07,682 --> 00:06:10,995
+00:06:07,654 --> 00:06:10,945
 que pueden crecer tanto como tu puño. Una sola
 
 117
-00:06:10,995 --> 00:06:13,155
+00:06:10,945 --> 00:06:13,091
 célula, del tamaño de tu puño.
 
 118
-00:06:13,705 --> 00:06:16,332
+00:06:13,641 --> 00:06:16,295
 Y un poco más arriba viven los peces caracol.
 
 119
-00:06:16,332 --> 00:06:19,717
+00:06:16,295 --> 00:06:19,715
 Peces pequeños, blandos y casi transparentes que viven más
 
 120
-00:06:19,717 --> 00:06:22,111
+00:06:19,715 --> 00:06:22,132
 profundo que cualquier otro pez conocido.
 
 121
-00:06:22,661 --> 00:06:26,604
+00:06:22,682 --> 00:06:26,593
 Todos sobreviven con restos. Plancton muerto, peces y, de
 
 122
-00:06:26,604 --> 00:06:30,202
+00:06:26,593 --> 00:06:30,161
 vez en cuando, una ballena muerta que cae lentamente
 
 123
-00:06:30,202 --> 00:06:34,423
+00:06:30,161 --> 00:06:34,346
 desde el mundo iluminado, kilómetros arriba. Aquí abajo, nada
 
 124
-00:06:34,423 --> 00:06:35,461
+00:06:34,346 --> 00:06:35,375
 se desperdicia.
 
 125
-00:06:36,011 --> 00:06:38,604
+00:06:35,925 --> 00:06:38,523
 Pero no todo en el fondo está vivo. En
 
 126
-00:06:38,604 --> 00:06:43,449
+00:06:38,523 --> 00:06:43,378
 varias expediciones, los exploradores encontraron algo que no esperaban
 
 127
-00:06:43,449 --> 00:06:46,520
+00:06:43,378 --> 00:06:46,454
 en el lugar más profundo de la Tierra. Bolsas
 
 128
-00:06:46,520 --> 00:06:47,339
+00:06:46,454 --> 00:06:47,275
 de plástico.
 
 129
-00:06:47,889 --> 00:06:50,965
+00:06:47,825 --> 00:06:50,909
 Piénsalo. Los humanos casi no han estado allí. Pero
 
 130
-00:06:50,965 --> 00:06:54,524
+00:06:50,909 --> 00:06:54,476
 nuestra basura llegó primero. Ningún lugar del planeta está
 
 131
-00:06:54,524 --> 00:06:56,635
+00:06:54,476 --> 00:06:56,593
 realmente fuera de nuestro alcance.
 
 132
-00:06:57,185 --> 00:07:00,782
+00:06:57,143 --> 00:07:00,717
 Volvamos a ti, hundiéndote en la oscuridad. La luz
 
 133
-00:07:00,782 --> 00:07:04,954
+00:07:00,717 --> 00:07:04,863
 desaparecería en los primeros minutos. El frío empezaría a
 
 134
-00:07:04,954 --> 00:07:08,263
+00:07:04,863 --> 00:07:08,151
 apagar tu cuerpo. Y la presión sacaría el aire
 
 135
-00:07:08,263 --> 00:07:10,924
+00:07:08,151 --> 00:07:10,796
 de ti mucho antes de llegar al fondo.
 
 136
-00:07:11,474 --> 00:07:14,298
+00:07:11,346 --> 00:07:14,190
 La Fosa de las Marianas no solo es profunda.
 
 137
-00:07:14,298 --> 00:07:17,315
+00:07:14,190 --> 00:07:17,228
 Es uno de los lugares más hostiles del planeta.
 
 138
-00:07:17,315 --> 00:07:19,818
+00:07:17,228 --> 00:07:19,749
 Y aun así, la vida encontró la forma de
 
 139
-00:07:19,818 --> 00:07:23,284
+00:07:19,749 --> 00:07:23,239
 vivir allí, en silencio, en total oscuridad. Puede que
 
 140
-00:07:23,284 --> 00:07:26,493
+00:07:23,239 --> 00:07:26,471
 todavía haya criaturas que ningún humano ha visto.
 
 141
-00:07:27,043 --> 00:07:30,291
+00:07:27,021 --> 00:07:30,269
 Última pregunta. ¿A dónde vamos ahora, a algún lugar
 
 142
-00:07:30,291 --> 00:07:33,226
+00:07:30,269 --> 00:07:33,205
 igual de extremo, pero en tierra? Dímelo en los
 
 143
-00:07:33,226 --> 00:07:33,976
+00:07:33,205 --> 00:07:33,955
 comentarios.
 
 144
-00:07:34,526 --> 00:07:37,872
+00:07:34,505 --> 00:07:37,826
 Gracias por ver Earth Decoded. Si te gustó este
 
 145
-00:07:37,872 --> 00:07:41,931
+00:07:37,826 --> 00:07:41,853
 viaje, dale me gusta, suscríbete y compártelo con alguien
 
 146
-00:07:41,931 --> 00:07:44,921
+00:07:41,853 --> 00:07:44,821
 a quien le encante el océano. Nos vemos en
 
 147
-00:07:44,921 --> 00:07:45,705
+00:07:44,821 --> 00:07:45,598
 el próximo.
 
