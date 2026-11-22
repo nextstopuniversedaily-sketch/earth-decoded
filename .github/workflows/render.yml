@@ -52,12 +52,9 @@ jobs:
           mkdir -p previews videos/long
           for f in $(python pipeline/render.py --all --list); do
             python pipeline/render.py "$f" 2>&1 | tee "previews/$(basename "$f" .json).log"
-            python tools/index.py || true
-            git add videos previews UPLOAD.md
-            git commit -q -m "Render $(basename "$f" .json)" || true
-            git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
+            stem=$(python -c "import json,sys;print('s%03d' % json.load(open(sys.argv[1]))['number'])" "$f")
+            bash tools/publish.sh "Render $(basename "$f" .json)" videos/$stem.* previews/$stem.jpg previews/sthumb-$stem.jpg "previews/$(basename "$f" .json).log" || true
           done
-          git push -q || true
 
       - name: Render new or changed long-form videos (16:9)
         run: |
@@ -65,16 +62,14 @@ jobs:
             slug=$(python -c "import json,sys;print(json.load(open(sys.argv[1]))['slug'])" "$f")
             python pipeline/render_long.py "$f" 2>&1 | tee "previews/long-$slug.log"
             python pipeline/thumbnail.py "$f" 2>&1 | tee -a "previews/long-$slug.log" || true
-            python tools/index.py || true
-            git add videos/long previews UPLOAD.md
-            git commit -q -m "Render long-form $slug" || true
-            git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
+            bash tools/publish.sh "Render long-form $slug" videos/long/$slug.* previews/long-$slug.jpg previews/long-$slug.log previews/thumb-$slug.jpg || true
           done
-          git push -q || true
 
       - name: Update the download list (UPLOAD.md)
         run: |
+          git rebase --abort 2>/dev/null || true
+          git fetch -q origin main && git reset -q --hard origin/main
           python tools/index.py
           git add UPLOAD.md
           git commit -q -m "Update UPLOAD.md" || true
-          git pull -q --rebase origin main && git push -q || true
+          git push -q origin HEAD:main || true
