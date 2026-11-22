@@ -1,0 +1,21 @@
+[0;93m2026-11-22 00:21:08.927292096 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 3: Point Roberts
+  audio 51.4s
+  - skip File:Point_Roberts_Marina_Resort_(August_6,_2026).jpg: license 'CC BY-SA 4.0'
+  NASA 'Point Roberts' -> KSC-04pd0341: KENNEDY SPACE CENTER, FLA. - On a tour of the Orbiter Processing Facil
+  segment 1/6 [title] 5.4s
+  segment 2/6 [map] 8.7s
+  segment 3/6 [map] 14.4s
+  segment 4/6 [card] 10.9s
+  - skip File:US port of entry at Point Roberts (August 6, 2026).jpg: license 'CC BY-SA 4.0'
+  - skip File:Canadian port of entry at Boundary Bay (March 25, 2026).jpg: license 'CC BY-SA 4.0'
+  - skip File:Point Roberts poe.jpg: license 'CC BY-SA 3.0'
+  - skip File:US port of entry at Point Roberts, brightened (August 6, 2026).jpg: license 'CC BY-SA 4.0'
+  - skip File:Crossing point of the West Water - geograph.org.uk - 1558504.jpg: license 'CC BY-SA 2.0'
+  - skip File:Peace-Arch-rail-border-crossing-3610.jpg: license 'CC BY-SA 3.0'
+  - skip File:Peace-Arhc-railroad-border-sign-3609.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Pointrobertswide oli 2020210.jpg (Public domain)
+  segment 5/6 [image] 3.8s
+  WIKI File:Point Roberts aerial view.jpg (Public domain)
+  segment 6/6 [end] 8.2s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s003.mp4 (8.0 MB)
