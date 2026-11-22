@@ -1,0 +1,44 @@
+[0;93m2026-11-22 03:46:09.917907195 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 17: Panama Canal
+  audio 115.4s
+  - skip File:Panama Canal Miraflores Locks.jpg: license 'CC BY-SA 3.0'
+  - skip File:Panama Canal locks 1994 ships.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Good view of the locks in the Panama Canal -a.jpg (CC BY 2.0)
+  segment 1/11 [title] 4.9s
+  segment 2/11 [map] 9.9s
+  WIKI File:Earth from Space- Panama Canal ESA25142394.jpg (Attribution)
+  segment 3/11 [image] 10.5s
+  segment 4/11 [card] 10.0s
+  - skip File:Container Ship Enters Miraflores Locks - Panama Canal.jpg: license 'CC BY-SA 2.0'
+  - skip File:Container Ship Enters Miraflores Locks - Panama Canal (02).jpg: license 'CC BY-SA 2.0'
+  - skip File:Cruise ship passing Miraflores Locks 2019-10-24.jpg: license 'CC BY-SA 4.0'
+  - skip File:Locomotives Tow Container Ship through Miraflores Locks - Panama Canal.jpg: license 'CC BY-SA 2.0'
+  - skip File:Crewman on Container Ship Passing through Miraflores Locks - Panama Canal.jpg: license 'CC BY-SA 2.0'
+  - skip File:Miraflores Locks - Hanjin Wilmington entering.JPG: license 'CC BY-SA 3.0'
+  - skip File:Fender chains of the Miraflores locks, Panama Canal - 19380308.jpg: looks like a chart/blank
+  - skip File:Miraflores Locks - 49953155947.jpg: license 'CC BY-SA 2.0'
+  - skip File:Miraflores Locks, night transit.JPG: license 'CC BY-SA 3.0'
+  - skip File:Seaways Rosemar in Miraflores Locks with gate.agr.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Panama Canal locks'
+  segment 5/11 [image] 11.7s
+  segment 6/11 [card] 11.8s
+  WIKI File:Labourers at work on the panama canal at Culebra Cut 1904.jpg (Public domain)
+  segment 7/11 [image] 10.7s
+  segment 8/11 [card] 10.4s
+  WIKI File:Panama_Papers_(148830809).jpeg (CC BY 3.0)
+  segment 9/11 [image] 10.5s
+  - skip File:Agua Clara Locks 09 2019 0713.jpg: license 'CC BY-SA 4.0'
+  - skip File:Control Tower Agua Clara Locks 09 2019 0868.jpg: license 'CC BY-SA 4.0'
+  - skip File:Control Tower Agua Clara Locks 09 2019 0873.jpg: license 'CC BY-SA 4.0'
+  - skip File:Agua Clara Locks Panorama 09 2019 0819.jpg: license 'CC BY-SA 4.0'
+  - skip File:Agua Clara Locks 09 2019 0822.jpg: license 'CC BY-SA 4.0'
+  - skip File:Agua Clara Locks 09 2019 0964.jpg: license 'CC BY-SA 4.0'
+  - skip File:Water saving basins Agua Clara Locks 09 2019 0701.jpg: license 'CC BY-SA 4.0'
+  - skip File:Agua Clara Locks 09 2019 0698.jpg: license 'CC BY-SA 4.0'
+  - skip File:Agua Clara Locks 09 2019 0744.jpg: license 'CC BY-SA 4.0'
+  - skip File:Panorama water saving basins Agua Clara Locks 09 2019 0757.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Panama Canal expansion'
+  segment 10/11 [image] 9.9s
+  WIKI File:Container ship transits the Panama Canal.jpg (Public domain)
+  segment 11/11 [end] 15.1s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s017.mp4 (27.7 MB)
