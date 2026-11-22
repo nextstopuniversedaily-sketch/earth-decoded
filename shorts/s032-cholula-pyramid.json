@@ -1,0 +1,173 @@
+{
+ "number": 32,
+ "publish": "2026-12-24 12:00",
+ "kicker": "HIDDEN IN PLAIN SIGHT",
+ "title": "Cholula",
+ "subtitle": "The world's biggest pyramid is in Mexico",
+ "yt_title": "The World's Biggest Pyramid Is in Mexico, Not Egypt 🇲🇽🤯 #shorts",
+ "yt_title_es": "La pirámide más grande del mundo está en México, no en Egipto 🇲🇽🤯 #shorts",
+ "description": "The Great Pyramid of Cholula in Puebla, Mexico, is the largest pyramid on Earth by volume, almost twice the Great Pyramid of Giza. It's so overgrown that the Spanish built a church on top thinking it was a hill.\n#Cholula #Mexico #Pyramid #EarthDecoded #shorts",
+ "description_es": "La Gran Pirámide de Cholula, en Puebla, México, es la pirámide más grande de la Tierra por volumen, casi el doble que la Gran Pirámide de Guiza. Está tan cubierta que los españoles construyeron una iglesia encima creyendo que era un cerro.\n#Cholula #Mexico #shorts",
+ "tags": [
+  "cholula",
+  "great pyramid of cholula",
+  "biggest pyramid",
+  "mexico",
+  "puebla",
+  "pyramids",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Great Pyramid of Cholula church Popocatepetl"
+  ],
+  "query": "Cholula",
+  "white": "BIGGEST",
+  "accent": "PYRAMID",
+  "badge": "HIDDEN IN MEXICO",
+  "files": [
+   "Cholula church atop pyramid.jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "The biggest pyramid in the world isn't in Egypt. It's in Mexico.",
+   "es": "La pirámide más grande del mundo no está en Egipto. Está en México.",
+   "visual": {
+    "type": "title",
+    "query": "Cholula"
+   }
+  },
+  {
+   "text": "In the town of Cholula, in Puebla, there's a big green hill with a bright yellow church on top. But that hill isn't a hill.",
+   "es": "En el pueblo de Cholula, en Puebla, hay un gran cerro verde con una iglesia amarilla encima. Pero ese cerro no es un cerro.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -118,
+     -86,
+     14,
+     33
+    ],
+    "highlight": [
+     "Mexico"
+    ],
+    "marker": [
+     -98.3,
+     19.06
+    ],
+    "label": "Cholula"
+   },
+   "headline": "CHOLULA, PUEBLA"
+  },
+  {
+   "text": "Underneath the grass is the Great Pyramid of Cholula, known as Tlachihualtepetl, which means made-by-hand mountain.",
+   "es": "Bajo el pasto está la Gran Pirámide de Cholula, conocida como Tlachihualtepetl, que significa cerro hecho a mano.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Cholula Great Pyramid Building 5"
+    ],
+    "query": "Cholula pyramid"
+   },
+   "headline": "A MADE-BY-HAND MOUNTAIN"
+  },
+  {
+   "text": "Each side of its base is about four hundred fifty meters long, almost twice as wide as the Great Pyramid of Giza.",
+   "es": "Cada lado de su base mide unos cuatrocientos cincuenta metros, casi el doble de ancho que la Gran Pirámide de Guiza.",
+   "visual": {
+    "type": "card",
+    "big": "450 M",
+    "label": "per side at the base",
+    "sub": "almost twice as wide as Giza"
+   },
+   "headline": "BIGGER THAN GIZA"
+  },
+  {
+   "text": "It's not as tall as Giza, but by total volume, it's the largest pyramid ever built, and the largest monument of any kind.",
+   "es": "No es tan alta como Guiza, pero por volumen total es la pirámide más grande jamás construida, y el monumento más grande de cualquier tipo.",
+   "visual": {
+    "type": "card",
+    "big": "#1",
+    "label": "largest pyramid by volume",
+    "sub": "and the largest monument on Earth"
+   },
+   "headline": "#1 BY VOLUME"
+  },
+  {
+   "text": "It was built in stages over about a thousand years, starting more than two thousand years ago, each new layer covering the last.",
+   "es": "Se construyó por etapas durante unos mil años, empezando hace más de dos mil años, cada nueva capa cubriendo la anterior.",
+   "visual": {
+    "type": "card",
+    "big": "1,000 YEARS",
+    "label": "of building in layers",
+    "sub": "starting over 2,000 years ago"
+   }
+  },
+  {
+   "text": "By the time the Spanish arrived in the fifteen hundreds, it was covered in earth and plants. In 1594, they built the church of Nuestra Señora de los Remedios right on top.",
+   "es": "Para cuando llegaron los españoles en el siglo dieciséis, estaba cubierta de tierra y plantas. En 1594 construyeron encima la iglesia de Nuestra Señora de los Remedios.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Cholula church atop pyramid"
+    ],
+    "query": "Cholula church"
+   },
+   "headline": "A CHURCH ON TOP"
+  },
+  {
+   "text": "Today, you can walk through tunnels dug by archaeologists inside the pyramid, and on a clear day, see the Popocatépetl volcano smoking behind it.",
+   "es": "Hoy puedes caminar por túneles excavados por arqueólogos dentro de la pirámide, y en un día despejado ver el volcán Popocatépetl humeando detrás.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Popocatépetl"
+    ],
+    "query": "Popocatepetl"
+   },
+   "headline": "TUNNELS INSIDE"
+  },
+  {
+   "text": "The church sits on top of the pyramid because Spanish colonizers often built churches on sacred sites of the people they conquered.",
+   "es": "La iglesia está encima de la pirámide porque los colonizadores españoles solían construir templos sobre los sitios sagrados de los pueblos que conquistaban.",
+   "visual": {
+    "type": "card",
+    "big": "SACRED SITE",
+    "label": "a church on top of a temple",
+    "sub": "a common colonial practice"
+   }
+  },
+  {
+   "text": "Cholula is also one of the oldest continuously inhabited cities in the Americas, with people living there for well over two thousand years.",
+   "es": "Cholula también es una de las ciudades habitadas de forma continua más antiguas de América, con gente viviendo ahí desde hace más de dos mil años.",
+   "visual": {
+    "type": "card",
+    "big": "2,000+ YEARS",
+    "label": "of continuous life",
+    "sub": "one of the oldest cities in the Americas"
+   }
+  },
+  {
+   "text": "The pyramid was dedicated to the god Quetzalcóatl, the feathered serpent.",
+   "es": "La pirámide estaba dedicada al dios Quetzalcóatl, la serpiente emplumada.",
+   "visual": {
+    "type": "card",
+    "big": "QUETZALCÓATL",
+    "label": "the feathered serpent",
+    "sub": "the god of the great pyramid"
+   }
+  },
+  {
+   "text": "Have you been to Cholula? Tell me in the comments.",
+   "es": "¿Has ido a Cholula? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "BEEN THERE?",
+    "query": "Cholula"
+   }
+  }
+ ]
+}

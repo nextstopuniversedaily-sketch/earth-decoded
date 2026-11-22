@@ -1,0 +1,186 @@
+{
+ "number": 23,
+ "publish": "2026-12-15 12:00",
+ "kicker": "PLOT TWIST",
+ "title": "Mount Everest",
+ "subtitle": "Is Everest really the tallest?",
+ "yt_title": "Everest Is NOT the Tallest Mountain? 🏔️🤯 #shorts",
+ "yt_title_es": "¿El Everest NO es la montaña más alta? 🏔️🤯 #shorts",
+ "description": "Everest is the highest mountain above sea level, but two other mountains can claim the title in different ways: Mauna Kea in Hawaii and Chimborazo in Ecuador.\n#Everest #MaunaKea #Chimborazo #EarthDecoded #shorts",
+ "description_es": "El Everest es la montaña más alta sobre el nivel del mar, pero otras dos pueden reclamar el título de otra forma: el Mauna Kea en Hawái y el Chimborazo en Ecuador.\n#Everest #Chimborazo #shorts",
+ "tags": [
+  "mount everest",
+  "tallest mountain",
+  "mauna kea",
+  "chimborazo",
+  "everest not tallest",
+  "mountains",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "files": [
+   "Everest, Himalayas.jpg"
+  ],
+  "commons": [
+   "Mount Everest"
+  ],
+  "query": "Mount Everest",
+  "white": "NOT THE",
+  "accent": "TALLEST?",
+  "badge": "2 MOUNTAINS BEAT IT"
+ },
+ "segments": [
+  {
+   "text": "Is Mount Everest really the tallest mountain on Earth?",
+   "es": "¿Es el Everest realmente la montaña más alta de la Tierra?",
+   "visual": {
+    "type": "title",
+    "query": "Mount Everest"
+   }
+  },
+  {
+   "text": "Everest's summit is eight thousand eight hundred forty-nine meters above sea level. Nothing on Earth reaches higher above the ocean.",
+   "es": "La cumbre del Everest está a ocho mil ochocientos cuarenta y nueve metros sobre el nivel del mar. Nada en la Tierra llega más alto sobre el océano.",
+   "visual": {
+    "type": "card",
+    "big": "8,849 M",
+    "label": "Everest above sea level",
+    "sub": "the highest point above the ocean"
+   },
+   "headline": "8,849 METERS"
+  },
+  {
+   "text": "But sea level isn't the only way to measure a mountain. Meet Mauna Kea, a volcano in Hawaii.",
+   "es": "Pero el nivel del mar no es la única forma de medir una montaña. Conoce el Mauna Kea, un volcán en Hawái.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -161,
+     -154,
+     18,
+     23
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -155.47,
+     19.82
+    ],
+    "label": "Mauna Kea"
+   },
+   "headline": "MAUNA KEA"
+  },
+  {
+   "text": "Above the water, it's only about four thousand two hundred meters tall. But most of it is hidden under the Pacific. Measured from its base on the sea floor, Mauna Kea is more than ten thousand meters tall, over a kilometer taller than Everest.",
+   "es": "Sobre el agua mide solo unos cuatro mil doscientos metros. Pero la mayor parte está escondida bajo el Pacífico. Medido desde su base en el fondo marino, el Mauna Kea mide más de diez mil metros, más de un kilómetro más que el Everest.",
+   "visual": {
+    "type": "card",
+    "big": "10,000+ M",
+    "label": "Mauna Kea from base to peak",
+    "sub": "most of it is underwater"
+   },
+   "headline": "TALLEST FROM BASE"
+  },
+  {
+   "text": "And then there's Chimborazo, a volcano in Ecuador. It's only six thousand two hundred sixty-three meters above sea level.",
+   "es": "Y luego está el Chimborazo, un volcán en Ecuador. Mide solo seis mil doscientos sesenta y tres metros sobre el nivel del mar.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -82,
+     -74,
+     -5,
+     2
+    ],
+    "highlight": [
+     "Ecuador"
+    ],
+    "marker": [
+     -78.82,
+     -1.47
+    ],
+    "label": "Chimborazo"
+   },
+   "headline": "CHIMBORAZO"
+  },
+  {
+   "text": "But Earth isn't a perfect ball. It spins, so it bulges around the equator, about forty-three kilometers wider there than from pole to pole.",
+   "es": "Pero la Tierra no es una bola perfecta. Gira, así que se ensancha en el ecuador, unos cuarenta y tres kilómetros más que de polo a polo.",
+   "visual": {
+    "type": "card",
+    "big": "43 KM",
+    "label": "Earth's bulge at the equator",
+    "sub": "our planet is slightly squashed"
+   },
+   "headline": "EARTH BULGES"
+  },
+  {
+   "text": "Chimborazo sits almost on the equator, on top of that bulge. So its summit is the point on Earth farthest from the planet's center, about two kilometers farther out than Everest's.",
+   "es": "El Chimborazo está casi sobre el ecuador, encima de ese abultamiento. Así que su cumbre es el punto de la Tierra más alejado del centro del planeta, unos dos kilómetros más que la del Everest.",
+   "visual": {
+    "type": "image",
+    "query": "Chimborazo volcano",
+    "commons": [
+     "Chimborazo Volcano 49638822642"
+    ]
+   },
+   "headline": "CLOSEST TO SPACE"
+  },
+  {
+   "text": "That means standing on Chimborazo, you're the closest you can get to the stars while standing on Earth.",
+   "es": "Eso significa que, parado en el Chimborazo, estás lo más cerca de las estrellas que puedes estar sobre la Tierra.",
+   "visual": {
+    "type": "card",
+    "big": "CLOSEST",
+    "label": "to the stars on Earth",
+    "sub": "the summit of Chimborazo"
+   }
+  },
+  {
+   "text": "There's even a fourth contender. Denali in Alaska rises about five and a half kilometers from its base on the surrounding land, a bigger rise than Everest from its base on the Tibetan Plateau.",
+   "es": "Incluso hay un cuarto contendiente. El Denali en Alaska se eleva unos cinco kilómetros y medio desde su base en la tierra que lo rodea, más que el Everest desde su base en la meseta tibetana.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Denali"
+    ],
+    "query": "Denali"
+   },
+   "headline": "AND DENALI?"
+  },
+  {
+   "text": "And Everest is still growing, by about four millimeters a year, as India keeps pushing into Asia.",
+   "es": "Y el Everest sigue creciendo, unos cuatro milímetros al año, mientras India sigue empujando contra Asia.",
+   "visual": {
+    "type": "card",
+    "big": "+4 MM",
+    "label": "per year",
+    "sub": "Everest is still growing"
+   }
+  },
+  {
+   "text": "Mauna Kea's summit is so high and clear that it's home to some of the world's most important telescopes.",
+   "es": "La cumbre del Mauna Kea es tan alta y despejada que alberga algunos de los telescopios más importantes del mundo.",
+   "visual": {
+    "type": "image",
+    "query": "Mauna Kea telescopes",
+    "commons": [
+     "Mauna Kea Eastern Telescopes"
+    ]
+   },
+   "headline": "TELESCOPES ON TOP"
+  },
+  {
+   "text": "So which one is the real tallest? Everest, Mauna Kea or Chimborazo? Tell me in the comments.",
+   "es": "Entonces, ¿cuál es la más alta de verdad? ¿Everest, Mauna Kea o Chimborazo? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "WHICH ONE?",
+    "query": "Mount Everest"
+   }
+  }
+ ]
+}

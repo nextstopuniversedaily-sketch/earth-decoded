@@ -1,0 +1,172 @@
+{
+ "number": 21,
+ "publish": "2026-12-13 12:00",
+ "kicker": "NO BITES",
+ "title": "Iceland",
+ "subtitle": "Why does Iceland have no mosquitoes?",
+ "yt_title": "Why Iceland Had No Mosquitoes (Until Now) 🇮🇸🦟 #shorts",
+ "yt_title_es": "Por qué Islandia no tenía mosquitos (hasta ahora) 🇮🇸🦟 #shorts",
+ "description": "For centuries Iceland was one of the only places on Earth without mosquitoes, even though its neighbors have plenty. Scientists think its strange winters were the reason. Then, in 2025, something changed.\n#Iceland #Mosquitoes #Geography #EarthDecoded #shorts",
+ "description_es": "Durante siglos, Islandia fue uno de los pocos lugares de la Tierra sin mosquitos, aunque sus vecinos tienen muchos. Los científicos creen que sus extraños inviernos eran la razón. Luego, en 2025, algo cambió.\n#Islandia #Mosquitos #shorts",
+ "tags": [
+  "iceland",
+  "iceland mosquitoes",
+  "no mosquitoes",
+  "iceland facts",
+  "climate change",
+  "insects",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Iceland landscape"
+  ],
+  "query": "Iceland landscape",
+  "white": "ZERO",
+  "accent": "MOSQUITOES",
+  "badge": "UNTIL 2025",
+  "files": [
+   "Fjallsárlón glacier lake, Iceland, 20240719 1720 2774.jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "Why does Iceland have no mosquitoes?",
+   "es": "¿Por qué Islandia no tiene mosquitos?",
+   "visual": {
+    "type": "title",
+    "query": "Iceland"
+   }
+  },
+  {
+   "text": "Mosquitoes live almost everywhere on Earth, from the tropics to the Arctic. Greenland, Norway and Scotland, Iceland's neighbors, all have them.",
+   "es": "Los mosquitos viven casi en todas partes de la Tierra, de los trópicos al Ártico. Groenlandia, Noruega y Escocia, vecinos de Islandia, todos los tienen.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -50,
+     20,
+     50,
+     75
+    ],
+    "highlight": [
+     "Iceland",
+     "Greenland",
+     "Norway"
+    ]
+   },
+   "headline": "EVERYWHERE ELSE"
+  },
+  {
+   "text": "But for a very long time, Iceland had none. It was one of the only places, besides Antarctica, where you could spend a summer evening outside without a single bite.",
+   "es": "Pero durante muchísimo tiempo, Islandia no tuvo ninguno. Era uno de los pocos lugares, además de la Antártida, donde podías pasar una tarde de verano afuera sin una sola picadura.",
+   "visual": {
+    "type": "card",
+    "big": "0",
+    "label": "mosquitoes in Iceland",
+    "sub": "for as long as anyone recorded"
+   },
+   "headline": "NO BITES"
+  },
+  {
+   "text": "Scientists aren't completely sure why. The most popular idea is the weather. Mosquitoes need still water to lay eggs and grow.",
+   "es": "Los científicos no están del todo seguros de por qué. La idea más popular es el clima. Los mosquitos necesitan agua quieta para poner huevos y crecer.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Landscape during Laugavegur hiking trail"
+    ],
+    "query": "Iceland"
+   },
+   "headline": "WHY?"
+  },
+  {
+   "text": "Iceland's winters often freeze and thaw again and again. A mosquito larva might hatch during a warm spell, then get frozen before it can finish growing.",
+   "es": "Los inviernos de Islandia a menudo se congelan y descongelan una y otra vez. Una larva podría nacer en un día cálido y congelarse antes de terminar de crecer.",
+   "visual": {
+    "type": "card",
+    "big": "FREEZE, THAW",
+    "label": "again and again all winter",
+    "sub": "too unstable for mosquito larvae"
+   },
+   "headline": "FREEZE AND THAW"
+  },
+  {
+   "text": "Iceland does have other bugs, though. Lake Mývatn literally means midge lake, because clouds of tiny midges swarm there in summer.",
+   "es": "Pero Islandia sí tiene otros insectos. El lago Mývatn literalmente significa lago de los mosquitos pequeños, porque nubes de pequeños jejenes lo invaden en verano.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mývatn"
+    ],
+    "query": "Myvatn Iceland"
+   },
+   "headline": "MIDGE LAKE"
+  },
+  {
+   "text": "Then, in October 2025, came the surprise. An insect lover near Reykjavík found three mosquitoes, believed to be the first ever recorded in the wild in Iceland.",
+   "es": "Luego, en octubre de 2025, llegó la sorpresa. Un aficionado a los insectos cerca de Reikiavik encontró tres mosquitos, considerados los primeros registrados en la naturaleza en Islandia.",
+   "visual": {
+    "type": "card",
+    "big": "OCT 2025",
+    "label": "first mosquitoes found in Iceland",
+    "sub": "three of them, near Reykjavík"
+   },
+   "headline": "THE SURPRISE"
+  },
+  {
+   "text": "They were a cold-tolerant species that can survive winter as adults. Scientists say warmer weather and more ships and planes may help insects like this arrive and stay.",
+   "es": "Eran de una especie resistente al frío que puede pasar el invierno como adulto. Los científicos dicen que el clima más cálido y más barcos y aviones pueden ayudar a insectos así a llegar y quedarse.",
+   "visual": {
+    "type": "card",
+    "big": "WARMER",
+    "label": "winters may help them stay",
+    "sub": "scientists are watching closely"
+   }
+  },
+  {
+   "text": "Antarctica is the other big mosquito-free place. It's simply too cold and dry for them, though one tiny flightless midge does live there.",
+   "es": "La Antártida es el otro gran lugar sin mosquitos. Es demasiado fría y seca para ellos, aunque ahí sí vive un pequeño mosquito sin alas.",
+   "visual": {
+    "type": "card",
+    "big": "ANTARCTICA",
+    "label": "the other no-mosquito zone",
+    "sub": "too cold and dry"
+   }
+  },
+  {
+   "text": "Iceland's neighbors aren't so lucky. In Greenland and northern Scandinavia, summer swarms can be so thick that hikers wear head nets.",
+   "es": "Los vecinos de Islandia no tienen tanta suerte. En Groenlandia y el norte de Escandinavia, los enjambres de verano pueden ser tan densos que los excursionistas usan redes en la cabeza.",
+   "visual": {
+    "type": "card",
+    "big": "HEAD NETS",
+    "label": "needed in Greenland summers",
+    "sub": "the swarms are that thick"
+   }
+  },
+  {
+   "text": "Iceland is also very strict about bringing in animals and plants, partly to keep new pests and diseases out of the island.",
+   "es": "Islandia también es muy estricta con la entrada de animales y plantas, en parte para mantener fuera nuevas plagas y enfermedades.",
+   "visual": {
+    "type": "card",
+    "big": "STRICT RULES",
+    "label": "for animals and plants",
+    "sub": "to keep pests out"
+   }
+  },
+  {
+   "text": "So, is Iceland's mosquito-free era over? Would you still visit if it wasn't? Tell me in the comments.",
+   "es": "Entonces, ¿se acabó la era sin mosquitos de Islandia? ¿La visitarías igual? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "STILL GOING?",
+    "commons": [
+     "Iceland landscape"
+    ],
+    "query": "Iceland"
+   }
+  }
+ ]
+}

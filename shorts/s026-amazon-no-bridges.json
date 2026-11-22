@@ -1,0 +1,178 @@
+{
+ "number": 26,
+ "publish": "2026-12-18 12:00",
+ "kicker": "NO WAY ACROSS",
+ "title": "The Amazon",
+ "subtitle": "Why no bridge crosses the Amazon",
+ "yt_title": "Why There Are No Bridges Over the Amazon River 🌎🤯 #shorts",
+ "yt_title_es": "Por qué no hay puentes sobre el río Amazonas 🌎🤯 #shorts",
+ "description": "The Amazon is one of the longest rivers on Earth and carries more water than any other, yet not a single bridge crosses its main channel. Here's why.\n#Amazon #AmazonRiver #Brazil #EarthDecoded #shorts",
+ "description_es": "El Amazonas es uno de los ríos más largos de la Tierra y lleva más agua que cualquier otro, pero ni un solo puente cruza su cauce principal. Te explico por qué.\n#Amazonas #Brasil #shorts",
+ "tags": [
+  "amazon river",
+  "amazon bridges",
+  "brazil",
+  "rainforest",
+  "longest river",
+  "amazon facts",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Amazon River aerial"
+  ],
+  "query": "Amazon River",
+  "white": "ZERO",
+  "accent": "BRIDGES",
+  "badge": "6,400 KM OF RIVER",
+  "files": [
+   "Meeting of Waters (Manaus).jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "Why are there no bridges over the Amazon River?",
+   "es": "¿Por qué no hay puentes sobre el río Amazonas?",
+   "visual": {
+    "type": "title",
+    "query": "Amazon River"
+   }
+  },
+  {
+   "text": "The Amazon flows about six thousand four hundred kilometers across South America, from the Andes in Peru to the Atlantic in Brazil.",
+   "es": "El Amazonas recorre unos seis mil cuatrocientos kilómetros por Sudamérica, desde los Andes en Perú hasta el Atlántico en Brasil.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -82,
+     -45,
+     -20,
+     8
+    ],
+    "highlight": [
+     "Brazil",
+     "Peru",
+     "Colombia"
+    ],
+    "marker": [
+     -60,
+     -3.1
+    ],
+    "label": "Amazon River"
+   },
+   "headline": "6,400 KM"
+  },
+  {
+   "text": "It carries more water than any other river on Earth, around a fifth of all the river water that flows into the world's oceans.",
+   "es": "Lleva más agua que cualquier otro río de la Tierra, cerca de una quinta parte de toda el agua de ríos que llega a los océanos.",
+   "visual": {
+    "type": "card",
+    "big": "1/5",
+    "label": "of all river water reaching the oceans",
+    "sub": "more than any other river"
+   },
+   "headline": "THE MIGHTIEST RIVER"
+  },
+  {
+   "text": "And yet, not a single bridge crosses its main channel. Not one.",
+   "es": "Y aun así, ni un solo puente cruza su cauce principal. Ni uno.",
+   "visual": {
+    "type": "card",
+    "big": "0",
+    "label": "bridges over the main Amazon",
+    "sub": "in thousands of kilometers"
+   },
+   "headline": "ZERO BRIDGES"
+  },
+  {
+   "text": "Reason one: there aren't many roads to connect. Most of the river runs through thick rainforest, and the big cities along it, like Manaus, are mostly reached by boat or plane.",
+   "es": "Razón uno: no hay muchas carreteras que conectar. La mayor parte del río pasa por selva espesa, y las grandes ciudades en sus orillas, como Manaos, se alcanzan sobre todo en barco o avión.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Manaus Meeting of Waters"
+    ],
+    "query": "Manaus Amazon"
+   },
+   "headline": "NO ROADS"
+  },
+  {
+   "text": "Reason two: the river keeps changing. In the rainy season, the water can rise more than ten meters and flood the forest for kilometers on both sides.",
+   "es": "Razón dos: el río cambia todo el tiempo. En la temporada de lluvias, el agua puede subir más de diez metros e inundar la selva por kilómetros a ambos lados.",
+   "visual": {
+    "type": "card",
+    "big": "10+ M",
+    "label": "rise in the rainy season",
+    "sub": "flooding the forest for kilometers"
+   },
+   "headline": "A RIVER THAT MOVES"
+  },
+  {
+   "text": "Reason three: the banks are soft and keep shifting. Building giant foundations in that mud would be extremely difficult and expensive.",
+   "es": "Razón tres: las orillas son blandas y se mueven. Construir cimientos gigantes en ese lodo sería extremadamente difícil y caro.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Amazon-river-NASA"
+    ],
+    "query": "Amazon river aerial"
+   },
+   "headline": "SOFT BANKS"
+  },
+  {
+   "text": "So people do what they've always done: they use boats. Ferries carry cars, cargo and passengers up and down the river every day.",
+   "es": "Así que la gente hace lo de siempre: usa barcos. Los ferris llevan autos, carga y pasajeros río arriba y abajo cada día.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Amazon boat in Rio Negro River Manaus"
+    ],
+    "query": "Amazon river boat"
+   },
+   "headline": "BOATS INSTEAD"
+  },
+  {
+   "text": "At Manaus, the dark Rio Negro meets the sandy Solimões, and the two colors flow side by side for kilometers without mixing. It's called the Meeting of the Waters.",
+   "es": "En Manaos, el oscuro río Negro se encuentra con el arenoso Solimões, y los dos colores fluyen lado a lado por kilómetros sin mezclarse. Se llama el Encuentro de las Aguas.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Manaus Meeting of Waters"
+    ],
+    "query": "Meeting of the Waters Manaus"
+   },
+   "headline": "MEETING OF THE WATERS"
+  },
+  {
+   "text": "There is one big bridge nearby, over the Rio Negro at Manaus, opened in 2011. But it crosses a tributary, not the Amazon itself.",
+   "es": "Sí hay un gran puente cerca, sobre el río Negro en Manaos, inaugurado en 2011. Pero cruza un afluente, no el Amazonas.",
+   "visual": {
+    "type": "card",
+    "big": "2011",
+    "label": "Rio Negro Bridge",
+    "sub": "a tributary, not the Amazon itself"
+   }
+  },
+  {
+   "text": "Near the mouth, the Amazon is so wide that you often can't see the other side, and the island of Marajó in its delta is about the size of Switzerland.",
+   "es": "Cerca de la desembocadura, el Amazonas es tan ancho que a menudo no ves la otra orilla, y la isla de Marajó en su delta es del tamaño de Suiza.",
+   "visual": {
+    "type": "card",
+    "big": "MARAJÓ",
+    "label": "an island in the river mouth",
+    "sub": "about the size of Switzerland"
+   }
+  },
+  {
+   "text": "Would you rather cross the Amazon by boat or by a giant bridge? Tell me in the comments.",
+   "es": "¿Prefieres cruzar el Amazonas en barco o por un puente gigante? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "BOAT OR BRIDGE?",
+    "query": "Amazon rainforest"
+   }
+  }
+ ]
+}

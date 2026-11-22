@@ -1,0 +1,460 @@
+{
+ "slug": "never-survive-atacama",
+ "publish": "2027-01-30 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive the Atacama Desert",
+ "screen_title": "Why You'd Never Survive the Atacama Desert",
+ "subtitle": "The driest place on Earth",
+ "yt_title": "Why You'd Never Survive the Atacama, the Driest Desert on Earth",
+ "yt_title_es": "Por qué nunca sobrevivirías en el Atacama, el desierto más seco de la Tierra",
+ "description": "Chile's Atacama Desert is the driest non-polar place on Earth. Some spots have gone years, even decades, without rain. NASA tests Mars rovers here, and the world's biggest telescopes watch the sky from it. Here's why you'd never survive it, and why it's still full of surprises.\n\nSources: NASA, ESO, Dirección Meteorológica de Chile.\n#Atacama #Chile #Desert #EarthDecoded",
+ "description_es": "El desierto de Atacama, en Chile, es el lugar no polar más seco de la Tierra. Algunos puntos han pasado años, incluso décadas, sin lluvia. La NASA prueba robots de Marte aquí, y los telescopios más grandes del mundo miran el cielo desde él. Así es por qué nunca sobrevivirías, y por qué aún está lleno de sorpresas.\n#Atacama #Chile",
+ "tags": [
+  "atacama desert",
+  "driest place on earth",
+  "why you'd never survive",
+  "chile",
+  "alma telescope",
+  "mars on earth",
+  "desert bloom",
+  "chinchorro mummies",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Valle de la Luna (dsc 0218-cc).jpg"
+  ],
+  "query": "Atacama desert",
+  "white": "NO RAIN",
+  "accent": "FOR YEARS",
+  "badge": "DRIEST PLACE ON EARTH"
+ },
+ "segments": [
+  {
+   "chapter": "The driest place",
+   "text": "Imagine a place so dry that some weather stations have gone years without recording a single drop of rain. Where the soil looks like Mars, and scientists come to test robots meant for other planets. This is the Atacama Desert in Chile, the driest place on Earth outside the poles. And today we'll see why you'd never survive here.",
+   "es": "Imagina un lugar tan seco que algunas estaciones meteorológicas han pasado años sin registrar una gota de lluvia. Donde el suelo parece de Marte y los científicos vienen a probar robots hechos para otros planetas. Este es el desierto de Atacama, en Chile, el lugar más seco de la Tierra fuera de los polos. Y hoy veremos por qué nunca sobrevivirías aquí.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Valle de la Luna (dsc 0218-cc).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're going to the driest place on Earth that isn't covered in ice.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, vamos al lugar más seco de la Tierra que no está cubierto de hielo.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -80,
+     -60,
+     -32,
+     -15
+    ],
+    "highlight": [
+     "Chile",
+     "Peru",
+     "Bolivia",
+     "Argentina"
+    ],
+    "marker": [
+     -69.5,
+     -23.5
+    ],
+    "label": "Atacama Desert"
+   }
+  },
+  {
+   "text": "The Atacama stretches about one thousand kilometers along the Pacific coast of northern Chile, between the ocean and the Andes mountains.",
+   "es": "El Atacama se extiende unos mil kilómetros por la costa del Pacífico en el norte de Chile, entre el océano y la cordillera de los Andes.",
+   "headline": "1,000 KM OF DESERT",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -80,
+     -60,
+     -32,
+     -15
+    ],
+    "highlight": [
+     "Chile"
+    ],
+    "marker": [
+     -69.5,
+     -23.5
+    ],
+    "label": "Atacama"
+   }
+  },
+  {
+   "text": "Some parts get less than one millimeter of rain a year on average. The city of Arica, at its northern edge, is one of the driest inhabited places on the planet.",
+   "es": "Algunas partes reciben en promedio menos de un milímetro de lluvia al año. La ciudad de Arica, en su borde norte, es uno de los lugares habitados más secos del planeta.",
+   "headline": "LESS THAN 1 MM",
+   "visual": {
+    "type": "card",
+    "big": "< 1 MM",
+    "label": "of rain per year in places",
+    "sub": "drier than the Sahara"
+   }
+  },
+  {
+   "chapter": "Why it never rains",
+   "text": "Why so dry? It's trapped. On one side, the Andes block rain clouds from the Amazon. On the other, a cold ocean current along the coast cools the air, so it can't rise and form rain clouds.",
+   "es": "¿Por qué tan seco? Está atrapado. De un lado, los Andes bloquean las nubes de lluvia del Amazonas. Del otro, una corriente oceánica fría junto a la costa enfría el aire, así que no puede subir y formar nubes de lluvia.",
+   "headline": "WHY SO DRY?",
+   "visual": {
+    "type": "card",
+    "big": "TRAPPED",
+    "label": "between the Andes and a cold ocean",
+    "sub": "no way for rain to reach it"
+   }
+  },
+  {
+   "text": "That cold water is the Humboldt Current, flowing up from Antarctica. It makes the coast foggy but almost rainless.",
+   "es": "Esa agua fría es la corriente de Humboldt, que sube desde la Antártida. Hace la costa neblinosa pero casi sin lluvia.",
+   "visual": {
+    "type": "card",
+    "big": "HUMBOLDT CURRENT",
+    "label": "cold water from the south",
+    "sub": "fog, but almost no rain"
+   }
+  },
+  {
+   "text": "The result is a landscape with almost no plants at all. In the driest areas, even bacteria struggle to survive in the soil.",
+   "es": "El resultado es un paisaje casi sin plantas. En las zonas más secas, incluso a las bacterias les cuesta sobrevivir en el suelo.",
+   "headline": "ALMOST LIFELESS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Valle de la Luna - San Pedro de Atacama (4476888607).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Here's a strange twist. When rare heavy rain fell on the driest part of the Atacama, scientists found it actually killed most of the native microbes in the soil. They were so adapted to dryness that too much water was deadly.",
+   "es": "Aquí hay un giro extraño. Cuando cayó una lluvia fuerte y rara en la parte más seca del Atacama, los científicos descubrieron que mató a la mayoría de los microbios nativos del suelo. Estaban tan adaptados a la sequía que demasiada agua les resultó mortal.",
+   "headline": "KILLED BY RAIN",
+   "visual": {
+    "type": "card",
+    "big": "TOO MUCH WATER",
+    "label": "killed the desert's microbes",
+    "sub": "they were built for dryness"
+   }
+  },
+  {
+   "text": "Quick question. Could you live somewhere where it never rains? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Podrías vivir en un lugar donde nunca llueve? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Could you live without rain?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "What would kill you",
+   "text": "So what would kill you first? Thirst. With no rivers, no rain and almost no plants, there is simply no water to find in most of the desert.",
+   "es": "¿Qué te mataría primero? La sed. Sin ríos, sin lluvia y casi sin plantas, simplemente no hay agua que encontrar en la mayor parte del desierto.",
+   "headline": "THIRST",
+   "visual": {
+    "type": "card",
+    "big": "THIRST",
+    "label": "no rivers, no rain",
+    "sub": "nothing to drink for hundreds of km"
+   }
+  },
+  {
+   "text": "Then the sun. Much of the Atacama sits high up, above two thousand meters, under some of the clearest skies on Earth. The ultraviolet radiation here is among the strongest measured anywhere on the planet, and it can burn unprotected skin very quickly.",
+   "es": "Luego el sol. Gran parte del Atacama está a gran altura, por encima de dos mil metros, bajo algunos de los cielos más despejados del mundo. La radiación ultravioleta aquí es de las más fuertes medidas en el planeta, y puede quemar la piel desprotegida muy rápido.",
+   "headline": "THE SUN",
+   "visual": {
+    "type": "card",
+    "big": "EXTREME UV",
+    "label": "some of the strongest on Earth",
+    "sub": "high altitude and clear skies"
+   }
+  },
+  {
+   "text": "Then the cold. Days can be warm, but at night, with no clouds and dry air, the high desert can drop below freezing.",
+   "es": "Luego el frío. Los días pueden ser cálidos, pero de noche, sin nubes y con aire seco, el desierto alto puede bajar de cero.",
+   "headline": "COLD NIGHTS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Star Trails over Atacama Desert Cacti.jpg"
+    ]
+   }
+  },
+  {
+   "text": "And the altitude. On the high plateau, the air has much less oxygen. Workers at some observatories here carry oxygen tanks and must pass medical checks before going up.",
+   "es": "Y la altura. En el altiplano, el aire tiene mucho menos oxígeno. Los trabajadores de algunos observatorios llevan tanques de oxígeno y deben pasar revisiones médicas antes de subir.",
+   "headline": "THIN AIR",
+   "visual": {
+    "type": "card",
+    "big": "5,000 M",
+    "label": "high plateau",
+    "sub": "workers carry oxygen"
+   }
+  },
+  {
+   "text": "And it's empty. Between towns, you can drive for hours without seeing another car, a tree or a house. If you broke down off the main roads, nobody might pass for days.",
+   "es": "Y está vacío. Entre pueblos, puedes manejar horas sin ver otro auto, un árbol o una casa. Si te descompusieras fuera de las carreteras principales, quizá nadie pasaría en días.",
+   "headline": "NOBODY AROUND",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Abandoned bus in San Pedro de Atacama (Unsplash).jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "Mars on Earth",
+   "text": "The Atacama is so much like Mars that NASA and other space agencies test rovers and life-detection tools here. If an instrument can find life in the driest Atacama soil, it may be able to find it on Mars.",
+   "es": "El Atacama se parece tanto a Marte que la NASA y otras agencias espaciales prueban aquí robots e instrumentos para detectar vida. Si un instrumento puede encontrar vida en el suelo más seco del Atacama, quizá pueda encontrarla en Marte.",
+   "headline": "MARS ON EARTH",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Valle de la Luna (rai-alma-4889).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Places like the Valley of the Moon, near San Pedro de Atacama, look so alien that they've been used to imagine other worlds.",
+   "es": "Lugares como el Valle de la Luna, cerca de San Pedro de Atacama, se ven tan extraterrestres que se han usado para imaginar otros mundos.",
+   "headline": "VALLEY OF THE MOON",
+   "visual": {
+    "type": "image",
+    "files": [
+     "El Valle de la Luna (Chile).jpg"
+    ]
+   }
+  },
+  {
+   "text": "The desert is also a great place to find meteorites. Space rocks that fall here barely rust or erode, and they stand out on the bare ground, so scientists have collected thousands of them.",
+   "es": "El desierto también es un gran lugar para encontrar meteoritos. Las rocas espaciales que caen aquí apenas se oxidan o desgastan, y resaltan sobre el suelo desnudo, así que los científicos han recolectado miles.",
+   "headline": "SPACE ROCKS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Meteorite in Atacama Desert (LosVientos028 12Kg-CC).jpg"
+    ]
+   }
+  },
+  {
+   "text": "High in the Andes, at more than four thousand meters, the El Tatio geysers puff columns of steam into the freezing morning air, one of the highest geyser fields in the world.",
+   "es": "En lo alto de los Andes, a más de cuatro mil metros, los géiseres del Tatio lanzan columnas de vapor al aire helado de la mañana, uno de los campos de géiseres más altos del mundo.",
+   "headline": "EL TATIO",
+   "visual": {
+    "type": "card",
+    "big": "EL TATIO",
+    "label": "geysers at 4,300 m",
+    "sub": "among the highest in the world"
+   }
+  },
+  {
+   "chapter": "Window to the universe",
+   "text": "The same dry, clear skies make the Atacama the best place on Earth to look at the stars. That's why some of the world's most powerful telescopes are here.",
+   "es": "Esos mismos cielos secos y despejados hacen del Atacama el mejor lugar de la Tierra para mirar las estrellas. Por eso aquí están algunos de los telescopios más poderosos del mundo.",
+   "headline": "THE BEST SKIES ON EARTH",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ALMA and a Starry Night.jpg"
+    ]
+   }
+  },
+  {
+   "text": "ALMA, a giant array of sixty-six radio antennas, sits at about five thousand meters on the Chajnantor plateau. It studies cold gas and dust where stars and planets are born.",
+   "es": "ALMA, un enorme conjunto de sesenta y seis antenas de radio, está a unos cinco mil metros en la meseta de Chajnantor. Estudia el gas y polvo fríos donde nacen estrellas y planetas.",
+   "headline": "ALMA",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Atacama Large Millimeter Array (ALMA) by night, under the Magellanic Clouds.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Nearby, on Cerro Paranal, the Very Large Telescope has helped scientists study the giant black hole at the center of our galaxy. And on a neighboring mountain, the Extremely Large Telescope is being built, with a main mirror thirty-nine meters wide.",
+   "es": "Cerca, en el cerro Paranal, el Very Large Telescope ha ayudado a estudiar el agujero negro gigante en el centro de nuestra galaxia. Y en una montaña vecina se construye el Extremely Large Telescope, con un espejo principal de treinta y nueve metros.",
+   "headline": "PARANAL",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Paranal and the Pacific at sunset (dsc4088, retouched, cropped).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Some estimates say that by the 2030s, Chile could host around forty percent of the world's capacity for large astronomical observation. The desert has become a window to the universe.",
+   "es": "Algunas estimaciones dicen que para la década de 2030, Chile podría tener cerca del cuarenta por ciento de la capacidad mundial de observación astronómica de gran tamaño. El desierto se ha vuelto una ventana al universo.",
+   "visual": {
+    "type": "card",
+    "big": "~40%",
+    "label": "of the world's big telescope power",
+    "sub": "could be in Chile by the 2030s"
+   }
+  },
+  {
+   "text": "Would you rather visit the Atacama for the stars or for the desert? Tell me in the comments.",
+   "es": "¿Preferirías visitar el Atacama por las estrellas o por el desierto? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Stars or desert?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Life finds a way",
+   "text": "And yet, life finds a way. Along the coast, people use fog catchers, big nets that trap droplets from the morning fog, called camanchaca, and collect them as drinking water.",
+   "es": "Y aun así, la vida encuentra la forma. En la costa, la gente usa atrapanieblas, grandes redes que capturan las gotitas de la neblina matutina, llamada camanchaca, y las recogen como agua potable.",
+   "headline": "WATER FROM FOG",
+   "visual": {
+    "type": "card",
+    "big": "FOG CATCHERS",
+    "label": "nets that harvest fog",
+    "sub": "water from the camanchaca"
+   }
+  },
+  {
+   "text": "Sometimes, rare rains arrive, often linked to El Niño years. When they do, seeds that waited in the ground for years burst into bloom, covering the desert in pink, purple and yellow flowers. Chileans call it the desierto florido, the flowering desert.",
+   "es": "A veces llegan lluvias raras, a menudo ligadas a años de El Niño. Cuando eso pasa, semillas que esperaron años en el suelo florecen y cubren el desierto de flores rosas, moradas y amarillas. Los chilenos lo llaman el desierto florido.",
+   "headline": "THE FLOWERING DESERT",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Rare bloom in the Atacama desert, Chile (Copernicus).jpg",
+     "Desierto florido 2010.jpg"
+    ]
+   }
+  },
+  {
+   "text": "On the salt lakes of the high plateau, flamingos feed on tiny algae and shrimp in the salty water, bright pink against the white salt.",
+   "es": "En los lagos salados del altiplano, los flamencos se alimentan de pequeñas algas y camarones en el agua salada, de un rosa brillante contra la sal blanca.",
+   "headline": "FLAMINGOS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Salt formations at Salar de Atacama (ukpress delegation-4112).jpg",
+     "Salar de Atacama (13340816503).jpg"
+    ]
+   }
+  },
+  {
+   "text": "And wild vicuñas, relatives of llamas with some of the finest wool in the world, graze on the sparse grass of the high Andes.",
+   "es": "Y las vicuñas salvajes, parientes de las llamas con una de las lanas más finas del mundo, pastan en el escaso pasto de los altos Andes.",
+   "headline": "VICUÑAS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vicuña, Atacama Desert (34749409525).jpg"
+    ]
+   }
+  },
+  {
+   "text": "But rain can also be dangerous. In March 2015, unusual storms caused deadly floods and mudslides in towns of the Atacama region, because the dry ground couldn't absorb the water.",
+   "es": "Pero la lluvia también puede ser peligrosa. En marzo de 2015, tormentas inusuales causaron inundaciones y aludes mortales en pueblos de la región de Atacama, porque el suelo seco no podía absorber el agua.",
+   "visual": {
+    "type": "card",
+    "big": "MARCH 2015",
+    "label": "deadly desert floods",
+    "sub": "dry ground can't absorb rain"
+   }
+  },
+  {
+   "chapter": "Treasures of the desert",
+   "text": "People have lived here for thousands of years. The Chinchorro culture, along the coast, mummified their dead around seven thousand years ago, about two thousand years before the Egyptians. Their mummies are now a UNESCO World Heritage Site.",
+   "es": "La gente ha vivido aquí por miles de años. La cultura chinchorro, en la costa, momificaba a sus muertos hace unos siete mil años, unos dos mil años antes que los egipcios. Sus momias hoy son Patrimonio de la Humanidad de la UNESCO.",
+   "headline": "OLDER THAN EGYPT",
+   "visual": {
+    "type": "card",
+    "big": "7,000 YEARS",
+    "label": "Chinchorro mummies",
+    "sub": "older than Egypt's"
+   }
+  },
+  {
+   "text": "The desert is also rich in minerals. Chile is the world's largest producer of copper, and Chuquicamata, in the Atacama, is one of the biggest open-pit mines on Earth.",
+   "es": "El desierto también es rico en minerales. Chile es el mayor productor de cobre del mundo, y Chuquicamata, en el Atacama, es una de las minas a cielo abierto más grandes de la Tierra.",
+   "headline": "COPPER",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chuquicamata Panorama.JPG",
+     "Chiquicamata Mine, Chile (ASTER).jpg"
+    ]
+   }
+  },
+  {
+   "text": "The Salar de Atacama, a huge salt flat, holds some of the world's largest reserves of lithium, the metal inside phone and electric car batteries.",
+   "es": "El Salar de Atacama, una enorme planicie de sal, guarda algunas de las mayores reservas de litio del mundo, el metal dentro de las baterías de teléfonos y autos eléctricos.",
+   "headline": "LITHIUM",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Lithium Ponds of Chile's Salar de Atacama (SVS15006).jpg",
+     "Salar de Atacama, Chile (ASTER).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Not everything left in the desert is natural. In recent years, reports showed huge piles of unwanted second-hand clothes dumped in the Atacama near the city of Alto Hospicio, a reminder of how much waste the world produces.",
+   "es": "No todo lo que hay en el desierto es natural. En los últimos años, reportajes mostraron enormes montañas de ropa usada desechada en el Atacama, cerca de la ciudad de Alto Hospicio, un recordatorio de cuánta basura produce el mundo.",
+   "headline": "A MOUNTAIN OF CLOTHES",
+   "visual": {
+    "type": "card",
+    "big": "CLOTHES",
+    "label": "dumped in the desert",
+    "sub": "a mountain of fast-fashion waste"
+   }
+  },
+  {
+   "text": "And over a century ago, the desert's saltpeter, used for fertilizer and explosives, made it one of the richest regions in the world, leaving behind ghost towns like Humberstone.",
+   "es": "Y hace más de un siglo, el salitre del desierto, usado para fertilizantes y explosivos, la hizo una de las regiones más ricas del mundo, dejando pueblos fantasma como Humberstone.",
+   "visual": {
+    "type": "card",
+    "big": "GHOST TOWNS",
+    "label": "from the saltpeter boom",
+    "sub": "like Humberstone, a UNESCO site"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive the Atacama? Alone, with no water, under that sun, almost certainly not. But with fog nets, mines, telescopes and ancient traditions, people have found ways to live in the driest place on Earth.",
+   "es": "Entonces, ¿podrías sobrevivir en el Atacama? Solo, sin agua, bajo ese sol, casi seguro que no. Pero con atrapanieblas, minas, telescopios y tradiciones antiguas, la gente ha encontrado formas de vivir en el lugar más seco de la Tierra.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Atacama Desert (34587115352).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who loves the stars. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que ame las estrellas. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "ALMA and a Starry Night.jpg"
+    ]
+   }
+  }
+ ]
+}

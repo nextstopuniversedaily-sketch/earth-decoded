@@ -1,0 +1,171 @@
+{
+ "number": 24,
+ "publish": "2026-12-16 12:00",
+ "kicker": "FLOATING CITY",
+ "title": "Venice",
+ "subtitle": "A city standing on a wooden forest",
+ "yt_title": "Venice Is Built on a Forest Underwater 🇮🇹🤯 #shorts",
+ "yt_title_es": "Venecia está construida sobre un bosque bajo el agua 🇮🇹🤯 #shorts",
+ "description": "Venice stands on millions of wooden piles pushed into the mud of a lagoon, some of them more than a thousand years old. Why hasn't the wood rotted, and why is the city still sinking?\n#Venice #Italy #Geography #EarthDecoded #shorts",
+ "description_es": "Venecia se sostiene sobre millones de pilotes de madera clavados en el lodo de una laguna, algunos con más de mil años. ¿Por qué no se ha podrido la madera y por qué la ciudad sigue hundiéndose?\n#Venecia #Italia #shorts",
+ "tags": [
+  "venice",
+  "venice sinking",
+  "venice wooden piles",
+  "italy",
+  "acqua alta",
+  "mose barrier",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Venice Grand Canal"
+  ],
+  "query": "Venice",
+  "white": "BUILT ON",
+  "accent": "A FOREST",
+  "badge": "UNDERWATER"
+ },
+ "segments": [
+  {
+   "text": "This city is standing on an upside-down forest.",
+   "es": "Esta ciudad está parada sobre un bosque al revés.",
+   "visual": {
+    "type": "title",
+    "query": "Venice"
+   }
+  },
+  {
+   "text": "Venice, in Italy, is built on about one hundred eighteen small islands in a shallow lagoon. The ground there is soft mud and sand, not solid rock.",
+   "es": "Venecia, en Italia, está construida sobre unas ciento dieciocho islas pequeñas en una laguna poco profunda. El suelo es lodo blando y arena, no roca sólida.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     8,
+     18,
+     40,
+     47.5
+    ],
+    "highlight": [
+     "Italy"
+    ],
+    "marker": [
+     12.33,
+     45.44
+    ],
+    "label": "Venice"
+   },
+   "headline": "118 ISLANDS"
+  },
+  {
+   "text": "So how do you build palaces and churches on mud? Starting more than a thousand years ago, builders hammered millions of wooden poles straight down into the lagoon floor.",
+   "es": "¿Cómo se construyen palacios e iglesias sobre lodo? Hace más de mil años, los constructores clavaron millones de postes de madera directo en el fondo de la laguna.",
+   "visual": {
+    "type": "card",
+    "big": "MILLIONS",
+    "label": "of wooden poles under the city",
+    "sub": "driven into the mud by hand"
+   },
+   "headline": "WOODEN PILES"
+  },
+  {
+   "text": "On top of those piles, they laid wooden platforms, then stone, then the buildings. The church of Santa Maria della Salute alone is said to stand on more than a million piles.",
+   "es": "Encima de esos pilotes pusieron plataformas de madera, luego piedra y después los edificios. Se dice que solo la iglesia de Santa Maria della Salute se sostiene sobre más de un millón de pilotes.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Santa Maria della Salute"
+    ],
+    "query": "Santa Maria della Salute"
+   },
+   "headline": "A MILLION POLES"
+  },
+  {
+   "text": "But wood in water should rot, right? Here's the trick. The piles are buried in mud with almost no oxygen, so the fungi and bacteria that rot wood can barely survive.",
+   "es": "Pero la madera en el agua debería pudrirse, ¿no? Aquí está el truco. Los pilotes están enterrados en lodo casi sin oxígeno, así que los hongos y bacterias que pudren la madera apenas sobreviven.",
+   "visual": {
+    "type": "card",
+    "big": "NO OXYGEN",
+    "label": "in the mud around the piles",
+    "sub": "so the wood barely rots"
+   },
+   "headline": "THE SECRET"
+  },
+  {
+   "text": "The problem is that Venice is slowly sinking, while the sea around it is rising. In the twentieth century, pumping water from under the city made it sink even faster, until it was stopped.",
+   "es": "El problema es que Venecia se hunde lentamente, mientras el mar a su alrededor sube. En el siglo veinte, bombear agua bajo la ciudad la hizo hundirse más rápido, hasta que se prohibió.",
+   "visual": {
+    "type": "card",
+    "big": "SINKING",
+    "label": "while the sea rises",
+    "sub": "a slow double problem"
+   },
+   "headline": "SINKING"
+  },
+  {
+   "text": "High tides called acqua alta now flood St. Mark's Square many times a year. In November 2019, the water reached one hundred eighty-seven centimeters, one of the worst floods ever recorded there.",
+   "es": "Las mareas altas llamadas acqua alta ahora inundan la plaza de San Marcos muchas veces al año. En noviembre de 2019, el agua llegó a ciento ochenta y siete centímetros, una de las peores inundaciones registradas.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Venice acqua alta"
+    ],
+    "query": "Venice flood"
+   },
+   "headline": "ACQUA ALTA"
+  },
+  {
+   "text": "Since 2020, a system of giant yellow gates called MOSE can rise from the sea floor to block high tides from entering the lagoon.",
+   "es": "Desde 2020, un sistema de compuertas amarillas gigantes llamado MOSE puede levantarse desde el fondo del mar para bloquear las mareas altas.",
+   "visual": {
+    "type": "card",
+    "big": "MOSE",
+    "label": "78 flood gates",
+    "sub": "rising from the sea to protect Venice"
+   },
+   "headline": "THE FLOOD GATES"
+  },
+  {
+   "text": "Venice has no cars at all. People get around on foot or by boat, along about one hundred fifty canals and over more than four hundred bridges.",
+   "es": "Venecia no tiene autos. La gente se mueve a pie o en barco, por unos ciento cincuenta canales y más de cuatrocientos puentes.",
+   "visual": {
+    "type": "card",
+    "big": "0 CARS",
+    "label": "150 canals, 400+ bridges",
+    "sub": "boats are the buses here"
+   },
+   "headline": "NO CARS"
+  },
+  {
+   "text": "Some of the wood came from forests far away, in what is now Slovenia and Croatia, floated down rivers to the lagoon.",
+   "es": "Parte de la madera vino de bosques lejanos, en lo que hoy es Eslovenia y Croacia, y bajó flotando por ríos hasta la laguna.",
+   "visual": {
+    "type": "card",
+    "big": "FOREST",
+    "label": "shipped across the sea",
+    "sub": "from today's Slovenia and Croatia"
+   }
+  },
+  {
+   "text": "In 2024, Venice started charging day-trippers an entry fee on busy days, trying to manage huge crowds of tourists.",
+   "es": "En 2024, Venecia empezó a cobrar una tarifa de entrada a los visitantes de un día en fechas concurridas, para controlar las multitudes de turistas.",
+   "visual": {
+    "type": "card",
+    "big": "2024",
+    "label": "day-trip entry fee",
+    "sub": "to manage the crowds"
+   }
+  },
+  {
+   "text": "Would you visit Venice before the sea gets higher? Tell me in the comments.",
+   "es": "¿Visitarías Venecia antes de que el mar suba más? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "VISIT SOON?",
+    "query": "Venice"
+   }
+  }
+ ]
+}

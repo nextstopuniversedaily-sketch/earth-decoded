@@ -1,0 +1,183 @@
+{
+ "number": 27,
+ "publish": "2026-12-19 12:00",
+ "kicker": "THE MISSING ROAD",
+ "title": "The Darién Gap",
+ "subtitle": "The only gap in a 30,000 km highway",
+ "yt_title": "The 100 km Gap in the World's Longest Road 🌎🤯 #shorts",
+ "yt_title_es": "El hueco de 100 km en la carretera más larga del mundo 🌎🤯 #shorts",
+ "description": "The Pan-American Highway runs from Alaska to the tip of South America, except for one stretch of jungle between Panama and Colombia: the Darién Gap. Here's why no road was ever built.\n#DarienGap #PanAmericanHighway #Panama #EarthDecoded #shorts",
+ "description_es": "La Carretera Panamericana va de Alaska al extremo de Sudamérica, excepto por un tramo de selva entre Panamá y Colombia: el Tapón del Darién. Te explico por qué nunca se construyó.\n#Darien #Panamericana #shorts",
+ "tags": [
+  "darien gap",
+  "pan american highway",
+  "panama",
+  "colombia",
+  "longest road",
+  "jungle",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -84,
+    -72,
+    4,
+    11
+   ],
+   "highlight": [
+    "Panama",
+    "Colombia"
+   ],
+   "marker": [
+    -77.6,
+    7.9
+   ],
+   "label": "Darién Gap"
+  },
+  "white": "THE ROAD",
+  "accent": "STOPS HERE",
+  "badge": "NO WAY THROUGH"
+ },
+ "segments": [
+  {
+   "text": "The world's longest road has a hole in the middle.",
+   "es": "La carretera más larga del mundo tiene un hueco en medio.",
+   "visual": {
+    "type": "title",
+    "query": "rainforest"
+   }
+  },
+  {
+   "text": "The Pan-American Highway is a network of roads that runs about thirty thousand kilometers, from Alaska all the way to the southern tip of South America.",
+   "es": "La Carretera Panamericana es una red de caminos de unos treinta mil kilómetros, desde Alaska hasta el extremo sur de Sudamérica.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -170,
+     -30,
+     -58,
+     72
+    ],
+    "highlight": [
+     "Mexico",
+     "Panama",
+     "Colombia",
+     "Chile",
+     "Argentina",
+     "United States of America",
+     "Canada"
+    ]
+   },
+   "headline": "30,000 KM"
+  },
+  {
+   "text": "You can drive almost the whole way. Except for one place: a stretch of roughly one hundred kilometers between Panama and Colombia called the Darién Gap.",
+   "es": "Puedes manejar casi todo el camino. Excepto en un lugar: un tramo de unos cien kilómetros entre Panamá y Colombia llamado el Tapón del Darién.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -84,
+     -72,
+     4,
+     11
+    ],
+    "highlight": [
+     "Panama",
+     "Colombia"
+    ],
+    "marker": [
+     -77.6,
+     7.9
+    ],
+    "label": "Darién Gap"
+   },
+   "headline": "THE DARIÉN GAP"
+  },
+  {
+   "text": "There, the road simply ends. Ahead is thick rainforest, steep mountains, rivers and swamps.",
+   "es": "Ahí, la carretera simplemente termina. Delante hay selva espesa, montañas empinadas, ríos y pantanos.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Jungle path in the Darién Gap"
+    ],
+    "query": "tropical rainforest"
+   },
+   "headline": "THE ROAD ENDS"
+  },
+  {
+   "text": "Why was it never finished? Building a road through that terrain would be hugely expensive. And much of the area is protected, including Darién National Park, a UNESCO World Heritage Site.",
+   "es": "¿Por qué nunca se terminó? Construir una carretera en ese terreno sería carísimo. Y gran parte de la zona está protegida, incluido el Parque Nacional Darién, Patrimonio de la Humanidad de la UNESCO.",
+   "visual": {
+    "type": "card",
+    "big": "PROTECTED",
+    "label": "Darién National Park",
+    "sub": "a UNESCO World Heritage Site"
+   },
+   "headline": "WHY NO ROAD?"
+  },
+  {
+   "text": "There were other worries too: protecting Indigenous communities who live there, and stopping diseases of cattle from spreading between the continents.",
+   "es": "También había otras preocupaciones: proteger a las comunidades indígenas que viven ahí y evitar que enfermedades del ganado pasaran entre los continentes.",
+   "visual": {
+    "type": "card",
+    "big": "PEOPLE & NATURE",
+    "label": "Indigenous communities live here",
+    "sub": "the forest is their home"
+   }
+  },
+  {
+   "text": "So today, cars and trucks going between Central and South America are shipped around the gap by boat.",
+   "es": "Así que hoy, los autos y camiones que van entre Centroamérica y Sudamérica se envían en barco alrededor del tapón.",
+   "visual": {
+    "type": "card",
+    "big": "BY SHIP",
+    "label": "the only way for cars",
+    "sub": "around the Darién Gap"
+   },
+   "headline": "SHIP IT AROUND"
+  },
+  {
+   "text": "The jungle is also dangerous for people on foot. In recent years, hundreds of thousands of migrants have crossed it, facing floods, injuries and crime. Many did not make it.",
+   "es": "La selva también es peligrosa a pie. En los últimos años, cientos de miles de migrantes la cruzaron, enfrentando crecidas, heridas y delincuencia. Muchos no lo lograron.",
+   "visual": {
+    "type": "card",
+    "big": "DANGEROUS",
+    "label": "on foot",
+    "sub": "one of the hardest crossings in the world"
+   }
+  },
+  {
+   "text": "In 2023, a record of more than half a million people crossed the Darién on foot, according to Panama's government. In 2025, the numbers fell sharply.",
+   "es": "En 2023, un récord de más de medio millón de personas cruzó el Darién a pie, según el gobierno de Panamá. En 2025, las cifras cayeron fuertemente.",
+   "visual": {
+    "type": "card",
+    "big": "500,000+",
+    "label": "crossed on foot in 2023",
+    "sub": "a record, per Panama's government"
+   }
+  },
+  {
+   "text": "Some adventurers have tried to cross with vehicles. In the 1960s and 70s, a few expeditions made it, taking weeks or months to haul cars through the mud.",
+   "es": "Algunos aventureros han intentado cruzarlo con vehículos. En los sesenta y setenta, unas pocas expediciones lo lograron, tardando semanas o meses en arrastrar autos por el lodo.",
+   "visual": {
+    "type": "card",
+    "big": "MONTHS",
+    "label": "to drag cars through",
+    "sub": "the few expeditions that made it"
+   }
+  },
+  {
+   "text": "Should the gap ever be closed with a road, or left as wild forest? Tell me in the comments.",
+   "es": "¿Debería cerrarse algún día con una carretera o dejarse como selva? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "ROAD OR FOREST?",
+    "query": "rainforest"
+   }
+  }
+ ]
+}

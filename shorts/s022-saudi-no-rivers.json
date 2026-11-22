@@ -1,0 +1,170 @@
+{
+ "number": 22,
+ "publish": "2026-12-14 12:00",
+ "kicker": "DRY COUNTRY",
+ "title": "Saudi Arabia",
+ "subtitle": "The biggest country with no rivers",
+ "yt_title": "The Biggest Country With No Rivers 🇸🇦🏜️ #shorts",
+ "yt_title_es": "El país más grande sin ríos 🇸🇦🏜️ #shorts",
+ "description": "Saudi Arabia is the largest country in the world with no permanent river. So where does all its water come from? Desalination, ancient underground water and a lot of engineering.\n#SaudiArabia #Desert #Geography #EarthDecoded #shorts",
+ "description_es": "Arabia Saudita es el país más grande del mundo sin un río permanente. ¿De dónde sale toda su agua? Desalinización, agua subterránea antigua y mucha ingeniería.\n#ArabiaSaudita #Desierto #shorts",
+ "tags": [
+  "saudi arabia",
+  "country with no rivers",
+  "desalination",
+  "rub al khali",
+  "desert",
+  "fossil water",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Rub' al Khali"
+  ],
+  "query": "Arabian desert dunes",
+  "white": "ZERO",
+  "accent": "RIVERS",
+  "badge": "35 MILLION PEOPLE",
+  "files": [
+   "Sands of al-Dahna, eastern Saudi Arabia (4) (50620707316).jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "This huge country has no rivers at all.",
+   "es": "Este enorme país no tiene ningún río.",
+   "visual": {
+    "type": "title",
+    "query": "Arabian desert"
+   }
+  },
+  {
+   "text": "Saudi Arabia covers more than two million square kilometers, bigger than Mexico. But it doesn't have a single permanent river.",
+   "es": "Arabia Saudita mide más de dos millones de kilómetros cuadrados, más que México. Pero no tiene un solo río permanente.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     30,
+     62,
+     10,
+     34
+    ],
+    "highlight": [
+     "Saudi Arabia"
+    ]
+   },
+   "headline": "BIGGER THAN MEXICO"
+  },
+  {
+   "text": "It's the largest country in the world without one. Most of it is desert, including the Rub' al Khali, or Empty Quarter, the biggest continuous sand desert on Earth.",
+   "es": "Es el país más grande del mundo sin uno. La mayor parte es desierto, incluido el Rub al Jali, o Cuarto Vacío, el mayor desierto de arena continua de la Tierra.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Ar Rub al Khali Sand Sea Arabian Peninsula"
+    ],
+    "query": "Rub al Khali"
+   },
+   "headline": "THE EMPTY QUARTER"
+  },
+  {
+   "text": "It does have wadis, dry riverbeds that can suddenly fill with water after a rare storm, then dry up again within days.",
+   "es": "Sí tiene uadis, cauces secos que pueden llenarse de golpe tras una tormenta rara, y secarse de nuevo en días.",
+   "visual": {
+    "type": "card",
+    "big": "WADIS",
+    "label": "dry riverbeds",
+    "sub": "they flood only after rare storms"
+   },
+   "headline": "WADIS"
+  },
+  {
+   "text": "So where does the water come from for more than thirty million people? First, the sea. Saudi Arabia is one of the world's biggest producers of desalinated water, seawater turned into drinking water.",
+   "es": "¿De dónde sale el agua para más de treinta millones de personas? Primero, del mar. Arabia Saudita es uno de los mayores productores del mundo de agua desalinizada, agua de mar convertida en agua potable.",
+   "visual": {
+    "type": "card",
+    "big": "SEAWATER",
+    "label": "turned into drinking water",
+    "sub": "one of the world's biggest producers"
+   },
+   "headline": "DESALINATION"
+  },
+  {
+   "text": "Second, ancient water hidden underground. Some of it fell as rain thousands of years ago, when Arabia was greener. It's called fossil water, and once it's used, it doesn't come back.",
+   "es": "Segundo, agua antigua escondida bajo tierra. Parte de ella cayó como lluvia hace miles de años, cuando Arabia era más verde. Se llama agua fósil, y una vez usada, no vuelve.",
+   "visual": {
+    "type": "card",
+    "big": "FOSSIL WATER",
+    "label": "rain from thousands of years ago",
+    "sub": "once it's gone, it's gone"
+   },
+   "headline": "FOSSIL WATER"
+  },
+  {
+   "text": "In the 1980s and 90s, the country used that water to grow so much wheat that it exported it. From space, you could see thousands of green circles in the desert.",
+   "es": "En los años ochenta y noventa, el país usó esa agua para cultivar tanto trigo que lo exportaba. Desde el espacio se veían miles de círculos verdes en el desierto.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Saudi Arabia center pivot irrigation from space"
+    ],
+    "query": "crop circles desert from space"
+   },
+   "headline": "CIRCLES IN THE SAND"
+  },
+  {
+   "text": "But the aquifers were draining fast, so the government ended its wheat program by 2016 to save water.",
+   "es": "Pero los acuíferos se vaciaban rápido, así que el gobierno terminó su programa de trigo en 2016 para ahorrar agua.",
+   "visual": {
+    "type": "card",
+    "big": "2016",
+    "label": "Saudi wheat program ended",
+    "sub": "to protect underground water"
+   }
+  },
+  {
+   "text": "Saudi Arabia isn't alone. Several other countries also have no permanent rivers, including its neighbors in the Arabian Peninsula, plus small island nations like the Maldives.",
+   "es": "Arabia Saudita no es la única. Otros países tampoco tienen ríos permanentes, incluidos sus vecinos de la península arábiga y pequeñas naciones insulares como Maldivas.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     34,
+     60,
+     12,
+     32
+    ],
+    "highlight": [
+     "Saudi Arabia",
+     "Yemen",
+     "Oman",
+     "United Arab Emirates",
+     "Qatar",
+     "Kuwait"
+    ]
+   },
+   "headline": "NOT ALONE"
+  },
+  {
+   "text": "Giant pipelines carry desalinated water hundreds of kilometers inland, all the way to Riyadh, a desert capital of more than seven million people.",
+   "es": "Enormes tuberías llevan agua desalinizada cientos de kilómetros tierra adentro, hasta Riad, una capital en el desierto de más de siete millones de personas.",
+   "visual": {
+    "type": "card",
+    "big": "RIYADH",
+    "label": "7+ million people",
+    "sub": "supplied by seawater pipelines"
+   },
+   "headline": "PIPELINES"
+  },
+  {
+   "text": "A whole modern country, running without a single river. Could your city survive without one? Tell me in the comments.",
+   "es": "Todo un país moderno funcionando sin un solo río. ¿Tu ciudad sobreviviría sin uno? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "NO RIVERS?",
+    "query": "Arabian desert"
+   }
+  }
+ ]
+}

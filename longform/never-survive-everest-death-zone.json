@@ -1,0 +1,460 @@
+{
+ "slug": "never-survive-everest-death-zone",
+ "publish": "2027-01-16 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive Everest's Death Zone",
+ "screen_title": "Why You'd Never Survive Everest's Death Zone",
+ "subtitle": "Above 8,000 meters",
+ "yt_title": "Why You'd Never Survive Mount Everest's Death Zone",
+ "yt_title_es": "Por qué nunca sobrevivirías en la zona de la muerte del Everest",
+ "description": "Above 8,000 meters on Mount Everest lies the death zone, where there's so little oxygen that the human body slowly starts to shut down. Here's what happens to you up there, why climbers die, and how anyone makes it to the top.\n\nSources: Nepal Ministry of Tourism, National Geographic, Himalayan Database.\n#Everest #DeathZone #Mountains #EarthDecoded",
+ "description_es": "Por encima de los 8,000 metros en el Everest está la zona de la muerte, donde hay tan poco oxígeno que el cuerpo empieza a apagarse poco a poco. Esto es lo que te pasa allá arriba, por qué mueren los escaladores y cómo alguien llega a la cima.\n#Everest #ZonaDeLaMuerte",
+ "tags": [
+  "mount everest",
+  "death zone",
+  "why you'd never survive",
+  "everest climb",
+  "altitude sickness",
+  "sherpa",
+  "himalayas",
+  "everest documentary",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Everest, Himalayas.jpg"
+  ],
+  "query": "Mount Everest",
+  "white": "8,849 M",
+  "accent": "DEATH ZONE",
+  "badge": "1/3 OF THE OXYGEN"
+ },
+ "segments": [
+  {
+   "chapter": "The top of the world",
+   "text": "Imagine standing near the top of the world. The sky above you is so dark it's almost black. Every step takes several breaths. Your fingers are numb, your thoughts are slow, and your body is quietly dying. Welcome to the death zone of Mount Everest. By the end of this video, you'll understand why it's one of the deadliest places a human can stand.",
+   "es": "Imagina estar cerca de la cima del mundo. El cielo arriba es tan oscuro que casi parece negro. Cada paso te cuesta varias respiraciones. Tienes los dedos entumidos, piensas lento y tu cuerpo se está muriendo en silencio. Bienvenido a la zona de la muerte del Everest. Al final de este video entenderás por qué es uno de los lugares más mortales donde puede estar un ser humano.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Everest, Himalayas.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're climbing into the death zone.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, subimos a la zona de la muerte.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     78,
+     94,
+     24,
+     33
+    ],
+    "highlight": [
+     "Nepal",
+     "China",
+     "India"
+    ],
+    "marker": [
+     86.925,
+     27.988
+    ],
+    "label": "Mount Everest"
+   }
+  },
+  {
+   "text": "Mount Everest rises eight thousand eight hundred forty-nine meters above sea level, on the border between Nepal and China, in the Himalayas. It's the highest point on Earth's surface above the ocean.",
+   "es": "El monte Everest se eleva ocho mil ochocientos cuarenta y nueve metros sobre el nivel del mar, en la frontera entre Nepal y China, en el Himalaya. Es el punto más alto de la superficie terrestre sobre el océano.",
+   "headline": "8,849 METERS",
+   "visual": {
+    "type": "card",
+    "big": "8,849 M",
+    "label": "Mount Everest",
+    "sub": "the highest point above sea level"
+   }
+  },
+  {
+   "text": "In Nepal it's called Sagarmatha, and in Tibet, Chomolungma, often translated as Goddess Mother of the World.",
+   "es": "En Nepal se llama Sagarmatha, y en el Tíbet, Chomolungma, que suele traducirse como Diosa Madre del Mundo.",
+   "headline": "CHOMOLUNGMA",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mount Everest, Nepal, Himalayas.jpg"
+    ]
+   }
+  },
+  {
+   "text": "The Himalayas exist because India is crashing into Asia. That collision began about fifty million years ago, and it's still pushing Everest up by a few millimeters every year.",
+   "es": "El Himalaya existe porque India choca contra Asia. Ese choque empezó hace unos cincuenta millones de años y todavía empuja al Everest unos milímetros cada año.",
+   "headline": "STILL GROWING",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Everest and Himalayas from ISS.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Near the summit, climbers walk over yellowish rock full of tiny fossils of sea creatures. The top of the world was once the bottom of an ancient ocean.",
+   "es": "Cerca de la cima, los escaladores caminan sobre roca amarillenta llena de pequeños fósiles de criaturas marinas. La cima del mundo alguna vez fue el fondo de un océano antiguo.",
+   "headline": "FOSSILS ON TOP",
+   "visual": {
+    "type": "card",
+    "big": "SEA FOSSILS",
+    "label": "at the top of the world",
+    "sub": "Everest was once under an ocean"
+   }
+  },
+  {
+   "chapter": "The first climbers",
+   "text": "On May twenty-ninth, 1953, Edmund Hillary from New Zealand and Tenzing Norgay, a Sherpa from Nepal, became the first people known to stand on the summit.",
+   "es": "El veintinueve de mayo de 1953, Edmund Hillary, de Nueva Zelanda, y Tenzing Norgay, un sherpa de Nepal, se convirtieron en las primeras personas conocidas en pisar la cima.",
+   "headline": "THE FIRST SUMMIT",
+   "visual": {
+    "type": "card",
+    "big": "MAY 29, 1953",
+    "label": "first known summit",
+    "sub": "Edmund Hillary and Tenzing Norgay"
+   }
+  },
+  {
+   "text": "But maybe they weren't the first. In 1924, British climbers George Mallory and Andrew Irvine were last seen high on the mountain, heading for the top. They never came back. Mallory's body was found in 1999, but nobody knows if they reached the summit.",
+   "es": "Pero quizá no fueron los primeros. En 1924, los escaladores británicos George Mallory y Andrew Irvine fueron vistos por última vez muy arriba en la montaña, rumbo a la cima. Nunca volvieron. El cuerpo de Mallory se encontró en 1999, pero nadie sabe si llegaron a la cumbre.",
+   "headline": "A MYSTERY",
+   "visual": {
+    "type": "card",
+    "big": "1924",
+    "label": "Mallory and Irvine vanish near the top",
+    "sub": "did they reach the summit first?"
+   }
+  },
+  {
+   "text": "Since then, thousands of people have reached the top. But more than three hundred people have died on the mountain, and many of their bodies are still up there, because bringing them down is so dangerous.",
+   "es": "Desde entonces, miles de personas han llegado a la cima. Pero más de trescientas han muerto en la montaña, y muchos de sus cuerpos siguen allá arriba, porque bajarlos es demasiado peligroso.",
+   "headline": "300+ DEATHS",
+   "visual": {
+    "type": "card",
+    "big": "300+",
+    "label": "people have died on Everest",
+    "sub": "many are still on the mountain"
+   }
+  },
+  {
+   "text": "Quick question. Would you ever try to climb Everest? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Intentarías alguna vez escalar el Everest? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Would you climb Everest?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "The climb",
+   "text": "The journey starts at Everest Base Camp in Nepal, at about five thousand three hundred meters. That's already higher than any mountain in the lower forty-eight United States.",
+   "es": "El viaje empieza en el Campo Base del Everest en Nepal, a unos cinco mil trescientos metros. Eso ya es más alto que cualquier montaña de los Estados Unidos continentales.",
+   "headline": "BASE CAMP",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Everest Base camp in Nepal, photographed on November 29, 2023.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Climbers spend six to nine weeks on the mountain. They go up and down between camps again and again, so their bodies can slowly adapt to the thin air. It's called acclimatization.",
+   "es": "Los escaladores pasan de seis a nueve semanas en la montaña. Suben y bajan entre campamentos una y otra vez, para que el cuerpo se adapte poco a poco al aire delgado. Se llama aclimatación.",
+   "headline": "ACCLIMATIZATION",
+   "visual": {
+    "type": "card",
+    "big": "6–9 WEEKS",
+    "label": "on the mountain",
+    "sub": "letting the body adapt"
+   }
+  },
+  {
+   "text": "Right above base camp is the Khumbu Icefall, a frozen river of ice cracked into giant blocks and deep crevasses. It moves constantly. Climbers cross it on aluminum ladders laid over the gaps.",
+   "es": "Justo arriba del campo base está la cascada de hielo del Khumbu, un río congelado de hielo partido en bloques gigantes y grietas profundas. Se mueve todo el tiempo. Los escaladores la cruzan sobre escaleras de aluminio tendidas sobre los huecos.",
+   "headline": "THE KHUMBU ICEFALL",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Nepal - Sagamartha Trek - 186 - Khumbu Icefall (plus climbers) (497684556).jpg",
+     "Khumbu Glacier, Khumbu Icefall, Nepal, Asia.jpg"
+    ]
+   }
+  },
+  {
+   "text": "The ground itself can betray you. In April 2015, a huge earthquake in Nepal triggered an avalanche that swept through Everest Base Camp, killing more than twenty people.",
+   "es": "El suelo mismo puede traicionarte. En abril de 2015, un enorme sismo en Nepal provocó una avalancha que arrasó el Campo Base del Everest y mató a más de veinte personas.",
+   "visual": {
+    "type": "card",
+    "big": "APRIL 2015",
+    "label": "earthquake avalanche hits base camp",
+    "sub": "more than 20 people killed"
+   }
+  },
+  {
+   "text": "It's one of the most dangerous parts of the climb. In 2014, an avalanche here killed sixteen Nepali mountain workers in a single morning.",
+   "es": "Es una de las partes más peligrosas del ascenso. En 2014, una avalancha aquí mató a dieciséis trabajadores de montaña nepalíes en una sola mañana.",
+   "visual": {
+    "type": "card",
+    "big": "2014",
+    "label": "avalanche in the Khumbu Icefall",
+    "sub": "16 mountain workers killed"
+   }
+  },
+  {
+   "text": "Then comes the Lhotse Face, a wall of blue ice more than a kilometer high, climbed on fixed ropes. And after that, at around eight thousand meters, climbers enter the death zone.",
+   "es": "Luego viene la cara del Lhotse, una pared de hielo azul de más de un kilómetro de alto, que se sube con cuerdas fijas. Y después, cerca de los ocho mil metros, los escaladores entran a la zona de la muerte.",
+   "headline": "THE LHOTSE FACE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Lhotse, 8,516 m (27,940 ft), Lhotse's Western Face.jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "The death zone",
+   "text": "Why is it called the death zone? At the summit of Everest, the air pressure is only about one third of what it is at sea level. Every breath you take has only about a third of the oxygen your body is used to.",
+   "es": "¿Por qué se llama zona de la muerte? En la cima del Everest, la presión del aire es solo cerca de un tercio de la que hay al nivel del mar. Cada respiración tiene solo un tercio del oxígeno al que tu cuerpo está acostumbrado.",
+   "headline": "ONE THIRD OF THE AIR",
+   "visual": {
+    "type": "card",
+    "big": "1/3",
+    "label": "of the oxygen per breath",
+    "sub": "at the summit of Everest"
+   }
+  },
+  {
+   "text": "Above eight thousand meters, the human body can't adapt anymore. Even resting, it starts to break down. You lose weight, you can't sleep well, and your organs are starved of oxygen.",
+   "es": "Por encima de los ocho mil metros, el cuerpo humano ya no puede adaptarse. Incluso descansando, empieza a deteriorarse. Pierdes peso, no puedes dormir bien y tus órganos se quedan sin oxígeno.",
+   "visual": {
+    "type": "card",
+    "big": "8,000 M",
+    "label": "the body stops adapting",
+    "sub": "and starts to break down"
+   }
+  },
+  {
+   "text": "If someone from sea level were suddenly dropped at the summit without extra oxygen, they would likely lose consciousness within minutes.",
+   "es": "Si alguien que vive al nivel del mar fuera dejado de golpe en la cima sin oxígeno extra, probablemente perdería el conocimiento en minutos.",
+   "visual": {
+    "type": "card",
+    "big": "MINUTES",
+    "label": "until unconsciousness",
+    "sub": "without acclimatization or oxygen"
+   }
+  },
+  {
+   "text": "The thin air can cause fluid to build up in the lungs, called HAPE, making you feel like you're drowning. Or fluid in the brain, called HACE, causing confusion, stumbling and strange decisions.",
+   "es": "El aire delgado puede causar acumulación de líquido en los pulmones, llamada edema pulmonar de altura, haciéndote sentir que te ahogas. O líquido en el cerebro, llamado edema cerebral de altura, que causa confusión, tropiezos y decisiones extrañas.",
+   "headline": "LUNGS AND BRAIN",
+   "visual": {
+    "type": "card",
+    "big": "HAPE & HACE",
+    "label": "fluid in the lungs or brain",
+    "sub": "the deadliest altitude illnesses"
+   }
+  },
+  {
+   "text": "That's one of the scariest parts. Your judgment fails right when you need it most. Climbers have sat down to rest and never gotten up.",
+   "es": "Esa es una de las partes más aterradoras. Tu juicio falla justo cuando más lo necesitas. Hay escaladores que se sentaron a descansar y nunca se levantaron.",
+   "headline": "JUDGMENT FAILS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Himalayas Mt. Everest (63452584) (2).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Add the cold. Near the summit, temperatures are often below minus twenty-five degrees Celsius, and winds from the jet stream can blow faster than one hundred sixty kilometers per hour. Frostbite can take fingers and toes in hours.",
+   "es": "Súmale el frío. Cerca de la cima, la temperatura suele estar por debajo de veinticinco grados bajo cero, y los vientos de la corriente en chorro pueden soplar a más de ciento sesenta kilómetros por hora. La congelación puede quitarte dedos en horas.",
+   "headline": "BRUTAL COLD",
+   "visual": {
+    "type": "card",
+    "big": "-25°C",
+    "label": "and 160 km/h winds",
+    "sub": "frostbite in hours"
+   }
+  },
+  {
+   "text": "Your body burns enormous energy just to stay warm and keep moving, but at that altitude you barely feel hungry. Many climbers lose ten kilos or more during an expedition.",
+   "es": "Tu cuerpo quema muchísima energía solo para mantenerse caliente y seguir moviéndose, pero a esa altura casi no sientes hambre. Muchos escaladores pierden diez kilos o más durante una expedición.",
+   "visual": {
+    "type": "card",
+    "big": "-10 KG",
+    "label": "lost on an expedition",
+    "sub": "the body eats itself for energy"
+   }
+  },
+  {
+   "text": "And if something goes wrong up there, help is far away. Helicopters struggle to fly in such thin air, so rescues above about seven thousand meters are extremely rare. In the death zone, you mostly have to get yourself down.",
+   "es": "Y si algo sale mal allá arriba, la ayuda está lejos. Los helicópteros apenas pueden volar en un aire tan delgado, así que los rescates por encima de unos siete mil metros son rarísimos. En la zona de la muerte, casi siempre tienes que bajar por tu cuenta.",
+   "headline": "NO HELICOPTERS",
+   "visual": {
+    "type": "card",
+    "big": "NO RESCUE",
+    "label": "helicopters struggle up high",
+    "sub": "you must get yourself down"
+   }
+  },
+  {
+   "text": "If you could ask one question to someone who stood on the summit, what would it be? Tell me in the comments.",
+   "es": "Si pudieras hacerle una pregunta a alguien que estuvo en la cima, ¿cuál sería? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Your question for a climber?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "How anyone survives",
+   "text": "So how does anyone survive? Most climbers breathe bottled oxygen through a mask above about seven thousand meters. It doesn't make it easy. It just makes it possible.",
+   "es": "¿Entonces cómo sobrevive alguien? La mayoría de los escaladores respira oxígeno embotellado con una mascarilla por encima de los siete mil metros. No lo hace fácil. Solo lo hace posible.",
+   "headline": "BOTTLED OXYGEN",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Everest Summit.jpg"
+    ]
+   }
+  },
+  {
+   "text": "A few have done it without. In 1978, Reinhold Messner and Peter Habeler became the first to reach the summit without extra oxygen, something many doctors thought was impossible.",
+   "es": "Algunos lo han hecho sin él. En 1978, Reinhold Messner y Peter Habeler fueron los primeros en llegar a la cima sin oxígeno extra, algo que muchos médicos creían imposible.",
+   "visual": {
+    "type": "card",
+    "big": "1978",
+    "label": "first summit without bottled oxygen",
+    "sub": "Reinhold Messner and Peter Habeler"
+   }
+  },
+  {
+   "text": "Summit day usually starts around midnight. Climbers move slowly through the dark, with headlamps, hoping to reach the top in the morning and get down before the afternoon winds. They set a strict turnaround time: if they're not on top by then, they go down, no matter how close they are.",
+   "es": "El día de cumbre suele empezar cerca de la medianoche. Los escaladores avanzan lento en la oscuridad, con linternas, esperando llegar a la cima en la mañana y bajar antes de los vientos de la tarde. Fijan una hora límite estricta: si no han llegado para entonces, bajan, sin importar lo cerca que estén.",
+   "headline": "SUMMIT DAY",
+   "visual": {
+    "type": "card",
+    "big": "TURNAROUND TIME",
+    "label": "no summit by then? go down.",
+    "sub": "the rule that saves lives"
+   }
+  },
+  {
+   "text": "Because most of the dying happens on the way down, when climbers are exhausted and their oxygen is running out.",
+   "es": "Porque la mayoría de las muertes ocurren al bajar, cuando los escaladores están agotados y se les acaba el oxígeno.",
+   "visual": {
+    "type": "card",
+    "big": "THE WAY DOWN",
+    "label": "is where most deaths happen",
+    "sub": "exhausted and low on oxygen"
+   }
+  },
+  {
+   "chapter": "Traffic jams at 8,800 m",
+   "text": "Nothing on Everest happens without the Sherpa people. Born and raised at high altitude, they fix the ropes, carry the loads and guide most expeditions. Kami Rita Sherpa has climbed Everest more than thirty times, a world record.",
+   "es": "Nada en el Everest pasa sin el pueblo sherpa. Nacidos y criados a gran altura, ellos fijan las cuerdas, cargan los bultos y guían la mayoría de las expediciones. Kami Rita Sherpa ha subido el Everest más de treinta veces, un récord mundial.",
+   "headline": "THE SHERPAS",
+   "visual": {
+    "type": "card",
+    "big": "30+ SUMMITS",
+    "label": "Kami Rita Sherpa",
+    "sub": "a world record"
+   }
+  },
+  {
+   "text": "And Everest has become crowded. In 2019, a famous photo showed a long line of climbers waiting on the summit ridge. Waiting in the death zone burns oxygen and time. That season, eleven people died.",
+   "es": "Y el Everest se ha llenado de gente. En 2019, una foto famosa mostró una larga fila de escaladores esperando en la arista de la cima. Esperar en la zona de la muerte gasta oxígeno y tiempo. Esa temporada murieron once personas.",
+   "headline": "TRAFFIC JAMS",
+   "visual": {
+    "type": "card",
+    "big": "2019",
+    "label": "a traffic jam near the summit",
+    "sub": "11 deaths that season"
+   }
+  },
+  {
+   "text": "The crowds also leave trash. Old tents, oxygen bottles and waste have piled up on the mountain for decades. Today, climbers must carry rubbish down, and clean-up campaigns remove tons every year.",
+   "es": "Las multitudes también dejan basura. Tiendas viejas, tanques de oxígeno y desechos se han acumulado en la montaña por décadas. Hoy los escaladores deben bajar su basura, y las campañas de limpieza retiran toneladas cada año.",
+   "visual": {
+    "type": "card",
+    "big": "TONS",
+    "label": "of trash removed each year",
+    "sub": "from the world's highest peak"
+   }
+  },
+  {
+   "text": "For the few who make it, the reward is a view of the curve of the Earth, and peaks like Lhotse and Makalu, some of the tallest mountains in the world, far below their feet.",
+   "es": "Para los pocos que lo logran, la recompensa es una vista de la curva de la Tierra y de cumbres como el Lhotse y el Makalu, de las montañas más altas del mundo, muy por debajo de sus pies.",
+   "headline": "THE VIEW",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Everest-eastface-lhotse-makalu-chomolonzo.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Climbing it isn't cheap either. A permit from Nepal now costs fifteen thousand US dollars, and a full expedition can cost from tens of thousands to well over one hundred thousand dollars.",
+   "es": "Escalarlo tampoco es barato. Un permiso de Nepal ahora cuesta quince mil dólares, y una expedición completa puede costar de decenas de miles a más de cien mil dólares.",
+   "visual": {
+    "type": "card",
+    "big": "$15,000",
+    "label": "for a Nepal climbing permit",
+    "sub": "full expeditions cost far more"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive the death zone? Without months of training, acclimatization, bottled oxygen, expert guides and good weather, almost certainly not. Even with all of that, nothing is guaranteed.",
+   "es": "Entonces, ¿podrías sobrevivir en la zona de la muerte? Sin meses de entrenamiento, aclimatación, oxígeno embotellado, guías expertos y buen clima, casi seguro que no. Incluso con todo eso, nada está garantizado.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mount Everest, Himalayas.jpg"
+    ]
+   }
+  },
+  {
+   "text": "As climbers like to say: the summit is optional, getting down is mandatory.",
+   "es": "Como dicen los escaladores: la cima es opcional, bajar es obligatorio.",
+   "visual": {
+    "type": "card",
+    "big": "THE SUMMIT",
+    "label": "is optional",
+    "sub": "getting down is mandatory"
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who dreams of climbing mountains. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que sueñe con escalar montañas. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg"
+    ]
+   }
+  }
+ ]
+}

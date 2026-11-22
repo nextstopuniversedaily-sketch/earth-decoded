@@ -1,0 +1,479 @@
+{
+ "slug": "never-survive-sahara",
+ "publish": "2027-01-09 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive the Sahara",
+ "screen_title": "Why You'd Never Survive the Sahara",
+ "subtitle": "The biggest hot desert on Earth",
+ "yt_title": "Why You'd Never Survive the Sahara Desert",
+ "yt_title_es": "Por qué nunca sobrevivirías en el desierto del Sahara",
+ "description": "The Sahara is the largest hot desert on Earth, about the size of the United States. Burning days, freezing nights, sandstorms and almost no water. Here's what it would really take to survive, and the incredible animals and people who do.\n\nSources: NASA Earth Observatory, NOAA, National Geographic.\n#Sahara #Desert #Survival #EarthDecoded",
+ "description_es": "El Sahara es el desierto cálido más grande de la Tierra, del tamaño de Estados Unidos. Días ardientes, noches heladas, tormentas de arena y casi nada de agua. Esto es lo que realmente haría falta para sobrevivir, y los increíbles animales y personas que lo logran.\n#Sahara #Desierto",
+ "tags": [
+  "sahara desert",
+  "why you'd never survive",
+  "desert survival",
+  "sahara facts",
+  "sandstorm",
+  "tuareg",
+  "fennec fox",
+  "largest desert",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Erg chebbi sunrise.jpg"
+  ],
+  "query": "Sahara dunes",
+  "white": "9 MILLION KM²",
+  "accent": "OF SAND",
+  "badge": "NO WATER"
+ },
+ "segments": [
+  {
+   "chapter": "Into the Sahara",
+   "text": "Imagine stepping out of a car in the middle of the Sahara. In every direction, sand, rock and a burning sky. The nearest town might be hundreds of kilometers away. You have one bottle of water. How long would you last? Stay with me, because the answer, and the people and animals who live here, will surprise you.",
+   "es": "Imagina bajarte de un auto en medio del Sahara. En todas direcciones, arena, roca y un cielo ardiente. El pueblo más cercano podría estar a cientos de kilómetros. Tienes una botella de agua. ¿Cuánto durarías? Quédate conmigo, porque la respuesta, y las personas y animales que viven aquí, te van a sorprender.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Erg chebbi sunrise.jpg"
+    ],
+    "query": "Sahara"
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're walking into the biggest hot desert on Earth.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, entramos al desierto cálido más grande de la Tierra.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     -20,
+     40,
+     10,
+     38
+    ],
+    "highlight": [
+     "Algeria",
+     "Libya",
+     "Egypt",
+     "Mali",
+     "Niger",
+     "Chad",
+     "Mauritania",
+     "Sudan"
+    ]
+   }
+  },
+  {
+   "chapter": "How big is it?",
+   "text": "The Sahara covers about nine million square kilometers of North Africa. That's roughly the size of the United States, or China, stretched across eleven countries.",
+   "es": "El Sahara cubre unos nueve millones de kilómetros cuadrados del norte de África. Es más o menos el tamaño de Estados Unidos o China, repartido en once países.",
+   "headline": "AS BIG AS THE USA",
+   "visual": {
+    "type": "card",
+    "big": "9 MILLION KM²",
+    "label": "the Sahara",
+    "sub": "about the size of the United States"
+   }
+  },
+  {
+   "text": "It's the largest hot desert on the planet. Only the cold deserts of Antarctica and the Arctic are bigger.",
+   "es": "Es el desierto cálido más grande del planeta. Solo los desiertos fríos de la Antártida y el Ártico son más grandes.",
+   "headline": "LARGEST HOT DESERT",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sahara satellite hires.jpg",
+     "Sahara Desert AS09-21-3259-61.jpg"
+    ]
+   }
+  },
+  {
+   "text": "And here's something most people don't know. Only about a quarter of the Sahara is sand dunes. The rest is bare rock plateaus, gravel plains, dry mountains and even volcanoes.",
+   "es": "Y algo que casi nadie sabe. Solo cerca de una cuarta parte del Sahara son dunas de arena. El resto son mesetas de roca desnuda, llanuras de grava, montañas secas e incluso volcanes.",
+   "headline": "MOSTLY ROCK",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Western Desert, Sahara Desert, Egypt.jpg"
+    ]
+   }
+  },
+  {
+   "text": "The highest point is Emi Koussi, a huge volcano in Chad, more than three thousand four hundred meters tall.",
+   "es": "El punto más alto es el Emi Koussi, un enorme volcán en Chad, de más de tres mil cuatrocientos metros.",
+   "headline": "VOLCANOES TOO",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Emi Koussi Volcano, Chad From ISS.JPG"
+    ]
+   }
+  },
+  {
+   "text": "Where there are dunes, they can be giant. In places like Erg Chebbi in Morocco, dunes rise around one hundred fifty meters, as tall as a fifty-story building. And they move with the wind.",
+   "es": "Donde hay dunas, pueden ser gigantes. En lugares como Erg Chebbi, en Marruecos, las dunas llegan a unos ciento cincuenta metros, tan altas como un edificio de cincuenta pisos. Y se mueven con el viento.",
+   "headline": "DUNES THAT MOVE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Erg Chebbi, Sahara Desert, Morocco.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Quick question. Would you rather explore the dunes or the mountains of the Sahara? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Preferirías explorar las dunas o las montañas del Sahara? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Dunes or mountains?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Day: the furnace",
+   "text": "Now, the heat. In summer, afternoon air temperatures in parts of the Sahara regularly pass forty-five degrees Celsius. The sand itself can get far hotter, above seventy degrees, hot enough to burn your skin.",
+   "es": "Ahora, el calor. En verano, la temperatura del aire por la tarde en partes del Sahara pasa seguido de cuarenta y cinco grados Celsius. La arena puede calentarse mucho más, por encima de setenta grados, suficiente para quemarte la piel.",
+   "headline": "BURNING SAND",
+   "visual": {
+    "type": "card",
+    "big": "70°C+",
+    "label": "sand temperature in summer",
+    "sub": "hot enough to burn skin"
+   }
+  },
+  {
+   "text": "There's almost no shade, and the sun is so strong that just standing still, you lose water fast through sweat.",
+   "es": "Casi no hay sombra, y el sol es tan fuerte que, aun sin moverte, pierdes agua rápido por el sudor.",
+   "headline": "NO SHADE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sand dunes, Libyan Desert, Dakhla Oasis, Egypt.jpg"
+    ]
+   }
+  },
+  {
+   "text": "In that kind of heat, a person can need more than ten liters of water a day. Your one bottle wouldn't last a morning. Without water, in full sun, you could be in serious danger within a day.",
+   "es": "Con ese calor, una persona puede necesitar más de diez litros de agua al día. Tu botella no duraría ni una mañana. Sin agua, a pleno sol, podrías estar en grave peligro en un día.",
+   "headline": "WATER IS LIFE",
+   "visual": {
+    "type": "card",
+    "big": "10+ LITERS",
+    "label": "of water a day",
+    "sub": "just to stay alive in the heat"
+   }
+  },
+  {
+   "text": "Most of the Sahara gets less than ten centimeters of rain a year. Some places can go years without a single drop.",
+   "es": "La mayor parte del Sahara recibe menos de diez centímetros de lluvia al año. Algunos lugares pueden pasar años sin una gota.",
+   "headline": "ALMOST NO RAIN",
+   "visual": {
+    "type": "card",
+    "big": "< 100 MM",
+    "label": "of rain a year",
+    "sub": "some places go years without any"
+   }
+  },
+  {
+   "text": "Why is it so dry? Warm, moist air rises near the equator, drops its rain over the tropics, then sinks again over North Africa as dry air. Sinking air blocks clouds from forming, so the sky stays clear almost all year.",
+   "es": "¿Por qué es tan seco? El aire cálido y húmedo sube cerca del ecuador, suelta su lluvia sobre los trópicos y luego baja de nuevo sobre el norte de África como aire seco. El aire que baja impide que se formen nubes, así que el cielo está despejado casi todo el año.",
+   "headline": "WHY SO DRY?",
+   "visual": {
+    "type": "card",
+    "big": "SINKING AIR",
+    "label": "blocks clouds over North Africa",
+    "sub": "that's why it almost never rains"
+   }
+  },
+  {
+   "text": "And the desert may be getting bigger. A 2018 study found the Sahara had grown by about ten percent since the 1920s, partly due to natural climate cycles and partly due to climate change.",
+   "es": "Y el desierto podría estar creciendo. Un estudio de 2018 encontró que el Sahara creció cerca de un diez por ciento desde la década de 1920, en parte por ciclos naturales del clima y en parte por el cambio climático.",
+   "headline": "GROWING",
+   "visual": {
+    "type": "card",
+    "big": "+10%",
+    "label": "bigger since the 1920s",
+    "sub": "according to a 2018 study"
+   }
+  },
+  {
+   "chapter": "Night: the freezer",
+   "text": "And then the sun goes down. With no clouds and dry air to hold the heat, temperatures can fall by more than twenty degrees. In winter, some desert nights drop below freezing.",
+   "es": "Y luego se pone el sol. Sin nubes ni aire húmedo que guarde el calor, la temperatura puede caer más de veinte grados. En invierno, algunas noches del desierto bajan de cero.",
+   "headline": "FREEZING NIGHTS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Erg Chebbi (54242294226).jpg"
+    ]
+   }
+  },
+  {
+   "text": "It has even snowed. In 2016 and again in 2018, snow covered the orange dunes near the town of Aïn Sefra in Algeria.",
+   "es": "Incluso ha nevado. En 2016 y de nuevo en 2018, la nieve cubrió las dunas naranjas cerca del pueblo de Aïn Sefra, en Argelia.",
+   "visual": {
+    "type": "card",
+    "big": "SNOW",
+    "label": "on Sahara dunes",
+    "sub": "Aïn Sefra, Algeria, 2016 and 2018"
+   }
+  },
+  {
+   "chapter": "Sandstorms",
+   "text": "Then there are the sandstorms. Winds can lift walls of sand and dust hundreds of meters high that turn day into night. You can't see, you can barely breathe, and your tracks disappear.",
+   "es": "Luego están las tormentas de arena. El viento puede levantar muros de arena y polvo de cientos de metros que convierten el día en noche. No ves, apenas respiras y tus huellas desaparecen.",
+   "headline": "WALLS OF SAND",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sandstorm big.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Even on calm days, the desert plays tricks on you. Hot air near the ground bends light, creating mirages that look like shining lakes on the horizon. Lost travelers have walked toward water that was never there.",
+   "es": "Incluso en días tranquilos, el desierto te engaña. El aire caliente cerca del suelo dobla la luz y crea espejismos que parecen lagos brillantes en el horizonte. Viajeros perdidos han caminado hacia agua que nunca existió.",
+   "headline": "MIRAGES",
+   "visual": {
+    "type": "card",
+    "big": "MIRAGES",
+    "label": "fake lakes on the horizon",
+    "sub": "hot air bending light"
+   }
+  },
+  {
+   "text": "Saharan dust travels incredibly far. Satellites show it crossing the Atlantic every year, and some of it falls on the Amazon rainforest, where its minerals help fertilize the trees.",
+   "es": "El polvo del Sahara viaja increíblemente lejos. Los satélites lo muestran cruzando el Atlántico cada año, y parte cae sobre la selva amazónica, donde sus minerales ayudan a fertilizar los árboles.",
+   "headline": "DUST ACROSS THE OCEAN",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth from Space- Saharan dust plume ESA509630 - Earth from Space Saharan dust plume.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Which would scare you more: the heat, the cold nights or the sandstorms? Tell me in the comments.",
+   "es": "¿Qué te asustaría más: el calor, las noches frías o las tormentas de arena? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Heat, cold or sandstorms?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "A true survival story",
+   "text": "In 1994, an Italian runner named Mauro Prosperi was racing in the Marathon des Sables, a multi-day race across the Sahara in Morocco. A sandstorm hit, and when it cleared, he was completely lost.",
+   "es": "En 1994, un corredor italiano llamado Mauro Prosperi participaba en el Maratón de las Arenas, una carrera de varios días por el Sahara en Marruecos. Llegó una tormenta de arena y, cuando pasó, estaba completamente perdido.",
+   "headline": "LOST",
+   "visual": {
+    "type": "card",
+    "big": "1994",
+    "label": "lost in a sandstorm",
+    "sub": "Mauro Prosperi, Marathon des Sables"
+   }
+  },
+  {
+   "text": "He wandered for days. He sheltered in an old shrine, caught bats for food and drank whatever liquid he could. Finally, after about nine days, a nomadic family found him, more than two hundred kilometers off course, across the border in Algeria.",
+   "es": "Vagó por días. Se refugió en un viejo santuario, atrapó murciélagos para comer y bebió cualquier líquido que pudo. Al final, tras unos nueve días, una familia nómada lo encontró, a más de doscientos kilómetros de su ruta, al otro lado de la frontera, en Argelia.",
+   "visual": {
+    "type": "card",
+    "big": "9 DAYS",
+    "label": "lost in the Sahara",
+    "sub": "found by nomads in Algeria"
+   }
+  },
+  {
+   "text": "He had lost more than a dozen kilos. His survival is considered almost a miracle, and it shows how quickly the Sahara can swallow someone who loses their way.",
+   "es": "Había perdido más de una docena de kilos. Su supervivencia se considera casi un milagro, y muestra lo rápido que el Sahara puede tragarse a quien pierde el camino.",
+   "headline": "ALMOST A MIRACLE",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Western Desert, Sahara Desert, Libyan Desert, Egypt.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Survival experts say that if your vehicle breaks down, the most important rule is: stay with it. A car is much easier to spot from the air than a person, and it gives shade. Walk only at night, and only if you're sure where help is.",
+   "es": "Los expertos en supervivencia dicen que si tu vehículo se descompone, la regla más importante es: quédate con él. Un auto es mucho más fácil de ver desde el aire que una persona, y da sombra. Camina solo de noche, y solo si sabes dónde está la ayuda.",
+   "headline": "RULE #1",
+   "visual": {
+    "type": "card",
+    "big": "STAY WITH THE CAR",
+    "label": "easier to spot, gives shade",
+    "sub": "rule number one in the desert"
+   }
+  },
+  {
+   "chapter": "Life in the desert",
+   "text": "And yet, life finds a way. The camel can go days, even weeks in cooler weather, without drinking, and then drink more than one hundred liters in about ten minutes.",
+   "es": "Y aun así, la vida encuentra la forma. El camello puede pasar días, incluso semanas con clima más fresco, sin beber, y luego tomar más de cien litros en unos diez minutos.",
+   "headline": "THE CAMEL",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Camel Caravan In The Sahara Desert (46237534932).jpg"
+    ]
+   }
+  },
+  {
+   "text": "The fennec fox, the smallest fox in the world, has giant ears that release heat and help it hear insects moving under the sand.",
+   "es": "El zorro del desierto, o fénec, el zorro más pequeño del mundo, tiene orejas gigantes que liberan calor y le ayudan a oír insectos moviéndose bajo la arena.",
+   "headline": "THE FENNEC FOX",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Fennec Fox Vulpes zerda.jpg"
+    ]
+   }
+  },
+  {
+   "text": "And the Saharan silver ant comes out in the hottest part of the day, when its predators hide. Its silver hairs reflect sunlight, helping it survive surface temperatures that would kill most insects.",
+   "es": "Y la hormiga plateada del Sahara sale en la parte más caliente del día, cuando sus depredadores se esconden. Sus pelos plateados reflejan la luz del sol y le ayudan a sobrevivir temperaturas que matarían a casi cualquier insecto.",
+   "visual": {
+    "type": "card",
+    "big": "SILVER ANT",
+    "label": "forages in the hottest hours",
+    "sub": "its hairs reflect the sun"
+   }
+  },
+  {
+   "text": "People have lived here for thousands of years too. The Tuareg, often called the blue people because of their indigo-dyed clothing, have crossed the Sahara with camel caravans for centuries.",
+   "es": "Las personas también han vivido aquí por miles de años. Los tuareg, llamados a menudo el pueblo azul por su ropa teñida de índigo, han cruzado el Sahara con caravanas de camellos durante siglos.",
+   "headline": "THE TUAREG",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Tuareg in northern Mali prepares a fire for making tea.jpg"
+    ]
+   }
+  },
+  {
+   "text": "For centuries, caravans carried slabs of salt from desert mines like Taoudenni in Mali south to cities like Timbuktu, trading them for gold, grain and cloth. Some salt caravans still make the journey today.",
+   "es": "Durante siglos, las caravanas llevaron bloques de sal desde minas del desierto como Taoudenni, en Mali, hacia ciudades como Tombuctú, cambiándolos por oro, grano y tela. Algunas caravanas de sal todavía hacen el viaje hoy.",
+   "headline": "SALT CARAVANS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Camel caravan in the Amatlich erg, Sahara, Mauritania (49211446447).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Their secrets: travel in the cool hours, cover the body from the sun, know every well and oasis, and never travel alone.",
+   "es": "Sus secretos: viajar en las horas frescas, cubrir el cuerpo del sol, conocer cada pozo y oasis, y nunca viajar solos.",
+   "visual": {
+    "type": "card",
+    "big": "THE RULES",
+    "label": "travel cool, cover up, know the wells",
+    "sub": "and never travel alone"
+   }
+  },
+  {
+   "text": "Oases are the lifelines of the desert, places where underground water reaches the surface. Towns like Siwa in Egypt have survived around oases for thousands of years.",
+   "es": "Los oasis son la línea de vida del desierto, lugares donde el agua subterránea llega a la superficie. Pueblos como Siwa, en Egipto, han sobrevivido alrededor de oasis durante miles de años.",
+   "headline": "OASES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Siwa Oasis, Sahara Desert, Libyan Desert, Egypt.jpg"
+    ]
+   }
+  },
+  {
+   "chapter": "The eye of the Sahara",
+   "text": "And from space, the Sahara has a giant eye. The Richat Structure in Mauritania is a ring of rock about forty kilometers wide, so large that astronauts use it as a landmark.",
+   "es": "Y desde el espacio, el Sahara tiene un ojo gigante. La Estructura de Richat, en Mauritania, es un anillo de roca de unos cuarenta kilómetros de ancho, tan grande que los astronautas lo usan como punto de referencia.",
+   "headline": "THE EYE OF THE SAHARA",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth from Space- Eye of the Sahara ESA515004 - The Richat Structure in Mauritania.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Scientists think it formed as a dome of rock pushed up from below and then slowly worn away by wind and water, revealing rings of different layers.",
+   "es": "Los científicos creen que se formó como un domo de roca empujado desde abajo y luego desgastado lentamente por el viento y el agua, mostrando anillos de distintas capas.",
+   "visual": {
+    "type": "card",
+    "big": "40 KM",
+    "label": "wide",
+    "sub": "a landmark for astronauts"
+   }
+  },
+  {
+   "text": "Remember, the Sahara wasn't always like this. Around eight thousand years ago, it was green, with lakes, hippos and grasslands. Rock art across the desert still shows that lost world.",
+   "es": "Recuerda, el Sahara no siempre fue así. Hace unos ocho mil años era verde, con lagos, hipopótamos y pastizales. El arte rupestre del desierto aún muestra ese mundo perdido.",
+   "headline": "ONCE GREEN",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Cave painting from the Tassili n'Ajjer mountains.jpg"
+    ]
+   }
+  },
+  {
+   "text": "At the southern edge of the desert, Lake Chad shows how fast things can change. Since the 1960s, it has lost around ninety percent of its surface area, affecting millions of people who depend on it.",
+   "es": "En el borde sur del desierto, el lago Chad muestra lo rápido que pueden cambiar las cosas. Desde los años sesenta ha perdido cerca del noventa por ciento de su superficie, afectando a millones de personas que dependen de él.",
+   "headline": "A SHRINKING LAKE",
+   "visual": {
+    "type": "card",
+    "big": "-90%",
+    "label": "Lake Chad since the 1960s",
+    "sub": "millions depend on its water"
+   }
+  },
+  {
+   "text": "And the Sahara could power the future. It receives so much sunshine that scientists have calculated a small part of it covered in solar panels could, in theory, produce more electricity than the whole world uses.",
+   "es": "Y el Sahara podría dar energía al futuro. Recibe tanto sol que los científicos han calculado que una pequeña parte cubierta de paneles solares podría, en teoría, producir más electricidad de la que usa todo el mundo.",
+   "headline": "SOLAR POWER",
+   "visual": {
+    "type": "card",
+    "big": "SUNSHINE",
+    "label": "on a huge scale",
+    "sub": "a possible solar powerhouse"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive the Sahara alone? With one bottle of water, probably not for long. But with the knowledge of the people who live here, traveling at the right times, from well to well, humans have crossed it for thousands of years.",
+   "es": "Entonces, ¿podrías sobrevivir solo en el Sahara? Con una botella de agua, probablemente no mucho. Pero con el conocimiento de quienes viven aquí, viajando en las horas correctas, de pozo en pozo, los humanos lo han cruzado por miles de años.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Berber guide walking the dunes of the Sahara - Morocco.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who loves adventure. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que ame la aventura. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Erg chebbi sunrise.jpg"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "number": 30,
+ "publish": "2026-12-22 12:00",
+ "kicker": "SEA OR LAKE?",
+ "title": "The Caspian Sea",
+ "subtitle": "The world's biggest lake is called a sea",
+ "yt_title": "The Caspian Sea Is Actually a Lake?! 🌊🤯 #shorts",
+ "yt_title_es": "¿El mar Caspio en realidad es un lago? 🌊🤯 #shorts",
+ "description": "The Caspian Sea is the largest lake on Earth, bigger than Japan, yet it's salty and called a sea. Whether it's a sea or a lake even mattered for oil, gas and borders.\n#CaspianSea #Lake #Geography #EarthDecoded #shorts",
+ "description_es": "El mar Caspio es el lago más grande de la Tierra, más grande que Japón, pero es salado y se llama mar. Si es mar o lago incluso importó para el petróleo, el gas y las fronteras.\n#MarCaspio #shorts",
+ "tags": [
+  "caspian sea",
+  "largest lake",
+  "sea or lake",
+  "caviar",
+  "geography facts",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    40,
+    62,
+    34,
+    49
+   ],
+   "highlight": [
+    "Kazakhstan",
+    "Turkmenistan",
+    "Iran",
+    "Azerbaijan",
+    "Russia"
+   ]
+  },
+  "white": "SEA?",
+  "accent": "OR LAKE?",
+  "badge": "BIGGER THAN JAPAN"
+ },
+ "segments": [
+  {
+   "text": "Is the Caspian Sea really a sea?",
+   "es": "¿El mar Caspio realmente es un mar?",
+   "visual": {
+    "type": "title",
+    "query": "Caspian Sea"
+   }
+  },
+  {
+   "text": "The Caspian sits between Europe and Asia, surrounded by five countries: Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.",
+   "es": "El Caspio está entre Europa y Asia, rodeado por cinco países: Rusia, Kazajistán, Turkmenistán, Irán y Azerbaiyán.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     40,
+     62,
+     34,
+     49
+    ],
+    "highlight": [
+     "Kazakhstan",
+     "Turkmenistan",
+     "Iran",
+     "Azerbaijan",
+     "Russia"
+    ]
+   },
+   "headline": "5 COUNTRIES"
+  },
+  {
+   "text": "It covers about three hundred seventy thousand square kilometers. That's bigger than Japan, and it makes the Caspian the largest lake on Earth.",
+   "es": "Cubre unos trescientos setenta mil kilómetros cuadrados. Más que Japón, y eso lo hace el lago más grande de la Tierra.",
+   "visual": {
+    "type": "card",
+    "big": "371,000 KM²",
+    "label": "the Caspian's surface",
+    "sub": "bigger than Japan"
+   },
+   "headline": "LARGEST LAKE"
+  },
+  {
+   "text": "Why a lake? Because it's completely surrounded by land, with no natural connection to the ocean.",
+   "es": "¿Por qué lago? Porque está totalmente rodeado de tierra, sin conexión natural con el océano.",
+   "visual": {
+    "type": "card",
+    "big": "NO OUTLET",
+    "label": "to the ocean",
+    "sub": "water only leaves by evaporating"
+   }
+  },
+  {
+   "text": "So why call it a sea? Its water is salty, about a third as salty as the ocean, and it's so big that it has waves, storms and even seals.",
+   "es": "¿Entonces por qué mar? Su agua es salada, cerca de un tercio de lo salada que es el océano, y es tan grande que tiene olas, tormentas e incluso focas.",
+   "visual": {
+    "type": "card",
+    "big": "1/3",
+    "label": "as salty as the ocean",
+    "sub": "with waves, storms and seals"
+   },
+   "headline": "SALTY WATER"
+  },
+  {
+   "text": "Millions of years ago, it was part of an ancient ocean. When the land rose around it, the water was trapped.",
+   "es": "Hace millones de años era parte de un océano antiguo. Cuando la tierra se elevó a su alrededor, el agua quedó atrapada.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Caspian Sea from orbit"
+    ],
+    "query": "Caspian Sea"
+   },
+   "headline": "A TRAPPED OCEAN"
+  },
+  {
+   "text": "The name matters. Under international law, seas and lakes are divided differently, and the Caspian floor holds huge amounts of oil and gas.",
+   "es": "El nombre importa. Según el derecho internacional, los mares y los lagos se dividen de forma distinta, y el fondo del Caspio guarda enormes cantidades de petróleo y gas.",
+   "visual": {
+    "type": "card",
+    "big": "OIL & GAS",
+    "label": "under the Caspian floor",
+    "sub": "so the name really matters"
+   },
+   "headline": "WHY IT MATTERS"
+  },
+  {
+   "text": "In 2018, the five countries signed an agreement giving it a special status, not quite a sea and not quite a lake. Its surface is also about twenty-eight meters below sea level.",
+   "es": "En 2018, los cinco países firmaron un acuerdo que le dio un estatus especial, ni del todo mar ni del todo lago. Su superficie además está unos veintiocho metros bajo el nivel del mar.",
+   "visual": {
+    "type": "card",
+    "big": "2018",
+    "label": "a special legal status",
+    "sub": "not quite sea, not quite lake"
+   }
+  },
+  {
+   "text": "The Caspian is also famous for sturgeon, ancient fish whose eggs become caviar, one of the most expensive foods in the world. Overfishing has made many wild sturgeon endangered.",
+   "es": "El Caspio también es famoso por el esturión, un pez antiguo cuyos huevos se convierten en caviar, uno de los alimentos más caros del mundo. La sobrepesca ha puesto en peligro a muchos esturiones salvajes.",
+   "visual": {
+    "type": "card",
+    "big": "CAVIAR",
+    "label": "from Caspian sturgeon",
+    "sub": "many wild sturgeon are now endangered"
+   },
+   "headline": "CAVIAR"
+  },
+  {
+   "text": "The Volga, Europe's longest river, brings most of the Caspian's water. And because the lake is slowly shrinking, scientists are watching its future closely.",
+   "es": "El Volga, el río más largo de Europa, aporta la mayor parte del agua del Caspio. Y como el lago se está encogiendo lentamente, los científicos vigilan su futuro de cerca.",
+   "visual": {
+    "type": "card",
+    "big": "THE VOLGA",
+    "label": "brings most of its water",
+    "sub": "and the Caspian is slowly shrinking"
+   }
+  },
+  {
+   "text": "So what do you think: sea or lake? Tell me in the comments.",
+   "es": "Entonces, ¿qué opinas: mar o lago? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "SEA OR LAKE?",
+    "query": "Caspian Sea"
+   }
+  }
+ ]
+}

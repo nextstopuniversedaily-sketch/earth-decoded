@@ -1,0 +1,185 @@
+{
+ "number": 20,
+ "publish": "2026-12-12 12:00",
+ "kicker": "THE NOODLE COUNTRY",
+ "title": "Chile",
+ "subtitle": "Why is Chile so long and thin?",
+ "yt_title": "Why Is Chile So Long and Skinny? 🇨🇱🤯 #shorts",
+ "yt_title_es": "¿Por qué Chile es tan largo y delgado? 🇨🇱🤯 #shorts",
+ "description": "Chile stretches about 4,300 km from north to south but is only about 177 km wide on average. Here's how the Andes and a 19th-century border treaty shaped the world's skinniest big country.\n#Chile #Andes #Geography #EarthDecoded #shorts",
+ "description_es": "Chile mide unos 4,300 km de norte a sur pero solo unos 177 km de ancho en promedio. Así es como los Andes y un tratado de límites del siglo XIX formaron el país más delgado.\n#Chile #Andes #shorts",
+ "tags": [
+  "chile",
+  "why is chile so long",
+  "andes mountains",
+  "chile geography",
+  "atacama desert",
+  "patagonia",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -90,
+    -50,
+    -58,
+    -14
+   ],
+   "highlight": [
+    "Chile"
+   ]
+  },
+  "white": "4,300 KM",
+  "accent": "LONG",
+  "badge": "ONLY 177 KM WIDE"
+ },
+ "segments": [
+  {
+   "text": "Why is Chile so long and skinny?",
+   "es": "¿Por qué Chile es tan largo y delgado?",
+   "visual": {
+    "type": "title",
+    "query": "Chile"
+   }
+  },
+  {
+   "text": "Chile is about four thousand three hundred kilometers long. That's farther than from New York to Los Angeles.",
+   "es": "Chile mide unos cuatro mil trescientos kilómetros de largo. Es más que de Nueva York a Los Ángeles.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -90,
+     -50,
+     -58,
+     -14
+    ],
+    "highlight": [
+     "Chile"
+    ]
+   },
+   "headline": "4,300 KM LONG"
+  },
+  {
+   "text": "But on average, it's only about one hundred seventy-seven kilometers wide. In some places, you could drive from the ocean to the border in a couple of hours.",
+   "es": "Pero en promedio mide solo unos ciento setenta y siete kilómetros de ancho. En algunos lugares podrías manejar del océano a la frontera en un par de horas.",
+   "visual": {
+    "type": "card",
+    "big": "177 KM",
+    "label": "average width",
+    "sub": "you could cross it in an afternoon"
+   }
+  },
+  {
+   "text": "The reason is a wall of mountains: the Andes. On one side is the Pacific Ocean. On the other, some of the highest peaks in the Americas.",
+   "es": "La razón es una muralla de montañas: los Andes. De un lado está el océano Pacífico. Del otro, algunas de las cumbres más altas de América.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Andes"
+    ],
+    "query": "Andes mountains"
+   },
+   "headline": "THE ANDES WALL"
+  },
+  {
+   "text": "The Andes exist because the ocean floor, the Nazca Plate, is sliding underneath South America. That collision pushes the mountains up and causes powerful earthquakes.",
+   "es": "Los Andes existen porque el fondo del océano, la placa de Nazca, se mete por debajo de Sudamérica. Ese choque levanta las montañas y causa sismos poderosos.",
+   "visual": {
+    "type": "card",
+    "big": "NAZCA PLATE",
+    "label": "sliding under South America",
+    "sub": "pushing the Andes up"
+   }
+  },
+  {
+   "text": "In 1960, Chile had the strongest earthquake ever recorded: magnitude nine point five, near the city of Valdivia.",
+   "es": "En 1960, Chile tuvo el sismo más fuerte jamás registrado: magnitud nueve punto cinco, cerca de la ciudad de Valdivia.",
+   "visual": {
+    "type": "card",
+    "big": "9.5",
+    "label": "the strongest earthquake ever recorded",
+    "sub": "Valdivia, Chile, 1960"
+   },
+   "headline": "STRONGEST EVER"
+  },
+  {
+   "text": "When Chile and Argentina agreed on their border in 1881, they drew it mostly along the highest peaks of the Andes. Everything west became Chile.",
+   "es": "Cuando Chile y Argentina acordaron su frontera en 1881, la trazaron sobre todo por las cumbres más altas de los Andes. Todo lo del oeste quedó para Chile.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -80,
+     -55,
+     -56,
+     -18
+    ],
+    "highlight": [
+     "Chile",
+     "Argentina"
+    ]
+   },
+   "headline": "THE 1881 TREATY"
+  },
+  {
+   "text": "Being so long gives Chile almost every climate. In the north, the Atacama, one of the driest deserts on Earth.",
+   "es": "Ser tan largo le da a Chile casi todos los climas. En el norte, el Atacama, uno de los desiertos más secos de la Tierra.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Valle de la Luna Atacama"
+    ],
+    "query": "Atacama desert"
+   },
+   "headline": "DESERT IN THE NORTH"
+  },
+  {
+   "text": "In the middle, vineyards and the capital, Santiago. And in the far south, rainforests, fjords and giant glaciers in Patagonia.",
+   "es": "En el centro, viñedos y la capital, Santiago. Y en el extremo sur, bosques lluviosos, fiordos y glaciares gigantes en la Patagonia.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Torres del Paine National Park"
+    ],
+    "commons": [
+     "Torres del Paine"
+    ],
+    "query": "Patagonia glacier"
+   },
+   "headline": "GLACIERS IN THE SOUTH"
+  },
+  {
+   "text": "Because it's so narrow, almost every Chilean lives within a couple of hours of both the ocean and the mountains. You can surf in the morning and ski the same afternoon near Santiago in winter.",
+   "es": "Como es tan angosto, casi todos los chilenos viven a un par de horas del mar y de la montaña. Cerca de Santiago, en invierno, puedes surfear en la mañana y esquiar en la tarde.",
+   "visual": {
+    "type": "card",
+    "big": "SURF & SKI",
+    "label": "on the same day",
+    "sub": "near Santiago in winter"
+   },
+   "headline": "SURF AND SKI"
+  },
+  {
+   "text": "Chile also owns Easter Island, more than three thousand five hundred kilometers out in the Pacific, home of the famous moai statues.",
+   "es": "Chile también es dueño de la Isla de Pascua, a más de tres mil quinientos kilómetros en el Pacífico, hogar de los famosos moáis.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Moai"
+    ],
+    "query": "Easter Island moai"
+   },
+   "headline": "EASTER ISLAND"
+  },
+  {
+   "text": "One skinny country, from the desert to the ice. Which part of Chile would you visit first? Tell me in the comments.",
+   "es": "Un país delgado, del desierto al hielo. ¿Qué parte de Chile visitarías primero? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "DESERT OR ICE?",
+    "query": "Chile Patagonia"
+   }
+  }
+ ]
+}

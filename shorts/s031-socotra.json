@@ -1,0 +1,174 @@
+{
+ "number": 31,
+ "publish": "2026-12-23 12:00",
+ "kicker": "ALIEN ISLAND",
+ "title": "Socotra",
+ "subtitle": "The most alien-looking place on Earth",
+ "yt_title": "The Island That Looks Like Another Planet 🌳👽 #shorts",
+ "yt_title_es": "La isla que parece de otro planeta 🌳👽 #shorts",
+ "description": "Socotra, off the coast of Yemen, has been cut off for millions of years. About a third of its plants grow nowhere else on Earth, including the umbrella-shaped dragon's blood tree.\n#Socotra #DragonsBloodTree #Geography #EarthDecoded #shorts",
+ "description_es": "Socotra, frente a la costa de Yemen, ha estado aislada por millones de años. Cerca de un tercio de sus plantas no crecen en ningún otro lugar de la Tierra, incluido el árbol de sangre de dragón.\n#Socotra #shorts",
+ "tags": [
+  "socotra",
+  "dragon blood tree",
+  "alien island",
+  "yemen",
+  "endemic plants",
+  "unesco",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Socotra dragon blood tree"
+  ],
+  "query": "Socotra",
+  "white": "ANOTHER",
+  "accent": "PLANET?",
+  "badge": "ONLY ON THIS ISLAND",
+  "files": [
+   "Dragon blood tree forest, Socotra, Yemen.jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "This place looks like another planet, but it's on Earth.",
+   "es": "Este lugar parece otro planeta, pero está en la Tierra.",
+   "visual": {
+    "type": "title",
+    "query": "Socotra"
+   }
+  },
+  {
+   "text": "Socotra is an island in the Arabian Sea, about three hundred eighty kilometers from the coast of Yemen, the country it belongs to.",
+   "es": "Socotra es una isla en el mar Arábigo, a unos trescientos ochenta kilómetros de la costa de Yemen, el país al que pertenece.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     40,
+     60,
+     8,
+     20
+    ],
+    "highlight": [
+     "Yemen",
+     "Somalia",
+     "Oman"
+    ],
+    "marker": [
+     53.9,
+     12.5
+    ],
+    "label": "Socotra"
+   },
+   "headline": "THE ARABIAN SEA"
+  },
+  {
+   "text": "It broke away from the mainland millions of years ago. Since then, its plants and animals have evolved on their own, like a natural laboratory.",
+   "es": "Se separó del continente hace millones de años. Desde entonces, sus plantas y animales han evolucionado por su cuenta, como un laboratorio natural.",
+   "visual": {
+    "type": "card",
+    "big": "MILLIONS",
+    "label": "of years in isolation",
+    "sub": "a natural laboratory of evolution"
+   },
+   "headline": "CUT OFF"
+  },
+  {
+   "text": "The result? About a third of Socotra's plant species exist nowhere else on Earth.",
+   "es": "¿El resultado? Cerca de un tercio de las especies de plantas de Socotra no existen en ningún otro lugar.",
+   "visual": {
+    "type": "card",
+    "big": "~37%",
+    "label": "of its plants grow only here",
+    "sub": "nowhere else on Earth"
+   },
+   "headline": "ONLY HERE"
+  },
+  {
+   "text": "The most famous is the dragon's blood tree. It looks like an upside-down umbrella. That shape gives shade to its own roots and helps catch moisture from mist in a very dry climate.",
+   "es": "El más famoso es el árbol de sangre de dragón. Parece un paraguas al revés. Esa forma da sombra a sus raíces y ayuda a atrapar la humedad de la neblina en un clima muy seco.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Dragon blood trees in Socotra Island Yemen"
+    ],
+    "query": "dragon blood tree"
+   },
+   "headline": "DRAGON'S BLOOD TREE"
+  },
+  {
+   "text": "Its name comes from its dark red sap. For centuries, people used it as a dye, a varnish and a medicine.",
+   "es": "Su nombre viene de su savia rojo oscuro. Durante siglos se usó como tinte, barniz y medicina.",
+   "visual": {
+    "type": "card",
+    "big": "RED SAP",
+    "label": "dragon's blood",
+    "sub": "used as dye, varnish and medicine"
+   },
+   "headline": "RED SAP"
+  },
+  {
+   "text": "There's also the desert rose, a strange bottle-shaped tree with a swollen trunk that stores water, and pink flowers.",
+   "es": "También está la rosa del desierto, un árbol extraño con forma de botella, con un tronco hinchado que guarda agua y flores rosas.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Adenium obesum"
+    ],
+    "query": "desert rose tree"
+   },
+   "headline": "BOTTLE TREES"
+  },
+  {
+   "text": "Socotra became a UNESCO World Heritage Site in 2008. Scientists worry about climate change, overgrazing by goats and storms that have knocked down old trees.",
+   "es": "Socotra fue declarada Patrimonio de la Humanidad por la UNESCO en 2008. A los científicos les preocupan el cambio climático, el pastoreo de cabras y las tormentas que han derribado árboles viejos.",
+   "visual": {
+    "type": "card",
+    "big": "UNESCO",
+    "label": "World Heritage Site since 2008",
+    "sub": "a fragile, one-of-a-kind island"
+   }
+  },
+  {
+   "text": "Socotra's animals are special too, from unique birds and reptiles to crabs and snails found nowhere else.",
+   "es": "Los animales de Socotra también son especiales, desde aves y reptiles únicos hasta cangrejos y caracoles que no existen en otra parte.",
+   "visual": {
+    "type": "card",
+    "big": "UNIQUE",
+    "label": "birds, reptiles and snails",
+    "sub": "found nowhere else on Earth"
+   }
+  },
+  {
+   "text": "About sixty thousand people live on the island, many still herding goats and keeping traditions and a language, Soqotri, older than modern Arabic.",
+   "es": "Unas sesenta mil personas viven en la isla, muchas todavía pastorean cabras y conservan tradiciones y una lengua, el soqotri, más antigua que el árabe moderno.",
+   "visual": {
+    "type": "card",
+    "big": "SOQOTRI",
+    "label": "the island's own language",
+    "sub": "older than modern Arabic"
+   }
+  },
+  {
+   "text": "Many visitors call it the Galápagos of the Indian Ocean.",
+   "es": "Muchos visitantes la llaman las Galápagos del océano Índico.",
+   "visual": {
+    "type": "card",
+    "big": "GALÁPAGOS",
+    "label": "of the Indian Ocean",
+    "sub": "that's how unique it is"
+   }
+  },
+  {
+   "text": "Would you travel to the most alien-looking place on Earth? Tell me in the comments.",
+   "es": "¿Viajarías al lugar con más aspecto alienígena de la Tierra? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "WOULD YOU GO?",
+    "query": "Socotra"
+   }
+  }
+ ]
+}

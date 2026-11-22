@@ -1,0 +1,482 @@
+{
+ "slug": "never-survive-oymyakon",
+ "publish": "2027-01-23 11:00",
+ "kicker": "WHY YOU'D NEVER SURVIVE",
+ "title": "Why You'd Never Survive the Coldest Town on Earth",
+ "screen_title": "Why You'd Never Survive the Coldest Town on Earth",
+ "subtitle": "Oymyakon, Siberia",
+ "yt_title": "Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)",
+ "yt_title_es": "Por qué nunca sobrevivirías en Oymyakón, el pueblo más frío de la Tierra (-67°C)",
+ "description": "In Oymyakon, Siberia, winter temperatures regularly fall below -50°C and once hit -67.7°C. Around 500 people live there anyway. Here's what that cold does to your body, your car and your home, and how people survive it.\n\nSources: Roshydromet, BBC, National Geographic.\n#Oymyakon #Siberia #Cold #EarthDecoded",
+ "description_es": "En Oymyakón, Siberia, la temperatura en invierno baja seguido de -50°C y una vez llegó a -67.7°C. Aun así viven unas 500 personas. Esto es lo que ese frío le hace a tu cuerpo, tu auto y tu casa, y cómo sobrevive la gente.\n#Oymyakon #Siberia",
+ "tags": [
+  "oymyakon",
+  "coldest town on earth",
+  "coldest place",
+  "siberia",
+  "yakutsk",
+  "why you'd never survive",
+  "extreme cold",
+  "road of bones",
+  "geography documentary",
+  "earth decoded"
+ ],
+ "thumbnail": {
+  "files": [
+   "Frost indicator in Yakutia.jpg"
+  ],
+  "query": "Siberia winter",
+  "white": "-67°C",
+  "accent": "HOME?",
+  "badge": "500 PEOPLE LIVE HERE"
+ },
+ "segments": [
+  {
+   "chapter": "The coldest town",
+   "text": "Imagine stepping outside and feeling your eyelashes freeze together in seconds. Your breath crackles in the air. Your phone dies. The ground is frozen hundreds of meters deep. This isn't Antarctica. It's a town where people live, go to school and raise families. Welcome to Oymyakon, the coldest inhabited place on Earth.",
+   "es": "Imagina salir y sentir que tus pestañas se congelan en segundos. Tu aliento cruje en el aire. Tu teléfono se apaga. El suelo está congelado a cientos de metros de profundidad. Esto no es la Antártida. Es un pueblo donde la gente vive, va a la escuela y cría a sus hijos. Bienvenido a Oymyakón, el lugar habitado más frío de la Tierra.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Frost indicator in Yakutia.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Welcome to Earth Decoded. If you love the most extreme places on our planet, tap subscribe. Today, we're visiting the coldest town on Earth.",
+   "es": "Bienvenido a Earth Decoded. Si te encantan los lugares más extremos del planeta, suscríbete. Hoy, visitamos el pueblo más frío de la Tierra.",
+   "subscribe": true,
+   "visual": {
+    "type": "map",
+    "extent": [
+     100,
+     160,
+     50,
+     75
+    ],
+    "highlight": [
+     "Russia"
+    ],
+    "marker": [
+     143.15,
+     63.46
+    ],
+    "label": "Oymyakon"
+   }
+  },
+  {
+   "text": "Oymyakon is a small village in the Sakha Republic, also called Yakutia, in the far east of Siberia, Russia. About five hundred people live here.",
+   "es": "Oymyakón es un pequeño pueblo de la República de Sajá, también llamada Yakutia, en el extremo oriental de Siberia, Rusia. Aquí viven unas quinientas personas.",
+   "headline": "YAKUTIA, RUSSIA",
+   "visual": {
+    "type": "map",
+    "extent": [
+     100,
+     160,
+     50,
+     75
+    ],
+    "highlight": [
+     "Russia"
+    ],
+    "marker": [
+     143.15,
+     63.46
+    ],
+    "label": "Oymyakon"
+   }
+  },
+  {
+   "text": "In February 1933, the temperature here was recorded at minus sixty-seven point seven degrees Celsius. That's the coldest temperature ever officially recorded in a permanently inhabited place.",
+   "es": "En febrero de 1933, aquí se registraron sesenta y siete punto siete grados bajo cero. Es la temperatura más baja jamás registrada oficialmente en un lugar habitado de forma permanente.",
+   "headline": "THE RECORD",
+   "visual": {
+    "type": "card",
+    "big": "-67.7°C",
+    "label": "recorded in 1933",
+    "sub": "the coldest inhabited place on Earth"
+   }
+  },
+  {
+   "text": "Oymyakon has a rival. The town of Verkhoyansk, a few hundred kilometers away, claims a similar record. Together, the two towns are known as the Pole of Cold of the Northern Hemisphere.",
+   "es": "Oymyakón tiene un rival. El pueblo de Verjoyansk, a unos cientos de kilómetros, reclama un récord parecido. Juntos, los dos pueblos son conocidos como el Polo del Frío del hemisferio norte.",
+   "headline": "A COLD RIVALRY",
+   "visual": {
+    "type": "card",
+    "big": "POLE OF COLD",
+    "label": "Oymyakon vs Verkhoyansk",
+    "sub": "the coldest towns in the north"
+   }
+  },
+  {
+   "text": "In January, the average temperature is around minus fifty degrees. Not the coldest night. The average.",
+   "es": "En enero, la temperatura promedio ronda los cincuenta grados bajo cero. No la noche más fría. El promedio.",
+   "headline": "THE AVERAGE",
+   "visual": {
+    "type": "card",
+    "big": "-50°C",
+    "label": "average in January",
+    "sub": "not the record, the average"
+   }
+  },
+  {
+   "text": "Funny enough, the name Oymyakon is often said to mean unfrozen water, because of a natural hot spring nearby where reindeer herders once watered their animals.",
+   "es": "Curiosamente, se dice que el nombre Oymyakón significa agua que no se congela, por un manantial natural cercano donde los pastores de renos daban de beber a sus animales.",
+   "visual": {
+    "type": "card",
+    "big": "UNFROZEN WATER",
+    "label": "the meaning of Oymyakon",
+    "sub": "named after a nearby spring"
+   }
+  },
+  {
+   "chapter": "Why so cold?",
+   "text": "Why is it so cold? Oymyakon sits in a valley surrounded by mountains, far from any ocean. On long, clear winter nights, heat escapes into space, and the heaviest, coldest air sinks into the valley and gets trapped.",
+   "es": "¿Por qué hace tanto frío? Oymyakón está en un valle rodeado de montañas, lejos de cualquier océano. En las largas noches despejadas de invierno, el calor escapa al espacio, y el aire más frío y pesado baja al valle y queda atrapado.",
+   "headline": "A COLD TRAP",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sentinel-2B Lena Pillars 2016 perspective 1.png"
+    ],
+    "query": "Siberia"
+   }
+  },
+  {
+   "text": "In December, the sun shines for only about three hours a day. In summer, it's the opposite: almost endless daylight, and temperatures can even climb above thirty degrees.",
+   "es": "En diciembre, el sol brilla solo unas tres horas al día. En verano es lo contrario: luz casi sin fin, y la temperatura puede incluso pasar de treinta grados.",
+   "headline": "A 100-DEGREE SWING",
+   "visual": {
+    "type": "card",
+    "big": "100°C",
+    "label": "difference between winter and summer",
+    "sub": "from -67 to over +30"
+   }
+  },
+  {
+   "text": "Quick question. What's the coldest temperature you've ever experienced? Tell me in the comments.",
+   "es": "Una pregunta rápida. ¿Cuál es la temperatura más baja que has vivido? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Coldest you've ever felt?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "What the cold does to you",
+   "text": "So what happens to your body at minus fifty? Exposed skin can get frostbite in just a few minutes. Locals cover every bit of skin with fur hats, scarves and thick boots made of reindeer fur.",
+   "es": "¿Qué le pasa a tu cuerpo a cincuenta bajo cero? La piel expuesta puede congelarse en solo unos minutos. Los locales cubren cada parte de la piel con gorros de piel, bufandas y botas gruesas de piel de reno.",
+   "headline": "FROSTBITE",
+   "visual": {
+    "type": "card",
+    "big": "MINUTES",
+    "label": "until exposed skin freezes",
+    "sub": "at minus fifty degrees"
+   }
+  },
+  {
+   "text": "The trick is layers. Wool underneath, then thick sweaters, then a long fur coat. Many locals say natural fur and reindeer-skin boots work better than any modern jacket at these temperatures.",
+   "es": "El truco son las capas. Lana abajo, luego suéteres gruesos y después un abrigo largo de piel. Muchos locales dicen que la piel natural y las botas de piel de reno funcionan mejor que cualquier chamarra moderna a estas temperaturas.",
+   "headline": "DRESSING FOR -50",
+   "visual": {
+    "type": "card",
+    "big": "LAYERS",
+    "label": "wool, sweaters, fur",
+    "sub": "dressing to survive"
+   }
+  },
+  {
+   "text": "Your eyelashes and eyebrows turn white with frost. If you wear glasses, the metal can stick to your skin. Breathing that air hurts your lungs, so people breathe through scarves.",
+   "es": "Tus pestañas y cejas se ponen blancas de escarcha. Si usas lentes, el metal se te puede pegar a la piel. Respirar ese aire duele en los pulmones, así que la gente respira a través de bufandas.",
+   "headline": "FROZEN FACE",
+   "visual": {
+    "type": "card",
+    "big": "FROZEN LASHES",
+    "label": "metal sticks to skin",
+    "sub": "breathing hurts"
+   }
+  },
+  {
+   "text": "At these temperatures, your breath freezes almost instantly, making a soft crackling sound. Yakut people have a poetic name for it: the whisper of the stars.",
+   "es": "A estas temperaturas, tu aliento se congela casi al instante y hace un suave crujido. Los yakutos tienen un nombre poético para eso: el susurro de las estrellas.",
+   "headline": "WHISPER OF THE STARS",
+   "visual": {
+    "type": "card",
+    "big": "WHISPER",
+    "label": "of the stars",
+    "sub": "the sound of your breath freezing"
+   }
+  },
+  {
+   "text": "If you got lost outside in winter without proper clothing, hypothermia could set in within an hour. That's why nobody here goes far alone in winter.",
+   "es": "Si te perdieras afuera en invierno sin la ropa adecuada, la hipotermia podría llegar en menos de una hora. Por eso aquí nadie se aleja solo en invierno.",
+   "visual": {
+    "type": "card",
+    "big": "< 1 HOUR",
+    "label": "to hypothermia",
+    "sub": "without the right clothes"
+   }
+  },
+  {
+   "chapter": "Daily life at -50°C",
+   "text": "Machines struggle too. Car batteries die, oil turns thick like honey, and plastic snaps. Many people keep their car engines running all day, or park in heated garages. If a car stops on the road, it can freeze solid.",
+   "es": "Las máquinas también sufren. Las baterías mueren, el aceite se vuelve espeso como miel y el plástico se quiebra. Mucha gente deja el motor encendido todo el día o se estaciona en cocheras con calefacción. Si un auto se detiene en la carretera, puede congelarse por completo.",
+   "headline": "FROZEN MACHINES",
+   "visual": {
+    "type": "card",
+    "big": "ENGINES ON",
+    "label": "all day long",
+    "sub": "or the car freezes solid"
+   }
+  },
+  {
+   "text": "Houses are built for war against the cold. Thick wooden walls, small double or triple windows, and stoves burning coal or wood almost nonstop through winter.",
+   "es": "Las casas están hechas para pelear contra el frío. Paredes gruesas de madera, ventanas pequeñas dobles o triples y estufas que queman carbón o leña casi sin parar todo el invierno.",
+   "headline": "WARM HOMES",
+   "visual": {
+    "type": "card",
+    "big": "TRIPLE WINDOWS",
+    "label": "thick walls, stoves always on",
+    "sub": "houses built against the cold"
+   }
+  },
+  {
+   "text": "If the heating fails in midwinter, a house can become dangerously cold within hours, and the pipes can freeze and burst. So keeping the fire going is everyone's job.",
+   "es": "Si la calefacción falla a mitad del invierno, una casa puede enfriarse peligrosamente en horas, y las tuberías pueden congelarse y reventar. Por eso mantener el fuego encendido es tarea de todos.",
+   "visual": {
+    "type": "card",
+    "big": "HOURS",
+    "label": "until a house gets dangerously cold",
+    "sub": "if the heating fails"
+   }
+  },
+  {
+   "text": "Phone batteries drain in minutes, so people keep them inside their coats. Pens stop writing because the ink freezes.",
+   "es": "Las baterías de los teléfonos se agotan en minutos, así que la gente los guarda dentro del abrigo. Las plumas dejan de escribir porque la tinta se congela.",
+   "visual": {
+    "type": "card",
+    "big": "INK FREEZES",
+    "label": "phones die in minutes",
+    "sub": "keep them inside your coat"
+   }
+  },
+  {
+   "text": "Under the town is permafrost, ground that has stayed frozen for thousands of years. It's so hard that pipes are difficult to bury, so many homes have outdoor toilets, a wooden outhouse in the yard, even at minus fifty.",
+   "es": "Bajo el pueblo hay permafrost, suelo que lleva miles de años congelado. Es tan duro que es difícil enterrar tuberías, así que muchas casas tienen baño afuera, una letrina de madera en el patio, incluso a cincuenta bajo cero.",
+   "headline": "PERMAFROST",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Permafrost-core hg.jpg"
+    ]
+   }
+  },
+  {
+   "text": "The permafrost is also a time capsule. Across Yakutia, scientists have found woolly mammoths, cave lion cubs and ancient horses, frozen for tens of thousands of years, some with fur and skin still intact.",
+   "es": "El permafrost también es una cápsula del tiempo. En Yakutia, los científicos han encontrado mamuts lanudos, cachorros de león de las cavernas y caballos antiguos, congelados por decenas de miles de años, algunos con pelo y piel aún intactos.",
+   "headline": "A FROZEN TIME CAPSULE",
+   "visual": {
+    "type": "card",
+    "big": "MAMMOTHS",
+    "label": "frozen in the permafrost",
+    "sub": "tens of thousands of years old"
+   }
+  },
+  {
+   "text": "Even burials are hard. To dig a grave, people traditionally light fires on the ground to thaw it, little by little, over several days.",
+   "es": "Incluso los entierros son difíciles. Para cavar una tumba, tradicionalmente encienden fuego sobre el suelo para descongelarlo poco a poco, durante varios días.",
+   "visual": {
+    "type": "card",
+    "big": "DAYS",
+    "label": "to dig a grave",
+    "sub": "thawing the ground with fire"
+   }
+  },
+  {
+   "text": "Children still go to school in winter. Classes are usually only canceled when it drops below about minus fifty-two degrees.",
+   "es": "Los niños siguen yendo a la escuela en invierno. Las clases normalmente solo se cancelan cuando baja de unos cincuenta y dos grados bajo cero.",
+   "headline": "SCHOOL AT -50",
+   "visual": {
+    "type": "card",
+    "big": "-52°C",
+    "label": "when school closes",
+    "sub": "otherwise, class is on"
+   }
+  },
+  {
+   "text": "Food is mostly meat and fish, because almost nothing grows here. A local favorite is stroganina, thin slices of raw frozen fish. Reindeer and horse meat give people the energy they need to stay warm.",
+   "es": "La comida es sobre todo carne y pescado, porque casi nada crece aquí. Un favorito local es la stroganina, rebanadas finas de pescado crudo congelado. La carne de reno y de caballo da la energía para mantenerse caliente.",
+   "headline": "FROZEN FOOD",
+   "visual": {
+    "type": "card",
+    "big": "STROGANINA",
+    "label": "frozen raw fish slices",
+    "sub": "a Yakut favorite"
+   }
+  },
+  {
+   "text": "Would you try stroganina? Tell me in the comments.",
+   "es": "¿Probarías la stroganina? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Would you try frozen raw fish?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "chapter": "Built for the cold",
+   "text": "The animals here are tough too. Yakutian horses live outside all winter. They grow thick, shaggy coats and can find grass under the snow at temperatures that would kill most horses.",
+   "es": "Los animales aquí también son resistentes. Los caballos yakutos viven afuera todo el invierno. Les crece un pelaje grueso y lanudo y encuentran pasto bajo la nieve a temperaturas que matarían a casi cualquier caballo.",
+   "headline": "YAKUTIAN HORSES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Якутские лошади.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Some locals even enjoy the cold. After a hot steam bath, called a banya, a few brave people jump into the snow or into holes cut in the ice.",
+   "es": "Algunos locales incluso disfrutan el frío. Después de un baño de vapor caliente, llamado banya, algunos valientes se lanzan a la nieve o a agujeros cortados en el hielo.",
+   "visual": {
+    "type": "card",
+    "big": "BANYA",
+    "label": "then a jump in the snow",
+    "sub": "yes, people do this for fun"
+   }
+  },
+  {
+   "text": "The Yakut people, or Sakha, have lived in this region for centuries, herding horses and reindeer, and their knowledge of the cold is the reason anyone can live here at all.",
+   "es": "El pueblo yakuto, o sajá, ha vivido en esta región por siglos, criando caballos y renos, y su conocimiento del frío es la razón por la que alguien puede vivir aquí.",
+   "visual": {
+    "type": "card",
+    "big": "THE SAKHA",
+    "label": "people of Yakutia",
+    "sub": "centuries of knowledge about the cold"
+   }
+  },
+  {
+   "chapter": "The Road of Bones",
+   "text": "Getting here isn't easy. The main road is the Kolyma Highway, nicknamed the Road of Bones. It was built in Soviet times by prisoners of the Gulag labor camps, and many of them died while building it.",
+   "es": "Llegar aquí no es fácil. La carretera principal es la de Kolimá, apodada la Carretera de los Huesos. Fue construida en tiempos soviéticos por prisioneros de los campos de trabajo del Gulag, y muchos murieron construyéndola.",
+   "headline": "THE ROAD OF BONES",
+   "visual": {
+    "type": "image",
+    "files": [
+     "R504 Kolyma in autumn.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Today, drivers cross it in convoys in winter, because a breakdown alone on the road could be deadly.",
+   "es": "Hoy, los conductores la cruzan en convoy en invierno, porque descomponerse solo en esa carretera podría ser mortal.",
+   "visual": {
+    "type": "card",
+    "big": "CONVOYS",
+    "label": "drive together in winter",
+    "sub": "a breakdown alone could kill"
+   }
+  },
+  {
+   "text": "The regional capital, Yakutsk, has more than three hundred thousand people. It's often called the coldest big city in the world, and it's built on permafrost, with many buildings standing on concrete stilts.",
+   "es": "La capital regional, Yakutsk, tiene más de trescientas mil personas. Se le suele llamar la gran ciudad más fría del mundo, y está construida sobre permafrost, con muchos edificios sobre pilotes de concreto.",
+   "headline": "YAKUTSK",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Port of Yakutsk at night (35273195092).jpg",
+     "JakutskFlughafen15.02.2025.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Why stilts? If buildings sat directly on the ground, their heat would melt the permafrost, and they would sink and crack. Raising them lets cold air flow underneath.",
+   "es": "¿Por qué pilotes? Si los edificios estuvieran sobre el suelo, su calor derretiría el permafrost, y se hundirían y agrietarían. Elevarlos deja pasar el aire frío por debajo.",
+   "headline": "BUILDINGS ON STILTS",
+   "visual": {
+    "type": "card",
+    "big": "STILTS",
+    "label": "keep the permafrost frozen",
+    "sub": "or buildings would sink"
+   }
+  },
+  {
+   "chapter": "A changing Arctic",
+   "text": "But the permafrost is changing. As the Arctic warms, it's thawing in many places across Siberia, damaging roads and buildings and releasing greenhouse gases trapped for thousands of years.",
+   "es": "Pero el permafrost está cambiando. Al calentarse el Ártico, se está derritiendo en muchos lugares de Siberia, dañando carreteras y edificios y liberando gases de efecto invernadero atrapados por miles de años.",
+   "headline": "THAWING GROUND",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Thawing permafrost at Chersky in the Russian Arctic (Copernicus).jpg"
+    ]
+   }
+  },
+  {
+   "text": "Not far from Yakutsk stand the Lena Pillars, rock towers up to about one hundred meters tall along the Lena River, a UNESCO World Heritage Site and one of the most beautiful places in Siberia.",
+   "es": "No lejos de Yakutsk están los Pilares del Lena, torres de roca de hasta unos cien metros a lo largo del río Lena, Patrimonio de la Humanidad de la UNESCO y uno de los lugares más hermosos de Siberia.",
+   "headline": "THE LENA PILLARS",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ленские столбы 2017-06 360.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Every year, Oymyakon hosts a winter festival called the Pole of Cold, with reindeer races, traditional food and visitors who come just to say they survived it.",
+   "es": "Cada año, Oymyakón organiza un festival de invierno llamado el Polo del Frío, con carreras de renos, comida tradicional y visitantes que vienen solo para decir que lo sobrevivieron.",
+   "visual": {
+    "type": "card",
+    "big": "FESTIVAL",
+    "label": "the Pole of Cold",
+    "sub": "reindeer races and frozen fun"
+   }
+  },
+  {
+   "text": "Each winter, a few brave tourists travel to Oymyakon just to stand next to the town's famous sign marking the record cold.",
+   "es": "Cada invierno, algunos turistas valientes viajan a Oymyakón solo para pararse junto al famoso letrero que marca el récord de frío.",
+   "visual": {
+    "type": "card",
+    "big": "TOURISTS",
+    "label": "come for the cold",
+    "sub": "to stand at the Pole of Cold"
+   }
+  },
+  {
+   "chapter": "Could you survive?",
+   "text": "So, could you survive Oymyakon? On your own, without the right clothes, a warm house and local knowledge, maybe not for long. But hundreds of people do it every year, and many of them wouldn't live anywhere else.",
+   "es": "Entonces, ¿podrías sobrevivir en Oymyakón? Solo, sin la ropa adecuada, una casa caliente y el conocimiento local, quizá no mucho. Pero cientos de personas lo hacen cada año, y muchas no vivirían en ningún otro lugar.",
+   "headline": "COULD YOU SURVIVE?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Frost indicator in Yakutia.jpg"
+    ]
+   }
+  },
+  {
+   "text": "Last question. Which extreme place should we explore next? Tell me in the comments.",
+   "es": "Última pregunta. ¿Qué lugar extremo exploramos ahora? Dímelo en los comentarios.",
+   "question": true,
+   "visual": {
+    "type": "question",
+    "q": "Which extreme place next?",
+    "sub": "Tell me in the comments"
+   }
+  },
+  {
+   "text": "Thanks for watching Earth Decoded. If you enjoyed this, like the video, subscribe, and share it with a friend who always says they're cold. See you in the next one.",
+   "es": "Gracias por ver Earth Decoded. Si te gustó, dale me gusta, suscríbete y compártelo con un amigo que siempre dice que tiene frío. Nos vemos en el próximo.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Ленские столбы 2017-06 360.jpg"
+    ]
+   }
+  }
+ ]
+}

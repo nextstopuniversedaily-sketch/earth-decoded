@@ -1,0 +1,175 @@
+{
+ "number": 25,
+ "publish": "2026-12-17 12:00",
+ "kicker": "NAMING TRICK",
+ "title": "Greenland",
+ "subtitle": "Why is Greenland covered in ice?",
+ "yt_title": "Why Greenland Is Covered in Ice (and Iceland Is Green) 🧊 #shorts",
+ "yt_title_es": "Por qué Groenlandia está cubierta de hielo (e Islandia es verde) 🧊 #shorts",
+ "description": "Greenland is the world's largest island and about 80% of it is under ice up to 3 km thick. So why is it called Greenland? A Viking marketing trick, according to the sagas.\n#Greenland #Iceland #Geography #EarthDecoded #shorts",
+ "description_es": "Groenlandia es la isla más grande del mundo y cerca del 80% está bajo hielo de hasta 3 km de grosor. ¿Por qué se llama Tierra Verde? Un truco de marketing vikingo, según las sagas.\n#Groenlandia #shorts",
+ "tags": [
+  "greenland",
+  "greenland ice sheet",
+  "why is greenland called greenland",
+  "iceland",
+  "vikings",
+  "erik the red",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Greenland coast"
+  ],
+  "query": "Greenland ice",
+  "white": "GREEN?",
+  "accent": "REALLY?",
+  "badge": "80% ICE",
+  "files": [
+   "Greenland coast - panoramio.jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "Why is Greenland covered in ice, while Iceland is green?",
+   "es": "¿Por qué Groenlandia está cubierta de hielo, mientras Islandia es verde?",
+   "visual": {
+    "type": "title",
+    "query": "Greenland"
+   }
+  },
+  {
+   "text": "Greenland is the largest island in the world, more than two million square kilometers. About eighty percent of it is buried under a sheet of ice.",
+   "es": "Groenlandia es la isla más grande del mundo, más de dos millones de kilómetros cuadrados. Cerca del ochenta por ciento está enterrada bajo una capa de hielo.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -75,
+     -10,
+     58,
+     84
+    ],
+    "highlight": [
+     "Greenland"
+    ]
+   },
+   "headline": "80% ICE"
+  },
+  {
+   "text": "In some places, that ice is more than three kilometers thick. It's so heavy that it has pushed the land in the middle of the island down below sea level.",
+   "es": "En algunos lugares, ese hielo mide más de tres kilómetros de grosor. Es tan pesado que ha hundido la tierra del centro de la isla por debajo del nivel del mar.",
+   "visual": {
+    "type": "card",
+    "big": "3 KM",
+    "label": "thick ice in places",
+    "sub": "heavy enough to push the land down"
+   },
+   "headline": "3 KM THICK"
+  },
+  {
+   "text": "So why call it Greenland? According to the old Icelandic sagas, around the year 985, a Viking named Erik the Red gave it that name to attract settlers.",
+   "es": "¿Por qué llamarla Tierra Verde? Según las antiguas sagas islandesas, cerca del año 985, un vikingo llamado Erik el Rojo le dio ese nombre para atraer colonos.",
+   "visual": {
+    "type": "card",
+    "big": "~985 AD",
+    "label": "Erik the Red names it Greenland",
+    "sub": "to attract settlers"
+   },
+   "headline": "A VIKING TRICK"
+  },
+  {
+   "text": "The saga says he believed people would want to go there if the land had a good name. One of history's first marketing tricks.",
+   "es": "La saga dice que pensó que la gente querría ir si la tierra tenía un buen nombre. Uno de los primeros trucos de marketing de la historia.",
+   "visual": {
+    "type": "card",
+    "big": "MARKETING",
+    "label": "a good name sells land",
+    "sub": "even in the Viking age"
+   }
+  },
+  {
+   "text": "To be fair, the southern coasts do turn green in summer, with grass and small farms, and that's where most of Greenland's roughly fifty-six thousand people live.",
+   "es": "Para ser justos, las costas del sur sí se ponen verdes en verano, con pasto y pequeñas granjas, y ahí vive la mayoría de los cerca de cincuenta y seis mil habitantes de Groenlandia.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Greenland coast panoramio"
+    ],
+    "query": "Greenland town"
+   },
+   "headline": "GREEN COASTS"
+  },
+  {
+   "text": "Iceland, meanwhile, is warmed by the Gulf Stream and is mostly green with only about a tenth covered by glaciers. The names almost feel swapped.",
+   "es": "Islandia, en cambio, es calentada por la corriente del Golfo y es casi toda verde, con solo cerca de una décima parte cubierta por glaciares. Los nombres casi parecen intercambiados.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Iceland landscape"
+    ],
+    "query": "Iceland green"
+   },
+   "headline": "ICELAND IS GREEN"
+  },
+  {
+   "text": "And Greenland's ice matters to everyone. If all of it melted, sea levels around the world would rise by about seven meters.",
+   "es": "Y el hielo de Groenlandia nos importa a todos. Si se derritiera todo, el nivel del mar en el mundo subiría unos siete metros.",
+   "visual": {
+    "type": "card",
+    "big": "7 METERS",
+    "label": "of global sea level rise",
+    "sub": "if all of Greenland's ice melted"
+   },
+   "headline": "7 METERS"
+  },
+  {
+   "text": "Greenland's capital, Nuuk, has around nineteen thousand people. There are no roads between towns, so people travel by boat, plane, helicopter or dog sled.",
+   "es": "La capital de Groenlandia, Nuuk, tiene unas diecinueve mil personas. No hay carreteras entre pueblos, así que se viaja en barco, avión, helicóptero o trineo de perros.",
+   "visual": {
+    "type": "card",
+    "big": "NO ROADS",
+    "label": "between towns",
+    "sub": "boats, planes and dog sleds"
+   },
+   "headline": "NO ROADS"
+  },
+  {
+   "text": "Most Greenlanders are Inuit, whose ancestors arrived long before the Vikings and survived when the Norse settlements disappeared in the fifteenth century.",
+   "es": "La mayoría de los groenlandeses son inuit, cuyos antepasados llegaron mucho antes que los vikingos y sobrevivieron cuando los asentamientos nórdicos desaparecieron en el siglo quince.",
+   "visual": {
+    "type": "card",
+    "big": "INUIT",
+    "label": "the people of Greenland",
+    "sub": "they outlasted the Vikings"
+   }
+  },
+  {
+   "text": "Greenland is part of the Kingdom of Denmark but governs most of its own affairs.",
+   "es": "Groenlandia es parte del Reino de Dinamarca, pero gobierna la mayoría de sus propios asuntos.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -75,
+     15,
+     52,
+     84
+    ],
+    "highlight": [
+     "Greenland",
+     "Denmark"
+    ]
+   }
+  },
+  {
+   "text": "Would you visit Greenland or Iceland first? Tell me in the comments.",
+   "es": "¿Visitarías primero Groenlandia o Islandia? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "GREENLAND OR ICELAND?",
+    "query": "Greenland"
+   }
+  }
+ ]
+}

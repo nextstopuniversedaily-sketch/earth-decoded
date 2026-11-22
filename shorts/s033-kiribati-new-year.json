@@ -1,0 +1,159 @@
+{
+ "number": 33,
+ "publish": "2026-12-25 12:00",
+ "kicker": "FIRST TO CELEBRATE",
+ "title": "Kiribati",
+ "subtitle": "The first country to see the New Year",
+ "yt_title": "The Country That Sees the New Year First 🎆🌏 #shorts",
+ "yt_title_es": "El país que ve el Año Nuevo primero 🎆🌏 #shorts",
+ "description": "Kiribati, a Pacific nation of 33 atolls, is the first country to welcome every new year, and the only country in all four hemispheres. In 1995 it moved the International Date Line to make that happen.\n#Kiribati #NewYear #Geography #EarthDecoded #shorts",
+ "description_es": "Kiribati, una nación del Pacífico de 33 atolones, es el primer país en recibir cada año nuevo, y el único en los cuatro hemisferios. En 1995 movió la línea de cambio de fecha para lograrlo.\n#Kiribati #AñoNuevo #shorts",
+ "tags": [
+  "kiribati",
+  "first country new year",
+  "international date line",
+  "kiritimati",
+  "pacific islands",
+  "new year",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Kiribati"
+  ],
+  "query": "Pacific atoll",
+  "white": "FIRST TO",
+  "accent": "NEW YEAR",
+  "badge": "ALL 4 HEMISPHERES",
+  "files": [
+   "South Tarawa from the air.jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "This country is the first on Earth to see every new year.",
+   "es": "Este país es el primero de la Tierra en ver cada año nuevo.",
+   "visual": {
+    "type": "title",
+    "query": "Pacific atoll"
+   }
+  },
+  {
+   "text": "Kiribati is a nation in the middle of the Pacific Ocean, made of thirty-three islands and atolls.",
+   "es": "Kiribati es una nación en medio del océano Pacífico, formada por treinta y tres islas y atolones.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -180,
+     -145,
+     -12,
+     8
+    ],
+    "marker": [
+     -157.4,
+     1.9
+    ],
+    "label": "Kiribati"
+   },
+   "headline": "33 ISLANDS"
+  },
+  {
+   "text": "Its islands are spread across about three and a half million square kilometers of ocean, wider than the whole continental United States. But all its land together is smaller than New York City and its suburbs.",
+   "es": "Sus islas están repartidas en unos tres millones y medio de kilómetros cuadrados de océano, más que todo Estados Unidos continental. Pero toda su tierra junta mide menos que Nueva York y sus suburbios.",
+   "visual": {
+    "type": "card",
+    "big": "3.5 MILLION KM²",
+    "label": "of ocean",
+    "sub": "only about 800 km² of land"
+   },
+   "headline": "SPREAD OUT"
+  },
+  {
+   "text": "It's also the only country that sits in all four hemispheres: north, south, east and west, because it crosses both the equator and the 180th meridian.",
+   "es": "También es el único país que está en los cuatro hemisferios: norte, sur, este y oeste, porque cruza el ecuador y el meridiano 180.",
+   "visual": {
+    "type": "card",
+    "big": "ALL 4",
+    "label": "hemispheres",
+    "sub": "north, south, east and west"
+   },
+   "headline": "ALL FOUR HEMISPHERES"
+  },
+  {
+   "text": "For a long time, the International Date Line ran right through Kiribati. Its eastern and western islands were on different days.",
+   "es": "Durante mucho tiempo, la línea internacional de cambio de fecha pasaba justo por Kiribati. Sus islas del este y del oeste estaban en días diferentes.",
+   "visual": {
+    "type": "card",
+    "big": "TWO DAYS",
+    "label": "in one country",
+    "sub": "the date line split Kiribati"
+   }
+  },
+  {
+   "text": "So in 1995, Kiribati moved its eastern islands to the same day as the rest of the country. The date line now bends around it.",
+   "es": "Así que en 1995, Kiribati pasó sus islas del este al mismo día que el resto del país. Ahora la línea de cambio de fecha se curva a su alrededor.",
+   "visual": {
+    "type": "card",
+    "big": "1995",
+    "label": "Kiribati moved the date line",
+    "sub": "now the whole country shares one day"
+   },
+   "headline": "MOVING THE DATE LINE"
+  },
+  {
+   "text": "That put the Line Islands, including Kiritimati, or Christmas Island, at UTC plus fourteen, the earliest time zone on Earth. That's why they welcome the New Year first.",
+   "es": "Eso puso a las islas de la Línea, incluida Kiritimati, o Isla de Navidad, en UTC más catorce, la zona horaria más temprana del planeta. Por eso reciben el Año Nuevo primero.",
+   "visual": {
+    "type": "card",
+    "big": "UTC+14",
+    "label": "the earliest time zone",
+    "sub": "Kiritimati sees midnight first"
+   },
+   "headline": "FIRST TO CELEBRATE"
+  },
+  {
+   "text": "And there's a serious side. Most of Kiribati is only a few meters above sea level, so rising seas are a real threat to its future.",
+   "es": "Y hay un lado serio. La mayor parte de Kiribati está a solo unos metros sobre el nivel del mar, así que el aumento del mar es una amenaza real para su futuro.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "South Tarawa from the air"
+    ],
+    "query": "Tarawa atoll"
+   },
+   "headline": "A FEW METERS HIGH"
+  },
+  {
+   "text": "Meanwhile, the last places on Earth to reach the New Year are American Samoa and some uninhabited islands, about twenty-six hours after Kiribati.",
+   "es": "Mientras tanto, los últimos lugares de la Tierra en llegar al Año Nuevo son Samoa Americana y algunas islas deshabitadas, unas veintiséis horas después de Kiribati.",
+   "visual": {
+    "type": "card",
+    "big": "26 HOURS",
+    "label": "between the first and last New Year",
+    "sub": "Kiribati first, American Samoa last"
+   }
+  },
+  {
+   "text": "Kiritimati is one of the largest coral atolls on Earth by land area, and it was named by Captain James Cook, who landed there on Christmas Eve in 1777.",
+   "es": "Kiritimati es uno de los atolones de coral más grandes de la Tierra por superficie, y fue nombrado por el capitán James Cook, que llegó en Nochebuena de 1777.",
+   "visual": {
+    "type": "card",
+    "big": "1777",
+    "label": "Captain Cook lands on Christmas Eve",
+    "sub": "and names it Christmas Island"
+   },
+   "headline": "CHRISTMAS ISLAND"
+  },
+  {
+   "text": "Merry Christmas from Earth Decoded! Where will you be when the New Year arrives? Tell me in the comments.",
+   "es": "¡Feliz Navidad de parte de Earth Decoded! ¿Dónde estarás cuando llegue el Año Nuevo? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "MERRY CHRISTMAS!",
+    "query": "Pacific ocean sunset"
+   }
+  }
+ ]
+}

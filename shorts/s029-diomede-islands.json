@@ -1,0 +1,189 @@
+{
+ "number": 29,
+ "publish": "2026-12-21 12:00",
+ "kicker": "TOMORROW ISLAND",
+ "title": "The Diomede Islands",
+ "subtitle": "Russia and the US, 4 km apart",
+ "yt_title": "Russia and the USA Are Only 4 km Apart 🇺🇸🇷🇺🤯 #shorts",
+ "yt_title_es": "Rusia y Estados Unidos están a solo 4 km 🇺🇸🇷🇺🤯 #shorts",
+ "description": "In the Bering Strait, two small islands sit less than 4 km apart: Big Diomede belongs to Russia and Little Diomede to the United States. Between them runs the International Date Line, so one is almost a full day ahead.\n#Diomede #BeringStrait #Geography #EarthDecoded #shorts",
+ "description_es": "En el estrecho de Bering, dos islas pequeñas están a menos de 4 km: la Diómedes Mayor es de Rusia y la Diómedes Menor de Estados Unidos. Entre ellas pasa la línea internacional de cambio de fecha, así que una va casi un día adelante.\n#Diomedes #shorts",
+ "tags": [
+  "diomede islands",
+  "russia usa distance",
+  "bering strait",
+  "international date line",
+  "tomorrow island",
+  "alaska",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -178,
+    -160,
+    60,
+    70
+   ],
+   "highlight": [
+    "Russia",
+    "United States of America"
+   ],
+   "marker": [
+    -169,
+    65.77
+   ],
+   "label": "Diomede Islands"
+  },
+  "white": "4 KM",
+  "accent": "APART",
+  "badge": "21 HOURS DIFFERENCE"
+ },
+ "segments": [
+  {
+   "text": "You can see Russia from the United States here, and it's tomorrow over there.",
+   "es": "Desde aquí puedes ver Rusia desde Estados Unidos, y allá ya es mañana.",
+   "visual": {
+    "type": "title",
+    "query": "Bering Strait"
+   }
+  },
+  {
+   "text": "In the Bering Strait, between Alaska and Siberia, sit two rocky islands: Big Diomede and Little Diomede.",
+   "es": "En el estrecho de Bering, entre Alaska y Siberia, hay dos islas rocosas: Diómedes Mayor y Diómedes Menor.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -178,
+     -160,
+     60,
+     70
+    ],
+    "highlight": [
+     "Russia",
+     "United States of America"
+    ],
+    "marker": [
+     -169,
+     65.77
+    ],
+    "label": "Diomede Islands"
+   },
+   "headline": "THE BERING STRAIT"
+  },
+  {
+   "text": "Big Diomede belongs to Russia. Little Diomede belongs to the United States. And they're less than four kilometers apart.",
+   "es": "Diómedes Mayor pertenece a Rusia. Diómedes Menor pertenece a Estados Unidos. Y están a menos de cuatro kilómetros.",
+   "visual": {
+    "type": "card",
+    "big": "< 4 KM",
+    "label": "between Russia and the USA",
+    "sub": "Big and Little Diomede"
+   },
+   "headline": "LESS THAN 4 KM"
+  },
+  {
+   "text": "But here's the strange part. The International Date Line runs right between them.",
+   "es": "Pero aquí viene lo extraño. La línea internacional de cambio de fecha pasa justo entre ellas.",
+   "visual": {
+    "type": "card",
+    "big": "DATE LINE",
+    "label": "runs between the islands",
+    "sub": "where tomorrow begins"
+   },
+   "headline": "THE DATE LINE"
+  },
+  {
+   "text": "Because of their time zones, Big Diomede is twenty-one hours ahead of Little Diomede. When it's Monday afternoon on the American island, it's already Tuesday on the Russian one.",
+   "es": "Por sus zonas horarias, Diómedes Mayor va veintiún horas adelante de Diómedes Menor. Cuando es lunes por la tarde en la isla estadounidense, en la rusa ya es martes.",
+   "visual": {
+    "type": "card",
+    "big": "21 HOURS",
+    "label": "time difference",
+    "sub": "across less than 4 km"
+   },
+   "headline": "21 HOURS AHEAD"
+  },
+  {
+   "text": "That's why they're nicknamed Tomorrow Island and Yesterday Island.",
+   "es": "Por eso las apodan la Isla del Mañana y la Isla del Ayer.",
+   "visual": {
+    "type": "card",
+    "big": "TOMORROW",
+    "label": "& YESTERDAY ISLAND",
+    "sub": "nicknames for the Diomedes"
+   }
+  },
+  {
+   "text": "Little Diomede has a small village of around eighty people, mostly Iñupiat, who have lived in this region for thousands of years. Big Diomede has no permanent residents, only a Russian military base.",
+   "es": "Diómedes Menor tiene un pueblito de unas ochenta personas, en su mayoría iñupiat, que han vivido en esta región por miles de años. Diómedes Mayor no tiene residentes permanentes, solo una base militar rusa.",
+   "visual": {
+    "type": "image",
+    "query": "Little Diomede",
+    "commons": [
+     "Little Diomede Island village"
+    ]
+   },
+   "headline": "80 PEOPLE"
+  },
+  {
+   "text": "In some winters, the sea between them freezes into an ice bridge. But crossing the border here is not allowed.",
+   "es": "En algunos inviernos, el mar entre ellas se congela en un puente de hielo. Pero cruzar la frontera aquí no está permitido.",
+   "visual": {
+    "type": "card",
+    "big": "ICE BRIDGE",
+    "label": "forms in some winters",
+    "sub": "but crossing is forbidden"
+   }
+  },
+  {
+   "text": "Just twenty thousand years ago, during the last ice age, there was no strait here at all. A land bridge called Beringia connected Asia and North America.",
+   "es": "Hace apenas veinte mil años, en la última edad de hielo, aquí no había estrecho. Un puente de tierra llamado Beringia unía Asia y América del Norte.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -180,
+     -150,
+     55,
+     75
+    ],
+    "highlight": [
+     "Russia",
+     "United States of America"
+    ]
+   },
+   "headline": "BERINGIA"
+  },
+  {
+   "text": "Scientists believe the first people to reach the Americas crossed that land bridge from Siberia.",
+   "es": "Los científicos creen que las primeras personas que llegaron a América cruzaron ese puente de tierra desde Siberia.",
+   "visual": {
+    "type": "card",
+    "big": "FIRST AMERICANS",
+    "label": "likely crossed from Siberia",
+    "sub": "over the Beringia land bridge"
+   }
+  },
+  {
+   "text": "Today, the whole strait is only about eighty-two kilometers wide at its narrowest point.",
+   "es": "Hoy, todo el estrecho mide solo unos ochenta y dos kilómetros en su parte más angosta.",
+   "visual": {
+    "type": "card",
+    "big": "82 KM",
+    "label": "between Asia and America",
+    "sub": "at the narrowest point"
+   }
+  },
+  {
+   "text": "Would you rather live on Tomorrow Island or Yesterday Island? Tell me in the comments.",
+   "es": "¿Preferirías vivir en la Isla del Mañana o en la del Ayer? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "TOMORROW OR YESTERDAY?",
+    "query": "Bering Strait"
+   }
+  }
+ ]
+}

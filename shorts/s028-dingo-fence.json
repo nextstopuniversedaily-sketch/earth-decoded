@@ -1,0 +1,159 @@
+{
+ "number": 28,
+ "publish": "2026-12-20 12:00",
+ "kicker": "AUSTRALIA'S WALL",
+ "title": "The Dingo Fence",
+ "subtitle": "A fence longer than a continent",
+ "yt_title": "Australia Built a 5,600 km Fence… for Dogs 🇦🇺🤯 #shorts",
+ "yt_title_es": "Australia construyó una cerca de 5,600 km… para perros 🇦🇺🤯 #shorts",
+ "description": "Australia's Dingo Fence stretches about 5,600 km across the outback, one of the longest structures ever built. It was made to keep wild dogs away from sheep, and it changed the land itself.\n#Australia #DingoFence #Geography #EarthDecoded #shorts",
+ "description_es": "La Cerca de los Dingos de Australia mide unos 5,600 km a través del desierto, una de las estructuras más largas jamás construidas. Se hizo para alejar a los perros salvajes de las ovejas, y cambió la tierra misma.\n#Australia #shorts",
+ "tags": [
+  "dingo fence",
+  "australia",
+  "longest fence",
+  "dingo",
+  "outback",
+  "australia facts",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    112,
+    155,
+    -45,
+    -9
+   ],
+   "highlight": [
+    "Australia"
+   ]
+  },
+  "white": "5,600 KM",
+  "accent": "FENCE",
+  "badge": "TO STOP DOGS"
+ },
+ "segments": [
+  {
+   "text": "Australia built a fence longer than the distance across the United States.",
+   "es": "Australia construyó una cerca más larga que la distancia de lado a lado de Estados Unidos.",
+   "visual": {
+    "type": "title",
+    "query": "Australia outback"
+   }
+  },
+  {
+   "text": "It's called the Dingo Fence, and it stretches about five thousand six hundred kilometers across the outback, from Queensland to South Australia.",
+   "es": "Se llama la Cerca de los Dingos, y se extiende unos cinco mil seiscientos kilómetros por el interior, de Queensland a Australia Meridional.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     112,
+     155,
+     -45,
+     -9
+    ],
+    "highlight": [
+     "Australia"
+    ]
+   },
+   "headline": "5,600 KM"
+  },
+  {
+   "text": "It's one of the longest structures ever built by humans. For comparison, New York to Los Angeles is about four thousand kilometers.",
+   "es": "Es una de las estructuras más largas jamás construidas. Para comparar, de Nueva York a Los Ángeles hay unos cuatro mil kilómetros.",
+   "visual": {
+    "type": "card",
+    "big": "5,600 KM",
+    "label": "the Dingo Fence",
+    "sub": "longer than New York to Los Angeles"
+   }
+  },
+  {
+   "text": "Why build it? Dingoes, Australia's wild dogs, were attacking sheep. In the late 1800s and early 1900s, farmers began building fences to keep them out of the southeast.",
+   "es": "¿Por qué construirla? Los dingos, los perros salvajes de Australia, atacaban ovejas. A finales del siglo diecinueve y principios del veinte, los granjeros empezaron a construir cercas para mantenerlos fuera del sureste.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Dingo"
+    ],
+    "query": "dingo"
+   },
+   "headline": "WILD DOGS"
+  },
+  {
+   "text": "Over time, those fences were joined into one huge barrier, mostly wire mesh about one point eight meters tall, patrolled and repaired by crews driving along it.",
+   "es": "Con el tiempo, esas cercas se unieron en una enorme barrera, sobre todo de malla de alambre de cerca de un metro ochenta, vigilada y reparada por equipos que la recorren en camioneta.",
+   "visual": {
+    "type": "image",
+    "query": "Australia fence outback",
+    "commons": [
+     "Outback Trip The Dog Fence"
+    ]
+   },
+   "headline": "ONE GIANT BARRIER"
+  },
+  {
+   "text": "And it changed nature. Scientists found that on the side without dingoes, kangaroos multiplied and ate more plants. The land on each side of the fence even looks different.",
+   "es": "Y cambió la naturaleza. Los científicos descubrieron que del lado sin dingos, los canguros se multiplicaron y comieron más plantas. La tierra a cada lado de la cerca incluso se ve diferente.",
+   "visual": {
+    "type": "card",
+    "big": "2 WORLDS",
+    "label": "on each side of the fence",
+    "sub": "more kangaroos where dingoes are gone"
+   },
+   "headline": "IT CHANGED THE LAND"
+  },
+  {
+   "text": "Dingoes are top predators. Without them, foxes and feral cats can also spread more easily, which is bad news for small native animals.",
+   "es": "Los dingos son depredadores principales. Sin ellos, zorros y gatos ferales también se expanden con más facilidad, una mala noticia para los pequeños animales nativos.",
+   "visual": {
+    "type": "card",
+    "big": "TOP PREDATOR",
+    "label": "dingoes keep others in check",
+    "sub": "foxes, cats and kangaroos"
+   }
+  },
+  {
+   "text": "Gates along the fence let farmers and travelers pass, and signs remind everyone to close them behind them.",
+   "es": "Puertas a lo largo de la cerca dejan pasar a granjeros y viajeros, y letreros recuerdan cerrarlas al pasar.",
+   "visual": {
+    "type": "card",
+    "big": "CLOSE THE GATE",
+    "label": "signs along the fence",
+    "sub": "one open gate can let dingoes through"
+   }
+  },
+  {
+   "text": "Australia also built other giant fences, like the Rabbit-Proof Fence in Western Australia, more than three thousand kilometers long, to stop rabbits spreading west.",
+   "es": "Australia también construyó otras cercas gigantes, como la Cerca a Prueba de Conejos en Australia Occidental, de más de tres mil kilómetros, para frenar a los conejos.",
+   "visual": {
+    "type": "card",
+    "big": "3,000+ KM",
+    "label": "the Rabbit-Proof Fence",
+    "sub": "another giant Australian barrier"
+   }
+  },
+  {
+   "text": "Dingoes have lived in Australia for thousands of years, and are an important part of Aboriginal culture and stories.",
+   "es": "Los dingos viven en Australia desde hace miles de años, y son una parte importante de la cultura y las historias aborígenes.",
+   "visual": {
+    "type": "card",
+    "big": "THOUSANDS",
+    "label": "of years in Australia",
+    "sub": "part of Aboriginal culture"
+   }
+  },
+  {
+   "text": "A fence for sheep that ended up reshaping an entire ecosystem. Was it worth it? Tell me in the comments.",
+   "es": "Una cerca para ovejas que terminó cambiando todo un ecosistema. ¿Valió la pena? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "WORTH IT?",
+    "query": "Australia outback"
+   }
+  }
+ ]
+}

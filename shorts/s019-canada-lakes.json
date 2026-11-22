@@ -1,0 +1,213 @@
+{
+ "number": 19,
+ "publish": "2026-12-11 12:00",
+ "kicker": "LAKE COUNTRY",
+ "title": "Canada's lakes",
+ "subtitle": "Why does Canada have so many lakes?",
+ "yt_title": "Why Canada Has More Lakes Than the Rest of the World 🇨🇦🤯 #shorts",
+ "yt_title_es": "¿Por qué Canadá tiene más lagos que el resto del mundo? 🇨🇦🤯 #shorts",
+ "description": "Canada has more lakes than any other country, by some counts more than the rest of the world combined. The reason is a giant sheet of ice that covered the country until about 10,000 years ago.\n#Canada #Lakes #Geography #EarthDecoded #shorts",
+ "description_es": "Canadá tiene más lagos que cualquier otro país, según algunos conteos más que el resto del mundo junto. La razón: una enorme capa de hielo que cubrió el país hasta hace unos 10,000 años.\n#Canada #Lagos #shorts",
+ "tags": [
+  "canada lakes",
+  "why canada has so many lakes",
+  "canadian shield",
+  "ice age",
+  "great lakes",
+  "canada geography",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "commons": [
+   "Canada lakes aerial"
+  ],
+  "query": "Canada lakes",
+  "white": "62% OF ALL",
+  "accent": "LAKES",
+  "badge": "IN ONE COUNTRY",
+  "files": [
+   "Long Lake, aerial (25199062016).jpg"
+  ]
+ },
+ "segments": [
+  {
+   "text": "Why does Canada have so many lakes?",
+   "es": "¿Por qué Canadá tiene tantos lagos?",
+   "visual": {
+    "type": "title",
+    "query": "Canada lakes"
+   }
+  },
+  {
+   "text": "Fly over northern Canada and you'll see something strange. The land looks like it's full of holes, thousands of lakes in every direction.",
+   "es": "Vuela sobre el norte de Canadá y verás algo extraño. La tierra parece llena de agujeros, miles de lagos en todas direcciones.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -140,
+     -50,
+     40,
+     72
+    ],
+    "highlight": [
+     "Canada"
+    ]
+   },
+   "headline": "FULL OF HOLES"
+  },
+  {
+   "text": "A global study in 2016 counted about one point four million lakes on Earth bigger than ten hectares. Around sixty-two percent of them are in Canada. That's more than every other country combined.",
+   "es": "Un estudio global de 2016 contó cerca de un millón cuatrocientos mil lagos en la Tierra de más de diez hectáreas. Alrededor del sesenta y dos por ciento están en Canadá. Más que todos los demás países juntos.",
+   "visual": {
+    "type": "card",
+    "big": "62%",
+    "label": "of the world's lakes are in Canada",
+    "sub": "2016 global lake study"
+   }
+  },
+  {
+   "text": "The reason is ice. During the last ice age, a sheet of ice up to three kilometers thick covered almost all of Canada.",
+   "es": "La razón es el hielo. Durante la última edad de hielo, una capa de hielo de hasta tres kilómetros de grosor cubrió casi todo Canadá.",
+   "visual": {
+    "type": "card",
+    "big": "3 KM",
+    "label": "of ice on top of Canada",
+    "sub": "during the last ice age"
+   },
+   "headline": "THE ICE AGE"
+  },
+  {
+   "text": "As that ice moved, it scraped the land like a giant bulldozer, carving out millions of hollows in the rock.",
+   "es": "Al moverse, ese hielo raspó la tierra como una excavadora gigante, abriendo millones de huecos en la roca.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "glacial striations bedrock"
+    ],
+    "query": "glacier"
+   },
+   "headline": "A GIANT BULLDOZER"
+  },
+  {
+   "text": "Then, around ten thousand years ago, the ice melted. The water filled those hollows, and lakes were born everywhere.",
+   "es": "Luego, hace unos diez mil años, el hielo se derritió. El agua llenó esos huecos y nacieron lagos por todas partes.",
+   "visual": {
+    "type": "card",
+    "big": "10,000",
+    "label": "years ago, the ice melted",
+    "sub": "and filled the hollows"
+   }
+  },
+  {
+   "text": "Much of Canada sits on the Canadian Shield, some of the oldest and hardest rock on the planet. Water can't easily soak into it or wear it away, so the lakes stayed.",
+   "es": "Gran parte de Canadá está sobre el Escudo Canadiense, una de las rocas más antiguas y duras del planeta. El agua no se filtra ni la desgasta fácilmente, así que los lagos se quedaron.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -120,
+     -55,
+     42,
+     70
+    ],
+    "highlight": [
+     "Canada"
+    ]
+   },
+   "headline": "THE CANADIAN SHIELD"
+  },
+  {
+   "text": "Canada also shares four of the five Great Lakes with the United States. Together, they hold about a fifth of the world's fresh surface water.",
+   "es": "Canadá también comparte cuatro de los cinco Grandes Lagos con Estados Unidos. Juntos guardan cerca de una quinta parte del agua dulce superficial del mundo.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -93,
+     -74,
+     40,
+     50
+    ],
+    "highlight": [
+     "Canada",
+     "United States of America"
+    ],
+    "marker": [
+     -84,
+     45
+    ],
+    "label": "Great Lakes"
+   },
+   "headline": "THE GREAT LAKES"
+  },
+  {
+   "text": "And the biggest lake entirely inside Canada, Great Bear Lake, is bigger than the whole country of Belgium.",
+   "es": "Y el lago más grande totalmente dentro de Canadá, el Gran Lago del Oso, es más grande que todo Bélgica.",
+   "visual": {
+    "type": "card",
+    "big": "GREAT BEAR LAKE",
+    "label": "bigger than Belgium",
+    "sub": "the largest lake fully in Canada"
+   }
+  },
+  {
+   "text": "So next time you look at a map of Canada full of blue dots, remember: you're looking at the fingerprints of an ice age.",
+   "es": "La próxima vez que veas un mapa de Canadá lleno de puntos azules, recuerda: estás viendo las huellas de una edad de hielo.",
+   "visual": {
+    "type": "image",
+    "commons": [
+     "Canada lakes aerial"
+    ],
+    "query": "Canada lake forest"
+   },
+   "headline": "ICE AGE FINGERPRINTS"
+  },
+  {
+   "text": "Many Canadian lakes have no official name at all. There are simply too many to name, so maps often show them as nameless blue shapes.",
+   "es": "Muchos lagos canadienses no tienen ningún nombre oficial. Son demasiados para nombrarlos, así que los mapas a menudo los muestran como manchas azules sin nombre.",
+   "visual": {
+    "type": "card",
+    "big": "NO NAME",
+    "label": "for thousands of lakes",
+    "sub": "there are simply too many"
+   }
+  },
+  {
+   "text": "Some provinces even use their lakes as a slogan. Manitoba's old license plates said land of one hundred thousand lakes, and the real number is even higher.",
+   "es": "Algunas provincias incluso usan sus lagos como lema. Las placas antiguas de Manitoba decían tierra de cien mil lagos, y el número real es aún mayor.",
+   "visual": {
+    "type": "card",
+    "big": "100,000",
+    "label": "lakes, said Manitoba's plates",
+    "sub": "the real number is even bigger"
+   }
+  },
+  {
+   "text": "The same ice also shaped the northern United States. That's why Minnesota calls itself the land of ten thousand lakes.",
+   "es": "El mismo hielo también moldeó el norte de Estados Unidos. Por eso Minnesota se hace llamar la tierra de los diez mil lagos.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -105,
+     -80,
+     38,
+     52
+    ],
+    "highlight": [
+     "United States of America",
+     "Canada"
+    ]
+   },
+   "headline": "MINNESOTA TOO"
+  },
+  {
+   "text": "Would you rather live by a lake or by the ocean? Tell me in the comments.",
+   "es": "¿Prefieres vivir junto a un lago o junto al mar? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "LAKE OR OCEAN?",
+    "query": "Canada lake"
+   }
+  }
+ ]
+}
