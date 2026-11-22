@@ -662,7 +662,38 @@ Liechtenstein y Uzbekistán son los únicos dos países doblemente sin litoral d
 ```
 </details>
 
-## 21. Sat Dec 12, 11:00 AM · Long video
+## 21. Fri Dec 11, 12:00 PM · Short
+**Why Canada Has More Lakes Than the Rest of the World 🇨🇦🤯 #shorts**
+
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s019.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s019.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s019.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s019.es.srt)
+
+**Title** (copy):
+```text
+Why Canada Has More Lakes Than the Rest of the World 🇨🇦🤯 #shorts
+```
+**Description** (copy):
+```text
+Canada has more lakes than any other country, by some counts more than the rest of the world combined. The reason is a giant sheet of ice that covered the country until about 10,000 years ago.
+#Canada #Lakes #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+canada lakes, why canada has so many lakes, canadian shield, ice age, great lakes, canada geography, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué Canadá tiene más lagos que el resto del mundo? 🇨🇦🤯 #shorts
+```
+```text
+Canadá tiene más lagos que cualquier otro país, según algunos conteos más que el resto del mundo junto. La razón: una enorme capa de hielo que cubrió el país hasta hace unos 10,000 años.
+#Canada #Lagos #shorts
+```
+</details>
+
+## 22. Sat Dec 12, 11:00 AM · Long video
 **Why You'd Never Survive a Winter in Antarctica**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-antarctic-winter.mp4)
@@ -708,7 +739,42 @@ En el invierno antártico, el sol desaparece durante meses, la temperatura baja 
 ```
 </details>
 
-## 22. Sat Dec 19, 11:00 AM · Long video
+## 23. Sat Dec 12, 12:00 PM · Short
+**Why Is Chile So Long and Skinny? 🇨🇱🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 24. Sun Dec 13, 12:00 PM · Short
+**Why Iceland Had No Mosquitoes (Until Now) 🇮🇸🦟 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 25. Mon Dec 14, 12:00 PM · Short
+**The Biggest Country With No Rivers 🇸🇦🏜️ #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 26. Tue Dec 15, 12:00 PM · Short
+**Everest Is NOT the Tallest Mountain? 🏔️🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 27. Wed Dec 16, 12:00 PM · Short
+**Venice Is Built on a Forest Underwater 🇮🇹🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 28. Thu Dec 17, 12:00 PM · Short
+**Why Greenland Is Covered in Ice (and Iceland Is Green) 🧊 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 29. Fri Dec 18, 12:00 PM · Short
+**Why There Are No Bridges Over the Amazon River 🌎🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 30. Sat Dec 19, 11:00 AM · Long video
 **What If Yellowstone's Supervolcano Erupted Tomorrow?**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-yellowstone-erupted.mp4)
@@ -752,7 +818,42 @@ Bajo el Parque Nacional de Yellowstone hay uno de los sistemas volcánicos más 
 ```
 </details>
 
-## 23. Sat Dec 26, 11:00 AM · Long video
+## 31. Sat Dec 19, 12:00 PM · Short
+**The 100 km Gap in the World's Longest Road 🌎🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 32. Sun Dec 20, 12:00 PM · Short
+**Australia Built a 5,600 km Fence… for Dogs 🇦🇺🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 33. Mon Dec 21, 12:00 PM · Short
+**Russia and the USA Are Only 4 km Apart 🇺🇸🇷🇺🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 34. Tue Dec 22, 12:00 PM · Short
+**The Caspian Sea Is Actually a Lake?! 🌊🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 35. Wed Dec 23, 12:00 PM · Short
+**The Island That Looks Like Another Planet 🌳👽 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 36. Thu Dec 24, 12:00 PM · Short
+**The World's Biggest Pyramid Is in Mexico, Not Egypt 🇲🇽🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 37. Fri Dec 25, 12:00 PM · Short
+**The Country That Sees the New Year First 🎆🌏 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 38. Sat Dec 26, 11:00 AM · Long video
 **Why You'd Never Survive Point Nemo, the Loneliest Place on Earth**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-point-nemo.mp4)
@@ -796,7 +897,7 @@ El Punto Nemo es el lugar del océano más alejado de cualquier tierra, a unos 2
 ```
 </details>
 
-## 24. Sat Jan 2, 11:00 AM · Long video
+## 39. Sat Jan 2, 11:00 AM · Long video
 **Why You'd Never Survive the Danakil Depression (Hottest Place People Live)**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-danakil.mp4)
@@ -838,4 +939,24 @@ La depresión de Danakil, en Etiopía, es uno de los lugares más extremos de la
 #Danakil #Etiopia
 ```
 </details>
+
+## 40. Sat Jan 9, 11:00 AM · Long video
+**Why You'd Never Survive the Sahara Desert**
+
+_Still rendering — check back in a few minutes._
+
+## 41. Sat Jan 16, 11:00 AM · Long video
+**Why You'd Never Survive Mount Everest's Death Zone**
+
+_Still rendering — check back in a few minutes._
+
+## 42. Sat Jan 23, 11:00 AM · Long video
+**Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)**
+
+_Still rendering — check back in a few minutes._
+
+## 43. Sat Jan 30, 11:00 AM · Long video
+**Why You'd Never Survive the Atacama, the Driest Desert on Earth**
+
+_Still rendering — check back in a few minutes._
 
