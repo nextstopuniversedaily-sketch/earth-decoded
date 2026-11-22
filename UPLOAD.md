@@ -742,7 +742,33 @@ En el invierno antártico, el sol desaparece durante meses, la temperatura baja 
 ## 23. Sat Dec 12, 12:00 PM · Short
 **Why Is Chile So Long and Skinny? 🇨🇱🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s020.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s020.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s020.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s020.es.srt)
+
+**Title** (copy):
+```text
+Why Is Chile So Long and Skinny? 🇨🇱🤯 #shorts
+```
+**Description** (copy):
+```text
+Chile stretches about 4,300 km from north to south but is only about 177 km wide on average. Here's how the Andes and a 19th-century border treaty shaped the world's skinniest big country.
+#Chile #Andes #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+chile, why is chile so long, andes mountains, chile geography, atacama desert, patagonia, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué Chile es tan largo y delgado? 🇨🇱🤯 #shorts
+```
+```text
+Chile mide unos 4,300 km de norte a sur pero solo unos 177 km de ancho en promedio. Así es como los Andes y un tratado de límites del siglo XIX formaron el país más delgado.
+#Chile #Andes #shorts
+```
+</details>
 
 ## 24. Sun Dec 13, 12:00 PM · Short
 **Why Iceland Had No Mosquitoes (Until Now) 🇮🇸🦟 #shorts**
@@ -957,6 +983,26 @@ _Still rendering — check back in a few minutes._
 
 ## 43. Sat Jan 30, 11:00 AM · Long video
 **Why You'd Never Survive the Atacama, the Driest Desert on Earth**
+
+_Still rendering — check back in a few minutes._
+
+## 44. Sat Feb 6, 11:00 AM · Long video
+**Why You'd Never Survive Snake Island (Brazil's Forbidden Island)**
+
+_Still rendering — check back in a few minutes._
+
+## 45. Sat Feb 13, 11:00 AM · Long video
+**Why You'd Never Survive Being Lost in the Amazon Rainforest**
+
+_Still rendering — check back in a few minutes._
+
+## 46. Sat Feb 20, 11:00 AM · Long video
+**Why You'd Never Survive Inside Chernobyl's Reactor 4**
+
+_Still rendering — check back in a few minutes._
+
+## 47. Sat Feb 27, 11:00 AM · Long video
+**What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)**
 
 _Still rendering — check back in a few minutes._
 

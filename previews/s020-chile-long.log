@@ -1,0 +1,32 @@
+[0;93m2026-11-22 08:16:12.583025268 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 20: Chile
+  audio 111.3s
+  segment 1/12 [title] 2.6s
+  segment 2/12 [map] 7.3s
+  segment 3/12 [card] 10.8s
+  - skip File:Panoramic_view_Andes-Chile.jpg: license 'CC BY-SA 3.0'
+  NASA 'Andes mountains' -> iss058e000188: The Andes Mountain range
+  segment 4/12 [image] 9.7s
+  segment 5/12 [card] 11.8s
+  segment 6/12 [card] 9.7s
+  segment 7/12 [map] 12.0s
+  - skip File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 149.JPG: license 'CC BY-SA 4.0'
+  - skip File:Duna Mayor, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 173-175 HDR.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 169.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 152.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 162.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 160.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 170.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 154.JPG: license 'CC BY-SA 4.0'
+  - skip File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 171.JPG: license 'CC BY-SA 4.0'
+  - skip File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 150.JPG: license 'CC BY-SA 4.0'
+  NASA 'Atacama desert' -> PIA20973: Chiquicamata Mine, Chile
+  segment 8/12 [image] 7.9s
+  WIKI File:Torres_del_Paine_y_cuernos_del_Paine,_montaje.jpg (CC BY 4.0)
+  segment 9/12 [image] 9.3s
+  segment 10/12 [card] 13.0s
+  WIKI File:AhuTongariki.JPG (CC BY 2.5)
+  segment 11/12 [image] 9.4s
+  NASA 'Chile Patagonia' -> ED04-0056-098: A fox at Torres del Paine National Park in Chile during NASA's AirSAR 
+  segment 12/12 [end] 7.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s020.mp4 (21.4 MB)
