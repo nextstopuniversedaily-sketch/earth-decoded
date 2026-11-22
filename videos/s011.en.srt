@@ -1,192 +1,192 @@
 1
-00:00:00,000 --> 00:00:01,868
+00:00:00,000 --> 00:00:01,892
 What if I told you the Sahara
 
 2
-00:00:01,868 --> 00:00:03,285
+00:00:01,892 --> 00:00:03,328
 Desert was once green?
 
 3
-00:00:03,635 --> 00:00:06,323
+00:00:03,678 --> 00:00:06,366
 Today the Sahara is the largest hot
 
 4
-00:00:06,323 --> 00:00:08,781
+00:00:06,366 --> 00:00:08,824
 desert on Earth, about as big as
 
 5
-00:00:08,781 --> 00:00:11,853
+00:00:08,824 --> 00:00:11,896
 the United States. Sand, rock and almost
 
 6
-00:00:11,853 --> 00:00:12,467
+00:00:11,896 --> 00:00:12,510
 no rain.
 
 7
-00:00:12,817 --> 00:00:15,704
+00:00:12,860 --> 00:00:15,726
 But between roughly eleven thousand and five
 
 8
-00:00:15,704 --> 00:00:19,050
+00:00:15,726 --> 00:00:19,049
 thousand years ago, it looked completely different.
 
 9
-00:00:19,050 --> 00:00:22,002
+00:00:19,049 --> 00:00:21,981
 There were lakes, rivers and grasslands, full
 
 10
-00:00:22,002 --> 00:00:25,020
+00:00:21,981 --> 00:00:24,977
 of hippos, crocodiles, giraffes and elephants.
 
 11
-00:00:25,370 --> 00:00:28,519
+00:00:25,327 --> 00:00:28,431
 Scientists call it the African Humid Period.
 
 12
-00:00:28,519 --> 00:00:30,952
+00:00:28,431 --> 00:00:30,829
 One lake, Mega Lake Chad, may have
 
 13
-00:00:30,952 --> 00:00:33,314
+00:00:30,829 --> 00:00:33,157
 been almost as big as the Caspian
 
 14
-00:00:33,314 --> 00:00:34,245
+00:00:33,157 --> 00:00:34,074
 Sea is today.
 
 15
-00:00:34,595 --> 00:00:37,555
+00:00:34,424 --> 00:00:37,378
 We know because people living there painted
 
 16
-00:00:37,555 --> 00:00:39,895
+00:00:37,378 --> 00:00:39,713
 it. Ancient rock art in the Sahara
 
 17
-00:00:39,895 --> 00:00:43,061
+00:00:39,713 --> 00:00:42,873
 shows cattle, swimmers and giraffes, in places
 
 18
-00:00:43,061 --> 00:00:44,920
+00:00:42,873 --> 00:00:44,728
 that are pure desert today.
 
 19
-00:00:45,270 --> 00:00:48,298
+00:00:45,078 --> 00:00:48,084
 So what changed? Earth's orbit. Our planet
 
 20
-00:00:48,298 --> 00:00:50,965
+00:00:48,084 --> 00:00:50,733
 slowly wobbles on its axis, in cycles
 
 21
-00:00:50,965 --> 00:00:53,993
+00:00:50,733 --> 00:00:53,740
 of thousands of years. Back then, northern
 
 22
-00:00:53,993 --> 00:00:56,732
+00:00:53,740 --> 00:00:56,460
 summers got a bit more sunlight, which
 
 23
-00:00:56,732 --> 00:00:59,688
+00:00:56,460 --> 00:00:59,395
 pushed the African monsoon rains far into
 
 24
-00:00:59,688 --> 00:01:00,481
+00:00:59,395 --> 00:01:00,182
 the Sahara.
 
 25
-00:01:00,831 --> 00:01:03,315
+00:01:00,532 --> 00:01:03,031
 As the wobble shifted, the rains moved
 
 26
-00:01:03,315 --> 00:01:05,668
+00:01:03,031 --> 00:01:05,398
 south again. The lakes dried up, the
 
 27
-00:01:05,668 --> 00:01:07,956
+00:01:05,398 --> 00:01:07,700
 grass died, and the sand took over.
 
 28
-00:01:08,306 --> 00:01:11,408
+00:01:08,050 --> 00:01:11,145
 There's even proof from space. Radar satellites
 
 29
-00:01:11,408 --> 00:01:14,378
+00:01:11,145 --> 00:01:14,109
 have found ancient riverbeds buried under the
 
 30
-00:01:14,378 --> 00:01:17,019
+00:01:14,109 --> 00:01:16,744
 Sahara sand, rivers that flowed when the
 
 31
-00:01:17,019 --> 00:01:18,141
+00:01:16,744 --> 00:01:17,863
 desert was green.
 
 32
-00:01:18,491 --> 00:01:21,415
+00:01:18,213 --> 00:01:21,113
 Fossils of hippos, crocodiles and huge fish
 
 33
-00:01:21,415 --> 00:01:23,591
+00:01:21,113 --> 00:01:23,270
 have been found in the middle of
 
 34
-00:01:23,591 --> 00:01:26,107
+00:01:23,270 --> 00:01:25,765
 the desert, far from any water today.
 
 35
-00:01:26,457 --> 00:01:29,311
+00:01:26,115 --> 00:01:28,964
 Dust from the Sahara still travels across
 
 36
-00:01:29,311 --> 00:01:32,304
+00:01:28,964 --> 00:01:31,952
 the Atlantic every year and helps fertilize
 
 37
-00:01:32,304 --> 00:01:35,228
+00:01:31,952 --> 00:01:34,871
 the Amazon rainforest. So the desert still
 
 38
-00:01:35,228 --> 00:01:37,456
+00:01:34,871 --> 00:01:37,095
 feeds a jungle on the other side
 
 39
-00:01:37,456 --> 00:01:38,361
+00:01:37,095 --> 00:01:37,998
 of the ocean.
 
 40
-00:01:38,711 --> 00:01:41,278
+00:01:38,348 --> 00:01:40,921
 Some places in the Sahara still hide
 
 41
-00:01:41,278 --> 00:01:44,202
+00:01:40,921 --> 00:01:43,852
 water, like oases fed by groundwater that
 
 42
-00:01:44,202 --> 00:01:46,770
+00:01:43,852 --> 00:01:46,425
 fell as rain thousands of years ago,
 
 43
-00:01:46,770 --> 00:01:48,481
+00:01:46,425 --> 00:01:48,140
 during the green period.
 
 44
-00:01:48,831 --> 00:01:51,864
+00:01:48,490 --> 00:01:51,499
 Scientists think these green phases have come
 
 45
-00:01:51,864 --> 00:01:54,020
+00:01:51,499 --> 00:01:53,638
 and gone many times, and one day
 
 46
-00:01:54,020 --> 00:01:56,580
+00:01:53,638 --> 00:01:56,179
 the Sahara may turn green again. Would
 
 47
-00:01:56,580 --> 00:01:58,804
+00:01:56,179 --> 00:01:58,386
 you visit a green Sahara? Tell me
 
 48
-00:01:58,804 --> 00:01:59,882
+00:01:58,386 --> 00:01:59,455
 in the comments.
 

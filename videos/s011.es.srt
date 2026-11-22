@@ -1,200 +1,200 @@
 1
-00:00:00,000 --> 00:00:01,617
+00:00:00,000 --> 00:00:01,638
 ¿Y si te dijera que el desierto
 
 2
-00:00:01,617 --> 00:00:03,285
+00:00:01,638 --> 00:00:03,328
 del Sahara alguna vez fue verde?
 
 3
-00:00:03,635 --> 00:00:06,069
+00:00:03,678 --> 00:00:06,112
 Hoy el Sahara es el desierto cálido
 
 4
-00:00:06,069 --> 00:00:08,364
+00:00:06,112 --> 00:00:08,407
 más grande de la Tierra, casi del
 
 5
-00:00:08,364 --> 00:00:11,076
+00:00:08,407 --> 00:00:11,119
 tamaño de Estados Unidos. Arena, roca y
 
 6
-00:00:11,076 --> 00:00:12,467
+00:00:11,119 --> 00:00:12,510
 casi nada de lluvia.
 
 7
-00:00:12,817 --> 00:00:15,124
+00:00:12,860 --> 00:00:15,150
 Pero hace entre unos once mil y
 
 8
-00:00:15,124 --> 00:00:18,621
+00:00:15,150 --> 00:00:18,623
 cinco mil años, se veía completamente distinto.
 
 9
-00:00:18,621 --> 00:00:21,672
+00:00:18,623 --> 00:00:21,652
 Había lagos, ríos y pastizales, llenos de
 
 10
-00:00:21,672 --> 00:00:25,020
+00:00:21,652 --> 00:00:24,977
 hipopótamos, cocodrilos, jirafas y elefantes.
 
 11
-00:00:25,370 --> 00:00:28,155
+00:00:25,327 --> 00:00:28,073
 Los científicos lo llaman el Periodo Húmedo
 
 12
-00:00:28,155 --> 00:00:30,552
+00:00:28,073 --> 00:00:30,435
 Africano. Un lago, el Mega Lago Chad,
 
 13
-00:00:30,552 --> 00:00:32,884
+00:00:30,435 --> 00:00:32,733
 pudo haber sido casi tan grande como
 
 14
-00:00:32,884 --> 00:00:34,245
+00:00:32,733 --> 00:00:34,074
 el mar Caspio actual.
 
 15
-00:00:34,595 --> 00:00:37,056
+00:00:34,424 --> 00:00:36,881
 Lo sabemos porque la gente que vivía
 
 16
-00:00:37,056 --> 00:00:39,450
+00:00:36,881 --> 00:00:39,269
 allí lo pintó. El arte rupestre del
 
 17
-00:00:39,450 --> 00:00:42,595
+00:00:39,269 --> 00:00:42,408
 Sahara muestra ganado, nadadores y jirafas, en
 
 18
-00:00:42,595 --> 00:00:44,920
+00:00:42,408 --> 00:00:44,728
 lugares que hoy son puro desierto.
 
 19
-00:00:45,270 --> 00:00:47,460
+00:00:45,078 --> 00:00:47,253
 ¿Qué cambió? La órbita de la Tierra.
 
 20
-00:00:47,460 --> 00:00:50,320
+00:00:47,253 --> 00:00:50,093
 Nuestro planeta se bambolea lentamente sobre su
 
 21
-00:00:50,320 --> 00:00:52,267
+00:00:50,093 --> 00:00:52,026
 eje, en ciclos de miles de años.
 
 22
-00:00:52,267 --> 00:00:54,701
+00:00:52,026 --> 00:00:54,442
 En aquel entonces, los veranos del norte
 
 23
-00:00:54,701 --> 00:00:56,526
+00:00:54,442 --> 00:00:56,255
 recibían un poco más de luz, y
 
 24
-00:00:56,526 --> 00:00:59,142
+00:00:56,255 --> 00:00:58,853
 eso llevaba las lluvias del monzón africano
 
 25
-00:00:59,142 --> 00:01:00,481
+00:00:58,853 --> 00:01:00,182
 muy dentro del Sahara.
 
 26
-00:01:00,831 --> 00:01:03,585
+00:01:00,532 --> 00:01:03,303
 Al cambiar el bamboleo, las lluvias regresaron
 
 27
-00:01:03,585 --> 00:01:05,501
+00:01:03,303 --> 00:01:05,230
 al sur. Los lagos se secaron, el
 
 28
-00:01:05,501 --> 00:01:07,477
+00:01:05,230 --> 00:01:07,218
 pasto murió y la arena se apoderó
 
 29
-00:01:07,477 --> 00:01:07,956
+00:01:07,218 --> 00:01:07,700
 de todo.
 
 30
-00:01:08,306 --> 00:01:10,978
+00:01:08,050 --> 00:01:10,716
 Incluso hay pruebas desde el espacio. Satélites
 
 31
-00:01:10,978 --> 00:01:13,479
+00:01:10,716 --> 00:01:13,212
 de radar encontraron antiguos cauces de ríos
 
 32
-00:01:13,479 --> 00:01:15,810
+00:01:13,212 --> 00:01:15,538
 enterrados bajo la arena del Sahara, ríos
 
 33
-00:01:15,810 --> 00:01:18,141
+00:01:15,538 --> 00:01:17,863
 que corrían cuando el desierto era verde.
 
 34
-00:01:18,491 --> 00:01:21,764
+00:01:18,213 --> 00:01:21,459
 Se han encontrado fósiles de hipopótamos, cocodrilos
 
 35
-00:01:21,764 --> 00:01:24,155
+00:01:21,459 --> 00:01:23,831
 y peces enormes en medio del desierto,
 
 36
-00:01:24,155 --> 00:01:26,107
+00:01:23,831 --> 00:01:25,765
 lejos de cualquier agua actual.
 
 37
-00:01:26,457 --> 00:01:29,135
+00:01:26,115 --> 00:01:28,789
 El polvo del Sahara todavía cruza el
 
 38
-00:01:29,135 --> 00:01:32,037
+00:01:28,789 --> 00:01:31,685
 Atlántico cada año y ayuda a fertilizar
 
 39
-00:01:32,037 --> 00:01:34,938
+00:01:31,685 --> 00:01:34,582
 la selva amazónica. Así que el desierto
 
 40
-00:01:34,938 --> 00:01:37,542
+00:01:34,582 --> 00:01:37,181
 aún alimenta una selva al otro lado
 
 41
-00:01:37,542 --> 00:01:38,361
+00:01:37,181 --> 00:01:37,998
 del océano.
 
 42
-00:01:38,711 --> 00:01:41,760
+00:01:38,348 --> 00:01:41,404
 Algunos lugares del Sahara todavía esconden agua,
 
 43
-00:01:41,760 --> 00:01:44,685
+00:01:41,404 --> 00:01:44,335
 como oasis alimentados por agua subterránea que
 
 44
-00:01:44,685 --> 00:01:46,925
+00:01:44,335 --> 00:01:46,581
 cayó como lluvia hace miles de años,
 
 45
-00:01:46,925 --> 00:01:48,481
+00:01:46,581 --> 00:01:48,140
 durante el periodo verde.
 
 46
-00:01:48,831 --> 00:01:51,533
+00:01:48,490 --> 00:01:51,170
 Los científicos creen que estas fases verdes
 
 47
-00:01:51,533 --> 00:01:53,497
+00:01:51,170 --> 00:01:53,120
 han ido y venido muchas veces, y
 
 48
-00:01:53,497 --> 00:01:55,769
+00:01:53,120 --> 00:01:55,374
 que algún día el Sahara podría volver
 
 49
-00:01:55,769 --> 00:01:58,286
+00:01:55,374 --> 00:01:57,871
 a ser verde. ¿Visitarías un Sahara verde?
 
 50
-00:01:58,286 --> 00:01:59,882
+00:01:57,871 --> 00:01:59,455
 Dímelo en los comentarios.
 

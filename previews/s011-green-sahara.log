@@ -1,35 +1,25 @@
-[0;93m2026-11-22 03:27:26.573110560 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 11: The Sahara
-  audio 120.8s
+  audio 120.4s
   WIKI File:Sahara_real_color.jpg (Public domain)
-  segment 1/12 [title] 3.6s
+  segment 1/12 [title] 3.7s
   segment 2/12 [map] 9.2s
-  - skip File:Portrait_Hippopotamus_in_the_water.jpg: license 'CC BY-SA 4.0'
-  ! no usable NASA image for 'African savanna lake'
-  segment 3/12 [image] 12.6s
-  segment 4/12 [card] 9.2s
-  - skip File:Map_of_Tassili_n'Ajjer_and_surroundings-en.jpg: license 'CC BY-SA 4.0'
-  - skip File:1997 278-10 Sahara glyph.jpg: license 'CC BY-SA 2.0'
-  - skip File:Fondazione Passaré V1 097.jpg: license 'CC BY-SA 3.0'
-  - skip File:Libya 4924 Pictograms Tadrart Acacus Luca Galuzzi 2007.jpg: license 'CC BY-SA 2.5'
-  - skip File:Libya 4924 Pictograms Tadrart Acacus Luca Galuzzi 2007 cropped.jpg: license 'CC BY-SA 2.5'
-  ! no usable NASA image for 'Sahara rock art'
-  segment 5/12 [image] 10.7s
+  segment 3/12 [card] 12.5s
+  segment 4/12 [card] 9.1s
+  segment 5/12 [card] 10.7s
   WIKI File:The_Blue_Marble,_AS17-148-22727.jpg (Public domain)
-  segment 6/12 [image] 15.6s
+  segment 6/12 [image] 15.5s
   - skip File:Little Sahara Recreation Area, Juab County, Utah (7186837534).jpg: license 'CC BY-SA 2.0'
   - skip File:Little Sahara Recreation Area, Juab County, Utah (7186836896).jpg: license 'CC BY-SA 2.0'
   - skip File:Little Sahara Recreation Area, Juab County, Utah (7186838404).jpg: license 'CC BY-SA 2.0'
   - skip File:Erg Tiffernine 1411-0777.jpg: license 'CC BY-SA 4.0'
   WIKI File:Dune Types in the Issaouane Erg Eastern Algeria.jpg (Public domain)
   segment 7/12 [image] 7.5s
-  NASA 'Sahara from space' -> iss069e005526: The "Eye of the Sahara" in the African nation of Mauritania
-  segment 8/12 [image] 10.2s
-  segment 9/12 [card] 8.0s
+  segment 8/12 [card] 10.2s
+  segment 9/12 [card] 7.9s
   WIKI File:Saharan Dust Crosses the Atlantic.jpg (Public domain)
-  segment 10/12 [image] 12.3s
+  segment 10/12 [image] 12.2s
   WIKI File:ISS-64_Jubba_with_Nefud_Desert,_Saudi_Arabia.jpg (Public domain)
   segment 11/12 [image] 10.1s
   NASA 'Sahara oasis' -> iss074e0417326: A portion of the Sahara in the Agadez Region of northeastern Niger
-  segment 12/12 [end] 12.0s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s011.mp4 (28.3 MB)
+  segment 12/12 [end] 11.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s011.mp4 (24.2 MB)
