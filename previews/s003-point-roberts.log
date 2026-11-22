@@ -1,13 +1,11 @@
-[0;93m2026-11-22 00:41:15.246334306 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 3: Point Roberts
-  audio 51.3s
-  WIKI File:Pointrobertswide oli 2020210.jpg (Public domain)
+  audio 51.4s
   segment 1/6 [title] 5.4s
   segment 2/6 [map] 8.7s
-  segment 3/6 [map] 14.3s
-  segment 4/6 [card] 11.0s
+  segment 3/6 [map] 14.4s
+  segment 4/6 [card] 10.9s
   WIKI File:Point Roberts aerial view.jpg (Public domain)
   segment 5/6 [image] 3.8s
   WIKI File:Boundary Bay Regional Park in Tsawwassen.jpg (CC BY 2.0)
   segment 6/6 [end] 8.2s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s003.mp4 (7.8 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s003.mp4 (7.1 MB)
