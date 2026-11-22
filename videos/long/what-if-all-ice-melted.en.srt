@@ -1,516 +1,548 @@
 1
-00:00:00,000 --> 00:00:02,991
+00:00:00,000 --> 00:00:02,971
 Imagine waking up in a world with no ice.
 
 2
-00:00:02,991 --> 00:00:06,273
+00:00:02,971 --> 00:00:06,232
 No glaciers in the mountains, no white cap on
 
 3
-00:00:06,273 --> 00:00:10,285
+00:00:06,232 --> 00:00:10,217
 Antarctica, no frozen Greenland. Now look at the coast.
 
 4
-00:00:10,285 --> 00:00:15,246
+00:00:10,217 --> 00:00:15,145
 Miami, New Orleans, Cancún, London, Shanghai: gone, underwater. What
 
 5
-00:00:15,246 --> 00:00:18,237
+00:00:15,145 --> 00:00:18,116
 would the planet look like if all the ice
 
 6
-00:00:18,237 --> 00:00:21,519
+00:00:18,116 --> 00:00:21,377
 on Earth melted? And how close are we really?
 
 7
-00:00:21,519 --> 00:00:22,613
+00:00:21,377 --> 00:00:22,464
 Let's find out.
 
 8
-00:00:23,163 --> 00:00:26,689
+00:00:23,014 --> 00:00:26,475
 Welcome to Earth Decoded. If you love the most
 
 9
-00:00:26,689 --> 00:00:31,058
+00:00:26,475 --> 00:00:30,764
 extreme places on our planet, tap subscribe. Today, we're
 
 10
-00:00:31,058 --> 00:00:34,737
+00:00:30,764 --> 00:00:34,375
 melting every glacier on the planet, at least in
 
 11
-00:00:34,737 --> 00:00:35,963
+00:00:34,375 --> 00:00:35,579
 our imagination.
 
 12
-00:00:36,513 --> 00:00:40,202
+00:00:36,129 --> 00:00:39,781
 Most of the world's fresh water is frozen. Around
 
 13
-00:00:40,202 --> 00:00:43,288
+00:00:39,781 --> 00:00:42,836
 two thirds of it is locked in ice, mostly
 
 14
-00:00:43,288 --> 00:00:47,052
+00:00:42,836 --> 00:00:46,561
 in two giant ice sheets: Antarctica and Greenland.
 
 15
-00:00:47,602 --> 00:00:51,231
+00:00:47,111 --> 00:00:50,747
 The Antarctic ice sheet is enormous. In places it's
 
 16
-00:00:51,231 --> 00:00:54,789
+00:00:50,747 --> 00:00:54,312
 more than four kilometers thick. If it all melted,
 
 17
-00:00:54,789 --> 00:00:58,631
+00:00:54,312 --> 00:00:58,162
 it would raise sea levels by about fifty-eight meters.
 
 18
-00:00:59,181 --> 00:01:02,607
+00:00:58,712 --> 00:01:02,172
 Most of that ice sits in East Antarctica, which
 
 19
-00:01:02,607 --> 00:01:06,032
+00:01:02,172 --> 00:01:05,632
 is mostly on high ground and fairly stable. The
 
 20
-00:01:06,032 --> 00:01:09,676
+00:01:05,632 --> 00:01:09,312
 bigger worry is West Antarctica, where much of the
 
 21
-00:01:09,676 --> 00:01:12,737
+00:01:09,312 --> 00:01:12,404
 ice rests on rock below sea level, so warm
 
 22
-00:01:12,737 --> 00:01:16,163
+00:01:12,404 --> 00:01:15,864
 ocean water can eat away at it from underneath.
 
 23
-00:01:16,713 --> 00:01:20,496
+00:01:16,414 --> 00:01:20,197
 Greenland's ice would add about seven meters more. And
 
 24
-00:01:20,496 --> 00:01:23,929
+00:01:20,197 --> 00:01:23,630
 all the mountain glaciers in the Alps, the Andes,
 
 25
-00:01:23,929 --> 00:01:27,642
+00:01:23,630 --> 00:01:27,343
 the Himalayas and Alaska together would add less than
 
 26
-00:01:27,642 --> 00:01:28,553
+00:01:27,343 --> 00:01:28,254
 half a meter.
 
 27
-00:01:29,103 --> 00:01:31,532
+00:01:28,804 --> 00:01:31,233
 Add it up, and if every bit of land
 
 28
-00:01:31,532 --> 00:01:35,141
+00:01:31,233 --> 00:01:34,842
 ice melted, the oceans would rise by roughly seventy
 
 29
-00:01:35,141 --> 00:01:39,236
+00:01:34,842 --> 00:01:38,937
 meters. That's about the height of a twenty-story building.
 
 30
-00:01:39,786 --> 00:01:43,964
-One important detail: melting sea ice, like the floating
+00:01:39,487 --> 00:01:42,919
+Where would all that water go? The oceans already
 
 31
-00:01:43,964 --> 00:01:47,545
-ice at the North Pole, doesn't raise sea levels,
+00:01:42,919 --> 00:01:47,051
+cover about seventy-one percent of the planet. With seventy
 
 32
-00:01:47,545 --> 00:01:51,350
-just like melting ice cubes don't overflow a glass.
+00:01:47,051 --> 00:01:50,412
+more meters, they would swallow many of the low,
 
 33
-00:01:51,350 --> 00:01:53,589
-It's ice on land that matters.
+00:01:50,412 --> 00:01:54,194
+flat places where people prefer to live: river deltas,
 
 34
-00:01:54,139 --> 00:01:57,223
-Quick question. Do you live near the coast? How
+00:01:54,194 --> 00:01:56,085
+coastal plains and islands.
 
 35
-00:01:57,223 --> 00:01:59,979
-high above sea level is your home? Tell me
+00:01:56,635 --> 00:02:00,109
+About forty percent of the world's people live within
 
 36
-00:01:59,979 --> 00:02:01,029
-in the comments.
+00:02:00,109 --> 00:02:03,321
+one hundred kilometers of the coast, which is why
 
 37
-00:02:01,579 --> 00:02:05,424
-So, seventy meters of extra ocean. Let's redraw the
+00:02:03,321 --> 00:02:05,616
+sea level matters to so many of us.
 
 38
-00:02:05,424 --> 00:02:09,419
-map, starting with North America. The entire state of
+00:02:06,166 --> 00:02:10,318
+One important detail: melting sea ice, like the floating
 
 39
-00:02:09,419 --> 00:02:13,791
-Florida would vanish under the Atlantic, along with Miami,
+00:02:10,318 --> 00:02:13,877
+ice at the North Pole, doesn't raise sea levels,
 
 40
-00:02:13,791 --> 00:02:15,147
-Tampa and Orlando.
+00:02:13,877 --> 00:02:17,659
+just like melting ice cubes don't overflow a glass.
 
 41
-00:02:15,697 --> 00:02:19,352
-Along the Gulf of Mexico, Houston and New Orleans
+00:02:17,659 --> 00:02:19,883
+It's ice on land that matters.
 
 42
-00:02:19,352 --> 00:02:23,007
-would be underwater. On the East Coast, New York,
+00:02:20,433 --> 00:02:23,556
+Quick question. Do you live near the coast? How
 
 43
-00:02:23,007 --> 00:02:26,215
-Washington and Boston would be mostly lost.
+00:02:23,556 --> 00:02:26,346
+high above sea level is your home? Tell me
 
 44
-00:02:26,765 --> 00:02:30,503
-In Mexico, much of the low, flat Yucatán Peninsula
-
-45
-00:02:30,503 --> 00:02:34,913
-would be flooded, including Cancún and Mérida. Veracruz and
-
-46
-00:02:34,913 --> 00:02:39,324
-other coastal cities would disappear. But Mexico City, more
-
-47
-00:02:39,324 --> 00:02:42,987
-than two thousand two hundred meters up, would be
-
-48
-00:02:42,987 --> 00:02:44,109
-perfectly safe.
-
-49
-00:02:44,659 --> 00:02:48,164
-In South America, the Amazon basin is so low
-
-50
-00:02:48,164 --> 00:02:52,068
-and flat that the Atlantic would push far inland,
-
-51
-00:02:52,068 --> 00:02:55,414
-turning much of it into a huge inland sea.
-
-52
-00:02:55,414 --> 00:02:58,760
-Buenos Aires and Montevideo would be gone.
-
-53
-00:02:59,310 --> 00:03:03,570
-In Europe, London, Venice and Amsterdam would be underwater.
-
-54
-00:03:03,570 --> 00:03:07,971
-The Netherlands and Denmark would almost completely disappear.
-
-55
-00:03:08,521 --> 00:03:12,215
-In Asia, Bangladesh, home to more than one hundred
-
-56
-00:03:12,215 --> 00:03:16,869
-seventy million people, would be almost entirely flooded, along
-
-57
-00:03:16,869 --> 00:03:20,489
-with Shanghai, Bangkok and much of coastal China.
-
-58
-00:03:21,039 --> 00:03:24,437
-Australia would get a new inland sea, as the
-
-59
-00:03:24,437 --> 00:03:28,221
-ocean poured into its low interior basins. And in
-
-60
-00:03:28,221 --> 00:03:32,854
-Africa, the least affected continent, Alexandria and much of
-
-61
-00:03:32,854 --> 00:03:35,866
-Egypt's Nile Delta would still be lost.
-
-62
-00:03:36,416 --> 00:03:40,908
-Some countries wouldn't need seventy meters to vanish. Island
-
-63
-00:03:40,908 --> 00:03:45,105
-nations like the Maldives, Kiribati and Tuvalu are mostly
-
-64
-00:03:45,105 --> 00:03:48,272
-only a couple of meters above the sea. Even
-
-65
-00:03:48,272 --> 00:03:50,923
-a small rise threatens their future.
-
-66
-00:03:51,473 --> 00:03:54,023
-Which city would you miss the most? Tell me
-
-67
-00:03:54,023 --> 00:03:54,971
+00:02:26,346 --> 00:02:27,409
 in the comments.
 
+45
+00:02:27,959 --> 00:02:31,846
+So, seventy meters of extra ocean. Let's redraw the
+
+46
+00:02:31,846 --> 00:02:35,885
+map, starting with North America. The entire state of
+
+47
+00:02:35,885 --> 00:02:40,305
+Florida would vanish under the Atlantic, along with Miami,
+
+48
+00:02:40,305 --> 00:02:41,677
+Tampa and Orlando.
+
+49
+00:02:42,227 --> 00:02:45,874
+Along the Gulf of Mexico, Houston and New Orleans
+
+50
+00:02:45,874 --> 00:02:49,522
+would be underwater. On the East Coast, New York,
+
+51
+00:02:49,522 --> 00:02:52,723
+Washington and Boston would be mostly lost.
+
+52
+00:02:53,273 --> 00:02:57,024
+In Mexico, much of the low, flat Yucatán Peninsula
+
+53
+00:02:57,024 --> 00:03:01,451
+would be flooded, including Cancún and Mérida. Veracruz and
+
+54
+00:03:01,451 --> 00:03:05,878
+other coastal cities would disappear. But Mexico City, more
+
+55
+00:03:05,878 --> 00:03:09,555
+than two thousand two hundred meters up, would be
+
+56
+00:03:09,555 --> 00:03:10,681
+perfectly safe.
+
+57
+00:03:11,231 --> 00:03:14,725
+In South America, the Amazon basin is so low
+
+58
+00:03:14,725 --> 00:03:18,617
+and flat that the Atlantic would push far inland,
+
+59
+00:03:18,617 --> 00:03:21,953
+turning much of it into a huge inland sea.
+
+60
+00:03:21,953 --> 00:03:25,289
+Buenos Aires and Montevideo would be gone.
+
+61
+00:03:25,839 --> 00:03:30,151
+In Europe, London, Venice and Amsterdam would be underwater.
+
+62
+00:03:30,151 --> 00:03:34,607
+The Netherlands and Denmark would almost completely disappear.
+
+63
+00:03:35,157 --> 00:03:38,838
+In Asia, Bangladesh, home to more than one hundred
+
+64
+00:03:38,838 --> 00:03:43,476
+seventy million people, would be almost entirely flooded, along
+
+65
+00:03:43,476 --> 00:03:47,083
+with Shanghai, Bangkok and much of coastal China.
+
+66
+00:03:47,633 --> 00:03:51,021
+Australia would get a new inland sea, as the
+
+67
+00:03:51,021 --> 00:03:54,794
+ocean poured into its low interior basins. And in
+
 68
-00:03:55,521 --> 00:03:59,275
-The ocean wouldn't be the only change. Ice reflects
+00:03:54,794 --> 00:03:59,414
+Africa, the least affected continent, Alexandria and much of
 
 69
-00:03:59,275 --> 00:04:03,029
-sunlight back to space. Without it, darker land and
+00:03:59,414 --> 00:04:02,417
+Egypt's Nile Delta would still be lost.
 
 70
-00:04:03,029 --> 00:04:06,929
-ocean would absorb more heat, warming the planet even
+00:04:02,967 --> 00:04:07,472
+Some countries wouldn't need seventy meters to vanish. Island
 
 71
-00:04:06,929 --> 00:04:07,297
-more.
+00:04:07,472 --> 00:04:11,681
+nations like the Maldives, Kiribati and Tuvalu are mostly
 
 72
-00:04:07,847 --> 00:04:11,575
-Billions of people in Asia and South America depend
+00:04:11,681 --> 00:04:14,857
+only a couple of meters above the sea. Even
 
 73
-00:04:11,575 --> 00:04:15,010
-on mountain glaciers for river water in the dry
+00:04:14,857 --> 00:04:17,516
+a small rise threatens their future.
 
 74
-00:04:15,010 --> 00:04:18,884
-season. Without them, rivers fed by the Himalayas and
+00:04:18,066 --> 00:04:20,616
+Which city would you miss the most? Tell me
 
 75
-00:04:18,884 --> 00:04:21,223
-Andes could shrink dramatically.
+00:04:20,616 --> 00:04:21,565
+in the comments.
 
 76
-00:04:21,773 --> 00:04:25,066
-Has Earth ever had no ice? Yes. Around fifty
+00:04:22,115 --> 00:04:25,861
+The ocean wouldn't be the only change. Ice reflects
 
 77
-00:04:25,066 --> 00:04:28,584
-million years ago, there were no big ice sheets
+00:04:25,861 --> 00:04:29,608
+sunlight back to space. Without it, darker land and
 
 78
-00:04:28,584 --> 00:04:31,876
-at all. The planet was much warmer, and palm
+00:04:29,608 --> 00:04:33,502
+ocean would absorb more heat, warming the planet even
 
 79
-00:04:31,876 --> 00:04:35,768
-trees and crocodile relatives lived near the Arctic.
+00:04:33,502 --> 00:04:33,869
+more.
 
 80
-00:04:36,318 --> 00:04:40,191
-And something surprising would happen to the land. Ice
+00:04:34,419 --> 00:04:38,189
+Billions of people in Asia and South America depend
 
 81
-00:04:40,191 --> 00:04:43,276
-is so heavy that it pushes the ground down.
+00:04:38,189 --> 00:04:41,662
+on mountain glaciers for river water in the dry
 
 82
-00:04:43,276 --> 00:04:47,508
-Without it, Greenland and Antarctica would slowly rise back
+00:04:41,662 --> 00:04:45,580
+season. Without them, rivers fed by the Himalayas and
 
 83
-00:04:47,508 --> 00:04:51,166
-up, by hundreds of meters, over thousands of years.
+00:04:45,580 --> 00:04:47,945
+Andes could shrink dramatically.
 
 84
-00:04:51,716 --> 00:04:55,261
-We'd also lose a library. Ice cores drilled from
+00:04:48,495 --> 00:04:51,808
+Has Earth ever had no ice? Yes. Around fifty
 
 85
-00:04:55,261 --> 00:04:58,731
-Antarctica hold tiny bubbles of air from as far
+00:04:51,808 --> 00:04:55,346
+million years ago, there were no big ice sheets
 
 86
-00:04:58,731 --> 00:05:02,424
-back as eight hundred thousand years ago, a record
+00:04:55,346 --> 00:04:58,659
+at all. The planet was much warmer, and palm
 
 87
-00:05:02,424 --> 00:05:04,196
-of Earth's past climate.
+00:04:58,659 --> 00:05:02,575
+trees and crocodile relatives lived near the Arctic.
 
 88
-00:05:04,746 --> 00:05:08,882
-Now the most important question. Is this actually going
+00:05:03,125 --> 00:05:06,992
+And something surprising would happen to the land. Ice
 
 89
-00:05:08,882 --> 00:05:12,491
-to happen? Not anytime soon. Melting all the ice
+00:05:06,992 --> 00:05:10,072
+is so heavy that it pushes the ground down.
 
 90
-00:05:12,491 --> 00:05:16,025
-on Earth would take thousands of years, even in
+00:05:10,072 --> 00:05:14,298
+Without it, Greenland and Antarctica would slowly rise back
 
 91
-00:05:16,025 --> 00:05:18,506
-the worst-case warming scenarios.
+00:05:14,298 --> 00:05:17,951
+up, by hundreds of meters, over thousands of years.
 
 92
-00:05:19,056 --> 00:05:22,990
-But the ice is melting faster than before. Satellites
+00:05:18,501 --> 00:05:22,040
+We'd also lose a library. Ice cores drilled from
 
 93
-00:05:22,990 --> 00:05:26,997
-show Greenland has been losing, on average, around two
+00:05:22,040 --> 00:05:25,505
+Antarctica hold tiny bubbles of air from as far
 
 94
-00:05:26,997 --> 00:05:30,337
-hundred seventy billion tons of ice a year in
+00:05:25,505 --> 00:05:29,191
+back as eight hundred thousand years ago, a record
 
 95
-00:05:30,337 --> 00:05:31,451
-recent decades.
+00:05:29,191 --> 00:05:30,960
+of Earth's past climate.
 
 96
-00:05:32,001 --> 00:05:36,394
-Sea levels have already risen more than twenty centimeters
+00:05:31,510 --> 00:05:35,678
+Now the most important question. Is this actually going
 
 97
-00:05:36,394 --> 00:05:39,954
-since 1900, and the rate is speeding up. Today,
+00:05:35,678 --> 00:05:39,315
+to happen? Not anytime soon. Melting all the ice
 
 98
-00:05:39,954 --> 00:05:43,969
-the ocean rises by about four millimeters every year.
+00:05:39,315 --> 00:05:42,876
+on Earth would take thousands of years, even in
 
 99
-00:05:44,519 --> 00:05:49,298
-Mountain glaciers are shrinking fastest of all. In Mexico,
+00:05:42,876 --> 00:05:45,377
+the worst-case warming scenarios.
 
 100
-00:05:49,298 --> 00:05:54,077
-glaciers on Iztaccíhuatl have almost vanished, and in 2024
+00:05:45,927 --> 00:05:49,887
+But the ice is melting faster than before. Satellites
 
 101
-00:05:54,077 --> 00:05:59,103
-scientists said Venezuela had become the first Andean country
+00:05:49,887 --> 00:05:53,923
+show Greenland has been losing, on average, around two
 
 102
-00:05:59,103 --> 00:06:02,481
-in modern times to lose all its glaciers.
+00:05:53,923 --> 00:05:57,286
+hundred seventy billion tons of ice a year in
 
 103
-00:06:03,031 --> 00:06:08,505
-In Antarctica, scientists are closely watching Thwaites Glacier, nicknamed
+00:05:57,286 --> 00:05:58,407
+recent decades.
 
 104
-00:06:08,505 --> 00:06:12,425
-the Doomsday Glacier. It's about the size of Florida,
+00:05:58,957 --> 00:06:03,280
+Sea levels have already risen more than twenty centimeters
 
 105
-00:06:12,425 --> 00:06:15,162
-and on its own it holds enough ice to
+00:06:03,280 --> 00:06:06,782
+since 1900, and the rate is speeding up. Today,
 
 106
-00:06:15,162 --> 00:06:18,861
-raise sea levels by around sixty-five centimeters.
+00:06:06,782 --> 00:06:10,733
+the ocean rises by about four millimeters every year.
 
 107
-00:06:19,411 --> 00:06:23,839
-The UN's climate scientists project that by 2100, seas
+00:06:11,283 --> 00:06:16,022
+Mountain glaciers are shrinking fastest of all. In Mexico,
 
 108
-00:06:23,839 --> 00:06:28,268
-could rise by roughly thirty centimeters to around one
+00:06:16,022 --> 00:06:20,761
+glaciers on Iztaccíhuatl have almost vanished, and in 2024
 
 109
-00:06:28,268 --> 00:06:32,697
-meter, depending largely on how much greenhouse gas we
+00:06:20,761 --> 00:06:25,746
+scientists said Venezuela had become the first Andean country
 
 110
-00:06:32,697 --> 00:06:33,107
-emit.
+00:06:25,746 --> 00:06:29,096
+in modern times to lose all its glaciers.
 
 111
-00:06:33,657 --> 00:06:37,360
-Even one meter would matter. Hundreds of millions of
+00:06:29,646 --> 00:06:35,112
+In Antarctica, scientists are closely watching Thwaites Glacier, nicknamed
 
 112
-00:06:37,360 --> 00:06:40,850
-people live in low coastal areas, and higher seas
+00:06:35,112 --> 00:06:39,027
+the Doomsday Glacier. It's about the size of Florida,
 
 113
-00:06:40,850 --> 00:06:42,915
-make storm floods much worse.
+00:06:39,027 --> 00:06:41,761
+and on its own it holds enough ice to
 
 114
-00:06:43,465 --> 00:06:47,520
-People are adapting. The Netherlands, with about a quarter
+00:06:41,761 --> 00:06:45,454
+raise sea levels by around sixty-five centimeters.
 
 115
-00:06:47,520 --> 00:06:50,876
-of its land below sea level, has defended itself
+00:06:46,004 --> 00:06:50,433
+The UN's climate scientists project that by 2100, seas
 
 116
-00:06:50,876 --> 00:06:54,930
-with dikes and storm barriers for centuries. Venice raised
+00:06:50,433 --> 00:06:54,861
+could rise by roughly thirty centimeters to around one
 
 117
-00:06:54,930 --> 00:06:58,356
-its MOSE flood gates. And Indonesia is building a
+00:06:54,861 --> 00:06:59,290
+meter, depending largely on how much greenhouse gas we
 
 118
-00:06:58,356 --> 00:07:01,641
-new capital, partly because Jakarta is sinking.
+00:06:59,290 --> 00:06:59,700
+emit.
 
 119
-00:07:02,191 --> 00:07:04,955
-So, what if all the ice on Earth melted?
+00:07:00,250 --> 00:07:03,953
+Even one meter would matter. Hundreds of millions of
 
 120
-00:07:04,955 --> 00:07:08,686
-The map would change completely, and the world's great
+00:07:03,953 --> 00:07:07,443
+people live in low coastal areas, and higher seas
 
 121
-00:07:08,686 --> 00:07:12,002
-coastal cities would be lost. It won't happen in
+00:07:07,443 --> 00:07:09,509
+make storm floods much worse.
 
 122
-00:07:12,002 --> 00:07:14,835
-our lifetime. But how much ice we keep is
+00:07:10,059 --> 00:07:14,118
+People are adapting. The Netherlands, with about a quarter
 
 123
-00:07:14,835 --> 00:07:17,253
-something our choices still affect.
+00:07:14,118 --> 00:07:17,478
+of its land below sea level, has defended itself
 
 124
-00:07:17,803 --> 00:07:21,771
-Last question. Which extreme place should we explore next?
+00:07:17,478 --> 00:07:21,537
+with dikes and storm barriers for centuries. Venice raised
 
 125
-00:07:21,771 --> 00:07:23,413
-Tell me in the comments.
+00:07:21,537 --> 00:07:24,966
+its MOSE flood gates. And Indonesia is building a
 
 126
-00:07:23,963 --> 00:07:27,673
-Thanks for watching Earth Decoded. If you enjoyed this,
+00:07:24,966 --> 00:07:28,256
+new capital, partly because Jakarta is sinking.
 
 127
-00:07:27,673 --> 00:07:30,775
-like the video, subscribe, and share it with a
+00:07:28,806 --> 00:07:31,570
+So, what if all the ice on Earth melted?
 
 128
-00:07:30,775 --> 00:07:33,540
-friend who lives by the beach. See you in
+00:07:31,570 --> 00:07:35,300
+The map would change completely, and the world's great
 
 129
-00:07:33,540 --> 00:07:34,417
+00:07:35,300 --> 00:07:38,617
+coastal cities would be lost. It won't happen in
+
+130
+00:07:38,617 --> 00:07:41,449
+our lifetime. But how much ice we keep is
+
+131
+00:07:41,449 --> 00:07:43,867
+something our choices still affect.
+
+132
+00:07:44,417 --> 00:07:48,295
+Last question. Which extreme place should we explore next?
+
+133
+00:07:48,295 --> 00:07:49,900
+Tell me in the comments.
+
+134
+00:07:50,450 --> 00:07:54,182
+Thanks for watching Earth Decoded. If you enjoyed this,
+
+135
+00:07:54,182 --> 00:07:57,303
+like the video, subscribe, and share it with a
+
+136
+00:07:57,303 --> 00:08:00,085
+friend who lives by the beach. See you in
+
+137
+00:08:00,085 --> 00:08:00,967
 the next one.
 

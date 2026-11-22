@@ -1,49 +1,51 @@
-[0;93m2026-11-22 10:21:53.271131371 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-22 15:44:19.988389189 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: What If All the Ice on Earth Melted?
-  audio 457.0s (7.62 min)
+  audio 483.5s (8.06 min)
   WIKI File:Thwaites Glacier.jpg (Public domain)
-  segment 1/34 [title] 23.2s
+  segment 1/36 [title] 23.0s
   WIKI File:Greenland ice sheet USGS.jpg (Public domain)
-  segment 2/34 [image] 13.4s
-  segment 3/34 [card] 11.1s
-  segment 4/34 [card] 11.6s
-  segment 5/34 [card] 17.5s
-  segment 6/34 [card] 12.4s
-  segment 7/34 [card] 10.7s
-  segment 8/34 [card] 14.4s
-  segment 9/34 [question] 7.4s
-  segment 10/34 [map] 14.1s
-  segment 11/34 [card] 11.1s
-  segment 12/34 [map] 17.9s
-  segment 13/34 [map] 14.7s
-  segment 14/34 [map] 9.2s
-  segment 15/34 [map] 12.5s
-  segment 16/34 [map] 15.4s
+  segment 2/36 [image] 13.1s
+  segment 3/36 [card] 11.0s
+  segment 4/36 [card] 11.6s
+  segment 5/36 [card] 17.7s
+  segment 6/36 [card] 12.4s
+  segment 7/36 [card] 10.7s
+  segment 8/36 [card] 17.1s
+  segment 9/36 [card] 9.5s
+  segment 10/36 [card] 14.3s
+  segment 11/36 [question] 7.5s
+  segment 12/36 [map] 14.3s
+  segment 13/36 [card] 11.0s
+  segment 14/36 [map] 18.0s
+  segment 15/36 [map] 14.6s
+  segment 16/36 [map] 9.3s
+  segment 17/36 [map] 12.5s
+  segment 18/36 [map] 15.3s
   WIKI File:South Tarawa from the air.jpg (CC BY 3.0)
-  segment 17/34 [image] 15.1s
-  segment 18/34 [question] 4.0s
-  segment 19/34 [card] 12.3s
-  segment 20/34 [card] 13.9s
-  segment 21/34 [card] 14.5s
-  segment 22/34 [card] 15.4s
-  segment 23/34 [card] 13.0s
-  segment 24/34 [card] 14.3s
+  segment 19/36 [image] 15.1s
+  segment 20/36 [question] 4.0s
+  segment 21/36 [card] 12.3s
+  segment 22/36 [card] 14.1s
+  segment 23/36 [card] 14.6s
+  segment 24/36 [card] 15.4s
+  segment 25/36 [card] 13.0s
+  segment 26/36 [card] 14.4s
   WIKI File:Jakobshavn Glacier, Greenland ESA504873.jpg (Attribution)
-  segment 25/34 [image] 12.9s
-  segment 26/34 [card] 12.5s
-  segment 27/34 [card] 18.5s
+  segment 27/36 [image] 13.0s
+  segment 28/36 [card] 12.3s
+  segment 29/36 [card] 18.4s
   WIKI File:Thwaites Glacier.jpg (Public domain)
-  segment 28/34 [image] 16.4s
-  segment 29/34 [card] 14.2s
+  segment 30/36 [image] 16.4s
+  segment 31/36 [card] 14.2s
   WIKI File:Miami Beach massive garage flooding 2.jpg (CC0)
-  segment 30/34 [image] 9.8s
+  segment 32/36 [image] 9.8s
   WIKI File:Wave run-up on a Dutch dike with Haringman blocks.jpg (CC BY 3.0 nl)
-  segment 31/34 [image] 18.7s
+  segment 33/36 [image] 18.7s
   WIKI File:Greenland ice sheet USGS.jpg (Public domain)
-  segment 32/34 [image] 15.6s
-  segment 33/34 [question] 6.2s
+  segment 34/36 [image] 15.6s
+  segment 35/36 [question] 6.0s
   WIKI File:Thwaites Glacier ESA24672294.jpeg (Attribution)
-  segment 34/34 [end] 13.0s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/what-if-all-ice-melted.mp4 (31.5 MB, 7.62 min)
+  segment 36/36 [end] 13.1s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/what-if-all-ice-melted.mp4 (33.0 MB, 8.06 min)
   WIKI File:Thwaites Glacier.jpg (Public domain)
 thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-what-if-all-ice-melted.jpg
