@@ -1,0 +1,19 @@
+[0;93m2026-11-22 08:36:32.222740239 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 28: The Dingo Fence
+  audio 107.1s
+  segment 1/11 [title] 5.0s
+  segment 2/11 [map] 9.4s
+  segment 3/11 [card] 9.6s
+  - skip File:Dingo_(Canis_lupus_dingo)_Kakadu_2.jpg: license 'CC BY-SA 4.0'
+  NASA 'dingo' -> PIA17983: Viewing Dingo Gap
+  segment 4/11 [image] 14.1s
+  WIKI File:Outback Trip - The Dog Fence (4156906735).jpg (CC BY 2.0)
+  segment 5/11 [image] 12.1s
+  segment 6/11 [card] 12.1s
+  segment 7/11 [card] 10.3s
+  segment 8/11 [card] 7.3s
+  segment 9/11 [card] 11.5s
+  segment 10/11 [card] 7.8s
+  NASA 'Australia outback' -> PIA12240: Massive Dust Storm over Australia
+  segment 11/11 [end] 7.8s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s028.mp4 (15.9 MB)

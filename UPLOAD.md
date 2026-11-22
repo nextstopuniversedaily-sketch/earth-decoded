@@ -1034,7 +1034,33 @@ La Carretera Panamericana va de Alaska al extremo de Sudamérica, excepto por un
 ## 32. Sun Dec 20, 12:00 PM · Short
 **Australia Built a 5,600 km Fence… for Dogs 🇦🇺🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s028.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s028.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s028.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s028.es.srt)
+
+**Title** (copy):
+```text
+Australia Built a 5,600 km Fence… for Dogs 🇦🇺🤯 #shorts
+```
+**Description** (copy):
+```text
+Australia's Dingo Fence stretches about 5,600 km across the outback, one of the longest structures ever built. It was made to keep wild dogs away from sheep, and it changed the land itself.
+#Australia #DingoFence #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+dingo fence, australia, longest fence, dingo, outback, australia facts, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Australia construyó una cerca de 5,600 km… para perros 🇦🇺🤯 #shorts
+```
+```text
+La Cerca de los Dingos de Australia mide unos 5,600 km a través del desierto, una de las estructuras más largas jamás construidas. Se hizo para alejar a los perros salvajes de las ovejas, y cambió la tierra misma.
+#Australia #shorts
+```
+</details>
 
 ## 33. Mon Dec 21, 12:00 PM · Short
 **Russia and the USA Are Only 4 km Apart 🇺🇸🇷🇺🤯 #shorts**
