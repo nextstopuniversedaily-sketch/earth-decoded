@@ -1312,7 +1312,44 @@ _Still rendering — check back in a few minutes._
 ## 41. Sat Jan 16, 11:00 AM · Long video
 **Why You'd Never Survive Mount Everest's Death Zone**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-everest-death-zone.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-everest-death-zone.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-everest-death-zone.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-everest-death-zone.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Mount Everest's Death Zone
+```
+**Description** (copy):
+```text
+Above 8,000 meters on Mount Everest lies the death zone, where there's so little oxygen that the human body slowly starts to shut down. Here's what happens to you up there, why climbers die, and how anyone makes it to the top.
+
+Sources: Nepal Ministry of Tourism, National Geographic, Himalayan Database.
+#Everest #DeathZone #Mountains #EarthDecoded
+
+Chapters:
+0:00 The top of the world
+1:21 The first climbers
+2:13 The climb
+3:31 The death zone
+5:25 How anyone survives
+6:19 Traffic jams at 8,800 m
+7:35 Could you survive?
+```
+**Tags** (copy):
+```text
+mount everest, death zone, why you'd never survive, everest climb, altitude sickness, sherpa, himalayas, everest documentary, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías en la zona de la muerte del Everest
+```
+```text
+Por encima de los 8,000 metros en el Everest está la zona de la muerte, donde hay tan poco oxígeno que el cuerpo empieza a apagarse poco a poco. Esto es lo que te pasa allá arriba, por qué mueren los escaladores y cómo alguien llega a la cima.
+#Everest #ZonaDeLaMuerte
+```
+</details>
 
 ## 42. Sat Jan 23, 11:00 AM · Long video
 **Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)**

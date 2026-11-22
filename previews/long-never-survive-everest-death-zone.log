@@ -1,0 +1,55 @@
+[0;93m2026-11-22 09:28:57.743456101 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive Everest's Death Zone
+  audio 496.5s (8.28 min)
+  WIKI File:Everest, Himalayas.jpg (CC BY 4.0)
+  segment 1/38 [title] 24.5s
+  segment 2/38 [map] 10.5s
+  segment 3/38 [card] 14.2s
+  WIKI File:Mount Everest, Nepal, Himalayas.jpg (CC BY 4.0)
+  segment 4/38 [image] 8.6s
+  WIKI File:Everest and Himalayas from ISS.jpg (Public domain)
+  segment 5/38 [image] 12.8s
+  segment 6/38 [card] 11.1s
+  segment 7/38 [card] 13.0s
+  segment 8/38 [card] 19.9s
+  segment 9/38 [card] 13.4s
+  segment 10/38 [question] 5.4s
+  WIKI File:Everest Base camp in Nepal, photographed on November 29, 2023.jpg (CC0)
+  segment 11/38 [image] 12.3s
+  segment 12/38 [card] 13.0s
+  WIKI File:Nepal - Sagamartha Trek - 186 - Khumbu Icefall (plus climbers) (497684556).jpg (CC BY 2.0)
+  segment 13/38 [image] 14.3s
+  segment 14/38 [card] 13.4s
+  segment 15/38 [card] 11.1s
+  WIKI File:Lhotse, 8,516 m (27,940 ft), Lhotse's Western Face.jpg (CC0)
+  segment 16/38 [image] 13.4s
+  segment 17/38 [card] 14.7s
+  segment 18/38 [card] 13.3s
+  segment 19/38 [card] 9.0s
+  segment 20/38 [card] 14.1s
+  WIKI File:Himalayas Mt. Everest (63452584) (2).jpg (CC BY 2.0)
+  segment 21/38 [image] 9.3s
+  segment 22/38 [card] 17.4s
+  segment 23/38 [card] 13.6s
+  segment 24/38 [card] 16.4s
+  segment 25/38 [question] 7.0s
+  WIKI File:Everest Summit.jpg (CC0)
+  segment 26/38 [image] 12.4s
+  segment 27/38 [card] 13.9s
+  segment 28/38 [card] 19.7s
+  segment 29/38 [card] 8.1s
+  segment 30/38 [card] 17.6s
+  segment 31/38 [card] 16.8s
+  segment 32/38 [card] 15.5s
+  WIKI File:Everest-eastface-lhotse-makalu-chomolonzo.jpg (Public domain)
+  segment 33/38 [image] 12.1s
+  segment 34/38 [card] 13.7s
+  WIKI File:Mount Everest, Himalayas.jpg (CC BY 4.0)
+  segment 35/38 [image] 14.9s
+  segment 36/38 [card] 6.1s
+  segment 37/38 [question] 6.2s
+  WIKI File:Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg (CC BY 4.0)
+  segment 38/38 [end] 13.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/long/never-survive-everest-death-zone.mp4 (41.7 MB, 8.28 min)
+  WIKI File:Everest, Himalayas.jpg (CC BY 4.0)
+thumbnail -> /home/runner/work/earth-decoded/earth-decoded/previews/thumb-never-survive-everest-death-zone.jpg
