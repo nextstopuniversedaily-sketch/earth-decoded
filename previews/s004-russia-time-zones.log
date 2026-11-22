@@ -1,0 +1,29 @@
+[0;93m2026-11-22 03:05:09.601049185 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 4: Russia
+  audio 139.8s
+  segment 1/13 [title] 3.7s
+  segment 2/13 [map] 10.2s
+  segment 3/13 [card] 10.4s
+  - skip File:Location_Kamchatka_Peninsula.PNG: looks like a chart/blank
+  - skip File:Tolbachik volcano 1975 cone pano Kamchatka on 2015-07-28.png: license 'CC BY-SA 4.0'
+  - skip File:Three Volcanoes-ElizovskyDistrict-Russia.jpg: license 'CC BY-SA 4.0'
+  - skip File:Volcanoes of Kamchatka-113308.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Tazieffite - Mutnovsky volcano, Kamchatka, Russia (Color SEM).jpg: license 'CC BY-SA 4.0'
+  WIKI File:Kamchatka Volcanoes of Kamchatka (23350946304).jpg (CC BY 2.0)
+  segment 4/13 [image] 6.8s
+  segment 5/13 [map] 11.4s
+  - skip File:VL_85-022_container_train.jpg: license 'CC BY-SA 3.0'
+  WIKI File:The Russian road to China (1910) (14572290017).jpg (No restrictions)
+  segment 6/13 [image] 12.6s
+  WIKI File:Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia.jpg (CC BY 4.0)
+  segment 7/13 [image] 9.8s
+  segment 8/13 [card] 11.7s
+  segment 9/13 [card] 12.9s
+  WIKI File:Moscow_Kremlin_(8281675670).jpg (CC BY 2.0)
+  segment 10/13 [image] 13.8s
+  segment 11/13 [map] 12.8s
+  WIKI File:BeringSt-close-VE.jpg (Public domain)
+  segment 12/13 [image] 18.2s
+  WIKI File:Baikal.A2001296.0420.250m-NASA.jpg (Public domain)
+  segment 13/13 [end] 5.5s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s004.mp4 (33.9 MB)
