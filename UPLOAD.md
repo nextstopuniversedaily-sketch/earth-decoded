@@ -1332,7 +1332,47 @@ _Still rendering — check back in a few minutes._
 ## 45. Sat Feb 13, 11:00 AM · Long video
 **Why You'd Never Survive Being Lost in the Amazon Rainforest**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-amazon-rainforest.mp4)
+- 🖼️ **Thumbnail:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/thumb-never-survive-amazon-rainforest.jpg) → in Studio: Details → Thumbnail → Upload file
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-amazon-rainforest.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-amazon-rainforest.es.srt)
+
+**Title** (copy):
+```text
+Why You'd Never Survive Being Lost in the Amazon Rainforest
+```
+**Description** (copy):
+```text
+The Amazon is the largest rainforest on Earth, home to around 390 billion trees and a tenth of all known species. Getting lost there is one of the hardest survival tests imaginable. Here's what you'd face, and the incredible true stories of people who made it out.
+
+Sources: WWF, National Geographic, Smithsonian, news reports.
+#Amazon #Rainforest #Survival #EarthDecoded
+
+Chapters:
+0:00 Lost in the green
+0:37 A world of trees
+1:50 Problem one: lost
+2:30 Problem two: the climate
+2:55 Problem three: water and food
+3:33 Problem four: the wildlife
+4:40 True survival stories
+6:09 The people of the forest
+6:45 A forest in danger
+7:07 Could you survive?
+```
+**Tags** (copy):
+```text
+amazon rainforest, why you'd never survive, lost in the jungle, jungle survival, juliane koepcke, colombia children amazon, bullet ant, rainforest documentary, geography documentary, earth decoded
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Por qué nunca sobrevivirías perdido en la selva del Amazonas
+```
+```text
+El Amazonas es la selva tropical más grande de la Tierra, con unos 390 mil millones de árboles y una décima parte de todas las especies conocidas. Perderse ahí es una de las pruebas de supervivencia más duras. Esto es lo que enfrentarías, y las increíbles historias reales de quienes lograron salir.
+#Amazonas #Selva
+```
+</details>
 
 ## 46. Sat Feb 20, 11:00 AM · Long video
 **Why You'd Never Survive Inside Chernobyl's Reactor 4**
