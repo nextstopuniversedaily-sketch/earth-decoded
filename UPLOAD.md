@@ -590,7 +590,33 @@ En el Canal de Panamá, un barco que va del Atlántico al Pacífico termina más
 ## 20. Thu Dec 10, 12:00 PM · Short
 **The Only 2 Countries That Are Trapped Twice 🇱🇮🇺🇿🤯 Doubly Landlocked #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s018.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s018.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s018.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s018.es.srt)
+
+**Title** (copy):
+```text
+The Only 2 Countries That Are Trapped Twice 🇱🇮🇺🇿🤯 Doubly Landlocked #shorts
+```
+**Description** (copy):
+```text
+Liechtenstein and Uzbekistan are the only two doubly landlocked countries in the world: to reach the ocean, you have to cross at least two borders. Here's what that means.
+#Liechtenstein #Uzbekistan #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+doubly landlocked countries, liechtenstein, uzbekistan, landlocked countries, aral sea, geography trivia, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+Los únicos 2 países atrapados dos veces 🇱🇮🇺🇿🤯 Doblemente sin mar #shorts
+```
+```text
+Liechtenstein y Uzbekistán son los únicos dos países doblemente sin litoral del mundo: para llegar al océano, debes cruzar al menos dos fronteras.
+#Geografia #shorts
+```
+</details>
 
 ## 21. Sat Dec 12, 11:00 AM · Long video
 **Why You'd Never Survive a Winter in Antarctica**
