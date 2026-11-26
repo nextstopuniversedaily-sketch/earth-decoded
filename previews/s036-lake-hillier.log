@@ -1,4 +1,4 @@
-[0;93m2026-11-26 22:30:47.228121840 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-26 22:46:18.494798293 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 36: Lake Hillier
   audio 58.7s
   - skip File:Lake_Hillier_2_Middle_Island_Recherche_Archipelago_NR_IV-2011.JPG: license 'CC BY-SA 4.0'
@@ -16,6 +16,7 @@
   - skip File:Salinas de Fuencaliente - La Palma 01.jpg: license 'CC BY-SA 3.0'
   - skip File:Salinas de Fuencaliente - La Palma 07.jpg: license 'CC BY-SA 3.0'
   - skip File:Salinas de Fuencaliente - La Palma 06.jpg: license 'CC BY-SA 3.0'
+  - skip File:Dunaliella bloom.jpg: license 'CC BY-SA 3.0'
   WIKI File:CSIRO ScienceImage 8438 Dunaliella ponds.jpg (CC BY 3.0)
   segment 4/9 [image] 12.8s
   segment 5/9 [card] 2.9s
@@ -25,7 +26,6 @@
   - skip File:Hutt Lagoon, Western Australia.jpg: license 'CC BY-SA 3.0'
   WIKI File:Hutt Lagoon, Australia (ASTER).jpg (Public domain)
   segment 8/9 [image] 6.2s
-  - skip File:Lake_Hillier_2_Middle_Island_Recherche_Archipelago_NR_IV-2011.JPG: license 'CC BY-SA 4.0'
-  NASA 'pink lake' -> PIA01810: Space Radar Image of North Ecuador
+  WIKI File:WA pink lake from helicopter.jpg (CC BY 4.0)
   segment 9/9 [end] 4.0s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s036.mp4 (10.1 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s036.mp4 (7.7 MB)
