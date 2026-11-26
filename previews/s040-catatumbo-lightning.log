@@ -1,39 +1,17 @@
-[0;93m2026-11-26 22:34:25.475114660 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-26 22:51:44.660379940 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 40: Catatumbo Lightning
   audio 61.0s
-  - skip File:Catatumbo_Lightning_(141677107).jpeg: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo.jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning (141677107).jpeg: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (24335489591).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (27335885792).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (26524724696).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning- Rayo del Catatumbo (28619470016).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning- Rayo del Catatumbo (28034999754).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning- Rayo del Catatumbo (28652143125).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning- Rayo del Catatumbo (28619409126).jpg: license 'CC BY-SA 2.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (25385580334).jpg: license 'CC BY-SA 2.0'
-  NASA 'lightning storm' -> PIA01636: Changing Lightning Storms on Jupiter
+  WIKI File:Lightning over south Lake Chelan (664bc3189da54f0cbf113b2b14e294c7).JPG (Public domain)
   segment 1/9 [title] 3.9s
   segment 2/9 [map] 5.5s
   segment 3/9 [card] 6.2s
   segment 4/9 [card] 4.7s
-  - skip File:Catatumbo_Lightning_(141677107).jpeg: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning (141677107).jpeg: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo.jpg: license 'CC BY-SA 2.0'
-  - skip File:Relampago del catatumbo observado desde bachaquero-1.jpg: license 'CC BY-SA 3.0'
-  - skip File:El Relampago Del Catatumbo Edo.Zulia,Venezuela.png: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (24335489591).jpg: license 'CC BY-SA 2.0'
-  - skip File:Relámpago del Catatumbo.jpg: license 'CC BY-SA 3.0'
-  - skip File:Relampago del catatumbo observado desde bachaquero-2.jpg: license 'CC BY-SA 3.0'
-  - skip File:Catatumbo Lightning - Rayo del Catatumbo (27335885792).jpg: license 'CC BY-SA 2.0'
-  - skip File:"RELAMPAGO DEL CATATUMBO OBSERVADO DESDE BACHAQUERO BLOQUE 06".JPG: license 'CC BY-SA 3.0'
-  - skip File:Relampago del catatumbo observado desde bachaquero-3.jpg: license 'CC BY-SA 3.0'
-  NASA 'lightning night' -> PIA12576: Lightning Flashing on Saturn
+  WIKI File:Sheet lightning over Lake Maggiore, Italy (35716160114).jpg (CC BY 2.0)
   segment 5/9 [image] 4.4s
   segment 6/9 [card] 12.0s
   segment 7/9 [card] 11.3s
   WIKI File:Satelites_image_of_Lake_Maracaibo.png (Public domain)
   segment 8/9 [image] 5.9s
-  NASA 'lightning storm' -> PIA01636: Changing Lightning Storms on Jupiter
+  WIKI File:Lightning striking the Eiffel Tower - NOAA.jpg (Public domain)
   segment 9/9 [end] 7.0s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s040.mp4 (8.1 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s040.mp4 (9.3 MB)
