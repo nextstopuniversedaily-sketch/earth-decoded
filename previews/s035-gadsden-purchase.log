@@ -1,4 +1,4 @@
-[0;93m2026-11-26 22:29:55.432202974 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-26 22:44:57.999874221 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 35: The Gadsden Purchase
   audio 64.1s
   segment 1/9 [title] 4.2s
@@ -11,6 +11,6 @@
   segment 6/9 [image] 8.0s
   segment 7/9 [card] 9.1s
   segment 8/9 [card] 6.4s
-  NASA 'Arizona desert' -> PIA03212: Barringer Meteor Crater, Arizona
+  WIKI File:Sonoran Desert National Monument (26095682523).jpg (Public domain)
   segment 9/9 [end] 4.3s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s035.mp4 (12.5 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s035.mp4 (13.0 MB)
