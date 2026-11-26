@@ -1450,7 +1450,33 @@ China abarca cinco zonas horarias geográficas, pero usa la hora de Pekín. En e
 ## 45. Fri Jan 1, 12:00 PM · Short
 **Why Does Lightning Strike This Lake Almost Every Night? 🇻🇪⚡🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s040.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s040.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s040.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s040.es.srt)
+
+**Title** (copy):
+```text
+Why Does Lightning Strike This Lake Almost Every Night? 🇻🇪⚡🤯 #shorts
+```
+**Description** (copy):
+```text
+Over Lake Maracaibo in Venezuela, the Catatumbo lightning flashes up to 160 nights a year and up to 280 times an hour. Guinness calls it the place with the most concentrated lightning on Earth.
+#Catatumbo #Lightning #Venezuela #LakeMaracaibo #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+catatumbo lightning, relampago del catatumbo, lake maracaibo, venezuela, lightning, extreme places, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué caen rayos en este lago casi todas las noches? 🇻🇪⚡🤯 #shorts
+```
+```text
+Sobre el lago de Maracaibo, en Venezuela, el relámpago del Catatumbo destella hasta 160 noches al año y hasta 280 veces por hora. Guinness lo llama el lugar con más concentración de rayos del mundo.
+#Catatumbo #Relámpagos #Venezuela #shorts
+```
+</details>
 
 ## 46. Sat Jan 2, 11:00 AM · Long video
 **Why You'd Never Survive the Danakil Depression (Hottest Place People Live)**
