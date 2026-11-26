@@ -1419,7 +1419,33 @@ Baarle-Hertog (Bélgica) está formado por 22 pedazos de Bélgica dentro de Paí
 ## 44. Thu Dec 31, 12:00 PM · Short
 **Why Does China Have Only ONE Time Zone? 🇨🇳🕐🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s039.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s039.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s039.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s039.es.srt)
+
+**Title** (copy):
+```text
+Why Does China Have Only ONE Time Zone? 🇨🇳🕐🤯 #shorts
+```
+**Description** (copy):
+```text
+China spans five geographical time zones but runs on Beijing time. In the far west, the winter sun rises after 10 a.m.
+#China #TimeZones #BeijingTime #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+china time zone, beijing time, one time zone, xinjiang, time zones, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué China tiene solo UNA zona horaria? 🇨🇳🕐🤯 #shorts
+```
+```text
+China abarca cinco zonas horarias geográficas, pero usa la hora de Pekín. En el extremo oeste, el sol de invierno sale después de las 10 de la mañana.
+#China #ZonasHorarias #Geografía #shorts
+```
+</details>
 
 ## 45. Fri Jan 1, 12:00 PM · Short
 **Why Does Lightning Strike This Lake Almost Every Night? 🇻🇪⚡🤯 #shorts**
