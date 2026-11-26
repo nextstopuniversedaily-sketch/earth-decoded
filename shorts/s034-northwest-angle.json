@@ -22,10 +22,10 @@
  "thumbnail": {
   "map": {
    "extent": [
-    -104,
-    -86,
-    43,
-    55
+    -114,
+    -76,
+    36,
+    56
    ],
    "highlight": [
     "United States of America"
@@ -34,18 +34,7 @@
     -95.15,
     49.35
    ],
-   "label": "Northwest Angle",
-   "line": [
-    [
-     -104,
-     49.0
-    ],
-    [
-     -95.3,
-     49.0
-    ]
-   ],
-   "line_label": "49th parallel"
+   "label": "Northwest Angle"
   },
   "white": "ONLY REACHED",
   "accent": "THROUGH CANADA",
@@ -66,10 +55,10 @@
    "visual": {
     "type": "map",
     "extent": [
-     -104,
-     -86,
-     43,
-     55
+     -114,
+     -76,
+     36,
+     56
     ],
     "highlight": [
      "United States of America"
@@ -78,18 +67,7 @@
      -95.15,
      49.35
     ],
-    "label": "Northwest Angle",
-    "line": [
-     [
-      -104,
-      49.0
-     ],
-     [
-      -95.3,
-      49.0
-     ]
-    ],
-    "line_label": "49th parallel"
+    "label": "Northwest Angle"
    },
    "headline": "THE NORTHWEST ANGLE"
   },
