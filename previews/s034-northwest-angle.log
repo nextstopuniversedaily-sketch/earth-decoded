@@ -1,0 +1,20 @@
+[0;93m2026-11-26 22:28:49.313118399 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 34: The Northwest Angle
+  audio 72.7s
+  segment 1/9 [title] 5.3s
+  segment 2/9 [map] 10.8s
+  segment 3/9 [card] 3.5s
+  WIKI File:Mitchell_Map-06full2.jpg (Public domain)
+  segment 4/9 [image] 11.4s
+  segment 5/9 [card] 13.9s
+  - skip File:Lake_of_the_Woods_by_Sentinel-2.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Lake of the Woods Entrance.JPG: license 'CC BY-SA 3.0'
+  - skip File:Lake of the Woods by Sentinel-2.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Lake of the Woods CHS-03.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Lake of the Woods 1990.jpg (Public domain)
+  segment 6/9 [image] 10.1s
+  segment 7/9 [card] 6.1s
+  segment 8/9 [card] 5.7s
+  NASA 'Lake of the Woods' -> iss007e12858: Earth observations taken by the Expedition Seven crew
+  segment 9/9 [end] 5.9s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s034.mp4 (26.8 MB)

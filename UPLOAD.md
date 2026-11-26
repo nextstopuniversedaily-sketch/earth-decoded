@@ -1261,7 +1261,68 @@ El Punto Nemo es el lugar del océano más alejado de cualquier tierra, a unos 2
 ```
 </details>
 
-## 39. Sat Jan 2, 11:00 AM · Long video
+## 39. Sat Dec 26, 12:00 PM · Short
+**Why Can You Only Drive to This Part of the US Through Canada? 🇺🇸🇨🇦🤯 #shorts**
+
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s034.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s034.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s034.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s034.es.srt)
+
+**Title** (copy):
+```text
+Why Can You Only Drive to This Part of the US Through Canada? 🇺🇸🇨🇦🤯 #shorts
+```
+**Description** (copy):
+```text
+Minnesota's Northwest Angle is the northernmost point of the lower 48 states, and you can only drive there through Canada. Blame a bad map from 1783.
+#NorthwestAngle #Minnesota #Canada #Borders #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+northwest angle, minnesota, lake of the woods, us canada border, strange borders, exclave, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué solo puedes llegar a esta parte de EE. UU. pasando por Canadá? 🇺🇸🇨🇦🤯 #shorts
+```
+```text
+El Northwest Angle de Minnesota es el punto más al norte de los 48 estados contiguos, y solo se llega en auto pasando por Canadá. La culpa es de un mapa equivocado de 1783.
+#NorthwestAngle #Minnesota #Canadá #Fronteras #shorts
+```
+</details>
+
+## 40. Sun Dec 27, 12:00 PM · Short
+**Why Did the US Buy This Piece of Mexico? 🇺🇸🇲🇽🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 41. Mon Dec 28, 12:00 PM · Short
+**Why Is This Lake in Australia Bright Pink? 🇦🇺💗🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 42. Tue Dec 29, 12:00 PM · Short
+**Why Does Alaska Have This Long Tail? 🇺🇸🇨🇦🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 43. Wed Dec 30, 12:00 PM · Short
+**Why Does This Town Have the World's Craziest Border? 🇧🇪🇳🇱🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 44. Thu Dec 31, 12:00 PM · Short
+**Why Does China Have Only ONE Time Zone? 🇨🇳🕐🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 45. Fri Jan 1, 12:00 PM · Short
+**Why Does Lightning Strike This Lake Almost Every Night? 🇻🇪⚡🤯 #shorts**
+
+_Still rendering — check back in a few minutes._
+
+## 46. Sat Jan 2, 11:00 AM · Long video
 **Why You'd Never Survive the Danakil Depression (Hottest Place People Live)**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-danakil.mp4)
@@ -1304,7 +1365,7 @@ La depresión de Danakil, en Etiopía, es uno de los lugares más extremos de la
 ```
 </details>
 
-## 40. Sat Jan 9, 11:00 AM · Long video
+## 47. Sat Jan 9, 11:00 AM · Long video
 **Why You'd Never Survive the Sahara Desert**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-sahara.mp4)
@@ -1348,7 +1409,7 @@ El Sahara es el desierto cálido más grande de la Tierra, del tamaño de Estado
 ```
 </details>
 
-## 41. Sat Jan 16, 11:00 AM · Long video
+## 48. Sat Jan 16, 11:00 AM · Long video
 **Why You'd Never Survive Mount Everest's Death Zone**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-everest-death-zone.mp4)
@@ -1390,7 +1451,7 @@ Por encima de los 8,000 metros en el Everest está la zona de la muerte, donde h
 ```
 </details>
 
-## 42. Sat Jan 23, 11:00 AM · Long video
+## 49. Sat Jan 23, 11:00 AM · Long video
 **Why You'd Never Survive Oymyakon, the Coldest Town on Earth (-67°C)**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-oymyakon.mp4)
@@ -1433,7 +1494,7 @@ En Oymyakón, Siberia, la temperatura en invierno baja seguido de -50°C y una v
 ```
 </details>
 
-## 43. Sat Jan 30, 11:00 AM · Long video
+## 50. Sat Jan 30, 11:00 AM · Long video
 **Why You'd Never Survive the Atacama, the Driest Desert on Earth**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-atacama.mp4)
@@ -1476,7 +1537,7 @@ El desierto de Atacama, en Chile, es el lugar no polar más seco de la Tierra. A
 ```
 </details>
 
-## 44. Sat Feb 6, 11:00 AM · Long video
+## 51. Sat Feb 6, 11:00 AM · Long video
 **Why You'd Never Survive Snake Island (Brazil's Forbidden Island)**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-snake-island.mp4)
@@ -1518,7 +1579,7 @@ Frente a la costa de São Paulo está la Ilha da Queimada Grande, conocida como 
 ```
 </details>
 
-## 45. Sat Feb 13, 11:00 AM · Long video
+## 52. Sat Feb 13, 11:00 AM · Long video
 **Why You'd Never Survive Being Lost in the Amazon Rainforest**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-amazon-rainforest.mp4)
@@ -1563,7 +1624,7 @@ El Amazonas es la selva tropical más grande de la Tierra, con unos 390 mil mill
 ```
 </details>
 
-## 46. Sat Feb 20, 11:00 AM · Long video
+## 53. Sat Feb 20, 11:00 AM · Long video
 **Why You'd Never Survive Inside Chernobyl's Reactor 4**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/never-survive-chernobyl.mp4)
@@ -1607,7 +1668,7 @@ El 26 de abril de 1986, el reactor 4 de la planta nuclear de Chernóbil explotó
 ```
 </details>
 
-## 47. Sat Feb 27, 11:00 AM · Long video
+## 54. Sat Feb 27, 11:00 AM · Long video
 **What If All the Ice on Earth Melted? (70 Meters of Sea Level Rise)**
 
 - ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/long/what-if-all-ice-melted.mp4)
