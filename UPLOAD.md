@@ -1357,7 +1357,33 @@ El lago Hillier, en la isla Middle, en Australia Occidental, es rosa chicle, jus
 ## 42. Tue Dec 29, 12:00 PM · Short
 **Why Does Alaska Have This Long Tail? 🇺🇸🇨🇦🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s037.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s037.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s037.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s037.es.srt)
+
+**Title** (copy):
+```text
+Why Does Alaska Have This Long Tail? 🇺🇸🇨🇦🤯 #shorts
+```
+**Description** (copy):
+```text
+The Alaska Panhandle blocks much of northern British Columbia and the Yukon from the Pacific. A Russian-British treaty from 1825, a gold rush and a 1903 tribunal explain why.
+#Alaska #Canada #Borders #KlondikeGoldRush #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+alaska panhandle, alaska boundary dispute, canada, juneau, klondike gold rush, skagway, history of borders, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué Alaska tiene esta larga cola? 🇺🇸🇨🇦🤯 #shorts
+```
+```text
+La franja de Alaska bloquea el acceso al Pacífico de gran parte del norte de Columbia Británica y del Yukón. Un tratado ruso-británico de 1825, una fiebre del oro y un tribunal de 1903 lo explican.
+#Alaska #Canadá #Fronteras #shorts
+```
+</details>
 
 ## 43. Wed Dec 30, 12:00 PM · Short
 **Why Does This Town Have the World's Craziest Border? 🇧🇪🇳🇱🤯 #shorts**

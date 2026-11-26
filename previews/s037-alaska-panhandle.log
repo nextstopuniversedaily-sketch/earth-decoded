@@ -1,0 +1,18 @@
+[0;93m2026-11-26 22:31:38.073009196 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 37: The Alaska Panhandle
+  audio 73.3s
+  segment 1/9 [title] 4.4s
+  segment 2/9 [map] 8.1s
+  segment 3/9 [card] 12.4s
+  segment 4/9 [card] 7.6s
+  - skip File:ChilkootPass_steps.jpg: looks like a chart/blank
+  - skip File:Chilkoot Pass - digging for bodies.jpg: looks like a chart/blank
+  WIKI File:Scales and summit of Chilkoot Pass, 1898 (MOHAI 7249).jpg (Public domain)
+  segment 5/9 [image] 10.7s
+  segment 6/9 [card] 5.1s
+  segment 7/9 [card] 10.8s
+  WIKI File:Skagway_aerial_view.jpg (CC BY 2.0)
+  segment 8/9 [image] 9.8s
+  ! no usable NASA image for 'Alaska fjord'
+  segment 9/9 [end] 4.3s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s037.mp4 (9.7 MB)
