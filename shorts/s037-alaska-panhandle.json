@@ -1,0 +1,154 @@
+{
+ "number": 37,
+ "publish": "2026-12-29 12:00",
+ "kicker": "BORDER FIGHT",
+ "title": "The Alaska Panhandle",
+ "subtitle": "Why does Alaska have a long tail?",
+ "yt_title": "Why Does Alaska Have This Long Tail? 🇺🇸🇨🇦🤯 #shorts",
+ "yt_title_es": "¿Por qué Alaska tiene esta larga cola? 🇺🇸🇨🇦🤯 #shorts",
+ "description": "The Alaska Panhandle blocks much of northern British Columbia and the Yukon from the Pacific. A Russian-British treaty from 1825, a gold rush and a 1903 tribunal explain why.\n#Alaska #Canada #Borders #KlondikeGoldRush #Geography #EarthDecoded #shorts",
+ "description_es": "La franja de Alaska bloquea el acceso al Pacífico de gran parte del norte de Columbia Británica y del Yukón. Un tratado ruso-británico de 1825, una fiebre del oro y un tribunal de 1903 lo explican.\n#Alaska #Canadá #Fronteras #shorts",
+ "tags": [
+  "alaska panhandle",
+  "alaska boundary dispute",
+  "canada",
+  "juneau",
+  "klondike gold rush",
+  "skagway",
+  "history of borders",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -143,
+    -126,
+    53,
+    61.5
+   ],
+   "highlight": [
+    "United States of America"
+   ],
+   "marker": [
+    -134.42,
+    58.3
+   ],
+   "label": "Juneau"
+  },
+  "white": "WHY ALASKA",
+  "accent": "HAS A TAIL",
+  "badge": "CANADA CUT OFF"
+ },
+ "segments": [
+  {
+   "text": "Why does Alaska have a long tail that cuts Canada off from the sea?",
+   "es": "¿Por qué Alaska tiene una larga cola que deja a Canadá sin salida al mar?",
+   "visual": {
+    "type": "title",
+    "query": "Alaska coast"
+   }
+  },
+  {
+   "text": "This is the Alaska Panhandle, a narrow strip of coast and islands. Alaska's capital, Juneau, is right here.",
+   "es": "Esta es la franja de Alaska, una angosta tira de costa e islas. La capital de Alaska, Juneau, está justo aquí.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -143,
+     -126,
+     53,
+     61.5
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -134.42,
+     58.3
+    ],
+    "label": "Juneau"
+   },
+   "headline": "THE PANHANDLE"
+  },
+  {
+   "text": "The line goes back to an 1825 treaty between Russia and Britain. It said the border would follow the mountains, but never more than ten marine leagues from the sea.",
+   "es": "La línea viene de un tratado de 1825 entre Rusia y Gran Bretaña. Decía que la frontera seguiría las montañas, pero nunca a más de diez leguas marinas del mar.",
+   "visual": {
+    "type": "card",
+    "big": "1825",
+    "label": "Russia and Britain draw a line",
+    "sub": "10 marine leagues, about 55 km, from the sea"
+   }
+  },
+  {
+   "text": "In 1867, the US bought Alaska from Russia, and inherited that vague line.",
+   "es": "En 1867, Estados Unidos le compró Alaska a Rusia, y heredó esa línea tan vaga.",
+   "visual": {
+    "type": "card",
+    "big": "1867",
+    "label": "the US buys Alaska",
+    "sub": "and inherits a vague border"
+   }
+  },
+  {
+   "text": "Then came the Klondike Gold Rush in the late eighteen-nineties. Tens of thousands of miners poured into Canada's Yukon through Alaskan ports like Skagway.",
+   "es": "Luego llegó la fiebre del oro del Klondike, a finales del siglo diecinueve. Decenas de miles de mineros entraron al Yukón de Canadá por puertos de Alaska como Skagway.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Klondike Gold Rush"
+    ],
+    "commons": [
+     "Chilkoot Pass 1898"
+    ],
+    "query": "Klondike gold rush"
+   },
+   "headline": "GOLD RUSH"
+  },
+  {
+   "text": "Canada wanted its own route to the ocean. The United States said no.",
+   "es": "Canadá quería su propia salida al océano. Estados Unidos dijo que no.",
+   "visual": {
+    "type": "card",
+    "big": "A PORT?",
+    "label": "Canada wanted one",
+    "sub": "the US said no"
+   }
+  },
+  {
+   "text": "In 1903, a tribunal of three Americans, two Canadians and one British judge decided. The British judge sided mostly with the US.",
+   "es": "En 1903 decidió un tribunal de tres estadounidenses, dos canadienses y un juez británico. El juez británico se puso casi siempre del lado de Estados Unidos.",
+   "visual": {
+    "type": "card",
+    "big": "1903",
+    "label": "the tribunal decides",
+    "sub": "the British judge sided with the US"
+   }
+  },
+  {
+   "text": "The Canadian judges refused to sign, and many Canadians were furious at Britain. That anger fueled a wave of Canadian nationalism.",
+   "es": "Los jueces canadienses se negaron a firmar, y muchos canadienses se enfurecieron con Gran Bretaña. Ese enojo impulsó una ola de nacionalismo canadiense.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Skagway, Alaska"
+    ],
+    "commons": [
+     "Skagway Alaska"
+    ],
+    "query": "Skagway"
+   },
+   "headline": "CANADA WAS FURIOUS"
+  },
+  {
+   "text": "Should Canada have gotten a port? Tell me in the comments.",
+   "es": "¿Canadá debió quedarse con un puerto? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "FAIR BORDER?",
+    "query": "Alaska fjord"
+   }
+  }
+ ]
+}

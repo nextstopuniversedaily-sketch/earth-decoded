@@ -1,0 +1,163 @@
+{
+ "number": 35,
+ "publish": "2026-12-27 12:00",
+ "kicker": "LAND DEAL",
+ "title": "The Gadsden Purchase",
+ "subtitle": "Why did the US buy this desert from Mexico?",
+ "yt_title": "Why Did the US Buy This Piece of Mexico? 🇺🇸🇲🇽🤯 #shorts",
+ "yt_title_es": "¿Por qué EE. UU. le compró este pedazo a México? 🇺🇸🇲🇽🤯 #shorts",
+ "description": "Southern Arizona and New Mexico, including Tucson, were once part of Mexico. In 1853-54 the US bought them for $10 million. The reason: a railroad.\n#GadsdenPurchase #Arizona #Mexico #Borders #History #EarthDecoded #shorts",
+ "description_es": "El sur de Arizona y Nuevo México, incluida Tucson, fueron parte de México. En 1853-54 EE. UU. los compró por 10 millones de dólares. La razón: un ferrocarril.\n#VentaDeLaMesilla #México #Arizona #Fronteras #shorts",
+ "tags": [
+  "gadsden purchase",
+  "venta de la mesilla",
+  "arizona",
+  "mexico us border",
+  "santa anna",
+  "tucson",
+  "history of borders",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -119,
+    -102,
+    28.5,
+    37
+   ],
+   "highlight": [
+    "United States of America"
+   ],
+   "highlight_box": [
+    -114.8,
+    -106.6,
+    31.3,
+    32.6
+   ],
+   "marker": [
+    -110.97,
+    32.22
+   ],
+   "label": "Tucson"
+  },
+  "white": "THE US BOUGHT",
+  "accent": "THIS PART",
+  "badge": "$10 MILLION"
+ },
+ "segments": [
+  {
+   "text": "Why did the United States buy this strip of desert from Mexico?",
+   "es": "¿Por qué Estados Unidos le compró esta franja de desierto a México?",
+   "visual": {
+    "type": "title",
+    "query": "Sonoran Desert"
+   }
+  },
+  {
+   "text": "This is the Gadsden Purchase: the southern part of Arizona and New Mexico, including the city of Tucson.",
+   "es": "Esta es la Venta de La Mesilla, o Gadsden Purchase: el sur de Arizona y Nuevo México, incluida la ciudad de Tucson.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -119,
+     -102,
+     28.5,
+     37
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "highlight_box": [
+     -114.8,
+     -106.6,
+     31.3,
+     32.6
+    ],
+    "marker": [
+     -110.97,
+     32.22
+    ],
+    "label": "Tucson"
+   },
+   "headline": "THE GADSDEN PURCHASE"
+  },
+  {
+   "text": "The deal was signed in December 1853, and the US paid Mexico ten million dollars.",
+   "es": "El acuerdo se firmó en diciembre de 1853, y Estados Unidos le pagó a México diez millones de dólares.",
+   "visual": {
+    "type": "card",
+    "big": "$10 MILLION",
+    "label": "paid to Mexico",
+    "sub": "signed in December 1853"
+   }
+  },
+  {
+   "text": "For about seventy-seven thousand square kilometers of land, almost the size of South Carolina.",
+   "es": "Por unos setenta y siete mil kilómetros cuadrados de tierra, casi el tamaño de Carolina del Sur.",
+   "visual": {
+    "type": "card",
+    "big": "77,000 KM²",
+    "label": "of desert",
+    "sub": "almost the size of South Carolina"
+   }
+  },
+  {
+   "text": "So why buy a desert? A railroad. The US wanted a southern route to California, and this flat land avoided the high mountains further north.",
+   "es": "¿Y por qué comprar un desierto? Por un ferrocarril. Estados Unidos quería una ruta al sur hacia California, y esta tierra plana evitaba las altas montañas del norte.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Sonoran Desert"
+    ],
+    "commons": [
+     "Saguaro Sonoran Desert"
+    ],
+    "query": "Sonoran desert"
+   },
+   "headline": "THE RAILROAD"
+  },
+  {
+   "text": "Mexico's president, Antonio López de Santa Anna, needed money after years of war, so he agreed to sell.",
+   "es": "El presidente de México, Antonio López de Santa Anna, necesitaba dinero después de años de guerra, así que aceptó vender.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Antonio López de Santa Anna"
+    ],
+    "query": "Mexico history"
+   },
+   "headline": "SANTA ANNA SELLS"
+  },
+  {
+   "text": "It was the last big piece of land added to the lower forty-eight states, and it drew most of today's border between Mexico and Arizona.",
+   "es": "Fue el último gran pedazo de tierra que se sumó a los cuarenta y ocho estados contiguos, y trazó casi toda la frontera actual entre México y Arizona.",
+   "visual": {
+    "type": "card",
+    "big": "THE LAST",
+    "label": "land added to the lower 48",
+    "sub": "it set today's border"
+   }
+  },
+  {
+   "text": "And the railroad? It finally crossed the region about twenty-five years later, in the eighteen-eighties.",
+   "es": "¿Y el ferrocarril? Por fin cruzó la región unos veinticinco años después, en la década de 1880.",
+   "visual": {
+    "type": "card",
+    "big": "1880s",
+    "label": "the railroad arrives",
+    "sub": "decades after the deal"
+   }
+  },
+  {
+   "text": "Was it a fair deal for Mexico? Tell me in the comments.",
+   "es": "¿Fue un trato justo para México? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "FAIR DEAL?",
+    "query": "Arizona desert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "number": 34,
+ "publish": "2026-12-26 12:00",
+ "kicker": "STRANGE BORDER",
+ "title": "The Northwest Angle",
+ "subtitle": "The part of the US you reach through Canada",
+ "yt_title": "Why Can You Only Drive to This Part of the US Through Canada? 🇺🇸🇨🇦🤯 #shorts",
+ "yt_title_es": "¿Por qué solo puedes llegar a esta parte de EE. UU. pasando por Canadá? 🇺🇸🇨🇦🤯 #shorts",
+ "description": "Minnesota's Northwest Angle is the northernmost point of the lower 48 states, and you can only drive there through Canada. Blame a bad map from 1783.\n#NorthwestAngle #Minnesota #Canada #Borders #Geography #EarthDecoded #shorts",
+ "description_es": "El Northwest Angle de Minnesota es el punto más al norte de los 48 estados contiguos, y solo se llega en auto pasando por Canadá. La culpa es de un mapa equivocado de 1783.\n#NorthwestAngle #Minnesota #Canadá #Fronteras #shorts",
+ "tags": [
+  "northwest angle",
+  "minnesota",
+  "lake of the woods",
+  "us canada border",
+  "strange borders",
+  "exclave",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    -98,
+    -92,
+    47.3,
+    50.7
+   ],
+   "highlight": [
+    "United States of America"
+   ],
+   "marker": [
+    -95.15,
+    49.35
+   ],
+   "label": "Northwest Angle"
+  },
+  "white": "ONLY REACHED",
+  "accent": "THROUGH CANADA",
+  "badge": "149 AMERICANS"
+ },
+ "segments": [
+  {
+   "text": "Why is there a piece of the United States you can only drive to through Canada?",
+   "es": "¿Por qué hay un pedazo de Estados Unidos al que solo puedes llegar en auto pasando por Canadá?",
+   "visual": {
+    "type": "title",
+    "query": "Lake of the Woods"
+   }
+  },
+  {
+   "text": "This is the Northwest Angle, in Minnesota. It's the northernmost point of the lower forty-eight states, and Lake of the Woods cuts it off from the rest of the country.",
+   "es": "Este es el Northwest Angle, en Minnesota. Es el punto más al norte de los cuarenta y ocho estados contiguos, y el lago de los Bosques lo separa del resto del país.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -98,
+     -92,
+     47.3,
+     50.7
+    ],
+    "highlight": [
+     "United States of America"
+    ],
+    "marker": [
+     -95.15,
+     49.35
+    ],
+    "label": "Northwest Angle"
+   },
+   "headline": "THE NORTHWEST ANGLE"
+  },
+  {
+   "text": "Only about one hundred fifty people live here.",
+   "es": "Aquí viven solo unas ciento cincuenta personas.",
+   "visual": {
+    "type": "card",
+    "big": "149 PEOPLE",
+    "label": "live in Angle Township",
+    "sub": "2020 US Census"
+   }
+  },
+  {
+   "text": "It all goes back to 1783. The diplomats ending the American Revolution used the Mitchell Map, and it showed Lake of the Woods in the wrong shape.",
+   "es": "Todo viene de 1783. Los diplomáticos que terminaron la Revolución estadounidense usaron el mapa de Mitchell, que mostraba mal la forma del lago de los Bosques.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mitchell Map"
+    ],
+    "commons": [
+     "Mitchell map 1755"
+    ],
+    "query": "old map"
+   },
+   "headline": "A BAD MAP"
+  },
+  {
+   "text": "The treaty said the border would run through the lake to its northwesternmost point. Later, the line was drawn from that point straight south to the forty-ninth parallel, leaving this chunk on the American side.",
+   "es": "El tratado decía que la frontera cruzaría el lago hasta su punto más al noroeste. Después, la línea se trazó desde ahí directo al sur hasta el paralelo cuarenta y nueve, y este pedazo quedó del lado estadounidense.",
+   "visual": {
+    "type": "card",
+    "big": "1783",
+    "label": "a treaty with a bad map",
+    "sub": "the border met the lake in the wrong place"
+   }
+  },
+  {
+   "text": "To drive there, you leave Minnesota, cross into Manitoba, Canada, and then cross back into the US. That's about a hundred kilometers of road.",
+   "es": "Para llegar en auto, sales de Minnesota, entras a Manitoba, en Canadá, y luego vuelves a cruzar a Estados Unidos. Son unos cien kilómetros de carretera.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Lake of the Woods"
+    ],
+    "commons": [
+     "Lake of the Woods"
+    ],
+    "query": "Lake of the Woods"
+   },
+   "headline": "THROUGH CANADA"
+  },
+  {
+   "text": "There are no border guards. Visitors check in with customs using a video kiosk or a phone.",
+   "es": "No hay guardias fronterizos. Los visitantes se reportan con la aduana en un quiosco de video o por teléfono.",
+   "visual": {
+    "type": "card",
+    "big": "NO GUARDS",
+    "label": "check in by video kiosk",
+    "sub": "or by phone"
+   }
+  },
+  {
+   "text": "And in winter, an ice road across the frozen lake links it to the rest of Minnesota.",
+   "es": "Y en invierno, un camino de hielo sobre el lago congelado lo une con el resto de Minnesota.",
+   "visual": {
+    "type": "card",
+    "big": "ICE ROAD",
+    "label": "across the frozen lake",
+    "sub": "only in winter"
+   }
+  },
+  {
+   "text": "Would you live in a place you can only reach through another country? Tell me in the comments.",
+   "es": "¿Vivirías en un lugar al que solo se llega pasando por otro país? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "LIVE HERE?",
+    "query": "Lake of the Woods"
+   }
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "number": 39,
+ "publish": "2026-12-31 12:00",
+ "kicker": "ONE CLOCK",
+ "title": "China",
+ "subtitle": "Why does China have only one time zone?",
+ "yt_title": "Why Does China Have Only ONE Time Zone? 🇨🇳🕐🤯 #shorts",
+ "yt_title_es": "¿Por qué China tiene solo UNA zona horaria? 🇨🇳🕐🤯 #shorts",
+ "description": "China spans five geographical time zones but runs on Beijing time. In the far west, the winter sun rises after 10 a.m.\n#China #TimeZones #BeijingTime #Geography #EarthDecoded #shorts",
+ "description_es": "China abarca cinco zonas horarias geográficas, pero usa la hora de Pekín. En el extremo oeste, el sol de invierno sale después de las 10 de la mañana.\n#China #ZonasHorarias #Geografía #shorts",
+ "tags": [
+  "china time zone",
+  "beijing time",
+  "one time zone",
+  "xinjiang",
+  "time zones",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "map": {
+   "extent": [
+    70,
+    138,
+    15,
+    55
+   ],
+   "highlight": [
+    "China"
+   ],
+   "marker": [
+    116.4,
+    39.9
+   ],
+   "label": "Beijing"
+  },
+  "white": "ONE CLOCK",
+  "accent": "FOR ALL THIS?!",
+  "badge": "SUNRISE AT 10 AM"
+ },
+ "segments": [
+  {
+   "text": "Why does a country as wide as China use just one clock?",
+   "es": "¿Por qué un país tan ancho como China usa un solo reloj?",
+   "visual": {
+    "type": "title",
+    "query": "China"
+   }
+  },
+  {
+   "text": "China is roughly as wide as the continental United States. But the whole country, from the Pacific coast to the deserts of Central Asia, runs on Beijing time.",
+   "es": "China es casi tan ancha como Estados Unidos continental. Pero todo el país, desde la costa del Pacífico hasta los desiertos de Asia Central, se rige por la hora de Pekín.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     70,
+     138,
+     15,
+     55
+    ],
+    "highlight": [
+     "China"
+    ],
+    "marker": [
+     116.4,
+     39.9
+    ],
+    "label": "Beijing"
+   },
+   "headline": "ONE TIME ZONE"
+  },
+  {
+   "text": "Geographically, China spans five time zones. The lower forty-eight US states use four.",
+   "es": "Geográficamente, China abarca cinco zonas horarias. Los cuarenta y ocho estados contiguos de Estados Unidos usan cuatro.",
+   "visual": {
+    "type": "card",
+    "big": "5 → 1",
+    "label": "time zones",
+    "sub": "squeezed into Beijing time"
+   }
+  },
+  {
+   "text": "Around 1949, as the civil war ended, the new government put the country on a single time, as a symbol of unity.",
+   "es": "Hacia 1949, al terminar la guerra civil, el nuevo gobierno puso a todo el país en una sola hora, como símbolo de unidad.",
+   "visual": {
+    "type": "card",
+    "big": "1949",
+    "label": "one country, one clock",
+    "sub": "UTC plus 8"
+   }
+  },
+  {
+   "text": "So in the far west, in Xinjiang, the winter sun can rise after ten in the morning.",
+   "es": "Así que en el extremo oeste, en Xinjiang, el sol de invierno puede salir después de las diez de la mañana.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Kashgar"
+    ],
+    "commons": [
+     "Kashgar"
+    ],
+    "query": "Xinjiang"
+   },
+   "headline": "SUNRISE AT 10 AM"
+  },
+  {
+   "text": "And in summer, it doesn't set until after ten at night.",
+   "es": "Y en verano, no se pone hasta después de las diez de la noche.",
+   "visual": {
+    "type": "card",
+    "big": "10:26 PM",
+    "label": "summer sunset",
+    "sub": "in China's far west"
+   }
+  },
+  {
+   "text": "Many people there use an unofficial local time instead, two hours behind Beijing.",
+   "es": "Mucha gente ahí usa una hora local no oficial, dos horas detrás de Pekín.",
+   "visual": {
+    "type": "card",
+    "big": "UTC+6",
+    "label": "Xinjiang time",
+    "sub": "unofficial, but widely used"
+   }
+  },
+  {
+   "text": "Meanwhile, at China's eastern tip, near Russia, summer sunrise comes just after three in the morning, and in winter the sun sets before half past three in the afternoon.",
+   "es": "Mientras tanto, en el extremo este de China, cerca de Rusia, el sol de verano sale poco después de las tres de la mañana, y en invierno se pone antes de las tres y media de la tarde.",
+   "visual": {
+    "type": "card",
+    "big": "3:05 AM",
+    "label": "summer sunrise",
+    "sub": "at China's eastern tip"
+   }
+  },
+  {
+   "text": "Happy New Year's Eve! Would you want one time zone for your whole country? Tell me in the comments.",
+   "es": "¡Feliz fin de año! ¿Te gustaría una sola zona horaria para todo tu país? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "ONE CLOCK?",
+    "query": "fireworks"
+   }
+  }
+ ]
+}

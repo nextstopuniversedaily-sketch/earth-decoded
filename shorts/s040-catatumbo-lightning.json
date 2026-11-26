@@ -1,0 +1,148 @@
+{
+ "number": 40,
+ "publish": "2027-01-01 12:00",
+ "kicker": "EXTREME PLACES",
+ "title": "Catatumbo Lightning",
+ "subtitle": "The lake with lightning almost every night",
+ "yt_title": "Why Does Lightning Strike This Lake Almost Every Night? 🇻🇪⚡🤯 #shorts",
+ "yt_title_es": "¿Por qué caen rayos en este lago casi todas las noches? 🇻🇪⚡🤯 #shorts",
+ "description": "Over Lake Maracaibo in Venezuela, the Catatumbo lightning flashes up to 160 nights a year and up to 280 times an hour. Guinness calls it the place with the most concentrated lightning on Earth.\n#Catatumbo #Lightning #Venezuela #LakeMaracaibo #Geography #EarthDecoded #shorts",
+ "description_es": "Sobre el lago de Maracaibo, en Venezuela, el relámpago del Catatumbo destella hasta 160 noches al año y hasta 280 veces por hora. Guinness lo llama el lugar con más concentración de rayos del mundo.\n#Catatumbo #Relámpagos #Venezuela #shorts",
+ "tags": [
+  "catatumbo lightning",
+  "relampago del catatumbo",
+  "lake maracaibo",
+  "venezuela",
+  "lightning",
+  "extreme places",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Catatumbo lightning"
+  ],
+  "commons": [
+   "Catatumbo lightning"
+  ],
+  "query": "lightning storm",
+  "white": "LIGHTNING",
+  "accent": "EVERY NIGHT",
+  "badge": "280 STRIKES AN HOUR"
+ },
+ "segments": [
+  {
+   "text": "Why does lightning flash over this lake almost every night?",
+   "es": "¿Por qué hay relámpagos sobre este lago casi todas las noches?",
+   "visual": {
+    "type": "title",
+    "wiki": [
+     "Catatumbo lightning"
+    ],
+    "query": "lightning storm"
+   }
+  },
+  {
+   "text": "This is Lake Maracaibo, in Venezuela, where the Catatumbo River flows in.",
+   "es": "Este es el lago de Maracaibo, en Venezuela, donde desemboca el río Catatumbo.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     -76,
+     -65,
+     5.5,
+     14
+    ],
+    "highlight": [
+     "Venezuela"
+    ],
+    "marker": [
+     -71.6,
+     9.6
+    ],
+    "label": "Lake Maracaibo"
+   },
+   "headline": "LAKE MARACAIBO"
+  },
+  {
+   "text": "On up to one hundred sixty nights a year, storms light up the sky here, often for hours.",
+   "es": "Hasta ciento sesenta noches al año, las tormentas iluminan el cielo aquí, muchas veces durante horas.",
+   "visual": {
+    "type": "card",
+    "big": "160 NIGHTS",
+    "label": "a year",
+    "sub": "storms for hours at a time"
+   }
+  },
+  {
+   "text": "At its peak, lightning can flash up to two hundred eighty times an hour.",
+   "es": "En su punto máximo, los relámpagos pueden destellar hasta doscientas ochenta veces por hora.",
+   "visual": {
+    "type": "card",
+    "big": "280",
+    "label": "flashes an hour",
+    "sub": "at its peak"
+   }
+  },
+  {
+   "text": "Locals call it the Catatumbo lightning, the everlasting storm.",
+   "es": "La gente le llama el relámpago del Catatumbo, la tormenta eterna.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Catatumbo lightning"
+    ],
+    "commons": [
+     "Relámpago del Catatumbo"
+    ],
+    "query": "lightning night"
+   },
+   "headline": "THE EVERLASTING STORM"
+  },
+  {
+   "text": "Why here? Warm, humid air over the lake gets trapped by mountains on three sides. At night, cool winds from the mountains push that air up, building storm after storm.",
+   "es": "¿Por qué aquí? El aire cálido y húmedo sobre el lago queda atrapado por montañas en tres lados. De noche, los vientos frescos de las montañas empujan ese aire hacia arriba y forman tormenta tras tormenta.",
+   "visual": {
+    "type": "card",
+    "big": "MOUNTAINS",
+    "label": "trap warm, wet air",
+    "sub": "cool night winds build storms"
+   }
+  },
+  {
+   "text": "In 2014, Guinness World Records named it the place with the highest concentration of lightning: about two hundred fifty flashes per square kilometer every year.",
+   "es": "En 2014, Guinness World Records lo nombró el lugar con mayor concentración de rayos: unos doscientos cincuenta por kilómetro cuadrado cada año.",
+   "visual": {
+    "type": "card",
+    "big": "250",
+    "label": "flashes per km² a year",
+    "sub": "a Guinness world record"
+   }
+  },
+  {
+   "text": "Sailors once used the flashes to find their way, and called it the Lighthouse of Maracaibo.",
+   "es": "Los marineros usaban los destellos para orientarse, y lo llamaban el Faro de Maracaibo.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Lake Maracaibo"
+    ],
+    "commons": [
+     "Lago de Maracaibo"
+    ],
+    "query": "Lake Maracaibo"
+   },
+   "headline": "A NATURAL LIGHTHOUSE"
+  },
+  {
+   "text": "Happy New Year from Earth Decoded! Would you watch this storm in person? Tell me in the comments.",
+   "es": "¡Feliz Año Nuevo de parte de Earth Decoded! ¿Verías esta tormenta en persona? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "HAPPY 2027!",
+    "query": "lightning storm"
+   }
+  }
+ ]
+}

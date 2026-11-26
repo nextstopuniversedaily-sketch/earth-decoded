@@ -1,0 +1,151 @@
+{
+ "number": 36,
+ "publish": "2026-12-28 12:00",
+ "kicker": "WEIRD LAKES",
+ "title": "Lake Hillier",
+ "subtitle": "Why is this lake bright pink?",
+ "yt_title": "Why Is This Lake in Australia Bright Pink? 🇦🇺💗🤯 #shorts",
+ "yt_title_es": "¿Por qué este lago de Australia es rosa brillante? 🇦🇺💗🤯 #shorts",
+ "description": "Lake Hillier, on Middle Island in Western Australia, is bubblegum pink, right next to a deep blue ocean. The color is believed to come from a salt-loving alga.\n#LakeHillier #PinkLake #Australia #Geography #EarthDecoded #shorts",
+ "description_es": "El lago Hillier, en la isla Middle, en Australia Occidental, es rosa chicle, justo al lado de un océano azul. Se cree que el color viene de un alga que ama la sal.\n#LagoHillier #LagoRosa #Australia #shorts",
+ "tags": [
+  "lake hillier",
+  "pink lake",
+  "australia",
+  "western australia",
+  "dunaliella salina",
+  "weird lakes",
+  "geography facts",
+  "earth decoded",
+  "shorts"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Lake Hillier"
+  ],
+  "commons": [
+   "Lake Hillier"
+  ],
+  "query": "pink lake",
+  "white": "THIS LAKE",
+  "accent": "IS PINK?!",
+  "badge": "100% NATURAL"
+ },
+ "segments": [
+  {
+   "text": "Why is this lake in Australia as pink as bubblegum?",
+   "es": "¿Por qué este lago de Australia es tan rosa como un chicle?",
+   "visual": {
+    "type": "title",
+    "wiki": [
+     "Lake Hillier"
+    ],
+    "query": "pink lake"
+   }
+  },
+  {
+   "text": "This is Lake Hillier, on Middle Island, off the south coast of Western Australia.",
+   "es": "Este es el lago Hillier, en la isla Middle, frente a la costa sur de Australia Occidental.",
+   "visual": {
+    "type": "map",
+    "extent": [
+     108,
+     140,
+     -42,
+     -24
+    ],
+    "highlight": [
+     "Australia"
+    ],
+    "marker": [
+     123.2,
+     -34.1
+    ],
+    "label": "Lake Hillier"
+   },
+   "headline": "MIDDLE ISLAND"
+  },
+  {
+   "text": "It's only about six hundred meters long, and a thin strip of sand and forest separates it from the deep blue ocean.",
+   "es": "Mide solo unos seiscientos metros de largo, y una delgada franja de arena y bosque lo separa del océano azul profundo.",
+   "visual": {
+    "type": "card",
+    "big": "600 M",
+    "label": "long",
+    "sub": "pink lake, blue ocean"
+   }
+  },
+  {
+   "text": "The pink color is believed to come from a tiny alga called Dunaliella salina. It makes red pigments to survive in very salty water, and salt-loving bacteria add even more pink.",
+   "es": "Se cree que el color rosa viene de una pequeña alga llamada Dunaliella salina. Produce pigmentos rojos para sobrevivir en agua muy salada, y unas bacterias que aman la sal le dan aún más rosa.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Dunaliella salina"
+    ],
+    "commons": [
+     "Dunaliella salina"
+    ],
+    "query": "algae microscope"
+   },
+   "headline": "TINY ALGAE"
+  },
+  {
+   "text": "The lake is about as salty as the Dead Sea.",
+   "es": "El lago es casi tan salado como el mar Muerto.",
+   "visual": {
+    "type": "card",
+    "big": "SUPER SALTY",
+    "label": "like the Dead Sea",
+    "sub": "perfect for the pink algae"
+   }
+  },
+  {
+   "text": "The first written record of it came in 1802, from the British explorer Matthew Flinders.",
+   "es": "El primer registro escrito del lago es de 1802, del explorador británico Matthew Flinders.",
+   "visual": {
+    "type": "card",
+    "big": "1802",
+    "label": "first written record",
+    "sub": "by explorer Matthew Flinders"
+   }
+  },
+  {
+   "text": "And surprisingly, the water is safe to swim in. But the island is remote, so most people only ever see it from a plane.",
+   "es": "Y sorprendentemente, es seguro nadar en el agua. Pero la isla es remota, así que casi todos solo lo ven desde un avión.",
+   "visual": {
+    "type": "card",
+    "big": "SAFE TO SWIM",
+    "label": "but very hard to reach",
+    "sub": "most see it from the air"
+   }
+  },
+  {
+   "text": "It's not the only one. Australia has other pink lakes, like Hutt Lagoon on the west coast.",
+   "es": "No es el único. Australia tiene otros lagos rosas, como Hutt Lagoon en la costa oeste.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Hutt Lagoon"
+    ],
+    "commons": [
+     "Hutt Lagoon"
+    ],
+    "query": "pink lake"
+   },
+   "headline": "MORE PINK LAKES"
+  },
+  {
+   "text": "Would you swim in a pink lake? Tell me in the comments.",
+   "es": "¿Nadarías en un lago rosa? Dímelo en los comentarios.",
+   "visual": {
+    "type": "end",
+    "big": "WOULD YOU SWIM?",
+    "wiki": [
+     "Lake Hillier"
+    ],
+    "query": "pink lake"
+   }
+  }
+ ]
+}
