@@ -1,4 +1,4 @@
-[0;93m2026-11-26 22:28:49.313118399 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-26 22:43:12.874537926 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 34: The Northwest Angle
   audio 72.7s
   segment 1/9 [title] 5.3s
@@ -13,8 +13,9 @@
   - skip File:Lake of the Woods CHS-03.jpg: license 'CC BY-SA 4.0'
   WIKI File:Lake of the Woods 1990.jpg (Public domain)
   segment 6/9 [image] 10.1s
-  segment 7/9 [card] 6.1s
+  WIKI File:022 NW Angle reporting booth at Jims Corner.jpg (Public domain)
+  segment 7/9 [image] 6.1s
   segment 8/9 [card] 5.7s
-  NASA 'Lake of the Woods' -> iss007e12858: Earth observations taken by the Expedition Seven crew
+  WIKI File:Lake of the Woods Beach at Zippel Bay State Park, Minnesota (38845944862).jpg (CC BY 2.0)
   segment 9/9 [end] 5.9s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s034.mp4 (26.8 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s034.mp4 (29.7 MB)
