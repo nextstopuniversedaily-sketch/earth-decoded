@@ -1295,7 +1295,33 @@ El Northwest Angle de Minnesota es el punto más al norte de los 48 estados cont
 ## 40. Sun Dec 27, 12:00 PM · Short
 **Why Did the US Buy This Piece of Mexico? 🇺🇸🇲🇽🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s035.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s035.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s035.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s035.es.srt)
+
+**Title** (copy):
+```text
+Why Did the US Buy This Piece of Mexico? 🇺🇸🇲🇽🤯 #shorts
+```
+**Description** (copy):
+```text
+Southern Arizona and New Mexico, including Tucson, were once part of Mexico. In 1853-54 the US bought them for $10 million. The reason: a railroad.
+#GadsdenPurchase #Arizona #Mexico #Borders #History #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+gadsden purchase, venta de la mesilla, arizona, mexico us border, santa anna, tucson, history of borders, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué EE. UU. le compró este pedazo a México? 🇺🇸🇲🇽🤯 #shorts
+```
+```text
+El sur de Arizona y Nuevo México, incluida Tucson, fueron parte de México. En 1853-54 EE. UU. los compró por 10 millones de dólares. La razón: un ferrocarril.
+#VentaDeLaMesilla #México #Arizona #Fronteras #shorts
+```
+</details>
 
 ## 41. Mon Dec 28, 12:00 PM · Short
 **Why Is This Lake in Australia Bright Pink? 🇦🇺💗🤯 #shorts**
