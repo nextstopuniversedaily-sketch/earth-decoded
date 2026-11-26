@@ -141,7 +141,10 @@
    "visual": {
     "type": "end",
     "big": "ONE CLOCK?",
-    "query": "fireworks"
+    "commons": [
+     "Shanghai Lujiazui night skyline 2017"
+    ],
+    "query": "city night"
    }
   }
  ]

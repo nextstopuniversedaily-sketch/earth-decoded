@@ -138,6 +138,9 @@
    "visual": {
     "type": "end",
     "big": "WHICH COUNTRY?",
+    "commons": [
+     "Baarle-Hertog and Baarle-Nassau border"
+    ],
     "query": "Belgium village"
    }
   }

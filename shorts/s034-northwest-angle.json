@@ -22,10 +22,10 @@
  "thumbnail": {
   "map": {
    "extent": [
-    -98,
-    -92,
-    47.3,
-    50.7
+    -104,
+    -86,
+    43,
+    55
    ],
    "highlight": [
     "United States of America"
@@ -34,7 +34,18 @@
     -95.15,
     49.35
    ],
-   "label": "Northwest Angle"
+   "label": "Northwest Angle",
+   "line": [
+    [
+     -104,
+     49.0
+    ],
+    [
+     -95.3,
+     49.0
+    ]
+   ],
+   "line_label": "49th parallel"
   },
   "white": "ONLY REACHED",
   "accent": "THROUGH CANADA",
@@ -55,10 +66,10 @@
    "visual": {
     "type": "map",
     "extent": [
-     -98,
-     -92,
-     47.3,
-     50.7
+     -104,
+     -86,
+     43,
+     55
     ],
     "highlight": [
      "United States of America"
@@ -67,7 +78,18 @@
      -95.15,
      49.35
     ],
-    "label": "Northwest Angle"
+    "label": "Northwest Angle",
+    "line": [
+     [
+      -104,
+      49.0
+     ],
+     [
+      -95.3,
+      49.0
+     ]
+    ],
+    "line_label": "49th parallel"
    },
    "headline": "THE NORTHWEST ANGLE"
   },
@@ -125,11 +147,13 @@
    "text": "There are no border guards. Visitors check in with customs using a video kiosk or a phone.",
    "es": "No hay guardias fronterizos. Los visitantes se reportan con la aduana en un quiosco de video o por teléfono.",
    "visual": {
-    "type": "card",
-    "big": "NO GUARDS",
-    "label": "check in by video kiosk",
-    "sub": "or by phone"
-   }
+    "type": "image",
+    "commons": [
+     "NW Angle reporting booth at Jims Corner"
+    ],
+    "query": "border crossing"
+   },
+   "headline": "NO GUARDS"
   },
   {
    "text": "And in winter, an ice road across the frozen lake links it to the rest of Minnesota.",
@@ -147,7 +171,10 @@
    "visual": {
     "type": "end",
     "big": "LIVE HERE?",
-    "query": "Lake of the Woods"
+    "commons": [
+     "Lake of the Woods Beach at Zippel Bay State Park"
+    ],
+    "query": "Minnesota lake"
    }
   }
  ]

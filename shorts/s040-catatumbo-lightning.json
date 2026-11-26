@@ -20,16 +20,17 @@
   "shorts"
  ],
  "thumbnail": {
-  "wiki": [
-   "Catatumbo lightning"
-  ],
   "commons": [
-   "Catatumbo lightning"
+   "Lightning over south Lake Chelan"
   ],
   "query": "lightning storm",
   "white": "LIGHTNING",
   "accent": "EVERY NIGHT",
-  "badge": "280 STRIKES AN HOUR"
+  "badge": "280 FLASHES AN HOUR",
+  "files": [
+   "Lightning over south Lake Chelan (664bc3189da54f0cbf113b2b14e294c7).JPG",
+   "Lightning NOAA.jpg"
+  ]
  },
  "segments": [
   {
@@ -37,10 +38,10 @@
    "es": "¿Por qué hay relámpagos sobre este lago casi todas las noches?",
    "visual": {
     "type": "title",
-    "wiki": [
-     "Catatumbo lightning"
+    "commons": [
+     "Lightning over south Lake Chelan"
     ],
-    "query": "lightning storm"
+    "query": "lightning"
    }
   },
   {
@@ -90,13 +91,11 @@
    "es": "La gente le llama el relámpago del Catatumbo, la tormenta eterna.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Catatumbo lightning"
-    ],
     "commons": [
-     "Relámpago del Catatumbo"
+     "Sheet lightning over Lake Maggiore, Italy",
+     "Multiple cloud-to-cloud and cloud-to-ground lightning strokes - NOAA"
     ],
-    "query": "lightning night"
+    "query": "lightning"
    },
    "headline": "THE EVERLASTING STORM"
   },
@@ -141,7 +140,11 @@
    "visual": {
     "type": "end",
     "big": "HAPPY 2027!",
-    "query": "lightning storm"
+    "commons": [
+     "Lightning NOAA",
+     "Cloud-to-ground lightning stroke - NOAA"
+    ],
+    "query": "lightning"
    }
   }
  ]

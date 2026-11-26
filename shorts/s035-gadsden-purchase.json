@@ -156,6 +156,9 @@
    "visual": {
     "type": "end",
     "big": "FAIR DEAL?",
+    "commons": [
+     "Sonoran Desert National Monument (26095682523)"
+    ],
     "query": "Arizona desert"
    }
   }

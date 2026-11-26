@@ -147,6 +147,10 @@
    "visual": {
     "type": "end",
     "big": "FAIR BORDER?",
+    "commons": [
+     "Tracy-arm-363705",
+     "Mendenhall Glacier 2021-01-19"
+    ],
     "query": "Alaska fjord"
    }
   }
