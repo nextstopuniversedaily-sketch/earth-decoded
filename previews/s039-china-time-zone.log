@@ -1,4 +1,4 @@
-[0;93m2026-11-26 22:33:30.061505175 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-26 22:50:26.929545595 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Short 39: China
   audio 65.7s
   segment 1/9 [title] 4.1s
@@ -12,6 +12,7 @@
   segment 6/9 [card] 3.5s
   segment 7/9 [card] 5.9s
   segment 8/9 [card] 11.7s
-  NASA 'fireworks' -> PIA18532: Fireworks on Mercury!
+  - skip File:Pudong Shanghai November 2017 HDR panorama.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Shanghai Lujiazui night skyline 2017 - Flickr.jpg (CC0)
   segment 9/9 [end] 7.0s
-  -> /home/runner/work/earth-decoded/earth-decoded/videos/s039.mp4 (7.9 MB)
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s039.mp4 (10.2 MB)
