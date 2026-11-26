@@ -1326,7 +1326,33 @@ El sur de Arizona y Nuevo México, incluida Tucson, fueron parte de México. En 
 ## 41. Mon Dec 28, 12:00 PM · Short
 **Why Is This Lake in Australia Bright Pink? 🇦🇺💗🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s036.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s036.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s036.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s036.es.srt)
+
+**Title** (copy):
+```text
+Why Is This Lake in Australia Bright Pink? 🇦🇺💗🤯 #shorts
+```
+**Description** (copy):
+```text
+Lake Hillier, on Middle Island in Western Australia, is bubblegum pink, right next to a deep blue ocean. The color is believed to come from a salt-loving alga.
+#LakeHillier #PinkLake #Australia #Geography #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+lake hillier, pink lake, australia, western australia, dunaliella salina, weird lakes, geography facts, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué este lago de Australia es rosa brillante? 🇦🇺💗🤯 #shorts
+```
+```text
+El lago Hillier, en la isla Middle, en Australia Occidental, es rosa chicle, justo al lado de un océano azul. Se cree que el color viene de un alga que ama la sal.
+#LagoHillier #LagoRosa #Australia #shorts
+```
+</details>
 
 ## 42. Tue Dec 29, 12:00 PM · Short
 **Why Does Alaska Have This Long Tail? 🇺🇸🇨🇦🤯 #shorts**

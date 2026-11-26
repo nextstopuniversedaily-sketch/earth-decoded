@@ -1,0 +1,31 @@
+[0;93m2026-11-26 22:30:47.228121840 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Short 36: Lake Hillier
+  audio 58.7s
+  - skip File:Lake_Hillier_2_Middle_Island_Recherche_Archipelago_NR_IV-2011.JPG: license 'CC BY-SA 4.0'
+  - skip File:Lake Hillier 2 Middle Island Recherche Archipelago NR IV-2011.JPG: license 'CC BY-SA 4.0'
+  - skip File:LIQENI HILLIER - ROZE.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Lake Hillier Shoreline Pink Hue Salt Deposite.jpg (CC0)
+  segment 1/9 [title] 3.6s
+  segment 2/9 [map] 5.6s
+  segment 3/9 [card] 7.8s
+  - skip File:Microorganisms_from_the_hypersaline_Lake_Tyrrell.jpg: license 'CC BY-SA 4.0'
+  - skip File:Salinas de Fuencaliente - La Palma 03.jpg: license 'CC BY-SA 3.0'
+  - skip File:Dunaliella.jpg: looks like a chart/blank
+  - skip File:Microorganisms from the hypersaline Lake Tyrrell.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dunaliella salinas.jpg: license 'CC BY-SA 3.0'
+  - skip File:Salinas de Fuencaliente - La Palma 01.jpg: license 'CC BY-SA 3.0'
+  - skip File:Salinas de Fuencaliente - La Palma 07.jpg: license 'CC BY-SA 3.0'
+  - skip File:Salinas de Fuencaliente - La Palma 06.jpg: license 'CC BY-SA 3.0'
+  WIKI File:CSIRO ScienceImage 8438 Dunaliella ponds.jpg (CC BY 3.0)
+  segment 4/9 [image] 12.8s
+  segment 5/9 [card] 2.9s
+  segment 6/9 [card] 7.1s
+  segment 7/9 [card] 8.7s
+  - skip File:Hutt_Lagoon,_Western_Australia.jpg: license 'CC BY-SA 3.0'
+  - skip File:Hutt Lagoon, Western Australia.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Hutt Lagoon, Australia (ASTER).jpg (Public domain)
+  segment 8/9 [image] 6.2s
+  - skip File:Lake_Hillier_2_Middle_Island_Recherche_Archipelago_NR_IV-2011.JPG: license 'CC BY-SA 4.0'
+  NASA 'pink lake' -> PIA01810: Space Radar Image of North Ecuador
+  segment 9/9 [end] 4.0s
+  -> /home/runner/work/earth-decoded/earth-decoded/videos/s036.mp4 (10.1 MB)
