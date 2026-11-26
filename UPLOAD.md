@@ -1388,7 +1388,33 @@ La franja de Alaska bloquea el acceso al Pacífico de gran parte del norte de Co
 ## 43. Wed Dec 30, 12:00 PM · Short
 **Why Does This Town Have the World's Craziest Border? 🇧🇪🇳🇱🤯 #shorts**
 
-_Still rendering — check back in a few minutes._
+- ⬇️ **Video:** [download](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s038.mp4)
+- 🖼️ **Thumbnail:** already built into the first frame of the video — nothing to do. ([image](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/previews/sthumb-s038.jpg) if Studio offers "Upload thumbnail")
+- 💬 **Subtitles:** [English .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s038.en.srt) · [Spanish .srt](https://github.com/nextstopuniversedaily-sketch/earth-decoded/raw/main/videos/s038.es.srt)
+
+**Title** (copy):
+```text
+Why Does This Town Have the World's Craziest Border? 🇧🇪🇳🇱🤯 #shorts
+```
+**Description** (copy):
+```text
+Baarle-Hertog (Belgium) is made of 22 pieces of Belgium inside the Netherlands, with pieces of the Netherlands inside those. The border even runs through houses.
+#Baarle #Belgium #Netherlands #Enclaves #Borders #EarthDecoded #shorts
+```
+**Tags** (copy):
+```text
+baarle, baarle-hertog, baarle-nassau, enclaves, belgium, netherlands, strange borders, earth decoded, shorts
+```
+<details><summary>Spanish title & description (optional: Studio → Languages → Add translation)</summary>
+
+```text
+¿Por qué este pueblo tiene la frontera más loca del mundo? 🇧🇪🇳🇱🤯 #shorts
+```
+```text
+Baarle-Hertog (Bélgica) está formado por 22 pedazos de Bélgica dentro de Países Bajos, y dentro de ellos hay pedazos de Países Bajos. La frontera hasta cruza casas.
+#Baarle #Bélgica #PaísesBajos #Enclaves #shorts
+```
+</details>
 
 ## 44. Thu Dec 31, 12:00 PM · Short
 **Why Does China Have Only ONE Time Zone? 🇨🇳🕐🤯 #shorts**
